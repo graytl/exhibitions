@@ -1,3 +1,3 @@
 ##Metadata Standards
 
-* [VRA Core](http://vraweb.org/)
+* [VRA Core](http://www.loc.gov/standards/vracore/vra.xsd)
