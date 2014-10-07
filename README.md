@@ -12,5 +12,14 @@ Metadata for Heard Library Exhibitions
 * January 2015 
   * Biweekly Meetings Begin
   * Objects Selected
+* February 2015 
+  * All videos due to John Lynch
+  * Scans completed
+* March 2015 - All text completed
+* April 2015 - Layouts and backdrops finalized
+* May 2015 - Install Special Collections
+* June 2015 - Install
+* July 2015 - Install
+* August 2015 - Opening
 
 ![Rice Typewriter](http://exhibits.library.vanderbilt.edu/images/aside-freedomSports272x218.jpg)
