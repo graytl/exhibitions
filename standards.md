@@ -1,3 +1,3 @@
-==Metadata Standards
+##Metadata Standards
 
-* (VRA Core)[http://vraweb.org/]
+* [VRA Core](http://vraweb.org/)
