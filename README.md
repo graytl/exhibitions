@@ -11,15 +11,15 @@ Metadata for Heard Library Exhibitions
 * December 2014
 * January 2015 
   * Biweekly Meetings Begin
-  * Objects Selected
+  * Objects Selected for all but Visualizing Data (those due in May)
 * February 2015 
   * All videos due to John Lynch
   * Scans completed
 * March 2015 - All text completed
-* April 2015 - Layouts and backdrops finalized
-* May 2015 - Install Special Collections
-* June 2015 - Install
-* July 2015 - Install
-* August 2015 - Opening
+* April 2015 - Layouts and backdrops finalized - Install Special Collections --before graduation
+* May 2015--install cops & robbers copyright completed
+* June 2015 - Install photography
+* * July 2015 - Install dean's fellows projects
+* August 2015 - Opening -- website up
 
 ![Rice Typewriter](http://exhibits.library.vanderbilt.edu/images/aside-freedomSports272x218.jpg)
