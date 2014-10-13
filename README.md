@@ -7,7 +7,7 @@ Metadata for Heard Library Exhibitions
 
 * September 2014 - Topics Approved
 * October 2014 - Curatorial Assignments Finalized
-* November 2014 - Github Training
+* November 2014 - Training workshops
 * December 2014
 * January 2015 
   * Biweekly Meetings Begin
