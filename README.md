@@ -7,7 +7,7 @@ Metadata for Heard Library Exhibitions
 
 * September 2014 - Topics Approved
 * October 2014 - Curatorial Assignments Finalized
-* November 2014 - Training workshops
+* November 2014 - [Curator workshops](https://gist.github.com/sterkenburgsara/34343b70805f0e853db8)
 * December 2014
 * January 2015 
   * Biweekly Meetings Begin
