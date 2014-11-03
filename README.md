@@ -7,18 +7,18 @@ Metadata for Heard Library Exhibitions
 
 * September 2014 - Topics Approved
 * October 2014 - Curatorial Assignments Finalized
-* November 2014 
-  * November 11, 12, 13 [Curator workshops](https://gist.github.com/sterkenburgsara/34343b70805f0e853db8)
+* November 2014
+  * November 11, 12, 13 [Curator workshops](Workshops/curator-workshops.md)
   * Final text due for Vanderbilt Television News Archive update
 * December 2014
   * Vanderbilt Television News Archive update installed
-* January 2015 
+* January 2015
   * Biweekly Meetings Begin
   * Research in Special Collections Training
-* February 2015 
+* February 2015
   * Objects Selected for all but Visualizing Data (those due in May)
   * All videos due to John Lynch
-* March 2015 
+* March 2015
   * All text completed
   * Scans completed
 * April 2015 - Layouts and backdrops finalized - Install Special Collections --before graduation
