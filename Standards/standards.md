@@ -1,3 +1,5 @@
-##Metadata Standards
-* 2010 - 2012 | 
-* 2013 - present | [VRA Core](http://www.loc.gov/standards/vracore/vra.xsd)
+##Vanderbilt Exhibition Metadata Standards
+|Year|Standard|
+|-----:|:-----|
+|2010-12| 
+|2013-present|[VRA Core 4.0](http://www.loc.gov/standards/vracore/vra.xsd)|
