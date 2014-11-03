@@ -1,0 +1,42 @@
+# Workshops for Exhibition Curators
+
+* November 11-13, 2014
+
+The 2014-2015 exhibition season is upon us! As the selected curators for this season, you will be the stewards of your given topics: responsible for researching, selecting, describing, and designing your portion of the overall exhibition in the coming year. This three-day workshop series will aim to familiarize you with a few tools that will help us track and manage digital description. This will help to streamline our process and allow us to have a single, updated point of reference for all metadata edits and changes in the coming year. 
+
+These workshops will not presuppose any prior XML or markup knowledge.
+
+#Schedule:
+* Schedule is subject to change
+
+### Workshop I: Intro to Github
+* UPDATED TIME AND LOCATION:
+* ~~Peabody Library, Classroom 304 (Learning Commons)~~ Central Library, Classroom 418A
+* Tuesday, November 11 / with Ramona Romero
+* ~~10:00 am - 12:00 pm~~ 11:00 am - 1:00 pm
+  * Curators: sign-up with [Github](https://github.com/) & email username to Ramona prior to workshop
+
+### Workshop II: Writing and Editing XML
+* Central Library, Classroom 418A
+* Wednesday, November 12 / with Cliff Anderson
+  * 10:00 | What is XML?
+  * 10:15 | Using oXygen XML Editor
+  * 10:45 | DTDs, Schemas, etc.
+  * 11:15 | Break
+  * 11:25 | Standards & [VRA Core 4.0](http://www.loc.gov/standards/vracore/vra-strict.xsd)
+  * 11:45 | Encoding exercise 
+
+### Workshop III: VRA Core & Exhibition Requirements
+* Central Library, Classroom 418A
+* Thursday, November 13 / with Sara Sterkenburg
+  * 10:00 | Review yesterday's encoding exercise
+  * 10:15 | A deeper look at VRA Core 4.0
+    * Searching & using controlled vocabs
+    * Encoding Practice
+    * Homework
+  * 11:15 | Break
+  * 11:25 | A look at the Exhibitions repo on Github
+    * Review metadata requirements for exhibition
+  * 12:00 | Questions & Wrap-up
+  
+  
