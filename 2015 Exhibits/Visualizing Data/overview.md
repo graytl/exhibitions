@@ -1,5 +1,4 @@
 # Visualizing Data: From Maps to Apps
-* Location: Right side, main gallery
 
 #### Wish You Were Here: Enrico Caruso Postcard Project 
 
