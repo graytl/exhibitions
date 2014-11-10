@@ -10,10 +10,9 @@ These workshops will not presuppose any prior XML or markup knowledge.
 * Schedule is subject to change
 
 ### Workshop I: Intro to Github
-* UPDATED TIME AND LOCATION:
-* ~~Peabody Library, Classroom 304 (Learning Commons)~~ Central Library, Classroom 418A
+* Central Library, Classroom 418A
 * Tuesday, November 11 / with Ramona Romero
-* ~~10:00 am - 12:00 pm~~ 11:00 am - 1:00 pm
+* 11:00 am - 1:00 pm
   * Curators: sign-up with [Github](https://github.com/) & email username to Ramona prior to workshop
 
 ### Workshop II: Writing and Editing XML
