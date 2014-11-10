@@ -5,7 +5,7 @@ Metadata for Heard Library Exhibitions
 
 ###Schedule
 
-* September 2014 - Topics Approved and Assigned
+* September 2014 - Topics Assigned and Approved
 * October 2014 - Curatorial Assignments Finalized
 * November 2014
   * November 11, 12, 13 [Curator workshops](Workshops/curator-workshops.md)
