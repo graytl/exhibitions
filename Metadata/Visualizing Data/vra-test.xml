@@ -4,7 +4,7 @@
     <work id="w_1" source="Core 4 Sample Database (VCat)" refid="1">
         <agentSet>
             <display>unknown (French)</display>
-            <notes>This derives from the 17th century.</notes>
+            <notes>This derives from the 16th century.</notes>
             <agent>
                 <name vocab="ULAN" refid="500125274" type="personal">unknown</name>
                 <role>architect</role>
