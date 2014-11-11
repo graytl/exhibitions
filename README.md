@@ -10,7 +10,7 @@ Metadata for Heard Library Exhibitions
 * November 2014
   * November 11, 12, 13 [Curator workshops](Workshops/curator-workshops.md)
   * Final text due for Vanderbilt Television News Archive update
-* December 2014
+* December 31,2014
   * Vanderbilt Television News Archive update installed
 * January 2015
   * Biweekly Meetings Begin
