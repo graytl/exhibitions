@@ -20,10 +20,10 @@ These workshops will not presuppose any prior XML or markup knowledge.
 * Wednesday, November 12 / with Cliff Anderson
   * 10:00 | What is XML?
   * 10:15 | Using oXygen XML Editor
-  * 10:45 | DTDs, Schemas, etc.
+  * 10:45 | [DTDs, Schemas, etc.](https://github.com/HeardLibrary/exhibitions/blob/master/Workshops/xml%20exercises/README.md)
   * 11:15 | Break
-  * 11:25 | Standards & [VRA Core 4.0](http://www.loc.gov/standards/vracore/vra-strict.xsd)
-  * 11:45 | Encoding exercise 
+  * 11:25 | Encoding exercise
+  * 11:45 | Standards & [VRA Core 4.0](http://www.loc.gov/standards/vracore/vra-strict.xsd) & [sample object](http://core.vraweb.org/examples/images/Example_32.jpg) 
 
 ### Workshop III: VRA Core & Exhibition Requirements
 * Central Library, Classroom 418A
