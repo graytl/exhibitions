@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra-strict.xsd">
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.vraweb.org/vracore4.htm vra.xsd">
     <work id="w_33" source="Core 4 Sample Database (VCat)" refid="33">
         <agentSet>
             <display>D. Karaftakis (Greek (modern) musical instrument maker, active 20th century)</display>
