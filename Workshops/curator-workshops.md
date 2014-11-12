@@ -28,13 +28,15 @@ These workshops will not presuppose any prior XML or markup knowledge.
 ### Workshop III: VRA Core & Exhibition Requirements
 * Central Library, Classroom 418A
 * Thursday, November 13 / with Sara Sterkenburg
-  * 10:00 | Review yesterday's encoding exercise
-  * 10:15 | A deeper look at VRA Core 4.0
-    * Searching & using controlled vocabs
-    * Encoding Practice
-    * Homework
-  * 11:15 | Break
-  * 11:25 | A look at the Exhibitions repo on Github
+  * 10:00 | The VRA Core standard 
+  * 10:15 | XML schema specs for VRA Core
+  * 10:30 | Encoding exercise
+    * Searching & using controlled vocabularies
+  * 11:00 | Break
+  * 11:10 | Encoding Practice & Homework
+    * Adding in XML header
+    * Saving & syncing to Github
+  * 11:40 | A look at the Exhibitions repo on Github
     * Review metadata requirements for exhibition
   * 12:00 | Questions & Wrap-up
   
