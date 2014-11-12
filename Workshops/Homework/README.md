@@ -3,3 +3,5 @@ On your own, encode this photograph of [Hodge Kirnon](http://www.metmuseum.org/c
 * Use the existing record at the MET for information, and catalog it in VRA Core within oXygen
 * Save your (valid!) results under Workshops > Homework folder in the Github exhibits repo, titling your file "HodgeKirnon_yourusername" and submit by November 20th. 
   * Sara will take a look and provide feedback. Thanks!
+
+![Hodge Kirnon Photograph by Alfred Stieglitz](http://images.metmuseum.org/CRDImages/ph/web-large/DP223962.jpg) 
