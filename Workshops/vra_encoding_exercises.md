@@ -16,7 +16,7 @@ In teams of two, please break off and take a look at the links below. Try to enc
 * [Medal of Emperor Rudolf II](http://www.getty.edu/art/gettyguide/artObjectDetails?artobj=1449), J. Paul Getty Museum Online Collections
 
 ###Homework
-On your own, encode this photograph of [Hodge Kirnon](http://www.metmuseum.org/collection/the-collection-online/search/269445?rpp=30&pg=1&ft=alfred+stieglitz&pos=17) via the Metropolitan Museum of Art's (MET) Online Collection
-* Use the existing record at the MET for information, and catalog it in VRA Core within oXygen
-* Save your results under your Github account, titling your file "HodgeKirnon_yourusername" and comment on this page with the URL to your file by November 20th. 
-  * Sara will take a look and provide feedback. Thanks!
+On your own, encode a work from the Metropolitan Museum of Art's Online Collections.
+* Pick anything you'd like!
+* Submit a valid VRA document for that object by November 20th.
+* For more instructions, click [here](https://github.com/HeardLibrary/exhibitions/blob/master/Workshops/Homework/README.md)
