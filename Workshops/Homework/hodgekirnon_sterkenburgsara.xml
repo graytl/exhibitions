@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra-strict.xsd">
+    <work source="Alfred Steiglitz Collection, 1949">
+        <agentSet>
+            <display>Stieglitz, Alfred, 1864-1946</display>
+            <notes/>
+            <agent>
+                <name vocab="LCNAF" refid="n 79108359" type="personal">Stieglitz, Alfred, 1864-1946</name>
+                <dates type="life">
+                    <earliestDate>1864</earliestDate>
+                    <latestDate>1946</latestDate>
+                </dates>
+                <culture>American</culture>
+                <role>Photographer</role>
+                <role>Artist</role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <display>between 1915 and 1917</display>
+            <date type="creation">
+                <earliestDate>1915</earliestDate>
+                <latestDate>1917</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <display>[This poster is offset lithography, but mass-produced and commercially printed.] Steinlen's poster advertises the reopening of a cabaret, the Chat Noir in Montmartre. Here the artist worked with several actors to present avant-garde shadow theater, which investigated the artistic and dramatic effects of silhouettes, starring R. Salis as the popular, improvisational narrator ("bonimenteur") of each shadow performance.</display>
+            <description source="Metropolitan Museum of Art, Online Collection; http://www.metmuseum.org/collection/the-collection-online/search/269445 (accessed 11/12/2014)">One of the least well known and most beautiful of Stieglitz's portraits, this photograph depicts Hodge Kirnon, a man Stieglitz saw in passing every day. When preparing to close his historic gallery "291" in 1917 as a result of World War I, Stieglitz assessed his work and life and saw that Kirnon--who operated the elevator that transported the gallery's visitors, its critics, and its provocative modern art--had been a true fellow passenger on the momentous trip.</description>
+        </descriptionSet>
+        <inscriptionSet>
+            <display>Inscription:  Inscribed in pencil on print, verso CR: "Met // 84E"</display>
+            <inscription>
+                <author>Probably made by staff member at the Metropolitan Museum of Art</author>
+                <position>Verso of photograph</position>
+                <text type="mark">Met // 84E</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <display>Metropolitan Museum of Art, Alfred Stieglitz Collection</display>
+            <location type="repository">
+                <name type="corporate" vocab="LCNAF" refid="n 79129629">Metropolitan Museum of Art (New York, N.Y.)</name>
+                <name type="geographic" vocab="TGN" refid="7007568" extent="state">New York</name>
+                <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
+                <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
+                <refid type="accession">49.55.38</refid>
+            </location>
+            <location type="creation">
+                <name type="geographic" vocab="TGN" refid="7013711" extent="inhabited place">Hoboken</name>
+                <name type="geographic" vocab="TGN" refid="7007565" extent="state">New Jersey</name>
+            </location>
+        </locationSet>
+        <measurementsSet>
+            <display>24.6 cm (height) x 19.9 cm (width)</display>
+            <notes/>
+            <measurements type="height" unit="cm">24.6</measurements>
+            <measurements type="width" unit="cm">19.9</measurements>
+        </measurementsSet>
+        <sourceSet>
+            <display>Metropolitan Museum of Art, Alfred Stieglitz Collection, 1949</display>
+            <source>
+                <refid type="citation">Metropolitan Museum of Art</refid>
+            </source>
+        </sourceSet>
+        <stylePeriodSet>
+            <display>Early Documentary Photography; Pictorialism in America</display>
+            <stylePeriod vocab="AAT" refid="300111559">Pictorialist</stylePeriod>
+            <stylePeriod vocab="AAT" refid="300134547">Documentary photography</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet>
+            <display></display>
+            <notes/>
+            <subject>
+                <term>Kirnon, Hodge</term>
+            </subject>
+            <subject>
+                <term type="builtworkPlace" vocab="LCNAF" refid="n 82148021">Chat noir (Cabaret : Paris, France)</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <display>palladium process</display>
+            <notes/>
+            <technique vocab="AAT" refid="300053494">palladium process</technique>
+        </techniqueSet>
+        <titleSet>
+            <display>Hodge Kirnon</display>
+            <title type="inscribed" pref="false" xml:lang="en">Hodge Kirnon</title>
+        </titleSet>
+        <worktypeSet>
+            <display>Palladium print</display>
+            <worktype vocab="AAT" refid="300134677">palladium prints</worktype>
+        </worktypeSet>
+    </work>
+    <image
+        href="http://www.metmuseum.org/collection/the-collection-online/search/269445"
+        refid="223962" source="Metropolitan Museum of Art Online Collections">
+        <dateSet>
+            <display>unknown</display>
+            <date/>
+        </dateSet>
+        <measurementsSet>
+            <display>unknown</display>
+            <notes/>
+            <measurements/>
+        </measurementsSet>
+        <relationSet>
+            <relation type="imageOf" refid="28" source="Core 4 Sample Database (VCat)"/>
+        </relationSet>
+        <rightsSet>
+            <display>©Metropolitan Museum of Art</display>
+            <rights/>
+        </rightsSet>
+        <sourceSet>
+            <display>Metropolitan Museum of Art [website]; http://www.metmuseum.org/</display>
+            <source>
+                <name/>
+                <refid type="URI">http://www.metmuseum.org/</refid>
+            </source>
+        </sourceSet>
+        <techniqueSet>
+            <display>digital imaging</display>
+            <notes/>
+            <technique/>
+        </techniqueSet>
+        <titleSet>
+            <display>Overall view</display>
+            <title type="generalView">Overall view</title>
+        </titleSet>
+        <worktypeSet>
+            <display>digital image</display>
+            <notes/>
+            <worktype/>
+        </worktypeSet>
+    </image>
+</vra>
