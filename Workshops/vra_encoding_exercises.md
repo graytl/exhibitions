@@ -14,7 +14,6 @@ Now let's take a look at the [VRA Core 4.0 XML](http://core.vraweb.org/examples/
 
 In teams of two, please break off and take a look at the links below. Try to encode these materials on your own. _No peeking at any raw XML!_
 * [Medal of Emperor Rudolf II](http://www.getty.edu/art/gettyguide/artObjectDetails?artobj=1449), J. Paul Getty Museum Online Collections
-  * Fuller record [here](http://core.vraweb.org/example010_1.html)    
 
 ###Homework
 On your own, encode this photograph of [Hodge Kirnon](http://www.metmuseum.org/collection/the-collection-online/search/269445?rpp=30&pg=1&ft=alfred+stieglitz&pos=17) via the Metropolitan Museum of Art's (MET) Online Collection
