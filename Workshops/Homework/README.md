@@ -1,5 +1,5 @@
 ###Homework
-On your own, select a work via the Metropolitan Museum of Art's (MET) Online Collection
+On your own, select a work via the [Metropolitan Museum of Art's (MET) Online Collection](http://www.metmuseum.org/collection/the-collection-online)
 * Use the existing record at the MET for information, and catalog it in VRA Core within oXygen
 * Save your (valid!) results under Workshops > Homework folder in the Github exhibits repo, titling your file "WorkTitle_yourusername" and submit by November 20th. 
   * Sara will take a look and provide feedback. Thanks!
