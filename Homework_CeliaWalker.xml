@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+           <agent>
+   <name vocab="LCNAR" refid="79043979">La Farge, John, 1835-1910</name>
+               <dates>
+                   <earliestDate>1835</earliestDate>
+                   <latestDate>1910</latestDate>
+               </dates>
+               <role>stained glass artist</role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date>
+                <earliestDate>1880</earliestDate>
+                <latestDate>1882</latestDate>
+            </date>
+        </dateSet>
+           <descriptionSet>            
+            <notes/>
+            <description/>
+        </descriptionSet>
+        <inscriptionSet>
+            <notes/>
+            <inscription>
+                <author/>
+                <position/>
+                <text/>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+           <location type="museum">
+               <name>Metropolitan Museum of Art</name>
+           </location>
+            <location type="creation">
+                   <name>New York City, New York</name>
+            </location>
+        </locationSet>
+        <titleSet>
+         <title>Stained Glass Lunette from the Cornelius Vanderbilt II House, New York
+         </title>
+            </titleSet>
+       <worktypeSet>
+           <worktype vocab="AAT">stained glass</worktype>
+       </worktypeSet> 
+    </work>
+</vra>
+        
