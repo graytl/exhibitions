@@ -18,9 +18,10 @@
         </agentSet>
         <dateSet>
             <display>1897</display>
-            <date type="creation"/>
-            <earliestDate>1897</earliestDate>
-            <latestDate>1897</latestDate>
+            <date type="creation">
+                <earliestDate>1897</earliestDate>
+                <latestDate>1897</latestDate>
+            </date>
         </dateSet>
         <inscriptionSet>
             <display>LA FARGE 1887</display>
