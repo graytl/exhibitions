@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work source="Bequest of Susan Dwight Bliss, 1966">
+        <agentSet>
+            <agent>
+                <name vocab="LCNAF" refid=" n 79043979">La Farge, John, 1835-1910</name>
+                <dates type="life">
+                    <earliestDate>1618</earliestDate>
+                    <latestDate>1689</latestDate>
+                </dates>
+                <culture>American</culture>
+                <role>painter</role>
+                <role>stained glass window maker</role>
+                <role>writer</role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <display>1897</display>
+            <date type="creation"/>
+            <earliestDate>1897</earliestDate>
+            <latestDate>1897</latestDate>
+        </dateSet>
+        <inscriptionSet>
+            <display>LA FARGE 1887</display>
+            <inscription>
+                <author>unknown</author>
+                <position>at upper left in image</position>
+                <text>LA FARGE 1887</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <display>Metropolitan Museum of Art</display>
+            <location type="repository">
+                <name type="corporate" vocab="LCNAF" refid="n 79129629">Metropolitan Museum of Art</name>
+                <name type="geographic" vocab="TGN" refid="7007568" extent="state">New York</name>
+                <name type="geographic" vocab="TGN" refid="7007568" extent="nation">United States</name>
+                <name type="geographic" vocab="TGN" refid="7007568" extent="continet">North and Central America</name>
+            </location>
+            <location type="creation">
+                <name type="geographic" vocab="TGN" refid="7013952" extent="inhabited place">Providence</name>
+                <name type="geographic" vocab="TGN" refid="7007711" extent="state">Rhode Island</name>
+            </location>
+        </locationSet>
+        <measurementsSet>
+            <display>29.5 cm (height) x 26.7 cm (width)</display>
+            <measurements type="height" unit="cm">29.5</measurements>
+            <measurements type="width" unit="cm">26.7</measurements>
+        </measurementsSet>
+        <sourceSet>
+            <display>Metropolitan Museum of Art</display>
+            <source>
+                <refid type="citation">Metropolitan Museum of Art, Bequest of Susan Dwight Bliss, 1966</refid>
+            </source>
+        </sourceSet>
+        <stylePeriodSet>
+            <stylePeriod vocab="AAT" refid="300263513">drawings</stylePeriod>
+        </stylePeriodSet>
+        <titleSet>
+            <title>A Bacchante</title>
+        </titleSet>
+        <worktypeSet>
+            <display>gouache</display>
+            <worktype vocab="AAT" refid="300070114">gouache</worktype>
+        </worktypeSet>
+
+    </work>
+</vra>
