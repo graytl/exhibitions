@@ -12,8 +12,6 @@
                 </dates>
                 <culture>American</culture>
                 <role>painter</role>
-                <role>stained glass window maker</role>
-                <role>writer</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -29,6 +27,9 @@
                 <author>unknown</author>
                 <position>at upper left in image</position>
                 <text>LA FARGE 1887</text>
+            </inscription>
+            <inscription>
+                <text/>
             </inscription>
         </inscriptionSet>
         <locationSet>
@@ -55,15 +56,12 @@
                 <refid type="citation">Metropolitan Museum of Art, Bequest of Susan Dwight Bliss, 1966</refid>
             </source>
         </sourceSet>
-        <stylePeriodSet>
-            <stylePeriod vocab="AAT" refid="300263513">drawings</stylePeriod>
-        </stylePeriodSet>
         <titleSet>
             <title>A Bacchante</title>
         </titleSet>
         <worktypeSet>
-            <display>gouache</display>
-            <worktype vocab="AAT" refid="300070114">gouache</worktype>
+            <display>drawings</display>
+            <worktype vocab="AAT" refid="300033973">drawings (visual works)</worktype>
         </worktypeSet>
 
     </work>
