@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra-strict.xsd">
+    <work source="Berthe Morisot Collection">
+        <agentSet>
+            <display>Morisot, Berthe, 1841-1895</display>
+            <notes/>
+            <agent>
+                <name vocab="LCNAF" refid="n  81145877" type="personal">Morisot, Berthe, 1841-1895</name>
+                <dates type="life">
+                    <earliestDate>1841</earliestDate>
+                    <latestDate>1895</latestDate>
+                </dates>
+                <culture>French</culture>
+                <role>Painter</role>
+                <role>Artist</role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <display>circa 1879</display>
+            <date type="creation">
+                <earliestDate>1875</earliestDate>
+                <latestDate>1880</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <display>At about the time that Morisot depicted this model in her Paris apartment, an admiring critic wrote: "she grinds flower petals onto her palette, in order to spread them later on her canvas with airy, witty touches…producing something vital, fine, and charming." The painter was then at her apogee, having melded the bravura brushwork adopted from her mentor and brother-in-law, Édouard Manet, with her own opalescent tints. Born into an upper-middle-class family, Morisot diverged from societal norms when she established herself as a professional artist, but was highly successful, participating in the official Salons and in seven of the eight Impressionist exhibitions.</display>
+            <description source="Metropolitan Museum of Art, Online Collection; http://www.metmuseum.org/collection/the-collection-online/search/437160(accessed 11/13/2014)">At about the time that Morisot depicted this model in her Paris apartment, an admiring critic wrote: "she grinds flower petals onto her palette, in order to spread them later on her canvas with airy, witty touches…producing something vital, fine, and charming." The painter was then at her apogee, having melded the bravura brushwork adopted from her mentor and brother-in-law, Édouard Manet, with her own opalescent tints. Born into an upper-middle-class family, Morisot diverged from societal norms when she established herself as a professional artist, but was highly successful, participating in the official Salons and in seven of the eight Impressionist exhibitions.</description>
+        </descriptionSet> 
+        <inscriptionSet>
+            <display>Inscription: Signed (lower left): Berthe Morisot</display>
+            <inscription>
+                <author>Berthe Morisot</author>
+                <position>Signed (lower left)</position>
+                <text type="mark">Berthe Morisot</text>
+            </inscription>
+        </inscriptionSet>
+                    <locationSet>
+            <display>Metropolitan Museum of Art, Berthe Morisot Collection</display>
+            <location type="repository">
+                <name type="corporate" vocab="LCNAF" refid="n 79129629">Metropolitan Museum of Art (New York, N.Y.)</name>
+                <name type="geographic" vocab="TGN" refid="7007568" extent="state">New York</name>
+                <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
+                <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
+                <refid type="accession">1992.103.2</refid>
+            </location>
+            <location type="creation">
+                <name type="geographic" vocab="TGN" refid="7008038" extent="inhabited place">Paris</name>
+                <name type="geographic" vocab="TGN" refid="1000070" extent="nation">France</name>
+                            </location>
+        </locationSet>
+        <measurementsSet>
+            <display>80.6 cm (height) x 99.7 cm (width)</display>
+            <notes/>
+            <measurements type="height" unit="cm">80.6</measurements>
+            <measurements type="width" unit="cm">99.7</measurements>
+        </measurementsSet>
+        <sourceSet>
+            <display>Metropolitan Museum of Art, Berthe Morisot Collection, 1949</display>
+            <source>
+                <refid type="citation">Metropolitan Museum of Art</refid>
+            </source>
+        </sourceSet>
+        <stylePeriodSet>
+            <display>Early Documentary Photography; Pictorialism in America</display>
+            <stylePeriod vocab="AAT" refid="300111559">Pictorialist</stylePeriod>
+            <stylePeriod vocab="AAT" refid="300134547">Documentary photography</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet>
+            <display></display>
+            <notes/>
+            <subject>
+                <term>Kirnon, Hodge</term>
+            </subject>
+            <subject>
+                <term type="descriptiveTopic" vocab="LCSH" refid="sh 85042555">Elevator operators--Pictorial works</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <display>palladium process</display>
+            <notes/>
+            <technique vocab="AAT" refid="300053494">palladium process</technique>
+        </techniqueSet>
+        <titleSet>
+            <display>Hodge Kirnon</display>
+            <title type="inscribed" pref="false" xml:lang="en">Hodge Kirnon</title>
+        </titleSet>
+        <worktypeSet>
+            <display>Palladium print</display>
+            <worktype vocab="AAT" refid="300134677">palladium prints</worktype>
+        </worktypeSet>
+    </work>
+    <image
+        href="http://www.metmuseum.org/collection/the-collection-online/search/269445"
+        refid="223962" source="Metropolitan Museum of Art Online Collections">
+        <dateSet>
+            <display>unknown</display>
+            <date/>
+        </dateSet>
+        <measurementsSet>
+            <display>unknown</display>
+            <notes/>
+            <measurements/>
+        </measurementsSet>
+        <relationSet>
+            <relation type="imageOf" refid="28" source="Core 4 Sample Database (VCat)"/>
+        </relationSet>
+        <rightsSet>
+            <display>©Metropolitan Museum of Art</display>
+            <rights/>
+        </rightsSet>
+        <sourceSet>
+            <display>Metropolitan Museum of Art [website]; http://www.metmuseum.org/</display>
+            <source>
+                <name/>
+                <refid type="URI">http://www.metmuseum.org/</refid>
+            </source>
+        </sourceSet>
+        <techniqueSet>
+            <display>digital imaging</display>
+            <notes/>
+            <technique/>
+        </techniqueSet>
+        <titleSet>
+            <display>Overall view</display>
+            <title type="generalView">Overall view</title>
+        </titleSet>
+        <worktypeSet>
+            <display>digital image</display>
+            <notes/>
+            <worktype/>
+        </worktypeSet>
+    </image>
+</vra>
