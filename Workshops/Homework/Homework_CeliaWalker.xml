@@ -5,7 +5,7 @@ xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standa
     <work>
         <agentSet>
            <agent>
-   <name vocab="LCNAR" refid="79043979">La Farge, John, 1835-1910</name>
+   <name vocab="LCNAF" refid="79043979">La Farge, John, 1835-1910</name>
                <dates>
                    <earliestDate>1835</earliestDate>
                    <latestDate>1910</latestDate>
