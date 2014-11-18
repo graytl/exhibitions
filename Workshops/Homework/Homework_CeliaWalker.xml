@@ -32,7 +32,7 @@ xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standa
             </inscription>
         </inscriptionSet>
         <locationSet>
-           <location type="museum">
+           <location type="repository">
                <name>Metropolitan Museum of Art</name>
            </location>
             <location type="creation">
