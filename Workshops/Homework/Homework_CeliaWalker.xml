@@ -44,7 +44,7 @@ xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standa
          </title>
             </titleSet>
        <worktypeSet>
-           <worktype vocab="AAT">stained glass</worktype>
+           <worktype vocab="AAT">stained glass (visual works)</worktype>
        </worktypeSet> 
     </work>
 </vra>
