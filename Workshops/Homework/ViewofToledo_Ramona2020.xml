@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra-strict.xsd">
+    <work id="EGVT">
+        <agentSet>
+            <display>El Greco (Domenikos Theotokopoulos) (Greek, Iráklion (Candia) 1540/41–1614 Toledo)</display>
+            <agent>
+                <name type="personal" vocab="ULAN" refid="500010916">Greco, El</name>
+                <culture vocab="ULAN">Greek</culture>
+                <dates type="life">
+                    <earliestDate>1541</earliestDate>
+                    <latestDate>1614</latestDate>
+                </dates>
+                <dates type="activity">
+                    <earliestDate>1577</earliestDate>
+                    <latestDate>1614</latestDate>
+                </dates>
+                <role vocab="AAT" refid="300025136">painters (artists)</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext>Greek</culturalContext>
+            <culturalContext>Spanish</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <display>1598-1599</display>
+            <date type="creation">
+                <earliestDate circa="true">1598</earliestDate>
+                <latestDate circa="true">1599</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <display>This painting is an emblematic, rather than a topographical, cityscape, conveying key features and the spirit of the place rather than precise details. The Alcázar (royal palace) and the cathedral identify Toledo as "The Imperial City" and "The Holy City," while the Roman bridge, the castle, and the monastery evoke its glorious past. The stormy sky may refer to a passage in Pliny’s Natural History (ca. A.D. 77) that praises another Greek painter, Apelles, for his ability to paint things impossible to depict, such as thunder and lightning. This work was almost certainly owned by Pedro Lasso de la Vega, who also owned the Museum’s portrait of his uncle, Cardinal Fernando Niño de Guevara (on view in this gallery).</display>
+            <description source="Metropolitan Museum of Art, New York [website]; http://www.metmuseum.org/ (accessed 11/15/2014)">This painting is an emblematic, rather than a topographical, cityscape, conveying key features and the spirit of the place rather than precise details. The Alcázar (royal palace) and the cathedral identify Toledo as "The Imperial City" and "The Holy City," while the Roman bridge, the castle, and the monastery evoke its glorious past. The stormy sky may refer to a passage in Pliny’s Natural History (ca. A.D. 77) that praises another Greek painter, Apelles, for his ability to paint things impossible to depict, such as thunder and lightning. This work was almost certainly owned by Pedro Lasso de la Vega, who also owned the Museum’s portrait of his uncle, Cardinal Fernando Niño de Guevara (on view in this gallery).</description>
+        </descriptionSet>
+        <inscriptionSet>
+            <display>Signed (lower right, in Greek): Δομήνικος Θεοτοκόπουλος έκανε αυτό</display>
+            <inscription>
+                <author vocab="ULAN" refid="500010916">Greco, El</author>
+                <position>lower right</position>
+                <text type="text" xml:lang="gr">Δομήνικος Θεοτοκόπουλος έκανε αυτό</text>
+                <text type="translation" xml:lang="en">Domenikos Theotokopoulos made this</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <display>The Metropolitan Museum of Art (New York, New York) Accession Number 29.100.6</display>
+            <location type="repository">
+                <name type="corporate">The Metropolitan Museum of Art</name>
+                <refid type="accession">29.100.6</refid>
+                <name type="geographic" vocab="TGN" refid="7007567" extent="inhabited place">New York (inhabited place)</name>
+                <name type="geographic" vocab="TGN" refid="7007568" extent="state">New York (state)</name>
+                <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States (nation)</name>
+            </location>
+            <location type="creation">
+                <name type="geographic" vocab="TGN" refid="7008719" extent="inhabited place">Toledo (inhabited place)</name>
+                <name type="geographic" vocab="TGN" refid="7002847" extent="province">Toledo (province)</name>
+                <name type="geographic" vocab="TGN" refid="1001647" extent="autonomous community">Castilla-La Mancha (autonomous community)</name>
+                <name type="geographic" vocab="TGN" refid="1000095" extent="nation">Spain (nation)</name>
+            </location>
+        </locationSet>
+        <materialSet>
+            <display>Oil on canvas</display>
+            <material type="medium" vocab="AAT" refid="300015050">oil paint</material>
+            <material type="support" vocab="AAT" refid="300014078">canvas</material>
+        </materialSet>
+        <measurementsSet>
+            <display>47 3/4 x 42 3/4 in. (121.3 x 108.6 cm)</display>
+            <measurements type="height" unit="in">47 3/4</measurements>
+            <measurements type="width" unit="in">42 3/4</measurements>
+            <measurements type="height" unit="cm">121.3</measurements>
+            <measurements type="width" unit="cm">108.6</measurements>
+        </measurementsSet>
+        <sourceSet>
+            <display>H. O. Havemeyer Collection</display>
+            <source>
+                <name type="donor">H. O. Havemeyer Collection</name>
+            </source>
+        </sourceSet>
+        <stylePeriodSet>
+            <stylePeriod vocab="AAT" refid="300021144">Mannerist (Renaissance-Baroque style)</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet>
+            <subject>
+                <term vocab="AAT" refid="300015636">landscapes (representations)</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique vocab="AAT" refid="300054216">painting (image-making)</technique>
+        </techniqueSet>
+        <titleSet>
+            <display>View of Toledo</display>
+            <title type="repository" source="Metropolitan Museum of Art (New York, USA)">View of Toledo</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300033799">oil paintings (visual works)</worktype>
+        </worktypeSet>
+    </work>
+    <image source="Metropolitan Museum of Art, The Collection Online">
+        <agentSet>
+            <display>unkown</display>
+            <agent>
+                <name type="corporate">Metropolitan Museum of Art</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <display>unkown</display>
+            <date/>
+        </dateSet>
+        <descriptionSet>
+            <description>Digital image of El Greco's View of Toledo on display at the Metropolitan</description>
+        </descriptionSet>
+        <materialSet>
+            <material vocab="AAT" refid="300266226">TIFF</material>
+        </materialSet>
+        <measurementsSet>
+            <display>unkown</display>
+            <measurements/>
+        </measurementsSet>
+        <relationSet>
+            <relation type="imageOf" relids="EGVT" href="http://www.metmuseum.org/collection/the-collection-online/search/436575">View of Toledo</relation>
+        </relationSet>
+        <rightsSet>
+            <display>This object is part of the Met's Open Access for Scholarly Content Initiative</display>
+            <rights type="other">
+                <text>This object is part of the Met's Open Access for Scholarly Content Initiative</text>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <source>
+                <name type="other">Metropolitan Museum of Art</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <display>View of Toledo</display>
+            <title>View of Toledo</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>
