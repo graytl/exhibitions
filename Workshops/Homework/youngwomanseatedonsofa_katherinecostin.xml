@@ -12,7 +12,7 @@
                     <earliestDate>1841</earliestDate>
                     <latestDate>1895</latestDate>
                 </dates>
-                <culture>French</culture>
+                <culture>Berthe Morisot</culture>
                 <role>Painter</role>
                 <role>Artist</role>
             </agent>
@@ -37,7 +37,7 @@
             </inscription>
         </inscriptionSet>
                     <locationSet>
-            <display>Metropolitan Museum of Art, Berthe Morisot Collection</display>
+                        <display>Metropolitan Museum of Art, European Paintings</display>
             <location type="repository">
                 <name type="corporate" vocab="LCNAF" refid="n 79129629">Metropolitan Museum of Art (New York, N.Y.)</name>
                 <name type="geographic" vocab="TGN" refid="7007568" extent="state">New York</name>
@@ -46,7 +46,7 @@
                 <refid type="accession">1992.103.2</refid>
             </location>
             <location type="creation">
-                <name type="geographic" vocab="TGN" refid="7008038" extent="inhabited place">Paris</name>
+                <name type="geographic" vocab="TGN" refid="7017415" extent="inhabited place">Bourges</name>
                 <name type="geographic" vocab="TGN" refid="1000070" extent="nation">France</name>
                             </location>
         </locationSet>
@@ -57,43 +57,43 @@
             <measurements type="width" unit="cm">99.7</measurements>
         </measurementsSet>
         <sourceSet>
-            <display>Metropolitan Museum of Art, Berthe Morisot Collection, 1949</display>
+            <display>Metropolitan Museum of Art, Partial and Promised Gift of Mr. and Mrs. Douglas Dillon, 1992</display>
             <source>
                 <refid type="citation">Metropolitan Museum of Art</refid>
             </source>
         </sourceSet>
         <stylePeriodSet>
-            <display>Early Documentary Photography; Pictorialism in America</display>
-            <stylePeriod vocab="AAT" refid="300111559">Pictorialist</stylePeriod>
-            <stylePeriod vocab="AAT" refid="300134547">Documentary photography</stylePeriod>
+            <display>European Painting, Impressionism</display>
+            <stylePeriod vocab="AAT" refid="300021503">Impressionist</stylePeriod>
+            <stylePeriod vocab="AAT" refid="300033799">Oil Painting</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
             <display></display>
             <notes/>
             <subject>
-                <term>Kirnon, Hodge</term>
+                <term>Young Woman Seated on a Sofa</term>
             </subject>
             <subject>
-                <term type="descriptiveTopic" vocab="LCSH" refid="sh 85042555">Elevator operators--Pictorial works</term>
+                <term type="descriptiveTopic" vocab="LCSH" refid="sh 85149296">Young women--France--Pictorial works.</term>
             </subject>
         </subjectSet>
         <techniqueSet>
-            <display>palladium process</display>
+            <display>Oil Painting</display>
             <notes/>
-            <technique vocab="AAT" refid="300053494">palladium process</technique>
+            <technique vocab="AAT" refid="300033799">oil painting</technique>
         </techniqueSet>
         <titleSet>
-            <display>Hodge Kirnon</display>
-            <title type="inscribed" pref="false" xml:lang="en">Hodge Kirnon</title>
+            <display>Berthe Morisot</display>
+            <title type="inscribed" pref="false" xml:lang="en">Berthe Morisot</title>
         </titleSet>
         <worktypeSet>
-            <display>Palladium print</display>
-            <worktype vocab="AAT" refid="300134677">palladium prints</worktype>
+            <display>Oil Painting</display>
+            <worktype vocab="AAT" refid="300033799">oil painting</worktype>
         </worktypeSet>
     </work>
     <image
-        href="http://www.metmuseum.org/collection/the-collection-online/search/269445"
-        refid="223962" source="Metropolitan Museum of Art Online Collections">
+        href="http://www.metmuseum.org/collection/the-collection-online/search/437160"
+        refid="437160" source="Metropolitan Museum of Art Online Collections">
         <dateSet>
             <display>unknown</display>
             <date/>
