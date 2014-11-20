@@ -64,7 +64,7 @@
         </sourceSet>
         <stylePeriodSet>
             <display>European Painting, Impressionism</display>
-            <stylePeriod vocab="AAT" refid="300021503">Impressionist</stylePeriod>
+            <stylePeriod vocab="AAT" refid="300021503">Impressionist (style)</stylePeriod>
             <stylePeriod vocab="AAT" refid="300033799">Oil Painting</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
@@ -88,7 +88,7 @@
         </titleSet>
         <worktypeSet>
             <display>Oil Painting</display>
-            <worktype vocab="AAT" refid="300033799">oil painting</worktype>
+            <worktype vocab="AAT" refid="300033799">oil painting (visual works)</worktype>
         </worktypeSet>
     </work>
     <image
@@ -103,9 +103,6 @@
             <notes/>
             <measurements/>
         </measurementsSet>
-        <relationSet>
-            <relation type="imageOf" refid="28" source="Core 4 Sample Database (VCat)"/>
-        </relationSet>
         <rightsSet>
             <display>©Metropolitan Museum of Art</display>
             <rights/>
