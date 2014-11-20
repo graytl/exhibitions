@@ -61,7 +61,7 @@
         </locationSet>
         <materialSet>
             <display>Oil on canvas</display>
-            <material type="medium" vocab="AAT" refid="300015050">oil paint</material>
+            <material type="medium" vocab="AAT" refid="300015050">oil paint (paint)</material>
             <material type="support" vocab="AAT" refid="300014078">canvas</material>
         </materialSet>
         <measurementsSet>
