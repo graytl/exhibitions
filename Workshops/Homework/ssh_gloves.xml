@@ -27,10 +27,10 @@
             <display> Gift of the Brooklyn Museum, 2009; Gift of Yves Saint Laurent, 1987 </display>
             <description source="http://www.metmuseum.org/collection/the-collection-online/search/170200(accessed 11/14/2014)">Gift of the Brooklyn Museum, 2009; Gift of Yves Saint Laurent, 1987</description>
         </descriptionSet>
-            <inscriptionSet>
+        <inscriptionSet>
             <inscription>
             <author>Saint Laurent, Yves</author>
-            <text type="mark">YSL</text>                      
+                <text type="mark">Saint Laurent/rive gauche/Made in France</text>                      
             </inscription>
         </inscriptionSet>
         <locationSet>
@@ -53,21 +53,20 @@
             <location type="creation">
                 <name>Design House</name>
                 <name type="geographic" vocab="TGN" refid="7008038" extent="inhabited place">Paris</name>
-                <name type="geographic" vocab="TGN" refid="7002883" extent="region (administrative division)">Île-de-France</name>
                 <name type="geographic" vocab="TGN" refid="1000070" extent="nation">France</name>
                 <name type="geographic" vocab="TGN" refid="1000003" extent="continent">Europe</name>
             </location>
         </locationSet>
         <materialSet>
-            <display>leather,synthetic</display>
+            <display>leather, synthetic</display>
             <material type="medium" vocab="AAT" refid="300218678" extent="fabrication attributes">synthetic</material>
-            <material type="medium" vocab="AAT" refid="300011845" extent="processed animal material">leather)</material>
+            <material type="medium" vocab="AAT" refid="300011845" extent="processed animal material">leather</material>
                   </materialSet>
         <measurementsSet>
             <display>unknown</display>
             <notes>no measurements given</notes>
-       <measurements></measurements> 
-                  </measurementsSet>
+            <measurements/> 
+       </measurementsSet>
         <rightsSet>
             <rights type="copyrighted">
                 <rightsHolder vocab="LCNAF" refid="n 79129629">Metropolitan Museum of Art (New York, N.Y.)></rightsHolder>
@@ -85,10 +84,10 @@
         </stylePeriodSet>
         <subjectSet>
             <subject>
-                <term type="descriptiveTopic" vocab="LCSH" refid="sh 85055348">gloves</term>
+                <term type="descriptiveTopic" vocab="LCSH" refid="sh 85055348">Gloves--Specimens</term>
             </subject>
             <subject>
-                <term type="descriptiveTopic" vocab="LCSH" refid="sh 89004544">Vintage Clothing</term>
+                <term type="descriptiveTopic" vocab="LCSH" refid="sh 89004544">Vintage Clothing--Specimens</term>
             </subject>
                    </subjectSet>
               <titleSet>
