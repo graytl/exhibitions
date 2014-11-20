@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra-strict.xsd">
+    <work source="Brooklyn Museum Costume Collection at The Metropolitan Museum of Art">
+        <agentSet>
+            <display>Yves Saint Laurent </display>
+            <notes/>
+            <agent>
+                <name vocab="LCNAF" refid="n 79108359" type="personal">St Laurent, Yves</name>
+                <dates type="life">
+                    <earliestDate>1936</earliestDate>
+                    <latestDate>2008</latestDate>
+                </dates>
+                <culture>French</culture>
+                <role>Fashion Designer</role>
+                 </agent>
+        </agentSet>
+        <dateSet>
+            <display>1984–85</display>
+            <date type="creation">
+                <earliestDate>1984</earliestDate>
+                <latestDate>1985</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <display> Gift of the Brooklyn Museum, 2009; Gift of Yves Saint Laurent, 1987 </display>
+            <description source="http://www.metmuseum.org/collection/the-collection-online/search/170200(accessed 11/14/2014)">Gift of the Brooklyn Museum, 2009; Gift of Yves Saint Laurent, 1987</description>
+        </descriptionSet>
+            <inscriptionSet>
+            <inscription>
+            <author>Saint Laurent, Yves</author>
+            <text type="mark">YSL</text>                      
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <display>Brooklyn Museum Costume Collection at The Metropolitan Museum of Art</display>
+            <location type="repository">
+                <name type="corporate" vocab="LCNAF" refid="n 79129629">Metropolitan Museum of Art (New York, N.Y.)</name>
+                <name type="geographic" vocab="TGN" refid="7007568" extent="state">New York</name>
+                <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
+                <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
+                <refid type="accession">2009.300.6007a, b</refid>
+            </location>
+            <location type="formerRepository">
+                <name type="corporate" vocab="LCNAF" refid="n 79129629">Brooklyn Museum</name>
+                <name type="geographic" vocab="TGN" refid="7015822" extent="borough">Brooklyn</name>
+                <name type="geographic" vocab="TGN" refid="7007567" extent="inhabited place">New York</name>
+                <name type="geographic" vocab="TGN" refid="7007568" extent="state">New York</name>
+                <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
+                <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
+            </location>
+            <location type="creation">
+                <name>Design House</name>
+                <name type="geographic" vocab="TGN" refid="7008038" extent="inhabited place">Paris</name>
+                <name type="geographic" vocab="TGN" refid="7002883" extent="region (administrative division)">Île-de-France</name>
+                <name type="geographic" vocab="TGN" refid="1000070" extent="nation">France</name>
+                <name type="geographic" vocab="TGN" refid="1000003" extent="continent">Europe</name>
+            </location>
+        </locationSet>
+        <materialSet>
+            <display>leather,synthetic</display>
+            <material type="medium" vocab="AAT" refid="300218678" extent="fabrication attributes">synthetic</material>
+            <material type="medium" vocab="AAT" refid="300011845" extent="processed animal material">leather)</material>
+                  </materialSet>
+        <measurementsSet>
+            <display>unknown</display>
+            <notes>no measurements given</notes>
+       <measurements></measurements> 
+                  </measurementsSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <rightsHolder vocab="LCNAF" refid="n 79129629">Metropolitan Museum of Art (New York, N.Y.)></rightsHolder>
+                <text>© 2000–2014 The Metropolitan Museum of Art. All rights reserved.</text>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <display>Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Yves Saint Laurent, 1987</display>
+            <source>
+                <name type="other">Brooklyn Museum Costume Collection at The Metropolitan Museum of Art</name>
+            </source>
+        </sourceSet>
+        <stylePeriodSet>
+            <stylePeriod vocab="AAT" refid="300379388" extent="generic time frame">modern</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet>
+            <subject>
+                <term type="descriptiveTopic" vocab="LCSH" refid="sh 85055348">gloves</term>
+            </subject>
+            <subject>
+                <term type="descriptiveTopic" vocab="LCSH" refid="sh 89004544">Vintage Clothing</term>
+            </subject>
+                   </subjectSet>
+              <titleSet>
+            <title type="descriptive">Cocktail gloves</title>
+        </titleSet>
+        <worktypeSet>
+            <display>Cocktail Gloves</display>
+            <worktype vocab="AAT" refid="300148821">gloves</worktype>
+        </worktypeSet>
+    </work>
+</vra>
