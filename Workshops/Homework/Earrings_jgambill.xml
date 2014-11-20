@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra-strict.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n 83181597">Saint Laurent, Yves</name>
+                <dates type="life">
+                    <earliestDate>1936</earliestDate>
+                    <latestDate>2009</latestDate>
+                </dates>
+                <role>Fashion Designer</role>
+                <culture>French</culture>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <display>1985-86</display>
+            <date type="creation">
+                <earliestDate>1985</earliestDate>
+                <latestDate>1986</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description source="The Metropolitan Museum of Art, The Collection Online: http://www.metmuseum.org/collection/the-collection-online/search/157027 (accessed 2014-11-18)">The 1980s represented a moment in time for exuberance in costume jewelry, seen particularly in large-scale pieces that incorporate large stones or swinging elements. Yves Saint Laurent, the designer of this pair, and other designers embraced faux stones with a fervor not seen since the 1940s, when large sets of matching faux jewelry served as a means of enlivening wartime suits. The striking color combination of this pair draws attention to the wearer's face and exemplifies the brilliant colors in vogue during the 1980s.</description>
+        </descriptionSet>
+        <inscriptionSet>
+            <inscription>
+                <author>Saint Laurent, Yves</author>
+                <text type="mark">YSL</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <display>Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Yves Saint Laurent, 1987</display>
+            <location type="repository">
+                <name type="corporate" vocab="LCNAF" refid="n 79129629">Metropolitan Museum of Art (New York, N.Y.)</name>
+                <name type="geographic" vocab="TGN" refid="7007567" extent="inhabited place">New York</name>
+                <name type="geographic" vocab="TGN" refid="7007568" extent="state">New York</name>
+                <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
+                <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
+                <refid type="accession">2009.300.2225a, b</refid>
+            </location>
+            <location type="formerRepository">
+                <name type="corporate" vocab="LCNAF" refid="n 79063288">Brooklyn Museum</name>
+                <name type="geographic" vocab="TGN" refid="7015822" extent="borough">Brooklyn</name>
+                <name type="geographic" vocab="TGN" refid="7007567" extent="inhabited place">New York</name>
+                <name type="geographic" vocab="TGN" refid="7007568" extent="state">New York</name>
+                <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
+                <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
+            </location>
+            <location type="creation">
+                <name>Design House</name>
+                <name type="geographic" vocab="TGN" refid="7008038" extent="inhabited place">Paris</name>
+                <name type="geographic" vocab="TGN" refid="7002883" extent="region (administrative division)">Île-de-France</name>
+                <name type="geographic" vocab="TGN" refid="1000070" extent="nation">France</name>
+                <name type="geographic" vocab="TGN" refid="1000003" extent="continent">Europe</name>
+            </location>
+        </locationSet>
+        <materialSet>
+            <display>metal, glass, rhinestones</display>
+            <material type="medium" vocab="AAT" refid="300010900" extent="inorganic material">metal</material>
+            <material type="medium" vocab="AAT" refid="300010797" extent="inorganic material">glass (material)</material>
+            <material type="medium" vocab="AAT" refid="300010806" extent="paste (glass)">rhinestone</material>
+        </materialSet>
+        <measurementsSet>
+            <display>Other: 3 1/2 in. (8.9 cm)</display>
+            <measurements type="other" unit="in">3.5</measurements>
+            <measurements type="other" unit="cm">8.9</measurements>
+        </measurementsSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <rightsHolder vocab="LCNAF" refid="n 79129629">Metropolitan Museum of Art (New York, N.Y.)></rightsHolder>
+                <text>© 2000–2014 The Metropolitan Museum of Art. All rights reserved.</text>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <display>Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Yves Saint Laurent, 1987</display>
+            <source>
+                <name type="other">Brooklyn Museum Costume Collection at The Metropolitan Museum of Art</name>
+            </source>
+        </sourceSet>
+        <stylePeriodSet>
+            <stylePeriod vocab="AAT" refid="300379388" extent="generic time frame">modern</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet>
+            <subject>
+                <term type="descriptiveTopic" vocab="LCSH" refid="sh 85040426">Earrings</term>
+            </subject>
+            <subject>
+                <term type="descriptiveTopic" vocab="LCSH" refid="sh 85033276">Costume jewelry</term>
+            </subject>
+            <subject>
+                <term type="descriptiveTopic" vocab="LCSH" refid="sh 85113668">Rhinestone jewelry</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique vocab="AAT" refid="300053611">jewelry making</technique>
+        </techniqueSet>
+        <titleSet>
+            <title type="descriptive">Earrings</title>
+        </titleSet>
+        <worktypeSet>
+            <display>Earrings</display>
+            <worktype vocab="AAT" refid="300045998">earrings (jewelry)</worktype>
+        </worktypeSet>
+    </work>
+</vra>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
