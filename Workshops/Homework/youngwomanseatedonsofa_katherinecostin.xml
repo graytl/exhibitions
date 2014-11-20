@@ -65,7 +65,7 @@
         <stylePeriodSet>
             <display>European Painting, Impressionism</display>
             <stylePeriod vocab="AAT" refid="300021503">Impressionist</stylePeriod>
-            <stylePeriod vocab="AAT" refid="300033799">Oil Painting</stylePeriod>
+           
         </stylePeriodSet>
         <subjectSet>
             <display></display>
@@ -80,7 +80,7 @@
         <techniqueSet>
             <display>Oil Painting</display>
             <notes/>
-            <technique vocab="AAT" refid="300033799">oil painting</technique>
+            <technique vocab="AAT" refid="300033799">oil paintings (visual works) (</technique>
         </techniqueSet>
         <titleSet>
             <display>Berthe Morisot</display>
