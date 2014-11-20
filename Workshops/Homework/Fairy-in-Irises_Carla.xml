@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra-strict.xsd">
+    <work source="Candace Wheeler Collection">
+        <agentSet>
+            <agent>
+                <name vocab="other" type="personal">Wheeler, Dora, 1856–1940</name>
+                <dates type="life">
+                    <earliestDate>1856</earliestDate>
+                    <latestDate>1940</latestDate>
+                </dates>
+                <culture>American</culture>
+                <role>Artist</role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <latestDate>1888</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description source="The Metropolitan Museum of Art, The Collection Online: http://http://www.metmuseum.org/collection/the-collection-online/search/17468 (accessed 2014-11-19)">The drawing is a gift from Candace Wheeler's great grand-niece, Candace Pullman Wheeler. She found it among family materials collected and saved by her mother, Caroline Stevenson Pullman. Caroline Stevenson Pullman inherited the materials from her mother, Candace Thurber Stevenson, who was the daughter of Abner Dunham Thurber, Candace Wheeler's brother.</description>
+        </descriptionSet>
+        <inscriptionSet>
+            <inscription>
+                <author>Dora Wheeler/1888</author>
+                <position>on verso at center in graphite</position>
+                <text type="mark">no. 15</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <display>Metropolitan Museum of Art, Candace Wheeler Collection,  Gift of Candace Pullman Wheeler, 2002</display>
+            <location type="repository">
+                <name type="corporate" vocab="LCNAF" refid="n 79129629">Metropolitan Museum of Art (New York, N.Y.)</name>
+                <name type="geographic" vocab="TGN" refid="7007568" extent="state">New York</name>
+                <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
+                <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
+                <refid type="accession">2002.355.4</refid>
+            </location>
+        </locationSet>
+        <materialSet>
+            <display>Watercolor, gouache, and graphite on off-white thick wood pulp wove card</display>
+            <material type="medium" vocab="AAT" refid="300015045" extent="water-base paint">watercolor (paint)</material>
+            <material type="medium" vocab="AAT" refid="300070114" extent="watercolor (paint)">gouache (paint)</material>
+            <material type="medium" vocab="AAT" refid="300011098" extent="mineral, inorganic material">graphite (mineral)</material>
+            <material type="medium" vocab="AAT" refid="300014224" extent="pasteboard (paper)">cardboard</material>
+        </materialSet>
+        <measurementsSet>
+            <display>10 x 7 3/8 in. (25.4 x 18.7 cm)</display>
+            <notes/>
+            <measurements type="height" unit="cm">25.4</measurements>
+            <measurements type="width" unit="cm">18.7</measurements>
+        </measurementsSet>
+        <rightsSet>
+            <display>©Metropolitan Museum of Art</display>
+            <rights/>
+        </rightsSet>
+        <sourceSet>
+            <display>Metropolitan Museum of Art [website]; http://www.metmuseum.org/</display>
+            <source>
+                <name/>
+                <refid type="URI">http://www.metmuseum.org/</refid>
+            </source>
+        </sourceSet>
+ 
+        <subjectSet>
+            <subject>
+                <term type="descriptiveTopic" vocab="LCSH" refid="sh 85046901 ">Fairies</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique>Drawings</technique>
+        </techniqueSet>
+        
+
+
+        <titleSet>
+            <title>Fairy in Irises</title>
+        </titleSet>
+        <worktypeSet>
+            <display>Drawings</display>
+            <worktype vocab="AAT">gouaches (paintings)</worktype>
+        </worktypeSet>
+    </work>
+</vra>
