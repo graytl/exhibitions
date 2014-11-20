@@ -4,10 +4,11 @@
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra-strict.xsd">
     <work source="Candace Wheeler Collection">
         <agentSet>
+            <display>Dora Wheeler, 1856–1940</display>
             <agent>
-                <name vocab="other" type="personal">Wheeler, Dora, 1856–1940</name>
+                <name type="personal" vocab="ULAN" refid="500019507">Keith, Dora Wheeler</name>
                 <dates type="life">
-                    <earliestDate>1856</earliestDate>
+                    <earliestDate>1857</earliestDate>
                     <latestDate>1940</latestDate>
                 </dates>
                 <culture>American</culture>
@@ -24,7 +25,12 @@
         </descriptionSet>
         <inscriptionSet>
             <inscription>
-                <author>Dora Wheeler/1888</author>
+                <author vocab="ULAN" refid="500019507">Keith, Dora Wheeler</author>
+                <position>at lower right</position>
+                <text type="mark">Dora Wheeler/1888</text>
+            </inscription>
+            <inscription>
+                <author vocab="ULAN" refid="500019507">Keith, Dora Wheeler</author>
                 <position>on verso at center in graphite</position>
                 <text type="mark">no. 15</text>
             </inscription>
@@ -63,18 +69,14 @@
                 <refid type="URI">http://www.metmuseum.org/</refid>
             </source>
         </sourceSet>
- 
         <subjectSet>
             <subject>
-                <term type="descriptiveTopic" vocab="LCSH" refid="sh 85046901 ">Fairies</term>
+                <term type="descriptiveTopic" vocab="LCSH" refid="sh 85046901 ">Fairies--Pictorial works</term>
             </subject>
         </subjectSet>
         <techniqueSet>
-            <technique>Drawings</technique>
+            <technique vocab="AAT" refid="300054196">Drawing (image making)</technique>
         </techniqueSet>
-        
-
-
         <titleSet>
             <title>Fairy in Irises</title>
         </titleSet>
@@ -83,4 +85,44 @@
             <worktype vocab="AAT">gouaches (paintings)</worktype>
         </worktypeSet>
     </work>
+    <image source="Metropolitan Museum of Art, The Collection Online">
+        <agentSet>
+            <display>unkown</display>
+            <agent>
+                <name type="corporate">Metropolitan Museum of Art</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <display>unkown</display>
+            <date/>
+        </dateSet>
+        <descriptionSet>
+            <description>Digital image of Fairy in Irises, by Dora Wheeler</description>
+        </descriptionSet>
+        <materialSet>
+            <material vocab="AAT" refid="300266226">TIFF</material>
+        </materialSet>
+        <measurementsSet>
+            <display>unkown</display>
+            <measurements/>
+        </measurementsSet>
+        <rightsSet>
+            <display>This object is part of the MET's Open Access for Scholarly Content Initiative</display>
+            <rights type="other">
+                <text>This object is part of the MET's Open Access for Scholarly Content Initiative</text>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <source>
+                <name type="other">Metropolitan Museum of Art</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <display>Fairy in Irises (digital surrogate)</display>
+            <title>Fairy in Irises (digital surrogate)</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">digital images</worktype>
+        </worktypeSet>
+    </image>
 </vra>
