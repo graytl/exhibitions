@@ -8,7 +8,7 @@
                 <name type="personal" vocab="LCNAF" refid="n 83181597">Saint Laurent, Yves</name>
                 <dates type="life">
                     <earliestDate>1936</earliestDate>
-                    <latestDate>2009</latestDate>
+                    <latestDate>2008</latestDate>
                 </dates>
                 <role>Fashion Designer</role>
                 <culture>French</culture>
@@ -84,13 +84,13 @@
         </stylePeriodSet>
         <subjectSet>
             <subject>
-                <term type="descriptiveTopic" vocab="LCSH" refid="sh 85040426">Earrings</term>
+                <term type="descriptiveTopic" vocab="LCSH" refid="sh 85040426">Earrings--Specimens</term>
             </subject>
             <subject>
-                <term type="descriptiveTopic" vocab="LCSH" refid="sh 85033276">Costume jewelry</term>
+                <term type="descriptiveTopic" vocab="LCSH" refid="sh 85033276">Costume jewelry--Specimens</term>
             </subject>
             <subject>
-                <term type="descriptiveTopic" vocab="LCSH" refid="sh 85113668">Rhinestone jewelry</term>
+                <term type="descriptiveTopic" vocab="LCSH" refid="sh 85113668">Rhinestone jewelry--Specimens</term>
             </subject>
         </subjectSet>
         <techniqueSet>
