@@ -4,8 +4,9 @@
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra-strict.xsd">
     <work source="Charles B. Curtis Fund, 1950">
         <agentSet>
+            <display>Laurent de La Hyre</display>
             <agent>
-                <name>vocab="LCNAF" refid="n 86138239" type="personal">La Hire, Laurent de, 1606-1656</name>
+                <name vocab="LCNAF" refid="n 86138239" type="personal">La Hire, Laurent de, 1606-1656</name>
                 <dates type="life">
                     <earliestDate>1606</earliestDate>
                     <latestDate>1656</latestDate>
@@ -25,7 +26,6 @@
         <descriptionSet>
             <display>The allegorical figure tunes a theorbo. At her shoulder is a songbird, symbol of natural music, whereas by contrast she may be a representation of modern music theory and practice. To the right are various contemporary instruments and scores: a lute, a violin, two recorders, a vocal exercise, and a song in two parts.</display>
             <description source="Metropolitan Museum of Art, Online Collection; http://www.metmuseum.org/collection/the-collection-online/search/436836 (accessed 11/21/2014)">The allegorical figure tunes a theorbo. At her shoulder is a songbird, symbol of natural music, whereas by contrast she may be a representation of modern music theory and practice. To the right are various contemporary instruments and scores: a lute, a violin, two recorders, a vocal exercise, and a song in two parts. This canvas, originally flanked by two music-making putti (Musée Magnin, Dijon), belonged to a series of the seven Liberal Arts commissioned by Gédéon Tallemant (1613–1668) for his house in the Marais quarter in Paris.</description>
-
         </descriptionSet>
         <locationSet>
             <display>Metropolitan Museum of Art, French Seventeenth-Century Painting</display>
@@ -34,18 +34,16 @@
                 <name type="geographic" vocab="TGN" refid="7007568" extent="state">New York</name>
                 <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
                 <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
-                <refid type="accession">49.55.38</refid>
+                <refid type="accession">50.189</refid>
             </location>
             <location type="creation">
-                <name type="geographic" vocab="TGN" refid="7008038" extent="inhabited place">Paris</name>
-                         
+                <name type="geographic" vocab="TGN" refid="7008038" extent="inhabited place">Paris</name>                   
             </location>
         </locationSet>
         <measurementsSet>
-            <display>105.7 cm (height) x 144.1 cm</display>
+            <display>105.7 cm (height) x 144.1 cm (width)</display>
             <measurements type="height" unit="cm">105.7</measurements>
             <measurements type="width" unit="cm">144.1</measurements>
-            
         </measurementsSet>
         <sourceSet>
             <display>Metropolitan Museum of Art, Charles B. Curtis Fund, 1950</display>
@@ -54,18 +52,18 @@
             </source>
         </sourceSet>
         <stylePeriodSet>
-            <display>Painting, Oil on Canvas, Allegory</display>
-            <stylePeriod vocab="AAT" refid="300033799">oil paintings (visual works)</stylePeriod>
-            <stylePeriod vocab="AAT" refid="300055866">allegory (artistic device)</stylePeriod>
+            <display>Baroque</display>
+            <stylePeriod vocab="AAT" refid="300021147">Baroque</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
             <subject>
-                <term type="descriptiveTopic" vocab="LSCH" refid="sh 85096739">Painting, French</term>
+                <term type="descriptiveTopic" vocab="LSCH" refid="sh 85088916">Music in art</term>
+                <term type="descriptiveTopic" vocab="LCSH" refid="sh 97000107">Education, Humanistic, in art</term>
             </subject>
         </subjectSet>
         <techniqueSet>
             <display>oil painting</display>
-            <technique vocab="AAT" refid="300178684">oil paitning (technique)</technique>
+            <technique vocab="AAT" refid="300178684">oil painting (technique)</technique>
         </techniqueSet>
         <titleSet>
             <display>Allegory of Music</display>
@@ -82,9 +80,6 @@
             <display>unknown</display>
         <measurements></measurements>
         </measurementsSet>
-        <relationSet>
-            <relation type="imageOf" refid="28" source="Core 4 Sample Database (VCat)"/>
-        </relationSet>
         <rightsSet>
             <display>©Metropolitan Museum of Art</display>
             <rights/>
