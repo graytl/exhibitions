@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra-strict.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n 78095326">Morris, William</name>
+                <dates type="life">
+                    <earliestDate>1834</earliestDate>
+                    <latestDate>1896</latestDate>
+                </dates>
+                <role>Textile Designer</role>
+                <culture>English</culture>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <display>1865-66</display>
+            <date type="creation">
+                <earliestDate>1865</earliestDate>
+                <latestDate>1866</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description source="The Metropolitan Museum of Art, The Collection Online: http://www.metmuseum.org/collection/the-collection-online/search/365338 (accessed 2014-11-26)">William Morris (1834-1896) designed this block-printed wallpaper for Morris &amp; Co. with illustrations of fruits (possibly pomegranates).</description>
+        </descriptionSet>
+        <inscriptionSet>
+            <inscription>
+                <text type="mark">Morris &amp; Co.</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <display>The Metropolitan Museum of Art</display>
+            <location type="repository">
+                <name type="corporate" vocab="LCNAF" refid="n 79129629">Metropolitan Museum of Art (New York, N.Y.)</name>
+                <name type="geographic" vocab="TGN" refid="7007567" extent="inhabited place">New York</name>
+                <name type="geographic" vocab="TGN" refid="7007568" extent="state">New York</name>
+                <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
+                <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
+                <refid type="accession">23.163.4g</refid>
+            </location>
+            <location type="creation">
+                <name>Morris &amp; Company</name>
+                <name type="geographic" vocab="TGN" refid="7002445" extent="inhabited place">London</name>
+                <name type="geographic" vocab="TGN" refid="7008136" extent="metropolitan area">Greater London</name>
+                <name type="geographic" vocab="TGN" refid="7002445" extent="country">England</name>
+                <name type="geographic" vocab="TGN" refid="7008591" extent="nation">United Kingdom</name>
+                <name type="geographic" vocab="TGN" refid="1000003" extent="continent">Europe</name>
+            </location>
+        </locationSet>
+        <materialSet>
+            <display>wallpaper</display>
+            <material type="medium" vocab="AAT" refid="300037366">wallpapers</material>
+        </materialSet>
+        <measurementsSet>
+            <display>27 1/16 x 21 5/8 in. (68.7 x 54.9 cm)</display>
+            <measurements type="area" unit="in">27 1/16 x 21 5/8</measurements>
+            <measurements type="area" unit="cm">68.7 x 54.9</measurements>
+        </measurementsSet>
+        <rightsSet>
+            <rights type="publicDomain"/>
+        </rightsSet>
+        <sourceSet>
+            <display>Fruit or Pomegranate by William Morris (British, 1834–1896)</display>
+            <source>
+                <name type="other">The Metropolitan Museum of Art</name>
+            </source>
+        </sourceSet>
+        <stylePeriodSet>
+            <stylePeriod vocab="AAT" refid="300172863">Romantic (modern European styles)</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet>
+            <subject>
+                <term type="descriptiveTopic" vocab="LCSH" refid="sh85144953">Wallpaper</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique vocab="AAT" refid="300054060">papermaking</technique>
+        </techniqueSet>
+        <titleSet>
+            <title type="descriptive">Wallpapers</title>
+        </titleSet>
+        <worktypeSet>
+            <display>Wallpapers</display>
+            <worktype vocab="AAT" refid="300037366">wallpapers</worktype>
+        </worktypeSet>
+    </work>
+</vra>
