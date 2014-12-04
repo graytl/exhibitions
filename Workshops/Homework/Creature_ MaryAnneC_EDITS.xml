@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra-strict.xsd">
+    <work source="Robert A. Ellison Jr. Collection, Gift of Robert A. Ellison Jr, 2013">
+        <agentSet>
+            <display>Martin Brothers</display>
+            <agent>
+                <name vocab="LCNAF" refid="n 80105804" type="corporate">Martin Brothers</name>
+                <dates type="activity">
+                    <earliestDate>1873</earliestDate>
+                    <latestDate>1915</latestDate>
+                </dates>
+                <role>Maker</role>
+                <culture>British Southall, London</culture>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <display>1885</display>
+            <notes/>
+            <date type="creation">
+                <earliestDate>1885</earliestDate>
+                <latestDate>1885</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <display/>
+            <notes/>
+            <description/>
+        </descriptionSet>
+        <inscriptionSet>
+            <display>Inscription: inscribed around inner rim of head/cover: 
+                RW Martin + Brothers. 5.85. London. +Southall</display>
+            <inscription>
+                <author/>
+                <position>inner rim of head</position>
+                <text type="mark">R W martin + Brothers. 5.85.London. +Southall</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <display>Metropolitan Museum of Art, Robert A. Ellison Jr. Collection, Gift of Robert A. Ellison Jr. 2013</display>
+            <notes/>
+            <location type="repository">
+                <name type="corporate" vocab="LNCAF" refid="n 79129629"> Metropolitan Museum of Art (New York, N.Y.)></name>
+                <name type="geographic" vocab="TGN" refid="7007568" extent="state">New York</name>
+                <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
+                <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
+                <refid type="accession">2013.239.4</refid>
+            </location>
+            <location type="creation">
+                <name type="geographic" vocab="LCSH" refid="n 80113884" extent="inhabited place">Southall (London, England)</name>
+            </location>
+        </locationSet>
+        <materialSet>
+            <display>ceramic (material)</display>
+            <material vocab="AAT" refid="300235507">ceramic (material)</material>
+        </materialSet>
+        <measurementsSet>
+            <display>Overall 22.5 cm x 12.7 cm x 17.1 cm</display>
+            <measurements/>
+        </measurementsSet>
+        <rightsSet>
+            <display/>
+            <notes/>
+            <rights>
+                <rightsHolder/>
+                <text/>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <display>Metroplitan Museum of Art, Robert A. Ellison Jr Collection</display>
+            <source>
+                <refid type="citation"> Metroplitan Museum of Art, Robert A. Ellison Jr Collection</refid>
+            </source>
+        </sourceSet>
+        <subjectSet>
+            <display>Mythical animals in art</display>
+            <subject>
+                <term vocab="LCSH" refid="sh 85005270">Animals, Mythical, in art</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <display>Creature</display>
+            <notes/>
+            <title type="repository">Creature</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300185648">art pottery</worktype>
+            <worktype vocab="AAT" refid="300386879">ceramic ware (visual works)</worktype>
+        </worktypeSet>
+    </work>
+    <image href="http://www.metmuseum.org/collection/the-collection-online/search/239485"
+        refid="223962" source="Metropolitan Museum of Art Online Collections">
+        <agentSet>
+            <display/>
+            <notes/>
+            <agent>
+                <attribution/>
+                <culture/>
+                <dates/>
+                <name/>
+                <role/>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <display/>
+            <notes/>
+            <culturalContext/>
+        </culturalContextSet>
+        <dateSet>
+            <display>1885</display>
+            <notes/>
+            <date/>
+        </dateSet>
+        <descriptionSet>
+            <display/>
+            <notes/>
+            <description/>
+        </descriptionSet>
+        <inscriptionSet>
+            <display/>
+            <notes/>
+            <inscription>
+                <author/>
+                <position/>
+                <text/>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <display/>
+            <notes/>
+            <location>
+                <refid/>
+                <name/>
+            </location>
+        </locationSet>
+        <materialSet>
+            <display/>
+            <notes/>
+            <material/>
+        </materialSet>
+        <measurementsSet>
+            <display/>
+            <notes/>
+            <measurements/>
+        </measurementsSet>
+        <relationSet>
+            <display>type="image of" refid="28" source="Core 4 Sample Database (VCat)"</display>
+            <notes/>
+            <relation/>
+        </relationSet>
+        <rightsSet>
+            <display>©Metropolitan Museum of Art</display>
+            <notes/>
+            <rights>
+                <rightsHolder/>
+                <text/>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <display>Metropolitan Museum of Art [website]; http://www.metmuseum.org/</display>
+            <notes/>
+            <source>
+                <refid>type="URI".http://www.metmuseum.org/</refid>
+                <name/>
+            </source>
+        </sourceSet>
+        <stateEditionSet>
+            <display/>
+            <notes/>
+            <stateEdition>
+                <description/>
+                <name/>
+            </stateEdition>
+        </stateEditionSet>
+        <stylePeriodSet>
+            <display/>
+            <notes/>
+            <stylePeriod/>
+        </stylePeriodSet>
+        <subjectSet>
+            <display/>
+            <notes/>
+            <subject>
+                <term/>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <display>digital imaging</display>
+            <notes/>
+            <technique/>
+        </techniqueSet>
+        <textrefSet>
+            <display/>
+            <notes/>
+            <textref>
+                <name/>
+                <refid/>
+            </textref>
+        </textrefSet>
+        <titleSet>
+            <display>Overall view</display>
+            <title>type="general view">Overall view</title>
+        </titleSet>
+        <worktypeSet>
+            <display>digital image</display>
+            <notes/>
+            <worktype/>
+        </worktypeSet>
+    </image>
+</vra>
