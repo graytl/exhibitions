@@ -1,38 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://loc.gov/standards/vracore/vra.xsd">
-    
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://loc.gov/standards/vracore/vra.xsd">
+
     <work>
         <agentSet>
             <display/>
             <notes/>
             <agent>
-                <attribution type= "personal" vocab="ULAN" refid= 500023723 />
-                <culture/>
+                <attribution>type= "personal" vocab="ULAN" id= "500023723"</attribution>
+                <culture>French</culture>
                 <dates>
-                    <earliestDate/>
-                    <latestDate/>
+                    <earliestDate>1936</earliestDate>
+                    <latestDate>2008</latestDate>
                 </dates>
-                <name/>
-                <role/>
+
+                <name>Yves Saint Laurent</name>
+                <role>fashion designer</role>
             </agent>
         </agentSet>
-        <culturalContextSet>
-            <display/>
-            <notes/>
-            <culturalContext/>
-        </culturalContextSet>
         <dateSet>
             <display/>
             <notes/>
             <date>
-                <earliestDate/>
-                <latestDate/>
+                <earliestDate>1965</earliestDate>
+                <latestDate>1966</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
             <display/>
             <notes/>
-            <description/>
+            <description>This is a wool color block sack or shift dress.</description>
         </descriptionSet>
         <inscriptionSet>
             <display/>
@@ -44,212 +42,23 @@
             </inscription>
         </inscriptionSet>
         <locationSet>
-            <display/>
+            <display>The Metropolitan Museum or Art</display>
             <notes/>
             <location>
-                <refid/>
-                <name/>
+                <refid>7007567</refid>
+                <name>New York City</name>
             </location>
         </locationSet>
         <materialSet>
             <display/>
             <notes/>
-            <material/>
+            <material>Wool</material>
         </materialSet>
         <measurementsSet>
             <display/>
             <notes/>
             <measurements/>
         </measurementsSet>
-        <relationSet>
-            <display/>
-            <notes/>
-            <relation/>
-        </relationSet>
-        <rightsSet>
-            <display/>
-            <notes/>
-            <rights>
-                <rightsHolder/>
-                <text/>
-            </rights>
-        </rightsSet>
-        <sourceSet>
-            <display/>
-            <notes/>
-            <source>
-                <refid/>
-                <name/>
-            </source>
-        </sourceSet>
-        <stateEditionSet>
-            <display/>
-            <notes/>
-            <stateEdition>
-                <description/>
-                <name/>
-            </stateEdition>
-        </stateEditionSet>
-        <stylePeriodSet>
-            <display/>
-            <notes/>
-            <stylePeriod/>
-        </stylePeriodSet>
-        <subjectSet>
-            <display/>
-            <notes/>
-            <subject>
-                <term/>
-            </subject>
-        </subjectSet>
-        <techniqueSet>
-            <display/>
-            <notes/>
-            <technique/>
-        </techniqueSet>
-        <textrefSet>
-            <display/>
-            <notes/>
-            <textref>
-                <name/>
-                <refid/>
-            </textref>
-        </textrefSet>
-        <titleSet>
-            <display/>
-            <notes/>
-            <title/>
-        </titleSet>
-        <worktypeSet>
-            <display/>
-            <notes/>
-            <worktype/>
-        </worktypeSet>
-        <image>
-            <agentSet>
-                <display/>
-                <notes/>
-                <agent>
-                    <attribution/>
-                    <culture/>
-                    <dates>
-                        <earliestDate/>
-                        <latestDate/>
-                    </dates>
-                    <name/>
-                    <role/>
-                </agent>
-            </agentSet>
-            <culturalContextSet>
-                <display/>
-                <notes/>
-                <culturalContext/>
-            </culturalContextSet>
-            <dateSet>
-                <display/>
-                <notes/>
-                <date>
-                    <earliestDate/>
-                    <latestDate/>
-                </date>
-            </dateSet>
-            <descriptionSet>
-                <display/>
-                <notes/>
-                <description/>
-            </descriptionSet>
-            <inscriptionSet>
-                <display/>
-                <notes/>
-                <inscription>
-                    <author/>
-                    <position/>
-                    <text/>
-                </inscription>
-            </inscriptionSet>
-            <locationSet>
-                <display/>
-                <notes/>
-                <location>
-                    <refid/>
-                    <name/>
-                </location>
-            </locationSet>
-            <materialSet>
-                <display/>
-                <notes/>
-                <material/>
-            </materialSet>
-            <measurementsSet>
-                <display/>
-                <notes/>
-                <measurements/>
-            </measurementsSet>
-            <relationSet>
-                <display/>
-                <notes/>
-                <relation/>
-            </relationSet>
-            <rightsSet>
-                <display/>
-                <notes/>
-                <rights>
-                    <rightsHolder/>
-                    <text/>
-                </rights>
-            </rightsSet>
-            <sourceSet>
-                <display/>
-                <notes/>
-                <source>
-                    <refid/>
-                    <name/>
-                </source>
-            </sourceSet>
-            <stateEditionSet>
-                <display/>
-                <notes/>
-                <stateEdition>
-                    <description/>
-                    <name/>
-                </stateEdition>
-            </stateEditionSet>
-            <stylePeriodSet>
-                <display/>
-                <notes/>
-                <stylePeriod/>
-            </stylePeriodSet>
-            <subjectSet>
-                <display/>
-                <notes/>
-                <subject>
-                    <term/>
-                </subject>
-            </subjectSet>
-            <techniqueSet>
-                <display/>
-                <notes/>
-                <technique/>
-            </techniqueSet>
-            <textrefSet>
-                <display/>
-                <notes/>
-                <textref>
-                    <name/>
-                    <refid/>
-                </textref>
-            </textrefSet>
-            <titleSet>
-                <display/>
-                <notes/>
-                <title/>
-            </titleSet>
-            <worktypeSet>
-                <display/>
-                <notes/>
-                <worktype/>
-            </worktypeSet>
-        </image>
     </work>
-    
+
 </vra>
