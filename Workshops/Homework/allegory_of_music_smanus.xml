@@ -69,6 +69,10 @@
             <display>Allegory of Music</display>
             <title type="popular" pref="true">Allegory of Music</title>
         </titleSet>
+        <worktypeSet>
+            <display>oil painting</display>
+            <worktype vocab="AAT" refid="300033799">oil paintings (visual works)</worktype>
+        </worktypeSet>
     </work>
     <image href="http://www.metmuseum.org/collection/the-collection-online/search/436836"
         source="Metropolitan Museum of Art Online Collections">
