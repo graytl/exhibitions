@@ -2,20 +2,17 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://loc.gov/standards/vracore/vra.xsd">
-
     <work>
         <agentSet>
             <display/>
             <notes/>
             <agent>
-                <attribution>type= "personal" vocab="ULAN" id= "500023723"</attribution>
                 <culture>French</culture>
                 <dates>
                     <earliestDate>1936</earliestDate>
                     <latestDate>2008</latestDate>
                 </dates>
-
-                <name>Yves Saint Laurent</name>
+                <name type="personal" vocab="ULAN" refid= "500023723">Yves Saint Laurent</name>
                 <role>fashion designer</role>
             </agent>
         </agentSet>
@@ -28,25 +25,23 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <display/>
-            <notes/>
-            <description>This is a wool color block sack or shift dress.</description>
+            <description>As the sack dress evolved in the 1960s into a modified form, the shift, Saint Laurent realized that the dress's planarity was an ideal field for color blocks. Knowing the flat planes of the 1960s canvases acheived by contemporary artists in the lineage of Mondrian, Saint Laurent made the historical case for the artistic sensibility of his time. Yet he also demonstrated a feat of dressmaking, setting in each block of jersey, piecing in order to create the semblance of the Mondrian order and to accomodate the body imperceptibly by hiding all the shaping in the grid of seams.</description>
         </descriptionSet>
         <inscriptionSet>
-            <display/>
+            <display>Yves Saint Laurent, Paris</display>
             <notes/>
             <inscription>
                 <author/>
-                <position/>
-                <text/>
+                <position>label</position>
+                <text>Yves Saint Laurent, Paris</text>
             </inscription>
         </inscriptionSet>
         <locationSet>
             <display>The Metropolitan Museum or Art</display>
             <notes/>
-            <location>
-                <refid>7007567</refid>
-                <name>New York City</name>
+            <location type="repository">
+                <name type="corporate" vocab="LCNAF" refid="n 79129629">Metropolitan Museum of Art (New York, N.Y.)</name>
+                <name type="geographic" vocab="TGN" refid="7007567">New York (inhabited place)</name>
             </location>
         </locationSet>
         <materialSet>
@@ -54,11 +49,61 @@
             <notes/>
             <material>Wool</material>
         </materialSet>
+        <stylePeriodSet>
+            <stylePeriod vocab="AAT" refid="300021262">Neo-Plastic</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCNAF" refid="n 79135254">Mondrian, Piet, 1872-1944</term>
+                <term vocab="LCSH" refid="sh2004014671">Minimal design--Specimens</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique vocab="AAT" refid="300053650">dressmaking</technique>
+        </techniqueSet>
+        <titleSet>
+            <title></title>
+        </titleSet>
+        <worktypeSet>
+            <worktype></worktype>
+        </worktypeSet>
+    </work>
+    <image
+        href="http://www.metmuseum.org/collection/the-collection-online/search/83442"
+        refid="DT2650" source="Metropolitan Museum of Art Online Collections">
+        <dateSet>
+            <display>unknown</display>
+            <date/>
+        </dateSet>
         <measurementsSet>
-            <display/>
+            <display>unknown</display>
             <notes/>
             <measurements/>
         </measurementsSet>
-    </work>
-
+        <rightsSet>
+            <display>©Metropolitan Museum of Art</display>
+            <rights/>
+        </rightsSet>
+        <sourceSet>
+            <display>Metropolitan Museum of Art [website]; http://www.metmuseum.org/</display>
+            <source>
+                <name/>
+                <refid type="URI">http://www.metmuseum.org/</refid>
+            </source>
+        </sourceSet>
+        <techniqueSet>
+            <display>digital imaging</display>
+            <notes/>
+            <technique/>
+        </techniqueSet>
+        <titleSet>
+            <display>Front view</display>
+            <title type="generalView">Front</title>
+        </titleSet>
+        <worktypeSet>
+            <display>digital image</display>
+            <notes/>
+            <worktype/>
+        </worktypeSet>
+    </image>
 </vra>
