@@ -4,179 +4,84 @@
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
     <work>
         <agentSet>
-            <display></display>
-            <notes></notes>
             <agent>
-                <culture></culture>
                 <dates>
                     <earliestDate></earliestDate>
                     <latestDate></latestDate>
                 </dates>
                 <name></name>
-                <role></role>
             </agent>
         </agentSet>
         <dateSet>
-            <display></display>
-            <notes></notes>
             <date>
                 <earliestDate></earliestDate>
                 <latestDate></latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <display></display>
-            <notes></notes>
             <description></description>
         </descriptionSet>
         <inscriptionSet>
-            <display></display>
-            <notes></notes>
             <inscription>
-                <author></author>
-                <position></position>
                 <text></text>
             </inscription>
         </inscriptionSet>
         <locationSet>
-            <display></display>
-            <notes></notes>
             <location>
                 <refid></refid>
                 <name></name>
             </location>
         </locationSet>
-        <materialSet>
-            <display></display>
-            <notes></notes>
-            <material></material>
-        </materialSet>
-        <measurementsSet>
-            <display></display>
-            <notes></notes>
-            <measurements></measurements>
-        </measurementsSet>
         <rightsSet>
-            <display></display>
-            <notes></notes>
             <rights>
                 <rightsHolder></rightsHolder>
                 <text></text>
             </rights>
         </rightsSet>
-        <sourceSet>
-            <display></display>
-            <notes></notes>
-            <source>
-                <refid></refid>
-                <name></name>
-            </source>
-        </sourceSet>
-        <stylePeriodSet>
-            <display></display>
-            <notes></notes>
-            <stylePeriod></stylePeriod>
-        </stylePeriodSet>
         <subjectSet>
-            <display></display>
-            <notes></notes>
             <subject>
                 <term></term>
             </subject>
         </subjectSet>
-        <techniqueSet>
-            <display></display>
-            <notes></notes>
-            <technique></technique>
-        </techniqueSet>
         <titleSet>
-            <display></display>
-            <notes></notes>
             <title></title>
         </titleSet>
         <worktypeSet>
-            <display></display>
-            <notes></notes>
             <worktype></worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
-            <display></display>
-            <notes></notes>
             <agent>
-                <attribution></attribution>
-                <culture></culture>
-                <dates>
-                    <earliestDate></earliestDate>
-                    <latestDate></latestDate>
-                </dates>
                 <name></name>
                 <role></role>
             </agent>
         </agentSet>
         <dateSet>
-            <display></display>
-            <notes></notes>
             <date>
                 <earliestDate></earliestDate>
                 <latestDate></latestDate>
             </date>
         </dateSet>
-        <descriptionSet>
-            <display></display>
-            <notes></notes>
-            <description></description>
-        </descriptionSet>
         <locationSet>
-            <display></display>
-            <notes></notes>
             <location>
                 <refid></refid>
                 <name></name>
             </location>
         </locationSet>
         <measurementsSet>
-            <display></display>
-            <notes></notes>
             <measurements></measurements>
         </measurementsSet>
         <rightsSet>
-            <display></display>
-            <notes></notes>
             <rights>
                 <rightsHolder></rightsHolder>
                 <text></text>
             </rights>
         </rightsSet>
-        <sourceSet>
-            <display></display>
-            <notes></notes>
-            <source>
-                <refid></refid>
-                <name></name>
-            </source>
-        </sourceSet>
-        <subjectSet>
-            <display></display>
-            <notes></notes>
-            <subject>
-                <term></term>
-            </subject>
-        </subjectSet>
-        <techniqueSet>
-            <display></display>
-            <notes></notes>
-            <technique></technique>
-        </techniqueSet>
         <titleSet>
-            <display></display>
-            <notes></notes>
             <title></title>
         </titleSet>
         <worktypeSet>
-            <display></display>
-            <notes></notes>
             <worktype></worktype>
         </worktypeSet>
     </image>
