@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <dates>
+                    <earliestDate>1912</earliestDate>
+                    <latestDate>1956</latestDate>
+                </dates>
+                <name vocab="ULAN" refid="500015134">Pollock, Jackson</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date>
+                <earliestDate>circa 1948</earliestDate>
+                <latestDate>1949</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>In the mid-1940s, when he became dissatisfied with representational art, Pollock began to conceive of a way to render things imagined, rather than things that were seen. In 1947, he devised a radically new technique whereby paint was dripped and poured (as well as spattered, flung, and pooled) over canvas or paper using a variety of unconventional tools (e.g., sticks, brush handles, cans, etc). </description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="LCNAF" refid="n 79129629">Metropolitan Museum of Art (New York, N.Y.)</name>
+                <name type="geographic" vocab="TGN" refid="7007568" extent="state">New York</name>
+                <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
+                <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights>
+                <rightsHolder>Pollock-Krasner Foundation</rightsHolder>
+                <text>© 2010 The Pollock-Krasner Foundation / Artists Rights Society (ARS), New York</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Untitled</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid=" 300112061">action painting</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name/>
+                <role/>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date>
+                <earliestDate/>
+                <latestDate/>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location>
+                <refid/>
+                <name/>
+            </location>
+        </locationSet>
+        <measurementsSet>
+            <measurements/>
+        </measurementsSet>
+        <rightsSet>
+            <rights>
+                <rightsHolder/>
+                <text/>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title/>
+        </titleSet>
+        <worktypeSet>
+            <worktype/>
+        </worktypeSet>
+    </image>
+</vra>
