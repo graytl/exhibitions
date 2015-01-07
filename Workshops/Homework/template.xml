@@ -5,15 +5,15 @@
     <work>
         <agentSet>
             <agent>
+                <name type="" vocab="" refid=""></name>
                 <dates>
                     <earliestDate></earliestDate>
                     <latestDate></latestDate>
                 </dates>
-                <name></name>
             </agent>
         </agentSet>
         <dateSet>
-            <date>
+            <date type="">
                 <earliestDate></earliestDate>
                 <latestDate></latestDate>
             </date>
@@ -21,60 +21,50 @@
         <descriptionSet>
             <description></description>
         </descriptionSet>
-        <inscriptionSet>
-            <inscription>
-                <text></text>
-            </inscription>
-        </inscriptionSet>
         <locationSet>
-            <location>
+            <location type="">
+                <name type="" vocab="" refid=""></name>
                 <refid></refid>
-                <name></name>
             </location>
         </locationSet>
         <rightsSet>
-            <rights>
-                <rightsHolder></rightsHolder>
+            <rights type="">                
                 <text></text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term></term>
+                <term vocab="" refid=""></term>
             </subject>
         </subjectSet>
         <titleSet>
             <title></title>
         </titleSet>
         <worktypeSet>
-            <worktype></worktype>
+            <worktype vocab="" refid=""></worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name></name>
+                <name type="" vocab="" refid=""></name>
                 <role></role>
             </agent>
         </agentSet>
         <dateSet>
-            <date>
+            <date type="">
                 <earliestDate></earliestDate>
                 <latestDate></latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location>
+            <location type="">
                 <refid></refid>
-                <name></name>
+                <name type="" vocab="" refid=""></name>
             </location>
         </locationSet>
-        <measurementsSet>
-            <measurements></measurements>
-        </measurementsSet>
         <rightsSet>
-            <rights>
-                <rightsHolder></rightsHolder>
+            <rights type="">
                 <text></text>
             </rights>
         </rightsSet>
@@ -82,7 +72,7 @@
             <title></title>
         </titleSet>
         <worktypeSet>
-            <worktype></worktype>
+            <worktype vocab="" refid=""></worktype>
         </worktypeSet>
     </image>
 </vra>
