@@ -1,6 +1,7 @@
-# The Treasure Room: Special Collections Turns 50
+# Special Collections Library
 
-Looking at items as they were collected: how does each speak for its time?
+The Treasure Room: Special Collections Turns 50
 
-* Curator: Kathy Smith
+* Curator: Kathy Smith, Celia Walker
 * Location: Special Collections Library
+  * 5 pedestal cases
