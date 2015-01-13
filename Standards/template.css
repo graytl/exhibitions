@@ -1,0 +1,460 @@
+@namespace oxy "http://www.oxygenxml.com/extensions/author";
+
+/****************
+* Global styles
+*****************/
+
+vra {
+    font-family: Calibri, Helvetica, Arial, sans-serif;
+    font-size: 11pt;
+    width: 700px;
+}
+
+* {
+    display: block;
+}
+
+/* indent the form fields and hide the repeat field value outside the form field */
+agentSet dates,
+agentSet name,
+agentSet role,
+dateSet date,
+descriptionSet description,
+locationSet location,
+rightsSet rights,
+subjectSet term,
+titleSet title,
+worktypeSet worktype {
+    padding-left: 50px;
+    visibility: -oxy-collapse-text;
+}
+
+/* give some breathing room to repeatable fields */
+locationSet location,
+subjectSet subject {
+    padding-bottom: 20px;
+}
+
+/* make textarea text wrap */
+descriptionSet description,
+rightsSet rights text {
+    white-space: pre-wrap;
+}
+
+/* work and image record main headings */
+work:before {
+    content: "Work Record";
+}
+
+image:before {
+    content: "Image Record";
+}
+
+work:before, 
+image:before {
+    background-color: gray;
+    font-size: 1.25em;
+    font-weight: bold;
+    padding: 5px;
+    text-transform: uppercase;
+    width: 100%;
+}
+
+work,
+image {
+    padding-bottom: 50px;
+}
+
+/* subheadings (Agent, Date, etc.) */
+agentSet:before,
+dateSet:before,
+descriptionSet:before,
+locationSet:before,
+rightsSet:before,
+subjectSet:before,
+titleSet:before,
+worktypeSet:before {
+    font-size: 1.1em;
+    font-weight: bold;
+    padding: 30px 0 0 15px;
+}
+
+
+/****************
+* Field-Specific Styles
+*****************/
+
+/* Agent (work, image) */
+
+agentSet:before {
+    content: "Agent";
+}
+
+agentSet agent name:before {
+    content:
+        oxy_label(
+            text, "Agent Name: ", 
+            width, 110px) 
+        oxy_textfield(
+            edit, "#text", 
+            columns, 60)
+        oxy_label(
+            text, "Agent Type: ", 
+            width, 110px) 
+        oxy_combobox(
+            edit, "@type", 
+            editable, false, 
+            values, "personal, corporate, family, other")
+        /*oxy_button(actionID, 'remove.type', 
+            color, red, 
+            transparent, true);*/
+        oxy_label(
+            text, "Vocab: ", 
+            width, 75px,
+            styles, "text-align: right;") 
+        oxy_combobox(
+            edit, "@vocab", 
+            editable, false, 
+            values, "ULAN, LCNAF, VIAF")
+        oxy_label(
+            text, "Ref ID: ", 
+            width, 75px,
+            styles, "text-align: right;") 
+        oxy_textfield(
+            edit, "@refid", 
+            columns, 15);
+}
+
+/* agent role (image only) */
+agentSet role:before {
+    content:
+        oxy_label(
+            text, "Role: ", 
+            width, 110px) 
+        oxy_textfield(
+            edit, "#text", 
+            columns, 60);
+}
+
+/* agent dates (work only) */
+agentSet earliestDate:before {
+    content:
+        oxy_label(
+            text, "Earliest Date: ", 
+            width, 110px) 
+        oxy_textfield(
+            edit, "#text", 
+            columns, 15);
+}
+
+agentSet latestDate:before {
+    content:
+        oxy_label(
+            text, "Latest Date: ", 
+            width, 110px) 
+        oxy_textfield(
+            edit, "#text", 
+            columns, 15);
+}
+
+agentSet latestDate:after {
+    content: "Note to curators: The format for the date fields is 'yyyy-mm-dd' (no quotes). Please use LatestDate term 'present' if the agent is still alive. Use 'unknown' in both date fields for undetermined dates.";
+    display: block;
+    font-size: 0.9em;
+    font-style: italic;
+}
+
+
+/* Date (work, image) */
+
+dateSet:before {
+    content: "Date";
+}
+
+work dateSet date:before { 
+    content:
+        oxy_label(
+            text, "Date Type: ", 
+            width, 110px) 
+        oxy_combobox(
+            edit, "@type", 
+            editable, false, 
+            values, "creation, publication, other");
+}
+/* repeated because the dropdown values differ between work and image record */
+image dateSet date:before { 
+    content:
+     oxy_label(
+            text, "Date Type: ", 
+            width, 110px) 
+        oxy_combobox(
+            edit, "@type", 
+            editable, false, 
+            values, "alteration, creation, other");
+}
+
+dateSet earliestDate:before {
+    content:
+        oxy_label(
+            text, "Earliest Date: ", 
+            width, 110px) 
+        oxy_textfield(
+            edit, "#text", 
+            columns, 15);
+}
+
+dateSet latestDate:before {
+    content:
+        oxy_label(
+            text, "Latest Date: ", 
+            width, 110px) 
+        oxy_textfield(
+            edit, "#text", 
+            columns, 15);
+}
+
+dateSet latestDate:after {
+    content: "Note to curators: The format for the date fields is 'yyyy-mm-dd' (no quotes). Please repeat same year in LatestDate if the date is a single known year. Use 'unknown' in both fields for undetermined dates.";
+    display: block;
+    font-size: 0.9em;
+    font-style: italic;
+}
+
+
+
+/* Description (work) */
+
+descriptionSet:before {
+    content: "Description";
+}
+
+descriptionSet description:before {
+    content:
+        oxy_label(
+            text, "Text: ", 
+            width, 110px) 
+        oxy_textArea(
+            edit, '#text',
+            rows, 5,
+            columns, 60,
+            indentOnTab, false);
+}
+
+descriptionSet description:after {
+    content: "Note to curators: There is a 500-character limit on this field. Please use '&amp;' in place of ampersands.";
+    display: block;
+    font-size: 0.9em;
+    font-style: italic;
+    padding-left: 110px;
+}
+
+
+/* Location (work, image */
+
+locationSet:before {
+    content: "Location";
+}
+
+locationSet location:before {
+    content:
+        oxy_label(
+            text, "Location Type: ", 
+            width, 110px) 
+        oxy_combobox(
+            edit, "@type", 
+            editable, false, 
+            values, "repository, other")
+}
+
+locationSet location name:before {
+    content:
+        oxy_label(
+            text, "Location Name: ", 
+            width, 110px) 
+        oxy_textfield(
+            edit, "#text" 
+            columns, 60)
+        oxy_label(
+            text, "Loc. Name Type: ", 
+            width, 110px) 
+        oxy_combobox(
+            edit, "@type", 
+            editable, false, 
+            values, "corporate, geographic, other")
+        oxy_label(
+            text, "Vocab: ", 
+            width, 75px,
+            styles, "text-align: right") 
+        oxy_combobox(
+            edit, "@vocab", 
+            editable, false, 
+            values, "TGN, LCSH")
+        oxy_label(
+            text, "Ref ID: ", 
+            width, 75px
+            styles, "text-align: right") 
+        oxy_textfield(
+            edit, "@refid" 
+            columns, 15)   
+}
+
+work locationSet location refid:before {
+    content:
+        oxy_label(
+            text, "Ref ID: ", 
+            width, 110px) 
+        oxy_textfield(
+            edit, "#text" 
+            columns, 60)
+}
+
+work locationSet location refid:after {
+    content: "Note to curators: Please enter the archival collection name, box/folder #; OR, if this is a book, the collection name/call #.";
+    display: block;
+    font-size: 0.9em;
+    font-style: italic;
+    padding-left: 110px;
+}
+/* repeated because the label text differs between work and image record */
+image locationSet location refid:before {
+    content:
+        oxy_label(
+            text, "Image Filename: ", 
+            width, 110px) 
+        oxy_textfield(
+            edit, "#text" 
+            columns, 60)
+}
+
+
+/* Rights (work, image) */
+
+rightsSet:before {
+    content: "Rights"
+}
+
+rightsSet rights:before {
+    content:
+        oxy_label(
+            text, "Rights Type: ", 
+            width, 110px) 
+        oxy_combobox(
+            edit, "@type", 
+            editable, false, 
+            values, "copyrighted, publicDomain, undetermined, other");
+}
+
+rightsSet rights text:before {
+    content:
+        oxy_label(
+            text, "Statement: ", 
+            width, 110px) 
+        oxy_textArea(
+            edit, "#text",
+            rows, 5,
+            columns, 60,
+            indentOnTab, false);
+}
+
+
+/* Subjects (work) */
+
+subjectSet:before {
+    content: "Subject";
+}
+
+subjectSet subject term:before {
+    content:
+        oxy_label(
+            text, "Subject Term: ", 
+            width, 110px) 
+        oxy_textfield(
+            edit, "#text", 
+            columns, 60)
+        oxy_label(
+            text, "Vocab: ", 
+            width, 110px) 
+        oxy_combobox(
+            edit, "@vocab", 
+            editable, false, 
+            values, "LCSH, Local")
+        oxy_label(
+            text, "Ref ID: ", 
+            width, 75px,
+            styles, "text-align: right") 
+        oxy_textfield(
+            edit, "@refid", 
+            columns, 15);
+}
+
+
+/* Title (work, image) */
+
+titleSet:before {
+    content: "Title";
+}
+
+titleSet title:before {
+    content:
+        oxy_label(
+            text, "Title Display: ", 
+            width, 110px) 
+        oxy_textfield(
+            edit, "#text", 
+            columns, 60);
+}
+
+
+/* Worktype (work, image) */
+
+worktypeSet:before {
+    content: "Worktype";
+}
+
+work worktypeSet worktype:before {
+    content:
+        oxy_label(
+            text, "Type of Work: ", 
+            width, 110px) 
+        oxy_textfield(
+            edit, "#text", 
+            columns, 60)
+        oxy_label(
+            text, "Vocab: ", 
+            width, 110px) 
+        oxy_combobox(
+            edit, "@vocab", 
+            editable, false, 
+            values, "AAT, RBGENR")
+        oxy_label(
+            text, "Ref ID: ", 
+            width, 75px,
+            styles, "text-align: right") 
+        oxy_textfield(
+            edit, "@refid", 
+            columns, 15);
+}
+/* repeated because the vocab dropdown values differ between work and image record */
+image worktypeSet worktype:before {
+    content:
+        oxy_label(
+            text, "Type of Work: ", 
+            width, 110px) 
+        oxy_textfield(
+            edit, "#text", 
+            columns, 60)
+        oxy_label(
+            text, "Vocab: ", 
+            width, 110px) 
+        oxy_combobox(
+            edit, "@vocab", 
+            editable, false, 
+            values, "AAT")
+        oxy_label(
+            text, "Ref ID: ", 
+            width, 75px,
+            styles, "text-align: right") 
+        oxy_textfield(
+            edit, "@refid", 
+            columns, 15);
+}
