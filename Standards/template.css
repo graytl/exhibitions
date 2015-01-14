@@ -387,6 +387,12 @@ subjectSet subject term:before {
             columns, 15);
 }
 
+subjectSet term:after {
+    content: "Note to curators: this field is not required, but is encouraged if subject(s) are known.";
+    display: block;
+    font-size: 0.9em;
+    font-style: italic;
+}
 
 /* Title (work, image) */
 
