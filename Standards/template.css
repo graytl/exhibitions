@@ -52,7 +52,7 @@ image:before {
 
 work:before, 
 image:before {
-    background-color: gray;
+    background-color: #D1D1D1;
     font-size: 1.25em;
     font-weight: bold;
     padding: 5px;
