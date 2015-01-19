@@ -8,7 +8,7 @@ Metadata for Heard Library Exhibitions
 * September 2014 - Topics Finalized, Assigned, and Approved
 * October 2014 - Curatorial Assignments Finalized
 * November 2014
-  * November 11, 12, 13 [Curator workshops](Workshops/curator-workshops.md)
+  * November 11, 12, 13 [Curator workshops](Workshops/workshop-schedule.md)
   * Final text due for Vanderbilt Television News Archive update
 * December 2014
   * Vanderbilt Television News Archive update installed
