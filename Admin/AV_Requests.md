@@ -11,7 +11,9 @@ send the physical item to Sara so that it may be digitized.
 ## Television News Archive Clips
 [Search the TV News Archive](http://tvnews.vanderbilt.edu/)
 
-_NOTE: DO NOT request clips from NBC; our rights agreement does not allow the use of NBC clips for exhibition_
+NOTES: 
+* DO NOT request clips from NBC; our rights agreement does not allow the use of NBC clips for exhibition. 
+* Curators must be connected to the internet (not wireless) from Vanderbilt University Central Library in order to view clips from the TV News Archive.
 
 #### Template:
 * **Create a title** (max 60 characters)
