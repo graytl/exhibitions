@@ -9,6 +9,8 @@ Email Sara with your requests. For any non-digital requests (i.e. clips requeste
 send the physical item to Sara so that it may be digitized.
 
 ## Television News Archive Clips
+[Search the TV News Archive](http://tvnews.vanderbilt.edu/)
+
 _NOTE: DO NOT request clips from NBC; our rights agreement does not allow the use of NBC clips for exhibition_
 
 #### Template:
