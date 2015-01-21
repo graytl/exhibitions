@@ -2,8 +2,7 @@
 All requested A/V or audio-only clips require specific information in order to be processed (see guides below for examples). 
 The deadline for submission requests is **February 27, 2015**.
 
-Please refer to the interactive allocations document to see how many A/V slots your exhibition topic has been alloted. If possible, limit clip to 
-**2 minutes or less** in length. 
+Please refer to the interactive allocations document to see how many A/V slots your exhibition topic has been alloted. If possible, limit clips to **2 minutes or less.**
 
 Email Sara with your requests. For any non-digital requests (i.e. clips requested from records, tapes, DVDs, etc.), please also 
 send the physical item to Sara so that it may be digitized.
