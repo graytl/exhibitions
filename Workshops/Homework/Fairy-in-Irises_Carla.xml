@@ -36,7 +36,7 @@
             </inscription>
         </inscriptionSet>
         <locationSet>
-            <display>Metropolitan Museum of Art, Candace Wheeler Collection,  Gift of Candace Pullman Wheeler, 2002</display>
+            <display>Metropolitan Museum of Art, Candace Wheeler Collection, Gift of Candace Pullman Wheeler, 2002</display>
             <location type="repository">
                 <name type="corporate" vocab="LCNAF" refid="n 79129629">Metropolitan Museum of Art (New York, N.Y.)</name>
                 <name type="geographic" vocab="TGN" refid="7007568" extent="state">New York</name>
