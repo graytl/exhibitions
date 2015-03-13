@@ -1,6 +1,12 @@
-# Cops and Robbers: Dastardly Criminals in the Archives
+# Killers: Dastardly Criminals in the Archives
 
 * Curators: <code>@celiaswalker</code>; Kathy Smith
 * Location: 2nd Floor Gallery
+* Cases:
+  * Crooks and Robbers
+  * Leopold and Loeb
+  * The Crime of the Century
+  * Making Money from Murder
+  * Assassins
 
 
