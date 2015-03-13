@@ -23,7 +23,7 @@ try to get retrial for Manson and others and that only Manson can save world fro
 and will refuse to watch trial by closed circuit TV. Prosecutor Dwayne Keyes says Fromme is frustrated at reporters for 
 ignoring her remarks about Manson and so she tried to create hard news by trying to kill Ford. 
 
-#### Clip 4 | Newsreel of the Scene of Bonnie and Clyde’s Death
+#### Clip 4 | Newsreel Scene of Bonnie and Clyde’s Death
 * Description: This is a 16mm film made by law enforcement posse member Ted Hinton moments after the killing of Clyde Barrow 
 and Bonnie Parker on May 23, 1934 in Gibsland. Lousiana. The film was used in a newsreel reporting on the death of the two 
 outlaws and shows the immense amount of firepower the posse used to stop the duo.
