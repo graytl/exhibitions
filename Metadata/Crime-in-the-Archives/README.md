@@ -1,6 +1,6 @@
 # Killers: Dastardly Criminals in the Archives
 
-* Curators: <code>@celiaswalker</code>; Kathy Smith
+* Curators: Celia Walker, Kathy Smith
 * Location: 2nd Floor Gallery
 * Cases:
   * Crooks and Robbers
