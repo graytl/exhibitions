@@ -1,4 +1,5 @@
-# Peabody Library: Messages about Race and Gender in Children's Literature
+# Peabody Library
+### Messages about Race and Gender in Children's Literature
 
 * Curators: Kate Costin
 * Location: Peabody Library
