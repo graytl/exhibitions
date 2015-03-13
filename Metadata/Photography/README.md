@@ -1,6 +1,6 @@
 # Photography as Art and Documentation
 
-* Curators: Mary Anne Caton, <code>@CarlaBeals</code>
+* Curators: Mary Anne Caton, Carla Beals
 * Location: Left side, main gallery
   * 4 cases, 2 pedestals, 3 digital touchscreens
 * Cases:
