@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n98077443">Marr. Johnny 1961</name>
+                <dates>
+                    <earliestDate>1961</earliestDate>
+                    <latestDate>unknown</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>1990</earliestDate>
+                <latestDate>1990</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>In the 1970s, self-published magazines, called "zines" became an important voice for alternative or marginalized media. With the rise of punk culture, zines became means for communication in such areas as the queer and Riot Grrl movements. John Marr's "Murder Can Be Fun" series, which ran for over 20 years, looked at strange and unusual crimes through the lens of anti-establishment culture. Web browsers and the demise of independent book and record stores led to online zine publication.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University, Library</name>
+                <refid>Sevier SPEC SEVP AP 2.M87</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>c. John Marr, johnmarr1@yahoo.com. PO Box 640111. San Francisco, CA 94164</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="85088613">Murder</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>"The Art of Murder"</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300026657">periodicals</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="" vocab="" refid=""></name>
+                <role></role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="">
+                <earliestDate></earliestDate>
+                <latestDate></latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="">
+                <refid></refid>
+                <name type="" vocab="" refid=""></name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="">
+                <text></text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title></title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid=""></worktype>
+        </worktypeSet>
+    </image>
+</vra>

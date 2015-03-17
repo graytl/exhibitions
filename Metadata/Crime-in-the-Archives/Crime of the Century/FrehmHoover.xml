@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="" refid="">Frehm, Paul</name>
+                <dates>
+                    <earliestDate>1938</earliestDate>
+                    <latestDate>1978</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1949</earliestDate>
+                <latestDate>1949</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>Illustrator Paul Frehm worked with reporter Damon Runyon to cover the Lindbergh trial for the New York Daily Mirror, a William Randoph Hurst newspaper publication. Frehm’s illustration of J. Edgar Hoover, who led the Bureau of Investigation’s efforts to find the kidnapper, portrays the director in 1949. Hoover's dogged success in the case raised his own profile and helped to bring the Federal Kidnapping Act to Congress, allowing federal authorities jurisdiction in cases crossing state lines.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University Library</name>
+                <refid>James G. Stahlman Autograph Collection, Folder Hoover, J. Edgar</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>signed in the plate by Paul Frehm, but no copyright notice in CCC.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="79077374">Hoover, J. Edgar (John Edgar), 1895-1972</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>[Portrait of J. Edgar Hoover]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300041383">color lithograph</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="" vocab="" refid=""></name>
+                <role></role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="">
+                <earliestDate></earliestDate>
+                <latestDate></latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="">
+                <refid></refid>
+                <name type="" vocab="" refid=""></name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="">
+                <text></text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title></title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid=""></worktype>
+        </worktypeSet>
+    </image>
+</vra>

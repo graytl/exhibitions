@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 84089580 ">Grolier Incorporated</name>
+                <dates>
+                    <earliestDate>1909</earliestDate>
+                    <latestDate>2000-06</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>1994</earliestDate>
+                <latestDate>2001</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>Interest in the trial of Nathan Leopold and Richard Loeb has continued long after their deaths. Grolier Story of America Cards  were released in sets of 20 between 1994 and 2001.Covering all aspects of American history, the cards were sold on a subscription basis, with a total of 2600 cards in 130 decks or packets on topics such as "Life in America" and "Notable People."  The "Important Events" deck included "The Sinking of the Lusitania" and "The Boston Tea Party."</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University, Library</name>
+                <refid>James G. Stahlman Autograph Collection, Leopold, Nathan</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="">                
+                <text>C. Grolier Incorporated, a subsidiary of Scholastic, Inc.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="n50049890">Leopold, Nathan Freudenthal, 1904-1971</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="n50048217">Loeb, Richard A., 1905-1936</term>
+            </subject></subjectSet>
+        <titleSet>
+            <title>Grolier Story of America Subscription Card: The Trial of Nathan Leopold and Richard Loeb (#75-13)</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300192646">collecting cards</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="" vocab="" refid=""></name>
+                <role></role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="">
+                <earliestDate></earliestDate>
+                <latestDate></latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="">
+                <refid></refid>
+                <name type="" vocab="" refid=""></name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="">
+                <text></text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title></title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid=""></worktype>
+        </worktypeSet>
+    </image>
+</vra>

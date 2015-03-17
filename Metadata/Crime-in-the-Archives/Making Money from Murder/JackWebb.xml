@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="ULAN" refid="500017680">Chaliapin, Boris (American painter, sculptor, and sceneographer, 1904-1979)</name>
+                <dates>
+                    <earliestDate>1904</earliestDate>
+                    <latestDate>1979</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>1954-03-15</earliestDate>
+                <latestDate>1954-03-15</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>Dick Wolf, producer of the television series, "Law and Order," described "Dragnet' as “the father of us all." Jack Webb, its creator and director, began the "Dragnet" police drama series as a radio program (1949-1955) in 1949 and continued it as a television series (1952-1959 and 1967-1970). The show broke ground in its real life depiction of crime, moving away from the hard-boiled dramas of Dashiell Hammett and Raymond Chandler, toward a social realism with a focus on the dedicated policeman.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University, Library</name>
+                <refid>James G. Stahlman Autograph Collection, Webb, Jack</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>c. Time Magazine; claiming fair use due to: teaching, research, non-profit educational institution, transformative, published work, important to educational objectives,   small quantity, user owns copy, no significant effect on the market</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="79019992">Webb, Jack, 1920-1982</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>[Portrait of Jack Webb, Star of"Dragnet"]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300026657">periodical</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="" vocab="" refid=""></name>
+                <role></role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="">
+                <earliestDate></earliestDate>
+                <latestDate></latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="">
+                <refid></refid>
+                <name type="" vocab="" refid=""></name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="">
+                <text></text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title></title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid=""></worktype>
+        </worktypeSet>
+    </image>
+</vra>

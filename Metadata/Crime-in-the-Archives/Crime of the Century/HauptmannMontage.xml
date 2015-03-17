@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="" refid="">Scheafer, Henry A.</name>
+                <dates>
+                    <earliestDate>unknown</earliestDate>
+                    <latestDate>unknown</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1934</earliestDate>
+                <latestDate>1936</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>The $50,000 ransom paid for the Lindbergh baby contained a number of gold certificates that were scheduled to be withdrawn from circulation.  The FBI also recorded the serial numbers of all notes.  When one of the certificates turned up in a Manhattan gas station, an alert attendant marked it with the license plate of a suspicious customer.  This led agents to arrest Bruno Richard Hauptmann, a German immigrant living in the German-Austrian neighborhood of Yorkville.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="LCSH" refid="n81075875">Vanderbilt University, Library</name>
+                <refid>James G. Stahlman Autograph Collection,  Lindbergh, Charles</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Scheafer worked for Acme but image not found as montage on Corbis (center image is there), nor on Proquest Historical Newspapers or Google Image search.  Check with Corbis http://www.corbisimages.com/?gclid=CjwKEAiAveWnBRCzjqf4zpuUkGYSJABcoZbHJByIYe0TOtTaXCup6EACOQUCk-AkuTHQ2KVv-sM2bxoCiO7w_wcB&amp;gclsrc=aw.ds&amp;dclid=CJSQ9N7ilMQCFRAGgQod064AMg </text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="85015320">Hauptmann, Bruno Richard, 1899-1936</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>[Montage of Three Photographs of Bruno Richard Hauptmann on Trial]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300134989">news photograph</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="" vocab="" refid=""></name>
+                <role></role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="">
+                <earliestDate></earliestDate>
+                <latestDate></latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="">
+                <refid></refid>
+                <name type="" vocab="" refid=""></name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="">
+                <text></text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title></title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid=""></worktype>
+        </worktypeSet>
+    </image>
+</vra>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n78089065">Twentieth Century-Fox Film Corporation</name>
+                <dates>
+                    <earliestDate>1935-08-22</earliestDate>
+                    <latestDate>1984</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>1940-01-01</earliestDate>
+                <latestDate>1940--08-16</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>Western films have gone in and out of vogue since first appearing in the silent era. By the time "The Return of Frank James" was released in 1940, the form was gaining new popularity with the advent of a number of high budget productions from major studios. Its storyline takes up after the death of Frank's brother, Jesse James, with Frank out to avenge his brother's death.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University, Library</name>
+                <refid>Sevier SPEC SEVP AP 2.M87</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>c. 20th Century Fox (P.O. Box 900, Beverly Hills, CA 90213-0900; tel: 310-369-1000; fax: 310-369-4647)</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="50028710 ">James, Frank, 1844-1915</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>[Still from "The Return of Frank James"]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300128347">black-and-white photographs</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="" vocab="" refid=""></name>
+                <role></role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="">
+                <earliestDate></earliestDate>
+                <latestDate></latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="">
+                <refid></refid>
+                <name type="" vocab="" refid=""></name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="">
+                <text></text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title></title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid=""></worktype>
+        </worktypeSet>
+    </image>
+</vra>

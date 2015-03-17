@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">New York Journal (New York: N.Y.: 1896 Evening ed.)</name>
+                <dates>
+                    <earliestDate>1896</earliestDate>
+                    <latestDate>1937</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>1934-09-22</earliestDate>
+                <latestDate>1934-09-22</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>The country followed the Lindbergh case as it was happening, as this issue of the New York Journal, published two days before Bruno Hauptmann was indicted for extoring $50,000 from Charles Lindbergh, reveals.  A jotted-down license plate on a gold certificate led police to Hauptmann's Bronx residence, where police found $14,000 in ransom money in a shoe box hidden in the garage.  They also found wood in his attic that matched the wood of the ladder used to take the Lindbergh baby. </description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="LCSH" refid="n81075875">Vanderbilt University, Library</name>
+                <refid>James G. Stahlman Autograph Collection, Lindbergh, Charles</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Not located in New York Journal American Collection at Harry Ransom Center (see http://norman.hrc.utexas.edu/nyjadc/gallery.cfm#navtop). Contact Harry Ransom Center, 
+The University of Texas at Austin
+300 West 21st Street
+Austin, Texas 78712; No Rights contact, fill in form: http://www.hrc.utexas.edu/contact/ </text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="79100565">Lindbergh, Charles A. (Charles Augustus), 1902-1974</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>Traced to Lindy Home: Link Hauptmann to Kidnap Ladder</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300026867">clippings (information artifacts)</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="" vocab="" refid=""></name>
+                <role></role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="">
+                <earliestDate></earliestDate>
+                <latestDate></latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="">
+                <refid></refid>
+                <name type="" vocab="" refid=""></name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="">
+                <text></text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title></title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid=""></worktype>
+        </worktypeSet>
+    </image>
+</vra>

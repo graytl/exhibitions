@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n79055883">Levin, Meyer, 1905-1981</name>
+                <dates>
+                    <earliestDate>1905-10-07</earliestDate>
+                    <latestDate>1981-07-09</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>1957-10</earliestDate>
+                <latestDate>1957-10</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>Levin's novel was based on the 1924 Leopold and Loeb murder case. Psychiatric experts played a large part in the young men's avoidance of the electric chair, as it had in the trial of Charles Guiteau, who assassinated President Garfield in 1881 and in the defense of Harry Thaw in the 1906 Stanford White case. Loeb was killed in prison, but Leopold  was paroled, after which he unsuccessfully sued Levin for defamation of character. </description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University, Library</name>
+                <refid>James G. Stahlman Autograph Collection, Leopold, Nathan</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>c. November 1957, Pocket Books Cardinal Edition (now Simon &amp; Shuster). 
+Simon &amp; Schuster, Inc.
+Attn: Permissions Dept., 12th floor
+1230 Avenue of the Americas
+New York, NY 10020
+or fax your request on official letterhead to: (212) 698-7284
+Email: permissions@simonandschuster.com
+- See more at: http://www.simonandschuster.biz/biz/rights-and-permissions#sthash.UF8WS3s4.dpuf  OR http://www.simonandschuster.biz/biz/rights-and-permissions</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="n50049890">Leopold, Nathan Freudenthal, 1904-1971</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="n50048217">Loeb, Richard A., 1905-1936</term>
+            </subject></subjectSet>
+        <titleSet>
+            <title>Compulsion</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300200529">paperbacks</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="" vocab="" refid=""></name>
+                <role></role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="">
+                <earliestDate></earliestDate>
+                <latestDate></latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="">
+                <refid></refid>
+                <name type="" vocab="" refid=""></name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="">
+                <text></text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title></title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid=""></worktype>
+        </worktypeSet>
+    </image>
+</vra>

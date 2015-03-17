@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="2005015212">James, Edgar</name>
+                <dates>
+                    <earliestDate>unknown</earliestDate>
+                    <latestDate>unknown</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>1915</earliestDate>
+                <latestDate>1915</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>Western fiction got its starts in the penny dreadfuls and dime novels of the Civil War era. The "Hop Along Cassidy" stories were first published in 1904 and Zane Grey's "Riders of the Purple Sage" was released in 1912. The genre peaked in 1960.  "Frank James and His Brother Jesse" tells the story of Jesse's murder in a sympathetic tone and follows brother Frank's efforts at revenge and eventual surrender and conversion.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University, Library</name>
+                <refid>SEVIER SPEC F594 .J24 F73 1915 </refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>Published in 1915.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="50028710 ">James, Frank, 1844-1915</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>"Frank James and His Brother Jesse: The Daring Border Bandits"</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300343403">childrens books</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="" vocab="" refid=""></name>
+                <role></role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="">
+                <earliestDate></earliestDate>
+                <latestDate></latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="">
+                <refid></refid>
+                <name type="" vocab="" refid=""></name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="">
+                <text></text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title></title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid=""></worktype>
+        </worktypeSet>
+    </image>
+</vra>
