@@ -115,7 +115,7 @@ agentSet agent name:before {
         oxy_combobox(
             edit, "@vocab", 
             editable, false, 
-            values, "LCNAF, VIAF, other")
+            values, "LCNAF, VIAF, local")
         oxy_label(
             text, "Ref ID: ", 
             width, 75px,
@@ -276,7 +276,7 @@ locationSet location name:before {
         oxy_combobox(
             edit, "@vocab", 
             editable, false, 
-            values, "TGN, LCSH")
+            values, "TGN, LCSH, local")
         oxy_label(
             text, "Ref ID: ", 
             width, 75px
@@ -372,7 +372,7 @@ subjectSet subject term:before {
         oxy_combobox(
             edit, "@vocab", 
             editable, false, 
-            values, "LCSH, Local")
+            values, "LCSH, local")
         oxy_label(
             text, "Ref ID: ", 
             width, 75px,
@@ -426,7 +426,7 @@ work worktypeSet worktype:before {
         oxy_combobox(
             edit, "@vocab", 
             editable, false, 
-            values, "AAT, RBGENR")
+            values, "AAT, RBGENR, local")
         oxy_label(
             text, "Ref ID: ", 
             width, 75px,
