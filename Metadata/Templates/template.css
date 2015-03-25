@@ -115,7 +115,7 @@ agentSet agent name:before {
         oxy_combobox(
             edit, "@vocab", 
             editable, false, 
-            values, "ULAN, LCNAF, VIAF")
+            values, "LCNAF, VIAF, other")
         oxy_label(
             text, "Ref ID: ", 
             width, 75px,
