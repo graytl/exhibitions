@@ -125,17 +125,6 @@ agentSet agent name:before {
             columns, 15);
 }
 
-/* agent role (image only) */
-agentSet role:before {
-    content:
-        oxy_label(
-            text, "Role: ", 
-            width, 110px) 
-        oxy_textfield(
-            edit, "#text", 
-            columns, 60);
-}
-
 /* agent dates (work only) */
 agentSet earliestDate:before {
     content:
@@ -163,7 +152,6 @@ agentSet latestDate:after {
     font-size: 0.9em;
     font-style: italic;
 }
-
 
 /* Date (work, image) */
 
@@ -241,7 +229,7 @@ descriptionSet description:before {
 }
 
 descriptionSet description:after {
-    content: "Note to curators: There is a 500-character limit on this field. Please use '&amp;' in place of ampersands.";
+    content: "Note to curators: There is a 500-character limit on this field, including spaces. Please use '&amp;' in place of ampersands.";
     display: block;
     font-size: 0.9em;
     font-style: italic;
@@ -356,7 +344,7 @@ rightsSet rights text:before {
             indentOnTab, false);
 }
 
-rightsSet rights text:after {
+work rightsSet rights text:after {
      content: "Note to curators: Research into copyright for each item is expected prior to submitting metadata. Please do due diligence on finding a license for your item. If in the public domain, let us know where you found this information/why you think this (use text box provided). If copyrighted, or the status is unknown, try to locate a contact person/address and provide this in addition to the reason why you think this item is copyrighted (i.e. what research led you to this?). Celia will follow-up with all copyright statements and request licenses for use in the exhibition.";
      display: block;
      font-size: 0.9em;

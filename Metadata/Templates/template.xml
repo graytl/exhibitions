@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<?xml-stylesheet type="text/css" href="template.css"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
@@ -48,7 +48,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="" vocab="" refid=""></name>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
                 <role></role>
             </agent>
         </agentSet>
@@ -59,21 +59,21 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="">
-                <refid></refid>
-                <name type="" vocab="" refid=""></name>
+            <location type="other">
+                <refid/>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="">
-                <text></text>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
             <title></title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid=""></worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>
