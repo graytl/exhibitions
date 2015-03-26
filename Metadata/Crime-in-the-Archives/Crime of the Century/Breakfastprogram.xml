@@ -6,7 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="" refid="">Malcolm &amp; Hayes</name>
+                <name type="corporate" vocab="local" refid="">Malcolm and Hayes (Firm)</name>
                 <dates>
                     <earliestDate>unknown</earliestDate>
                     <latestDate>unknown</latestDate>
@@ -24,13 +24,14 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="n81075875">Vanderbilt University, Library</name>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
                 <refid>James G. Stahlman Autograph Collection, Lindbergh, Charles</refid>
             </location>
         </locationSet>
         <rightsSet>
+            <display/>
             <rights type="publicDomain">
-                <text>c. Malcolm &amp; Hayes, New York.
+                <text>c. Malcolm and Hayes, New York.
 Note that this company appears to be out of business, so considered orphaned--not found in CCC, LC, or Google.</text>
             </rights>
         </rightsSet>
@@ -43,38 +44,37 @@ Note that this company appears to be out of business, so considered orphaned--no
             <title>Breakfast in Honor of Captain Charles A. Lindbergh on the Presentation of the Raymond Orteig $25000 Dollar Prize</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300027240">programs</worktype>
+            <worktype vocab="AAT" refid="300027240">Programs (documents)</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="" vocab="" refid=""></name>
-                <role></role>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+            <date type="creation">
+                <earliestDate>2015-03-11</earliestDate>
+                <latestDate>2015-03-11</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="">
-                <refid></refid>
-                <name type="" vocab="" refid=""></name>
+            <location type="repository">
+                <refid>MS0412-C-Lindbergh-Honor_program_cover-June_17_1927.jpg</refid>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="">
-                <text></text>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title></title>
+            <title>[Digital reproduction of Breakfast in Honor of Captain Charles A. Lindbergh on the Presentation of the Raymond Orteig $25000 Dollar Prize</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid=""></worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>
