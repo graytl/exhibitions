@@ -6,11 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="" refid="">Scheafer, Henry A.</name>
-                <dates>
-                    <earliestDate>unknown</earliestDate>
-                    <latestDate>unknown</latestDate>
-                </dates>
+                <name type="personal" vocab="local">Scheafer, Henry A.</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -20,12 +16,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>The $50,000 ransom paid for the Lindbergh baby contained a number of gold certificates that were scheduled to be withdrawn from circulation.  The FBI also recorded the serial numbers of all notes.  When one of the certificates turned up in a Manhattan gas station, an alert attendant marked it with the license plate of a suspicious customer.  This led agents to arrest Bruno Richard Hauptmann, a German immigrant living in the German-Austrian neighborhood of Yorkville.</description>
+            <description>The $50,000 ransom paid for the Lindbergh baby contained a number of gold certificates that were scheduled to be withdrawn from circulation. The Federal Bureau of Investigation (FBI) also recorded the serial numbers of all notes. When one of the certificates turned up in a Manhattan gas station, an alert attendant marked it with the license plate of a suspicious customer. This led agents to arrest Bruno Richard Hauptmann, a German immigrant living in the German-Austrian neighborhood of Yorkville.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="n81075875">Vanderbilt University, Library</name>
-                <refid>James G. Stahlman Autograph Collection,  Lindbergh, Charles</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>James G. Stahlman Autograph Collection, Lindbergh, Charles folder</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,45 +31,45 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="85015320">Hauptmann, Bruno Richard, 1899-1936</term>
+                <term vocab="LCNAF" refid="n 85015320">Hauptmann, Bruno Richard, 1899-1936--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
             <title>[Montage of Three Photographs of Bruno Richard Hauptmann on Trial]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300134989">news photograph</worktype>
+            <worktype vocab="AAT" refid="300134989">News photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="" vocab="" refid=""></name>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
                 <role></role>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+            <date type="creation">
+                <earliestDate>2015-03-11</earliestDate>
+                <latestDate>2015-03-11</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="">
-                <refid></refid>
-                <name type="" vocab="" refid=""></name>
+            <location type="repository">
+                <refid>MS0412-C-Lindbergh-Hauptmann_photos.jpg</refid>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="">
-                <text></text>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title></title>
+            <title>[Digital reproduction of Montage of Three Photographs of Bruno Richard Hauptmann on Trial]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid=""></worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>
