@@ -6,7 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="" refid="">Frehm, Paul</name>
+                <name type="personal" vocab="LCNAF" refid="no2015031425">Frehm, Paul, 1938-1978</name>
                 <dates>
                     <earliestDate>1938</earliestDate>
                     <latestDate>1978</latestDate>
@@ -24,56 +24,57 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University Library</name>
-                <refid>James G. Stahlman Autograph Collection, Folder Hoover, J. Edgar</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>James G. Stahlman Autograph Collection, Hoover, J. Edgar folder</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>signed in the plate by Paul Frehm, but no copyright notice in CCC.</text>
+                <text>Signed in the plate by Paul Frehm, but no copyright notice in CCC.</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="79077374">Hoover, J. Edgar (John Edgar), 1895-1972</term>
+                <term vocab="LCNAF" refid="n 79077374">Hoover, J. Edgar (John Edgar), 1895-1972</term>
             </subject>
         </subjectSet>
         <titleSet>
             <title>[Portrait of J. Edgar Hoover]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300041383">color lithograph</worktype>
+            <worktype vocab="AAT" refid="300041383">Color lithographs</worktype>
+            <worktype vocab="AAT" refid="300015589">Courtroom illustrations</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="" vocab="" refid=""></name>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
                 <role></role>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+            <date type="creation">
+                <earliestDate>2015-03-11</earliestDate>
+                <latestDate>2015-03-11</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="">
-                <refid></refid>
-                <name type="" vocab="" refid=""></name>
+            <location type="repository">
+                <refid>MS0412-C-J_Edgar_Hoover_Autograph-1949.jpg</refid>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="">
-                <text></text>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title></title>
+            <title>[Digital reproduction of portrait of J. Edgar Hoover]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid=""></worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>
