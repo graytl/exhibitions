@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra-strict.xsd">
+    <work id="w_28" source="Core 4 Sample Database (VCat)" refid="28">
+        <agentSet>
+            <display>All-Star Trio (performer)</display>
+            <agent>
+                <name vocab="LCNAF" refid="nr98029157" type="corporate">All-Star Trio</name>
+                <role>performer</role>
+            </agent>
+            <agent>
+                <name vocab="LCNAF" refid="no2005104191" type="corporate">Ken Fuller's Famous Jazz Band</name>
+                <role>performer</role>
+            </agent>
+        </agentSet>
+            <dateSet>
+                <display>1919 (creation)</display>
+                <date type="creation">
+                    <earliestDate>1919</earliestDate>
+                    <latestDate>1919</latestDate>
+                </date>
+            </dateSet>
+        <descriptionSet>
+              <display>This is an analog recording marketed the Edison Diamond Disc. The disc rotates at 80 rpm, reflecting non-standardized recording practices common in the early 20th century.</display>
+            <description source="Sara Manus, Vanderbilt University Library, 2014">This is an analog recording marketed the Edison Diamond Disc. The disc rotates at 80 rpm, reflecting non-standardized recording practices common in the early 20th century.</description>
+        </descriptionSet>
+        <locationSet>
+            <display>Vanderbilt University, Anne Potter Wilson Music Library, recorded by Thomas A. Edison, Inc., in Orange, NJ, 1919.</display>
+            <notes>Publisher: Edison, Orange, NJ [1919]</notes>
+            <location type="repository">
+                <name type="corporate" vocab="LCNAF" refid="n81075875">Vanderbilt University. Library</name>
+                <name type="geographic" vocab="TGN" refid="7013959" extent="inhabited place">Nashville-Davidson</name>
+                <name type="geographic" vocab="TGN" refid="2001855" extent="county">Davidson</name>
+                <name type="geographic" vocab="TGN" refid="7007825" extent="state">Tennessee</name>
+                <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
+                <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
+            </location>
+            <location type="creation">
+                <name type="corporate" vocab="LCNAF" refid="n82047800">Thomas A. Edison, Inc.</name>
+                <name type="geographic" vocab="TGN" refid="7007565" extent="state">New Jersey</name>
+                <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
+                <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
+            </location>
+        </locationSet>
+        <materialSet>
+            <display>shellac disc</display>
+            <material type="medium" vocab="AAT" refid="300014918">shellac</material>
+        </materialSet>
+        <measurementsSet>
+            <display>9.5 in.</display>
+            <measurements type="circumfrence" unit="in">9.5</measurements>
+        </measurementsSet>
+        <subjectSet>
+            <display>Phonograph record</display>
+            <subject>
+                <term type="conceptTopic" vocab="AAT" refid="300028643">Phonograph records</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <display>Sand Dunes: One Step / I'm Sorry I Made Your Cry: Jazz Fox Trot</display>
+                <title type="cited" pref="true" xml:lang="en">Title on disc, Side R, Sand Dunes: One-Step / Byron Gay; Side L, I'm Sorry I Made You Cry: Jazz Fox Trot / N.J. Clesi</title>
+        </titleSet>
+        <worktypeSet>
+            <display>Sound recording</display>
+            <worktype vocab="AAT" refid="300028633">Sound recordings</worktype>
+        </worktypeSet>
+    </work>
+</vra>
