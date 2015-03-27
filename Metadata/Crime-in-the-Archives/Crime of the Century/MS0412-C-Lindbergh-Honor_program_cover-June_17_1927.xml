@@ -14,8 +14,8 @@
             </agent>
         </agentSet>
         <dateSet>
-            <date type="">
-                <earliestDate>1927-05-21</earliestDate>
+            <date type="creation">
+                <earliestDate>1927-06-17</earliestDate>
                 <latestDate>1927-06-17</latestDate>
             </date>
         </dateSet>
