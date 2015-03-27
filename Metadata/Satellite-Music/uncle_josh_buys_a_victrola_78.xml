@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra-strict.xsd">
+    <work id="w_28" source="Core 4 Sample Database (VCat)" refid="28">
+        <agentSet>
+            <display>Cal Stewart (author, speaker, 1856-1919)</display>
+            <agent>
+                <name vocab="LCNAF" refid="n82031934" type="personal">Stewart, Cal, 1856-1919</name>
+                <dates type="life">
+                    <earliestDate>1856</earliestDate>
+                    <latestDate>1919</latestDate>
+                </dates>
+                <culture>American</culture>
+                <role>author</role>
+                <role>speaker</role>
+            </agent>
+        </agentSet>
+            <dateSet>
+                <display>1919 (creation)</display>
+                <date type="creation">
+                    <earliestDate>1919</earliestDate>
+                    <latestDate>1919</latestDate>
+            </date>
+            </dateSet>
+        <descriptionSet>
+            <display>The Victor Talking Company was a major competitor to Edison. Founded in 1901, Victor took the lead in promoting classical music by recording Enrico Caruso, Jascha Heifetz, Fritz Kreisler, Sergei Rachmaninoff and other stars on its distinctive “Red Seal” label. This example highlights another lucrative market for Victor – vaudeville and comedy. This acoustic 78 features the popular “Uncle Josh.”</display>
+            <description source="Sara Manus, Vanderbilt University Library, 2014">The Victor Talking Company was a major competitor to Edison. Founded in 1901, Victor took the lead in promoting classical music by recording Enrico Caruso, Jascha Heifetz, Fritz Kreisler, Sergei Rachmaninoff and other stars on its distinctive “Red Seal” label. This example highlights another lucrative market for Victor – vaudeville and comedy. This acoustic 78 features the popular “Uncle Josh.”</description>
+        </descriptionSet>
+        <inscriptionSet>
+            <display>Title on disc, Side A, Uncle Josh Buys a Victrola; Side B, Opera from Pun'kin Centre/ Stewart.</display>
+            <inscription>
+                <position>Inscribed on Side A and Side B</position>
+                <text type="text" xml:lang="en">Title on disc, Side A, Uncle Josh Buys a Victrola; Title on disc, Side B, Opera at Pun'kin Centre</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <display>Vanderbilt University, Anne Potter Wilson Music Library, recorded by Victor Record, Camden, NJ; Side A recorded August 11, 1919, Side B recorded June 13, 1919.</display>
+            <notes>Publisher: Edison, Orange, NJ [1919]</notes>
+            <location type="repository">
+                <name type="corporate" vocab="LCNAF" refid="n81075875">Vanderbilt University. Library</name>
+                <name type="geographic" vocab="TGN" refid="7013959" extent="inhabited place">Nashville-Davidson</name>
+                <name type="geographic" vocab="TGN" refid="2001855" extent="county">Davidson</name>
+                <name type="geographic" vocab="TGN" refid="7007825" extent="state">Tennessee</name>
+                <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
+                <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
+            </location>
+            <location type="creation">
+                <name type="geographic" vocab="TGN" refid="1002227" extent="inhabited place">Camden</name>
+                <name type="geographic" vocab="TGN" refid="7007565" extent="state">New Jersey</name>
+                <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
+                <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
+        </location>
+        </locationSet>
+        <materialSet>
+            <display>shellac disc</display>
+            <material type="medium" vocab="AAT" refid="300014918">shellac</material>
+        </materialSet>
+            <measurementsSet>
+                <display>10 in.</display>
+                <measurements type="circumfrence" unit="in">10 in.</measurements>
+            </measurementsSet>
+        <subjectSet>
+            <display>Humorous recitations, American wit and humor, Cal Stewart, 78 rpm records</display>
+            <subject>
+            <term type="personalName" vocab="LCNAF" refid="n82031934">Stewart, Cal, 1856-1919</term>
+            <term type="conceptTopic" vocab="AAT" refid="300265790">78 rpm records</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <display>Uncle Josh Buys a Victrola; Opera at Pun'kin Center</display>
+            <title type="inscribed" pref="true" xml:lang="en">Uncle Josh Buys a Victrola; Opera at Pun'kin Center</title>
+        </titleSet>
+        <worktypeSet>
+            <display>78 rpm record</display>
+            <worktype vocab="AAT" refid="300265790">78 rpm records</worktype>
+        </worktypeSet>
+    </work>
+</vra>
