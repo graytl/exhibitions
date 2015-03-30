@@ -72,37 +72,7 @@ Austin, Texas 78712; No Rights contact, fill in form: http://www.hrc.utexas.edu/
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of "Link Hauptmann to Kidnap Ladder: Traced to Lindy Home," Page 1]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-11</earliestDate>
-                <latestDate>2015-03-11</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0412-C-Lindbergh-Sept_22_1934-02.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital reproduction of "Link Hauptmann to Kidnap Ladder: Traced to Lindy Home," Page 3]</title>
+            <title>[Digital reproduction of "Link Hauptmann to Kidnap Ladder: Traced to Lindy Home"]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
