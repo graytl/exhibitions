@@ -6,7 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">New York Journal (New York: N.Y.: 1896 Evening ed.)</name>
+                <name type="corporate" vocab="local">New York Evening Journal</name>
                 <dates>
                     <earliestDate>1896</earliestDate>
                     <latestDate>1937</latestDate>
@@ -20,12 +20,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>These two arial photographs depict Bruno Hauptmann's upper Bronx home and St. Raymond's Cemetery, where the Lindbergh ransom money was delivered.  Less than two miles separate the two locations. The New York Journal was the first newspaper to regularly team a reporter with a photographer on major stories. A complete in-house lab and photographic technicians meant that that photojournalists could have images ready for print in 90 minutes.</description>
+            <description>These two aerial photographs depict Bruno Hauptmann's upper Bronx home and St. Raymond's Cemetery, where the Lindbergh ransom money was delivered.  Less than two miles separate the two locations. The New York Evening Journal was the first newspaper to regularly team a reporter with a photographer on major stories. A complete in-house lab and photographic technicians meant that that photojournalists could have images ready for print in 90 minutes.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="n81075875">Vanderbilt University, Library</name>
-                <refid>James G. Stahlman Autograph Collection, Lindbergh, Charles</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>James G. Stahlman Autograph Collection, Lindbergh, Charles folder</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -38,7 +38,10 @@ Austin, Texas 78712; No Rights contact, fill in form: http://www.hrc.utexas.edu/
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="300026867">Lindbergh, Charles A. (Charles Augustus), 1902-1974</term>
+                <term vocab="LCNAF" refid="n 85015320">Hauptmann, Bruno Richard, 1899-1936</term>
+            </subject>
+            <subject>
+                <term vocab="LCNAF" refid="n 79100565">Lindbergh, Charles Augustus, 1930-1932--Kidnapping, 1932</term>
             </subject>
         </subjectSet>
         <titleSet>
@@ -51,32 +54,32 @@ Austin, Texas 78712; No Rights contact, fill in form: http://www.hrc.utexas.edu/
     <image>
         <agentSet>
             <agent>
-                <name type="" vocab="" refid=""></name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
                 <role></role>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+            <date type="creation">
+                <earliestDate>2015-03-11</earliestDate>
+                <latestDate>2015-03-11</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="">
-                <refid></refid>
-                <name type="" vocab="" refid=""></name>
+            <location type="repository">
+                <refid>MS0412-C-Lindbergh-Sept_22_1934-02.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="">
-                <text></text>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title></title>
+            <title>[Digital reproduction of "Two Sites in Kidnap Case Linked to Suspect by Map"]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid=""></worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>
