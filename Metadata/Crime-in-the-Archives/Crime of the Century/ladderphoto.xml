@@ -4,15 +4,6 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
     <work>
-        <agentSet>
-            <agent>
-                <name type="" vocab="" refid="">Unknown</name>
-                <dates>
-                    <earliestDate>unknown</earliestDate>
-                    <latestDate>unknown</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>1932</earliestDate>
@@ -20,12 +11,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>The public was fascinated by how Charles and Anne Lindbergh's baby was kidnapped.  Newspapers were full of details like this photograph of the home in Hopewell, New Jersey. The homemade ladder used to enter the baby's room proved critical in determining the guilt of Bruno Richard Hauptmann, a German-born carpenter, when the FBI called in a U.S. Department of Agriculture wood expert to compare the ladder to identical wood in Hauptmann's attic.</description>
+            <description>The public was fascinated by how Charles and Anne Lindbergh's baby was kidnapped. Newspapers were full of details like this photograph of the home in Hopewell, New Jersey. The homemade ladder used to enter the baby's room proved critical in determining the guilt of Bruno Richard Hauptmann, a German-born carpenter, when the FBI called in a U.S. Department of Agriculture wood expert to compare the ladder to identical wood in Hauptmann's attic.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="b81075875">Vanderbilt University, Library</name>
-                <refid>James G. Stahlman Autograph Collection, Lindbergh, Charles</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>James G. Stahlman Autograph Collection, Lindbergh, Charles folder</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -39,45 +30,44 @@ web site: http://www.corbisimages.com</text>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="79100565">Lindbergh, Charles A. (Charles Augustus), 1902-1974</term>
+                <term vocab="LCNAF" refid="n 84124732">Lindbergh, Charles A. (Charles August), 1859-1924</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>"How Kidnapers (sic) Got Lindy Baby"</title>
+            <title>How Kidnappers (sic) Got Lindy Baby</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300134989">news photograph</worktype>
+            <worktype vocab="AAT" refid="300134989">News photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="" vocab="" refid=""></name>
-                <role></role>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+            <date type="creation">
+                <earliestDate>2015-03-11</earliestDate>
+                <latestDate>2015-03-11</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="">
-                <refid></refid>
-                <name type="" vocab="" refid=""></name>
+            <location type="repository">
+                <refid>MS0412-C-Lindbergh-Ladder-March_8_1932.jpg</refid>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="">
-                <text></text>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title></title>
+            <title>[Digital reproduction of how kidnappers (sic) got Lindy Baby]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid=""></worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>
