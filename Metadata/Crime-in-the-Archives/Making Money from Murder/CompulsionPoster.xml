@@ -6,10 +6,10 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n78089065">Twentieth Century-Fox Film Corporation</name>
+                <name type="corporate" vocab="LCNAF" refid="n 78089065">Twentieth Century-Fox Film Corporation</name>
                 <dates>
                     <earliestDate>1935-08-22</earliestDate>
-                    <latestDate>1984</latestDate>
+                    <latestDate>present</latestDate>
                 </dates>
             </agent>
         </agentSet>
@@ -20,12 +20,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>"Compulsion" was based on Meyer Levin's 1956 novel of the same name. Both tell the story of the 1924 murder trial of Nathan Leopold and Richard Loeb, two wealthy students who kidnapped and murdered 14-year old Bobby Franks. The press was on the story before the killers were identified and helped to thwart the ransom delivery. How could two brilliant young men with everything going for them perform such a criminal act?  What did that say about childhood in America?</description>
+            <description>The film "Compulsion" was based on Meyer Levin's 1956 novel of the same name. Both tell the story of the 1924 murder trial of Nathan Leopold and Richard Loeb, two wealthy students who kidnapped and murdered 14-year old Bobby Franks. The press was on the story before the killers were identified and helped to thwart the ransom delivery. How could two brilliant young men with everything going for them perform such a criminal act?  What did that say about childhood in America?</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University, Library</name>
-                <refid>James G. Stahlman Autograph Collection, Leopold, Nathan</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>James G. Stahlman Autograph Collection, Leopold, Nathan folder</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,47 +35,48 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="n50049890">Leopold, Nathan Freudenthal, 1904-1971</term>
+                <term vocab="LCNAF" refid="n 50049890">Leopold, Nathan Freudenthal, 1904-1971</term>
             </subject>
             <subject>
-                <term vocab="LCSH" refid="n50048217">Loeb, Richard A., 1905-1936</term>
-            </subject></subjectSet>
+                <term vocab="LCNAF" refid="n 50048217">Loeb, Richard A., 1905-1936</term>
+            </subject>
+        </subjectSet>
         <titleSet>
-            <title>Compulsion</title>
+            <title>[Compulsion film poster]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300027221">posters</worktype>
+            <worktype vocab="AAT" refid="300027221">Posters</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="" vocab="" refid=""></name>
-                <role></role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <role/>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+            <date type="creation">
+                <earliestDate>2015-03-16</earliestDate>
+                <latestDate>2015-03-16</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="">
-                <refid></refid>
-                <name type="" vocab="" refid=""></name>
+            <location type="repository">
+                <refid>MS0412-C-Compulsion-1959.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="">
-                <text></text>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title></title>
+            <title>[Digital Reproduction of Compulsion film poster]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid=""></worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>
