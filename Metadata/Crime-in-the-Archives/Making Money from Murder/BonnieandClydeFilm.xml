@@ -20,12 +20,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>"Bonnie and Clyde" was a romantic and humorous interpretation of the life of Bonnie Parker and Clyde Barrow. The 1967 film broke new ground in its depiction of sex and violence and used modern filmmaking techniques inspired by  French New Wave directors. Historical accuracy was marginalized to evoke sympathy among viewers for the crime pair. The project was a success and was influential in the use of graphic violence in the film industry.</description>
+            <description>"Bonnie and Clyde" was a romantic and humorous interpretation of the life of Bonnie Parker and Clyde Barrow. The 1967 film broke new ground in its depiction of sex and violence and used modern filmmaking techniques inspired by French New Wave directors. Historical accuracy was marginalized to evoke sympathy among viewers for the crime pair. The project was a success and was influential in the use of graphic violence in the film industry.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University, Library</name>
-                <refid>James G. Stahlman Autograph Collection, Leopold, Nathan</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>James G. Stahlman Autograph Collection, Leopold, Nathan folder</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -40,52 +40,52 @@ Burbank, California 91522
 Phone: (818) 954-1853; Fax: (818) 954-3817;
 E-mail: clipandstilldept@warnerbros.com
 Recorded Information Line: (818) 954-2298
-</text>
+                </text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="79065767">Barrow, Clyde, 1904-1934</term>
+                <term vocab="LCNAF" refid="n 79065767">Barrow, Clyde, 1904-1934</term>
             </subject>
             <subject>
-                <term vocab="LCSH" refid="79065766">Parker, Bonnie, 1910-1934</term>
-            </subject></subjectSet>
+                <term vocab="LCNAF" refid="n 79065766">Parker, Bonnie, 1910-1934</term>
+            </subject>
+        </subjectSet>
         <titleSet>
-            <title>[Still from "Bonnie and Clyde"]</title>
+            <title>[Still from 'Bonnie and Clyde']</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300134997">Film stills</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="" vocab="" refid=""></name>
-                <role></role>
+                <name type="corporate" vocab="LCNAF">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+            <date type="creation">
+                <earliestDate>2015-03-17</earliestDate>
+                <latestDate>2015-03-17</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="">
-                <refid></refid>
-                <name type="" vocab="" refid=""></name>
+            <location type="repository">
+                <refid>MS0412-Bonnie-Clyde-movie_photo.jpg</refid>
+                <name type="corporate" vocab="LCSH">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="">
-                <text></text>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title></title>
+            <title>[Digital reproduction of Still from 'Bonnie and Clyde']</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid=""></worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>
