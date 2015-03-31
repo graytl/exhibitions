@@ -6,15 +6,14 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid=" 	n 79081857 ">Daily news (New York, N.Y. : 1920)</name>
+                <name type="corporate" vocab="local">Daily News (New York)</name>
                 <dates>
                     <earliestDate>1919</earliestDate>
                     <latestDate>present</latestDate>
                 </dates>
             </agent>
-        
             <agent>
-                <name type="personal" vocab="" refid=" 	">Unknown</name>
+                <name type="personal" vocab="">Unknown</name>
                 <dates>
                     <earliestDate>1902</earliestDate>
                     <latestDate>1974</latestDate>
@@ -29,14 +28,15 @@
             <date type="creation">
                 <earliestDate>1902</earliestDate>
                 <latestDate>1974</latestDate>
-            </date> </dateSet>
+            </date>
+        </dateSet>
         <descriptionSet>
             <description>In 1919, French businessman Raymond Orteig established a $25000 prize to the first person to fly non-stop from New York to Paris. Eight years later, Charles Augustus Lindbergh collected the prize. Lindbergh's achievement was a boon to the fledgling aviation industry and while the Great Depression slowed some of that progress, Lindbergh's achievement set the stage for airplane production in World War II.</description>
-            <description>Charles Augustus Lindbergh's autograph</description></descriptionSet>
+        </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University, Library</name>
-                <refid>James G. Stahlman Autograph Collection, Lindbergh, Charles</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>James G. Stahlman Autograph Collection, Lindbergh, Charles folder</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -54,49 +54,53 @@ Sales: +1 800 462 437</text>
             </rights>
             <rights type="public domain">
                 <text>autograph has no creative component that would be copyright-able</text>
-            </rights></rightsSet>
+            </rights>
+        </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="300026867">Lindbergh, Charles A. (Charles Augustus), 1902-1974</term>
+                <term vocab="LCNAF" refid="n 79100565">Lindbergh, Charles A. (Charles Augustus), 1902-1974--Pictorial works</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="n 85054729">Spirit of St. Louis (Airplane)--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Pilot Charles Lindbergh poses alongside his famous plane 'The Spirit of St. Louis"</title>
+            <title>[Pilot Charles Lindbergh poses alongside his famous plane 'The Spirit of St. Louis']</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300134989">news photograph</worktype>
+            <worktype vocab="AAT" refid="300134989">News photographs</worktype>
             <worktype vocab="AAT" refid="300028705"> signatures (names)</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="" vocab="" refid=""></name>
-                <role></role>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
+                <role/>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+            <date type="creation">
+                <earliestDate>2015-03-11</earliestDate>
+                <latestDate>2015-03-11</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="">
-                <refid></refid>
-                <name type="" vocab="" refid=""></name>
+            <location type="repository">
+                <refid>MS0412-C-Lindbergh-Spirit_Autograph.jpg</refid>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="">
-                <text></text>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title></title>
+            <title>[Digital reproduction of Pilot Charles Lindbergh poses alongside his famous plane 'The Spirit of St. Louis']</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid=""></worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>
