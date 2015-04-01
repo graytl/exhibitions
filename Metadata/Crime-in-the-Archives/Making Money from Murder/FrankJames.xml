@@ -6,17 +6,17 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n78089065">Twentieth Century-Fox Film Corporation</name>
+                <name type="corporate" vocab="LCNAF" refid="n 78089065">Twentieth Century-Fox Film Corporation</name>
                 <dates>
                     <earliestDate>1935-08-22</earliestDate>
-                    <latestDate>1984</latestDate>
+                    <latestDate>present</latestDate>
                 </dates>
             </agent>
         </agentSet>
         <dateSet>
             <date type="publication">
                 <earliestDate>1940-01-01</earliestDate>
-                <latestDate>1940--08-16</latestDate>
+                <latestDate>1940-08-16</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
@@ -24,8 +24,8 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University, Library</name>
-                <refid>Sevier SPEC SEVP AP 2.M87</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>AP 2.M87, Sevier Periodicals</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,45 +35,46 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="50028710 ">James, Frank, 1844-1915</term>
+                <term vocab="LCNAF" refid="n 50028710">James, Frank, 1844-1915</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Still from "The Return of Frank James"]</title>
+            <title>[Film still from 'The Return of Frank James']</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300134997">Film stills</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="" vocab="" refid=""></name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
                 <role></role>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+            <date type="creation">
+                <earliestDate>2015-03-17</earliestDate>
+                <latestDate>2015-03-17</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="">
-                <refid></refid>
-                <name type="" vocab="" refid=""></name>
+            <location type="repository">
+                <refid>MS0412-Frank_James-movie_photo.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="">
-                <text></text>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title></title>
+            <title>[Digital reproduction of film still from 'The Return of Frank James']</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid=""></worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>
