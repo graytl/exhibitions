@@ -7,10 +7,6 @@
         <agentSet>
             <agent>
                 <name type="corporate" vocab="LCNAF" refid="n 84089580 ">Grolier Incorporated</name>
-                <dates>
-                    <earliestDate>1909</earliestDate>
-                    <latestDate>2000-06</latestDate>
-                </dates>
             </agent>
         </agentSet>
         <dateSet>
@@ -20,62 +16,62 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Interest in the trial of Nathan Leopold and Richard Loeb has continued long after their deaths. Grolier Story of America Cards  were released in sets of 20 between 1994 and 2001.Covering all aspects of American history, the cards were sold on a subscription basis, with a total of 2600 cards in 130 decks or packets on topics such as "Life in America" and "Notable People."  The "Important Events" deck included "The Sinking of the Lusitania" and "The Boston Tea Party."</description>
+            <description>Interest in the trial of Nathan Leopold and Richard Loeb has continued long after their deaths. Grolier Story of America Cards  were released in sets of 20 between 1994 and 2001. Covering all aspects of American history, the cards were sold on a subscription basis, with a total of 2600 cards in 130 decks or packets on topics such as "Life in America" and "Notable People."  The "Important Events" deck included "The Sinking of the Lusitania" and "The Boston Tea Party."</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University, Library</name>
-                <refid>James G. Stahlman Autograph Collection, Leopold, Nathan</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>James G. Stahlman Autograph Collection, Leopold, Nathan folder</refid>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="">                
+            <rights type="copyrighted">
                 <text>C. Grolier Incorporated, a subsidiary of Scholastic, Inc.</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="n50049890">Leopold, Nathan Freudenthal, 1904-1971</term>
+                <term vocab="LCNAF" refid="n 50049890">Leopold, Nathan Freudenthal, 1904-1971</term>
             </subject>
             <subject>
-                <term vocab="LCSH" refid="n50048217">Loeb, Richard A., 1905-1936</term>
-            </subject></subjectSet>
+                <term vocab="LCNAF" refid="n 50048217">Loeb, Richard A., 1905-1936</term>
+            </subject>
+        </subjectSet>
         <titleSet>
             <title>Grolier Story of America Subscription Card: The Trial of Nathan Leopold and Richard Loeb (#75-13)</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300192646">collecting cards</worktype>
+            <worktype vocab="AAT" refid="300192646">Collecting cards</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="" vocab="" refid=""></name>
-                <role></role>
+                <name type="corporate" vocab="LCNAF">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+            <date type="creation">
+                <earliestDate>2015-03-17</earliestDate>
+                <latestDate>2015-03-17</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="">
-                <refid></refid>
-                <name type="" vocab="" refid=""></name>
+            <location type="repository">
+                <refid>MS0412-Leopold-Loeb-trial.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="">
-                <text></text>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title></title>
+            <title>[Digital reproduction of Grolier Story of America Subscription Card: The Trial of Nathan Leopold and Richard Loeb (#75-13)]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid=""></worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>
