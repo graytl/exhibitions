@@ -6,11 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n79055883">Levin, Meyer, 1905-1981</name>
-                <dates>
-                    <earliestDate>1905-10-07</earliestDate>
-                    <latestDate>1981-07-09</latestDate>
-                </dates>
+                <name type="personal" vocab="LCNAF" refid="n 79055883">Levin, Meyer, 1905-1981</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -20,12 +16,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Levin's novel was based on the 1924 Leopold and Loeb murder case. Psychiatric experts played a large part in the young men's avoidance of the electric chair, as it had in the trial of Charles Guiteau, who assassinated President Garfield in 1881 and in the defense of Harry Thaw in the 1906 Stanford White case. Loeb was killed in prison, but Leopold  was paroled, after which he unsuccessfully sued Levin for defamation of character. </description>
+            <description>Levin's novel was based on the 1924 Leopold and Loeb murder case. Psychiatric experts played a large part in the young men's avoidance of the electric chair, as it had in the trial of Charles Guiteau, who assassinated President Garfield in 1881 and in the defense of Harry Thaw in the 1906 Stanford White case. Loeb was killed in prison, but Leopold  was paroled, after which he unsuccessfully sued Levin for defamation of character.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University, Library</name>
-                <refid>James G. Stahlman Autograph Collection, Leopold, Nathan</refid>
+                <name type="corporate" vocab="LCNAF">Vanderbilt University Special Collections</name>
+                <refid>James G. Stahlman Autograph Collection, Leopold, Nathan folder</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -42,47 +38,48 @@ Email: permissions@simonandschuster.com
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="n50049890">Leopold, Nathan Freudenthal, 1904-1971</term>
+                <term vocab="LCNAF" refid="n 50049890">Leopold, Nathan Freudenthal, 1904-1971</term>
             </subject>
             <subject>
-                <term vocab="LCSH" refid="n50048217">Loeb, Richard A., 1905-1936</term>
-            </subject></subjectSet>
+                <term vocab="LCNAF" refid="n 50048217">Loeb, Richard A., 1905-1936</term>
+            </subject>
+        </subjectSet>
         <titleSet>
             <title>Compulsion</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300200529">paperbacks</worktype>
+            <worktype vocab="AAT" refid="300200529">Paperbacks</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="" vocab="" refid=""></name>
-                <role></role>
+                <name type="corporate" vocab="LCNAF" refid="">Vanderbilt University Special Collections</name>
+                <role/>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+            <date type="creation">
+                <earliestDate>2015-03-17</earliestDate>
+                <latestDate>2015-03-17</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="">
-                <refid></refid>
-                <name type="" vocab="" refid=""></name>
+            <location type="repository">
+                <refid>Compulsion-M_Levin-1956-cover.jpg</refid>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="">
-                <text></text>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title></title>
+            <title>[Digital reproduction of Compulsion, front cover]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid=""></worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>
