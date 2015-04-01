@@ -6,7 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="ULAN" refid="500017680">Chaliapin, Boris (American painter, sculptor, and sceneographer, 1904-1979)</name>
+                <name type="personal" vocab="LCNAF" refid="n 2001012989">Shali︠a︡pin, Boris, 1904-1979</name>
                 <dates>
                     <earliestDate>1904</earliestDate>
                     <latestDate>1979</latestDate>
@@ -20,12 +20,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Dick Wolf, producer of the television series, "Law and Order," described "Dragnet' as “the father of us all." Jack Webb, its creator and director, began the "Dragnet" police drama series as a radio program (1949-1955) in 1949 and continued it as a television series (1952-1959 and 1967-1970). The show broke ground in its real life depiction of crime, moving away from the hard-boiled dramas of Dashiell Hammett and Raymond Chandler, toward a social realism with a focus on the dedicated policeman.</description>
+            <description>Dick Wolf, producer of the television series, Law and Order, described Dragnet as “the father of us all." Jack Webb, its creator and director, began the Dragnet police drama series as a radio program (1949-1955) in 1949 and continued it as a television series (1952-1959 and 1967-1970). The show broke ground in its real life depiction of crime, moving away from the hard-boiled dramas of Dashiell Hammett and Raymond Chandler, toward a social realism with a focus on the dedicated policeman.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University, Library</name>
-                <refid>James G. Stahlman Autograph Collection, Webb, Jack</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>James G. Stahlman Autograph Collection, Webb, Jack folder</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,45 +35,44 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="79019992">Webb, Jack, 1920-1982</term>
+                <term vocab="LCNAF" refid="n 79019992">Webb, Jack, 1920-1982--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Portrait of Jack Webb, Star of"Dragnet"]</title>
+            <title>[Time Magazine cover portrait of Jack Webb, Star of 'Dragnet']</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300026657">periodical</worktype>
+            <worktype vocab="AAT" refid="300215389">Magazines (periodicals)</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="" vocab="" refid=""></name>
-                <role></role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+            <date type="creation">
+                <earliestDate>2015-03-11</earliestDate>
+                <latestDate>2015-03-11</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="">
-                <refid></refid>
-                <name type="" vocab="" refid=""></name>
+            <location type="repository">
+                <refid>MS0412-C-Jack_Webb-Time-March_15_1954.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="">
-                <text></text>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title></title>
+            <title>[Digital reproduction of Time Magazine cover portrait of Jack Webb, Star of 'Dragnet']</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid=""></worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>
