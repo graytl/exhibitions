@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n 2002011452">Goodpasture, Ernest William, 1886-1960 </name>
+                <dates>
+                    <earliestDate>1886-10-17</earliestDate>
+                    <latestDate>1960-09-20</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1956</earliestDate>
+                <latestDate>1956</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>Dr. Ernest Goodpasture was Chair of Pathology at Vanderbilt from 1924-1955 and remains known for his work developing vaccines by culturing them in chicken eggs. Goodpasture used so-called immortal HeLa cells as many pathologists did after they became availble in 1951.The line was derived from cervical cancer cells (circled in red) taken on February 8, 1951 from cancer patient Henrietta Lacks.  </description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="LCSH" refid="n 2006184215">Vanderbilt University Medical Center Eskind Biomedical Library</name>
+                <refid>MSSGoodpastureColl29.Binder1956</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="undetermined">
+                <text>Per Eskind Library website, "Copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law."  No Goodpasture descendants have been located.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid=" sh 8505998 ">HeLa cells</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>[HeLa Cancer Cell]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300128347  ">black-and-white photographs</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Library Special Collections</name>
+                <role>Scanner</role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="other">
+                <earliestDate>2015</earliestDate>
+                <latestDate>2015</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>Eskind_VUMC-Cancer-Cell-1956-42 </refid>
+                <name type="corporate" vocab="LCSH">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Digital Image of [HeLa Cancer Cell]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 84095984  ">E.A. Seemann Verlag</name>
+                <dates>
+                    <earliestDate>1861</earliestDate>
+                    <latestDate>unknown</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1861</earliestDate>
+                <latestDate>unknown</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>Teachers and university professors used lantern slides like these in their classrooms through the 1940s, despite readily available photographs.  Publisher E.A. Seemann produced high-quality art books and slide collections of European art and architecture.  </description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="" vocab="" refid="">Vanderbilt University Library Special Collections</name>
+                <refid>MS0483, Photo Box 2?</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>Lantern Slide Series dates unknown.  Publisher Seemann in Leipzig from 1861 until Allied bombing in December 1943 destroyed the firm"s archives. Donor CW Howe obtained his PhD in 1905, and was on faculty at Vanderbilt from 1927-1947. Howe died in 1960. His donated photos and lantern slides of France are all undated.  His published works date to 1950; no dates or other evidence about his European travels exists in finding aid.   </text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid=" n 79081635  ">Notre-Dame de Paris (Cathedral)</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>[Notre Dame de Paris]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300134977     ">Lantern Slides</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015</earliestDate>
+                <latestDate>2015</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>MS0483-P-Paris-Notre_Dame </refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Digital Image of [Notre Dame de Paris Cathedral]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

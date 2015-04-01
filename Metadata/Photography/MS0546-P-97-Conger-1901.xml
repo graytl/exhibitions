@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 85188904 ">Underwood and Underwood</name>
+                <dates>
+                    <earliestDate>1882</earliestDate>
+                    <latestDate>1921</latestDate>
+                </dates>
+            </agent>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid=" n 88283087  ">Ricalton, James</name>
+                <dates>
+                    <earliestDate>1844</earliestDate>
+                    <latestDate>1929</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1900</earliestDate>
+                <latestDate>1900</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>Ambassador Edwin H. Conger and his family, with civilians from eleven western diplomatic legations and over 2,500 Chinese Christians were besieged in the embassy district for 54 days in summer 1900.  Protesting against western, Christian intrusions in their country, the Society of Righteous and Harmonious Fists (Boxers) fought with the Qing Empress and an estimated 40,000 Manchu troops to remove foreigners.   Conger lived, though like many, suffered long term health effects from their experiences.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University Library</name>
+                <refid>SC.Ms0546.Bx </refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>created in 1900 after Boxer Rebellion. No photographer name located besides stereocard maker. </text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="sh 85024100 ">China--History--Boxer Rebellion, 1899-1901</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>[American Minister Conger, Peking, China.]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300127197     ">Stereograph</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <role>Scanner</role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015</earliestDate>
+                <latestDate>2015</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>MS0546-P-97-Conger-1901</refid>
+                <name type="corporate" vocab="LCSH" refid="31075875">Vanderbilt University Library </name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Digital copy of [American Minister Conger, Peking, China.]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital Images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

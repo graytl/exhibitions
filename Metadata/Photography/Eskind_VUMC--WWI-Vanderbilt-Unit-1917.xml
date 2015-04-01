@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 2006184215">Vanderbilt University Medical Center Eskind Biomedical Library</name>
+                <dates>
+                    <earliestDate/>
+                    <latestDate>present</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1917</earliestDate>
+                <latestDate>1917</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description/>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="LCSH" refid="n 2006184215">Vanderbilt University Medical Center Eskind Biomedical Library</name>
+                <refid/>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text/>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid=" sh2008113826">World War, 1914-1918 Hospitals</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>[Nurses with the Vanderbilt Unit in World War I] </title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300128347  ">black-and-white photograph</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Library Special Collections</name>
+                <role>Scanner</role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="other">
+                <earliestDate>2015</earliestDate>
+                <latestDate>2015</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>Eskind_VUMC-Nurses-WWI-1918 </refid>
+                <name type="corporate" vocab="LCSH" refid="n 2006184215">Vanderbilt University Medical Center Eskind Biomedical Library</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>Used in 2005 and 2012 Heard Library exhibits. </text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Digital Surrogate</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300128347  ">Black-and-white photographs</worktype>
+        </worktypeSet>
+    </image>
+</vra>

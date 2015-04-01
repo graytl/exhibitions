@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 85188904 ">Underwood and Underwood</name>
+                <dates>
+                    <earliestDate>1882</earliestDate>
+                    <latestDate>1921</latestDate>
+                </dates>
+            </agent>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n 88283087 ">Ricalton, James</name>
+                <dates>
+                    <earliestDate>1844</earliestDate>
+                    <latestDate>1929</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1901</earliestDate>
+                <latestDate>1901</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>James Ricalton wrote of being the first Westerner inside the Imperial City. He described the palace as “empty of nearly all portable articles” after the looting by Allied troops and missionaries.  Ricalton’s wanted armchair travelers to experience "the very same feelings [in Peking]" as he had. He described two states of reality viewers would experience; the reality of the physical world and an altered state of consciousness or "soul life".
+</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University Library</name>
+                <refid>SC.Ms0546.Photo Box 1 </refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>created in 1900 after Boxer Rebellion. published 1901. </text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="sh 85024100 ">China--History--Boxer Rebellion, 1899-1901</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>[Springless, Seatless Coach -- Coal Hill, in Imperial City, Peking, China.]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300127197     ">Stereograph</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <role>Scanner</role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015</earliestDate>
+                <latestDate>2015</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>MS0546-P-85-Coach-1901 </refid>
+                <name type="corporate" vocab="LCSH" refid="31075875">Vanderbilt University Library </name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Digital image of [Typical springless, seatless Chinese Coach -- Coal Hill, in Imperial City, Peking, China.]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

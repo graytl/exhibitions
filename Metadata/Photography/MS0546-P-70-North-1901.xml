@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 85188904 ">Underwood and Underwood</name>
+                <dates>
+                    <earliestDate>1882</earliestDate>
+                    <latestDate>1921</latestDate>
+                </dates>
+            </agent>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n 88283087">Ricalton, James</name>
+                <dates>
+                    <earliestDate>1844</earliestDate>
+                    <latestDate>1929</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1900</earliestDate>
+                <latestDate>1900</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>In June 1900, anti-Western riots in Peking and the 54-day siege of foreign embassies by Chinese militants made headlines. In this image of the foreigners' quarter, Ketteler St. has been renamed for the murdered German minister Clemens von Ketteler. Manchu captain En Hai murdered Ketteler for killing an unarmed Chinese Muslin boy.  James Ricalton photographed sites, survivors, and daily life in September1900 in Peking after the Rebellion for Underwood &amp;amp Underwood.  </description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University Library</name>
+                <refid>SC.Ms0546.Bx </refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>Published  in 1901 after Boxer Rebellion. </text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="sh 85024100 ">China--History--Boxer Rebellion, 1899-1901</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>[Ketteler Street Peking, China.]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300127197     ">Stereograph</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <role>Scanner</role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015</earliestDate>
+                <latestDate>2015</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>MS0546-P-70-North-1901  </refid>
+                <name type="corporate" vocab="LCSH" refid="31075875">Vanderbilt University Library </name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>digital copy of [Ketteler Street, Peking, China.]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>
