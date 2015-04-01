@@ -6,11 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">American Art Classics</name>
-                <dates>
-                    <earliestDate>unknown</earliestDate>
-                    <latestDate>unknown</latestDate>
-                </dates>
+                <name type="corporate" vocab="local">American Art Classics</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -24,8 +20,8 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University, Library</name>
-                <refid>James G. Stahlman Autograph Collection, Barrow, Clyde</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>James G. Stahlman Autograph Collection, Barrow, Clyde folder</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -40,47 +36,48 @@ E-Mail: americanartclassics@gmail.com</text>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="79065767">Barrow, Clyde, 1904-1934</term>
+                <term vocab="LCNAF" refid="79065767">Barrow, Clyde, 1904-1934--Pictorial works</term>
             </subject>
             <subject>
-                <term vocab="LCSH" refid="79065766">Parker, Bonnie, 1910-1934</term>
-            </subject></subjectSet>
+                <term vocab="LCNAF" refid="79065766">Parker, Bonnie, 1910-1934--Pictorial works</term>
+            </subject>
+        </subjectSet>
         <titleSet>
-            <title>[Bonnie &amp;amp Clyde $100,000 Novelty Bill]</title>
+            <title>[Bonnie &amp; Clyde $100,000 Novelty Bill]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300266123">novelty</worktype>
+            <worktype vocab="AAT" refid="300266123">Novelties</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="" vocab="" refid=""></name>
-                <role></role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <role/>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+            <date type="creation">
+                <earliestDate>2015-03-17</earliestDate>
+                <latestDate>2015-03-17</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="">
-                <refid></refid>
-                <name type="" vocab="" refid=""></name>
+            <location type="repository">
+                <refid>MS0412-Bonnie-Clyde-novelty_money.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="">
-                <text></text>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title></title>
+            <title>[Digital reproduction of Bonnie &amp; Clyde $100,000 Novelty Bill]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid=""></worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>
