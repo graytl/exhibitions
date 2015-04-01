@@ -6,11 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="2005015212">James, Edgar</name>
-                <dates>
-                    <earliestDate>unknown</earliestDate>
-                    <latestDate>unknown</latestDate>
-                </dates>
+                <name type="personal" vocab="LCNAF" refid="no2005015212">James, Edgar</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -24,56 +20,55 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University, Library</name>
-                <refid>SEVIER SPEC F594 .J24 F73 1915 </refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>SEVIER F594 .J24 F73 1915 </refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>Published in 1915.</text>
+                <text>Published in 1915</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="50028710 ">James, Frank, 1844-1915</term>
+                <term vocab="LCNAF" refid="n 50028710">James, Frank, 1844-1915</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>"Frank James and His Brother Jesse: The Daring Border Bandits"</title>
+            <title>Frank James and His Brother Jesse: The Daring Border Bandits</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300343403">childrens books</worktype>
+            <worktype vocab="AAT" refid="300343403">Children's books</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="" vocab="" refid=""></name>
-                <role></role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+            <date type="creation">
+                <earliestDate>2015-03-11</earliestDate>
+                <latestDate>2015-03-11</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="">
-                <refid></refid>
-                <name type="" vocab="" refid=""></name>
+            <location type="repository">
+                <refid>F594_J24_F73_1915-C-Frank_James.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="">
-                <text></text>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title></title>
+            <title>[Digital reproduction of Frank James and His Brother Jesse: The Daring Border Bandits, front cover]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid=""></worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>
