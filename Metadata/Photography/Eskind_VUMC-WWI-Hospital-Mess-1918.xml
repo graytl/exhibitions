@@ -7,10 +7,6 @@
         <agentSet>
             <agent>
                 <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
-                <dates>
-                    <earliestDate/>
-                    <latestDate>present</latestDate>
-                </dates>
             </agent>
         </agentSet>
         <dateSet>
@@ -60,7 +56,7 @@ Author: United States. War Dept. General Staff Contributor: United States. Army.
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>Eskind_VUMC-WWI-Hospital-Mess-1918</refid>
+                <refid>Eskind_VUMC-WWI-Hospital-Mess-1918.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>

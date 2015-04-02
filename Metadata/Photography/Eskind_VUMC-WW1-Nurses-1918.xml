@@ -20,7 +20,7 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University Library</name>
+                <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
                 <refid/>
             </location>
         </locationSet>
@@ -60,16 +60,16 @@ Author: United States. War Dept. General Staff Contributor: United States. Army.
         <locationSet>
             <location type="repository">
                 <refid>Eskind_VUMC-WW1-Nurses-1918.jpg</refid>
-                <name type="corporate" vocab="LCSH" refid="31075875">Vanderbilt University--Library</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="publicDomain">
-                <text>Used in Historic Images of VUMC online exhibit.</text>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of Nurses with the Vanderbilt Hospital in France]</title>
+            <title>[Digital Reproduction of Nurses with the Vanderbilt Hospital in France]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
