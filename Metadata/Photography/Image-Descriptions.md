@@ -35,9 +35,43 @@ the central library lobby on photography. Text is not yet finalized and is subje
 * Image Title | [Lt. Kennon's Moustache and Lesser objects]
   * Filename: Eskind_VUMC-Lt.Kennon-1917.jpg
   * DESCRIPTION MISSING
+* Image Title | [Officers' and Nurses' Mess, Camp Hospital, Nevers, France, 1918]
+  * Filename: Eskind_VUMC-WWI-Hospital-Mess-1918.jpg
+  * DESCRIPTION MISSING
+* Image Title | [Nurses with the Vanderbilt Unit in World War I]
+  * Filename: Eskind_VUMC-WW1-Vanderbilt_Unit-1917.jpg
+  * DESCRIPTION MISSING
+* Image Title | [Lick Observatory, Mt. Hamilton, CA]
+  * Filename: MS0031-Barnard-Lick-Obsrv1913.jpg
+  * Barnard moved to California in 1887 to inaugurate the new observatory at Mount Hamilton near San Jose. He discovered the first non-Galilean moon of Jupiter, Amalthea, in September 1892, over 275 years after Galileo's discoveries. Observatory staff fought over access to the 36-inch telescope, making working conditions difficult. Barnard moved to Yerkes Observatory in Williams Bay, Wisconsin in 1895 with an astronomy appointment at the Unversity of Chicago.
+* Image Title | [Andromeda Galaxy]
+  * Filename: MS0031-Andromeda-slide21.jpg
+  * Barnard was also known for photgraphs of galaxies, especially after joining the Univesity of Chicago's Yerkes Observatory.
+* Image Title | [Barnard with 36-inch refractor telescope at Lick Observatory, CA]
+  * Filename: MS0031.Barnard-Lick Obsrv-1913.jpg
+  * While at Lick Observatory, Barnard was the first astronomer to discover a comet using photgraphic plates. In 1889, he became the first astronomer to observe the eclipse of Saturn's satelite Iapetus.
 * Image Title | 
   * Filename:
   * 
 * Image Title | 
   * Filename:
   * 
+* Image Title | 
+  * Filename:
+  * 
+* Image Title | 
+  * Filename:
+  * 
+* Image Title | 
+  * Filename:
+  * 
+* Image Title | 
+  * Filename:
+  * 
+* Image Title | 
+  * Filename:
+  * 
+* Image Title | 
+  * Filename:
+  * 
+
