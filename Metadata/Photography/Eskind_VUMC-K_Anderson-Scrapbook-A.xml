@@ -3,41 +3,43 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
+                <name type="personal" vocab="local">Gunter, William Jr.</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>1918-12-28</earliestDate>
-                <latestDate>1918-12-28</latestDate>
+                <earliestDate>1937</earliestDate>
+                <latestDate>1937</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description/>
+            <description>Katherine Anderson (1909-1995) received a PhD in bacteriology from Vanderbilt in 1940. Her interest in viruses led to her work in Dr. Goodpasture's lab. The couple married in 1945, after which she worked on environmental issues, natural habitats and ornithology.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
-                <refid/>
+                <refid>MSS Goodpasture Collection 29, Series 10, Box 16A, Folder 0003</refid>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="publicDomain">
-                <text>Photo part of series made December, 1918 by US Army Signal Corps.  Published by US Government Printing Office in 1919 as Catalogue of Official A.E.F. Photographs, United States. War Dept. General Staff [Issue 903 of Document (United States. War Dept.) 
-Author: United States. War Dept. General Staff Contributor: United States. Army. Signal Corps part of Army Expeditionary Force.] US ASC 45859, page 494.
-                </text>
+            <rights type="undetermined">
+                <text>Per Eskind Library website, "Copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law."  No Goodpasture descendants have been located.</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh2008113826">World War, 1914-1918--Hospitals</term>
+                <term vocab="LCNAF" refid="no2008063267">Anderson, Katherine, 1909---Pictorial works</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85014175">Biological laboratories--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Surgical Ward VI, Camp Hospital 28 Nevers, France 1918]</title>
+            <title>[Dr. Katherine Anderson in the laboratory]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
@@ -57,7 +59,7 @@ Author: United States. War Dept. General Staff Contributor: United States. Army.
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>Eskind_VUMC-Camp_Hospital_France-1918.jpg</refid>
+                <refid>Eskind_VUMC-K_Anderson-Scrapbook-A.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
@@ -67,7 +69,7 @@ Author: United States. War Dept. General Staff Contributor: United States. Army.
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of Surgical Ward VI, Camp Hospital 28 Nevers, France 1918]</title>
+            <title>[Digital reproduction of Katherine Anderson in the laboratory]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

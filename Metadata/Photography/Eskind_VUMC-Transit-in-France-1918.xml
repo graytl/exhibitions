@@ -3,6 +3,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
@@ -12,7 +13,7 @@
         <dateSet>
             <date type="creation">
                 <earliestDate>1918</earliestDate>
-                <latestDate>1919</latestDate>
+                <latestDate>1918</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
@@ -21,7 +22,7 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
-                <refid/>
+                <refid>Collection</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -31,11 +32,14 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh2008113826">World War, 1914-1918--Hospitals--Pictorial works</term>
+                <term vocab="LCSH" refid="sh 85148271">World War, 1914-1918--France--Pictorial works</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 89000505">Horse-drawn vehicles--France--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Lt. Kennon's Moustache and Lesser objects]</title>
+            <title>[Rapid Transit in France]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
@@ -55,7 +59,7 @@
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>Eskind_VUMC-Lt.Kennon-1917.jpg</refid>
+                <refid>Eskind_VUMC-Transit_in_France-1918.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
@@ -65,7 +69,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of Lt. Kennon's Moustache and Lesser objects]</title>
+            <title>[Digital reproduction of Rapid Transit in France]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

@@ -3,43 +3,42 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n 2002011452">Goodpasture, Ernest William, 1886-1960 </name>
-                <dates>
-                    <earliestDate>1886-10-17</earliestDate>
-                    <latestDate>1960-09-20</latestDate>
-                </dates>
+                <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>1956</earliestDate>
-                <latestDate>1956</latestDate>
+                <earliestDate>1918-12-28</earliestDate>
+                <latestDate>1918-12-28</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Dr. Ernest Goodpasture was Chair of Pathology at Vanderbilt University from 1924-1955 and remains known for his work developing vaccines by culturing them in chicken eggs. Goodpasture used so-called immortal HeLa cells as many pathologists did after they became availble in 1951.The line was derived from cervical cancer cells (circled in red) taken on February 8, 1951 from cancer patient Henrietta Lacks.</description>
+            <description/>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="n 2006184215">Vanderbilt University Medical Center Eskind Biomedical Library</name>
-                <refid>MSS GoodpastureCollection 29, Binder 1956</refid>
+                <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
+                <refid/>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="undetermined">
-                <text>Per Eskind Library website, "Copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law."  No Goodpasture descendants have been located.</text>
+            <rights type="publicDomain">
+                <text>Photo part of series made December, 1918 by US Army Signal Corps.  Published by US Government Printing Office in 1919 as Catalogue of Official A.E.F. Photographs, United States. War Dept. General Staff [Issue 903 of Document (United States. War Dept.) 
+Author: United States. War Dept. General Staff Contributor: United States. Army. Signal Corps part of Army Expeditionary Force.] US ASC 45859, page 494.
+                </text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh 85059978">HeLa cells--Pictorial works</term>
+                <term vocab="LCSH" refid="sh2008113826">World War, 1914-1918--Hospitals--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[HeLa Cancer Cell]</title>
+            <title>[Surgical Ward VI, Camp Hospital 28 Nevers, France 1918]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
@@ -59,7 +58,7 @@
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>Eskind_VUMC-Cancer_Cell-1956-42.jpg</refid>
+                <refid>Eskind_VUMC-Camp_Hospital_France-1918.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
@@ -69,7 +68,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of HeLa Cancer Cell]</title>
+            <title>[Digital reproduction of Surgical Ward VI, Camp Hospital 28 Nevers, France 1918]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

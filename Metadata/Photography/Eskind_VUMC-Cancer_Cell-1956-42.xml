@@ -3,39 +3,44 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="local">Gunter, Willim Jr.</name>
+                <name type="personal" vocab="LCNAF" refid="n 2002011452">Goodpasture, Ernest William, 1886-1960 </name>
+                <dates>
+                    <earliestDate>1886-10-17</earliestDate>
+                    <latestDate>1960-09-20</latestDate>
+                </dates>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>1937</earliestDate>
-                <latestDate>1937</latestDate>
+                <earliestDate>1956</earliestDate>
+                <latestDate>1956</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Ernest Goodpasture studied medicine at Johns Hopkins University in Baltimore starting in 1908, later becoming resident staff and instructor in pathology. He became interested in vaccines during his experience in the 1918 influenza epidemic.</description>
+            <description>Dr. Ernest Goodpasture was Chair of Pathology at Vanderbilt University from 1924-1955 and remains known for his work developing vaccines by culturing them in chicken eggs. Goodpasture used so-called immortal HeLa cells as many pathologists did after they became availble in 1951.The line was derived from cervical cancer cells (circled in red) taken on February 8, 1951 from cancer patient Henrietta Lacks.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
-                <refid>MSS Goodpasture Collection 29, Series 10, Box 16A, Folder 0003</refid>
+                <refid>MSS Goodpasture Collection 29, Binder 1956</refid>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="copyrighted">
-                <text>Photo taken c1937 by William Gunter, Jr. at VUMC. Per Eskind Library website, "Copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law."  No Goodpasture or Gunter descendants have been located. Maker undetermined.</text>
+            <rights type="undetermined">
+                <text>Per Eskind Library website, "Copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law."  No Goodpasture descendants have been located.</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCNAF" refid="n 2002011452">Goodpasture, Ernest William, 1886-1960--Pictorial works</term>
+                <term vocab="LCSH" refid="sh 85059978">HeLa cells--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Dr. Ernest W. Goodpasture in his lab]</title>
+            <title>[HeLa Cancer Cell]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
@@ -55,8 +60,8 @@
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>Eskind_VUMC-E_Goodpasture-scrapbook.jpg</refid>
-                <name type="corporate" vocab="LCSH" refid="n 2006184215">Eskind Biomedical Library</name>
+                <refid>Eskind_VUMC-Cancer_Cell-1956-42.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -65,10 +70,10 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of Dr. Ernest W. Goodpasture in his lab]</title>
+            <title>[Digital reproduction of HeLa Cancer Cell]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital Images</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>

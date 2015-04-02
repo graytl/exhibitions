@@ -3,34 +3,40 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
+            </agent>
+        </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>1937</earliestDate>
-                <latestDate>1937</latestDate>
+                <earliestDate>1918</earliestDate>
+                <latestDate>1919</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Gunter was an autopsy technician in the Department of Pathology, as well as a skilled photographer praised by Goodpasture for his work for Pathology and other departments.  Bill’s brother Albert and his father Bill Sr., both worked in Pathology as assistants or deaners.</description>
+            <description/>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
-                <refid>MSS Goodpasture Collection 29, Series 10, Box 16A, Folder 0003</refid>
+                <refid/>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="copyrighted">
-                <text>Per Eskind Library website, "Copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law."  No Goodpasture or Gunter descendants have been located. Maker undetermined.</text>
+            <rights type="publicDomain">
+                <text>Photo taken c.1918 in France. No known photographer.</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term/>
+                <term vocab="LCSH" refid="sh2008113826">World War, 1914-1918--Hospitals--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[William Gunter, Jr. autopsy technician and photographer]</title>
+            <title>[Lt. Kennon's Moustache and Lesser objects]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
@@ -50,7 +56,7 @@
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>Eskind_VUMC-W_Gunter-scrapbook.jpg</refid>
+                <refid>Eskind_VUMC-Lt.Kennon-1917.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
@@ -60,10 +66,10 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of William Gunter, Jr. autopsy technician and photographer]</title>
+            <title>[Digital reproduction of Lt. Kennon's Moustache and Lesser objects]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital Images</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>

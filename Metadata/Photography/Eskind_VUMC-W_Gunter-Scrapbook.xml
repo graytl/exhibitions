@@ -3,12 +3,8 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="local">Gunter, William Jr.</name>
-            </agent>
-        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>1937</earliestDate>
@@ -16,7 +12,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Katherine Anderson (1909-1995) received a PhD in bacteriology from Vanderbilt in 1940. Her interest in viruses led to her work in Dr. Goodpasture's lab. The couple married in 1945, after which she worked on environmental issues, natural habitats and ornithology.</description>
+            <description>Gunter was an autopsy technician in the Department of Pathology, as well as a skilled photographer praised by Goodpasture for his work for Pathology and other departments.  Bill’s brother Albert and his father Bill Sr., both worked in Pathology as assistants or deaners.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
@@ -25,20 +21,17 @@
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="undetermined">
-                <text>Per Eskind Library website, "Copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law."  No Goodpasture descendants have been located.</text>
+            <rights type="copyrighted">
+                <text>Per Eskind Library website, "Copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law."  No Goodpasture or Gunter descendants have been located. Maker undetermined.</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCNAF" refid="no2008063267">Anderson, Katherine, 1909---Pictorial works</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85014175">Biological laboratories--Pictorial works</term>
+                <term vocab="local">Gunter, William Jr.--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Dr. Katherine Anderson in the laboratory]</title>
+            <title>[William Gunter, Jr. autopsy technician and photographer]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
@@ -58,8 +51,8 @@
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>Eskind_VUMC-K_Anderson-Scrapbook-A.jpg</refid>
-                <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
+                <refid>Eskind_VUMC-W_Gunter-scrapbook.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -68,10 +61,10 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of Katherine Anderson in the laboratory]</title>
+            <title>[Digital reproduction of William Gunter, Jr. autopsy technician and photographer]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital Images</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>
