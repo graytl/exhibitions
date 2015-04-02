@@ -6,11 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 2006184215">Vanderbilt University Medical Center Eskind Biomedical Library</name>
-                <dates>
-                    <earliestDate/>
-                    <latestDate>present</latestDate>
-                </dates>
+                <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -24,7 +20,7 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="n 2006184215">Vanderbilt University Medical Center Eskind Biomedical Library</name>
+                <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
                 <refid/>
             </location>
         </locationSet>
@@ -32,50 +28,49 @@
             <rights type="publicDomain">
                 <text>Photo part of series made December, 1918 by US Army Signal Corps.  Published by US Government Printing Office in 1919 as Catalogue of Official A.E.F. Photographs, United States. War Dept. General Staff [Issue 903 of Document (United States. War Dept.) 
 Author: United States. War Dept. General Staff Contributor: United States. Army. Signal Corps part of Army Expeditionary Force.] US ASC 45859, page 494.
-</text>
+                </text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid=" sh2008113826">World War, 1914-1918 Hospitals</term>
+                <term vocab="LCSH" refid="sh2008113826">World War, 1914-1918--Hospitals</term>
             </subject>
         </subjectSet>
         <titleSet>
             <title>[Surgical Ward VI, Camp Hospital 28 Nevers, France 1918]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347  ">black-and-white photograph</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Library Special Collections</name>
-                <role>Scanner</role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="other">
-                <earliestDate>2015</earliestDate>
-                <latestDate>2015</latestDate>
+            <date type="creation">
+                <earliestDate>2015-03-20</earliestDate>
+                <latestDate>2015-03-20</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>Eskind_VUMC-Camp_Hospital_France-1918</refid>
-                <name type="corporate" vocab="LCSH" refid="31075875">Vanderbilt University Library </name>
+                <refid>Eskind_VUMC-Camp_Hospital_France-1918.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="publicDomain">
-                <text>Used in Historic Images of VUMC. </text>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Surrogate</title>
+            <title>[Digital reproduction of Surgical Ward VI, Camp Hospital 28 Nevers, France 1918]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347  ">Black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>
