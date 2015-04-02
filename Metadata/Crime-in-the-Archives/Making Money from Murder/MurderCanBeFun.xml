@@ -6,7 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n98077443">Marr. Johnny 1961</name>
+                <name type="personal" vocab="LCNAF" refid="n 98077443">Marr, Johnny, 1961-</name>
                 <dates>
                     <earliestDate>1961</earliestDate>
                     <latestDate>unknown</latestDate>
@@ -24,8 +24,8 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University, Library</name>
-                <refid>Sevier SPEC SEVP AP 2.M87</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>Sevier Periodicals, AP 2.M87</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,45 +35,47 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="85088613">Murder</term>
+                <term vocab="LCSH" refid="sh 85088613">Murder--History--Periodicals</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh2008113210">Violent crimes--History--Periodicals</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>"The Art of Murder"</title>
+            <title>The Art of Murder</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300026657">periodicals</worktype>
+            <worktype vocab="RBGENR">Zines</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="" vocab="" refid=""></name>
-                <role></role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+            <date type="creation">
+                <earliestDate>2015-03-17</earliestDate>
+                <latestDate>2015-03-17</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="">
-                <refid></refid>
-                <name type="" vocab="" refid=""></name>
+            <location type="repository">
+                <refid>Murder_Can_Be_Fun-no.12-J_Marr-1990.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="">
-                <text></text>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title></title>
+            <title>[Digital Reproduction of 'The Art of Murder' zine cover]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid=""></worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>

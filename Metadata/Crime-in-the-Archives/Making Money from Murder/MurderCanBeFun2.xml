@@ -6,7 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n98077443">Marr. Johnny 1961</name>
+                <name type="personal" vocab="LCNAF" refid="n 98077443">Marr, Johnny, 1961-</name>
                 <dates>
                     <earliestDate>1961</earliestDate>
                     <latestDate>unknown</latestDate>
@@ -24,8 +24,8 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University, Library</name>
-                <refid>Sevier SPEC SEVP AP 2.M87</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>Sevier Periodicals, AP 2.M87</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,45 +35,54 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="85088613">Murder</term>
+                <term vocab="LCNAF" refid="n 80013137">United States Postal Service--Officials and employees--Crimes against--Periodicals</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh2008109893">Postal service--United States--Employees--Periodicals</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh2008108076">Murder--United States--History--Periodicals</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85143536">Violent crimes--Periodicals</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>"Please Mr. Postman Don't Shoot"</title>
+            <title>Please Mr. Postman Don't Shoot</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300026657">periodicals</worktype>
+            <worktype vocab="RBGENR">Zines</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="" vocab="" refid=""></name>
+                <name type="corporate" vocab="LCNAF" refid="">Vanderbilt University Special Collections</name>
                 <role></role>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+            <date type="creation">
+                <earliestDate>2015-03-17</earliestDate>
+                <latestDate>2015-03-17</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="">
-                <refid></refid>
-                <name type="" vocab="" refid=""></name>
+            <location type="repository">
+                <refid>Murder_Can_Be_Fun-no.14-J_Marr-1992.jpg</refid>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="">
-                <text></text>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title/>
+            <title>[Digital reproduction of 'Please Mr. Postman Don't Shoot' zine cover]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT"/>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>

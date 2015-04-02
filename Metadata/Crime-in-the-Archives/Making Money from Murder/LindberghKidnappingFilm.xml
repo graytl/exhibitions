@@ -6,11 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n81112558">Columbia Pictures Industries</name>
-                <dates>
-                    <earliestDate>1924-01-10</earliestDate>
-                    <latestDate>1976-02-26</latestDate>
-                </dates>
+                <name type="corporate" vocab="LCNAF" refid="n 81112558">Columbia Pictures Industries</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -24,8 +20,8 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University, Library</name>
-                <refid>James G. Stahlman Autograph Collection, Lindbergh, Charles</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>James G. Stahlman Autograph Collection, Lindbergh, Charles folder</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -36,45 +32,44 @@ Please contact Sony Pictures Film Clip &amp; Still Licensing at FilmClips@spe.so
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="184124732">Lindbergh, Charles A. (Charles Augustus) 1902-1974</term>
+                <term vocab="LCNAF" refid="n 79100565">Lindbergh, Charles A. (Charles Augustus) 1902-1974</term>
             </subject>
         </subjectSet>
         <titleSet>
             <title>The Lindbergh Kidnapping Case</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="" vocab="" refid=""></name>
-                <role></role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+            <date type="creation">
+                <earliestDate>2015-03-11</earliestDate>
+                <latestDate>2015-03-11</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="">
-                <refid></refid>
-                <name type="" vocab="" refid=""></name>
+            <location type="repository">
+                <refid>MS0412-C-Lindbergh-Movie-1977.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="">
-                <text></text>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title></title>
+            <title>[Digital reproduction of the Lindbergh kidnapping case]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid=""></worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>
