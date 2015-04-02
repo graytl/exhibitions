@@ -3,10 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n 94063816 ">Barnard, Edward Emerson</name>
+                <name type="personal" vocab="LCNAF" refid="n 94063816">Barnard, Edward Emerson, 1857-1923</name>
                 <dates>
                     <earliestDate>1857-12-16</earliestDate>
                     <latestDate>1923-02-06</latestDate>
@@ -24,8 +25,8 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University Library</name>
-                <refid>MS0031.B43.F5</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS 0031, Box 43, Folder 05</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,33 +36,38 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh 85009000 ">Astronomical Photography</term>
+                <term vocab="LCNAF" refid="n 94063816">Barnard, Edward Emerson, 1857-1923--Pictorial works</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh2006007022">Refracting telescopes--Pictorial works</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85133444">Telescopes--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
             <title>[Barnard with 36-inch refractor telescope at Lick Observatory, CA]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347  ">black-and-white photograph</worktype>
+            <worktype vocab="AAT" refid="300128347 ">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Library Special Collections</name>
-                <role>Scanner</role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="other">
+            <date type="creation">
                 <earliestDate>2015</earliestDate>
                 <latestDate>2015</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>MS0031.Barnard-Lick Obsrv-1913</refid>
-                <name type="corporate" vocab="LCSH" refid="31075875">Vanderbilt University Library </name>
+                <refid>MS0031-Barnard-Lick-Obsrv1913.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -70,7 +76,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Surrogate</title>
+            <title>[Digital Reproduction of Barnard with 36-inch refractor telescope at Lick Observatory, CA]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital Images</worktype>

@@ -6,7 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid=" n 94063816 ">Barnard, Edward Emerson</name>
+                <name type="personal" vocab="LCNAF" refid="n 94063816">Barnard, Edward Emerson, 1857-1923</name>
                 <dates>
                     <earliestDate>1857-12-16</earliestDate>
                     <latestDate>1923-02-06</latestDate>
@@ -20,12 +20,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Barnard moved to California in 1887 to inaugurate the new observatory at Mount Hamilton near San Jose.  He discovered the first non-Galilean moon of Jupiter, Amalthea, in September 1892, over 275 years after Galileo's discoveries.  Observatory staff fought over access to the 36-inch telescope, making working conditions difficult. Barnard moved to Yerkes Observatory in Williams Bay, Wisconsin in 1895 with an astronomy appointment at the Unversity of Chicago.</description>
+            <description>Barnard moved to California in 1887 to inaugurate the new observatory at Mount Hamilton near San Jose. He discovered the first non-Galilean moon of Jupiter, Amalthea, in September 1892, over 275 years after Galileo's discoveries. Observatory staff fought over access to the 36-inch telescope, making working conditions difficult. Barnard moved to Yerkes Observatory in Williams Bay, Wisconsin in 1895 with an astronomy appointment at the Unversity of Chicago.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University Library</name>
-                <refid>Ms0031.43.F05 </refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS 0031, Box 43, Folder 05</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,33 +35,33 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="n 80146341 ">Lick Observatory </term>
+                <term vocab="LCNAF" refid="n 80146341">Lick Observatory</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Lick Observatory, Mt. Hamilton,CA]</title>
+            <title>[Lick Observatory, Mt. Hamilton, CA]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347  ">black-and-white photograph</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300134468">Astrophotographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Library Special Collections</name>
-                <role>Scanner</role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015</earliestDate>
-                <latestDate>2015</latestDate>
+                <earliestDate>2015-03-20</earliestDate>
+                <latestDate>2015-03-20</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>MS0031.Barnard-Lick Obsrv-1913 </refid>
-                <name type="corporate" vocab="LCSH" refid="31075875">Vanderbilt University Library </name>
+                <refid>MS0031-Barnard-Lick-Obsrv1913.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -70,10 +70,10 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Image of [Lick Observatory, Mt. Hamilton,CA]</title>
+            <title>[Digital Reproduction of Lick Observatory, Mt. Hamilton, CA]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300215302  ">Digital Images</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital Images</worktype>
         </worktypeSet>
     </image>
 </vra>
