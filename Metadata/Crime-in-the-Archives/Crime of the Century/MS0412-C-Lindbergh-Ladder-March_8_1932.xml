@@ -43,7 +43,7 @@ web site: http://www.corbisimages.com</text>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -55,7 +55,7 @@ web site: http://www.corbisimages.com</text>
         <locationSet>
             <location type="repository">
                 <refid>MS0412-C-Lindbergh-Ladder-March_8_1932.jpg</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
