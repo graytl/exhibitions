@@ -6,11 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF">Gunter, William Jr.</name>
-                <dates>
-                    <earliestDate/>
-                    <latestDate/>
-                </dates>
+                <name type="personal" vocab="local">Gunter, William Jr.</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -20,12 +16,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Katherine Anderson (1909-1995) received a PhD in bacteriology from Vanderbilt in 1940.  Her interest in viruses led to her work in Dr. Goodpasture's lab. The couple married in 1945, after which she worked on environmental issues, natural habitats and ornithology.</description>
+            <description>Katherine Anderson (1909-1995) received a PhD in bacteriology from Vanderbilt in 1940. Her interest in viruses led to her work in Dr. Goodpasture's lab. The couple married in 1945, after which she worked on environmental issues, natural habitats and ornithology.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="n 2006184215">Vanderbilt University Medical Center Eskind Biomedical Library</name>
-                <refid>MSSGoodpastureColl29Series10.B16A.F0003</refid>
+                <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
+                <refid>MSS Goodpasture Collection 29, Series 10, Box 16A, Folder 0003</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,33 +31,35 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH"/>
+                <term vocab="LCNAF" refid="no2008063267">Anderson, Katherine, 1909---Pictorial works</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85014175">Biological laboratories--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Katherine Anderson in the laboratory]</title>
+            <title>[Dr. Katherine Anderson in the laboratory]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347  ">black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Library Special Collections</name>
-                <role>Scanner</role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015</earliestDate>
-                <latestDate>2015</latestDate>
+                <earliestDate>2015-03-20</earliestDate>
+                <latestDate>2015-03-20</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>Eskind_VUMC-K_Anderson-Scrapbook-A </refid>
-                <name type="corporate" vocab="LCSH" refid="n 2006184215">Vanderbilt University Medical Center Eskind Biomedical Library</name>
+                <refid>Eskind_VUMC-K_Anderson-Scrapbook-A.jpg</refid>
+                <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -70,7 +68,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Image of [Katherine Anderson in the laboratory]</title>
+            <title>[Digital reproduction of Katherine Anderson in the laboratory]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital Images</worktype>

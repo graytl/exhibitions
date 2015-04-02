@@ -20,12 +20,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Dr. Ernest Goodpasture was Chair of Pathology at Vanderbilt from 1924-1955 and remains known for his work developing vaccines by culturing them in chicken eggs. Goodpasture used so-called immortal HeLa cells as many pathologists did after they became availble in 1951.The line was derived from cervical cancer cells (circled in red) taken on February 8, 1951 from cancer patient Henrietta Lacks.  </description>
+            <description>Dr. Ernest Goodpasture was Chair of Pathology at Vanderbilt University from 1924-1955 and remains known for his work developing vaccines by culturing them in chicken eggs. Goodpasture used so-called immortal HeLa cells as many pathologists did after they became availble in 1951.The line was derived from cervical cancer cells (circled in red) taken on February 8, 1951 from cancer patient Henrietta Lacks.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="LCSH" refid="n 2006184215">Vanderbilt University Medical Center Eskind Biomedical Library</name>
-                <refid>MSSGoodpastureColl29.Binder1956</refid>
+                <refid>MSS GoodpastureCollection 29, Binder 1956</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,33 +35,32 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid=" sh 8505998 ">HeLa cells</term>
+                <term vocab="LCSH" refid="sh 85059978">HeLa cells--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
             <title>[HeLa Cancer Cell]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347  ">black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Library Special Collections</name>
-                <role>Scanner</role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="other">
-                <earliestDate>2015</earliestDate>
-                <latestDate>2015</latestDate>
+            <date type="creation">
+                <earliestDate>2015-03-20</earliestDate>
+                <latestDate>2015-03-20</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>Eskind_VUMC-Cancer-Cell-1956-42 </refid>
-                <name type="corporate" vocab="LCSH">Vanderbilt University Photographic Archives</name>
+                <refid>Eskind_VUMC-Cancer_Cell-1956-42.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -70,7 +69,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Image of [HeLa Cancer Cell]</title>
+            <title>[Digital reproduction of HeLa Cancer Cell]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
