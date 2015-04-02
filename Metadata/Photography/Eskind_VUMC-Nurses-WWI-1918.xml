@@ -6,11 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 2006184215">Vanderbilt University Medical Center Eskind Biomedical Library</name>
-                <dates>
-                    <earliestDate/>
-                    <latestDate>present</latestDate>
-                </dates>
+                <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -24,7 +20,7 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University Library</name>
+                <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
                 <refid/>
             </location>
         </locationSet>
@@ -36,45 +32,47 @@ Author: United States. War Dept. General Staff Contributor: United States. Army.
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid=" sh2008113826">World War, 1914-1918 Hospitals</term>
+                <term vocab="LCSH" refid="sh2008113826">World War, 1914-1918--Hospitals--Pictorial works</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85093349">Nurses--1910-1920--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
             <title>[Nurses with the Vanderbilt Hospital in France]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347  ">black-and-white photograph</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Library Special Collections</name>
-                <role>Scanner</role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="other">
-                <earliestDate>2015</earliestDate>
-                <latestDate>2015</latestDate>
+            <date type="creation">
+                <earliestDate>2015-03-20</earliestDate>
+                <latestDate>2015-03-20</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>Eskind_VUMC-Nurses-WWI-1918 </refid>
-                <name type="corporate" vocab="LCSH" refid="31075875">Vanderbilt University Library </name>
+                <refid>Eskind_VUMC-WW1-Nurses-1918.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="publicDomain">
-                <text>Used in Histoirc Images of VUMC online exhibit.</text>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Colletions</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Surrogate</title>
+            <title>[Digital reproduction of Nurses with the Vanderbilt Hospital in France]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347  ">Black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>

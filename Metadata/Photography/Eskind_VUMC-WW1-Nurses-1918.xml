@@ -4,33 +4,39 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
     <work>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
+            </agent>
+        </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>1937</earliestDate>
-                <latestDate>1937</latestDate>
+                <earliestDate>1919-01-29</earliestDate>
+                <latestDate>1919-01-29</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Gunter was an autopsy technician in the Department of Pathology, as well as a skilled photographer praised by Goodpasture for his work for Pathology and other departments.  Bill’s brother Albert and his father Bill Sr., both worked in Pathology as assistants or deaners.</description>
+            <description/>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
-                <refid>MSS Goodpasture Collection 29, Series 10, Box 16A, Folder 0003</refid>
+                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University Library</name>
+                <refid/>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="copyrighted">
-                <text>Per Eskind Library website, "Copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law."  No Goodpasture or Gunter descendants have been located. Maker undetermined.</text>
+            <rights type="publicDomain">
+                <text>Photo part of series made December, 1918 by US Army Signal Corps.  Published by US Government Printing Office in 1919 as Catalogue of Official A.E.F. Photographs, United States. War Dept. General Staff [Issue 903 of Document (United States. War Dept.) 
+Author: United States. War Dept. General Staff Contributor: United States. Army. Signal Corps part of Army Expeditionary Force.] US ASC 45859, page 505.</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term/>
+                <term vocab="LCSH" refid=" sh2008113826">World War, 1914-1918--Hospitals</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[William Gunter, Jr. autopsy technician and photographer]</title>
+            <title>[Nurses with the Vanderbilt Hospital in France]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
@@ -50,20 +56,20 @@
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>Eskind_VUMC-W_Gunter-scrapbook.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+                <refid>Eskind_VUMC-WW1-Nurses-1918.jpg</refid>
+                <name type="corporate" vocab="LCSH" refid="31075875">Vanderbilt University--Library</name>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            <rights type="publicDomain">
+                <text>Used in Historic Images of VUMC online exhibit.</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of William Gunter, Jr. autopsy technician and photographer]</title>
+            <title>[Digital reproduction of Nurses with the Vanderbilt Hospital in France]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital Images</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>
