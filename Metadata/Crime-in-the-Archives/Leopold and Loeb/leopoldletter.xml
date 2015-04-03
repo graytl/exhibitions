@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n50049890">Leopold, Nathan Freudenthal, 1904-1971</name>
+                <dates>
+                    <earliestDate>1904</earliestDate>
+                    <latestDate>1971</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1964-12-07</earliestDate>
+                <latestDate>1964-12-07</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>After his release from prison in 1958 Nathan Leopold (1904-1971) moved to Puerto Rico where he re-started his life as an X-ray technician and advocate for the abolition of the death penalty.  In this letter he discusses his opposition to capital punishment and his belief that criminals could be rehabilitated. While in prison Leopold worked tirelessly to improve the lives of inmates, teaching reading classes and establishing libraries within the penitentiaries.  </description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <refid>James G. Stahlman Historical Autograph Collection, Nathan Leopold, MSS0412</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="undetermined">
+                <text/>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="" refid="sh85019949">Capital punishment</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>Letter to Mary K. Brown</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="" refid=""></worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="">
+                <earliestDate></earliestDate>
+                <latestDate></latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid/>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Letter to Mark K. Brown</title>
+            <title/>
+            <title/>
+            <title/>
+            <title/>
+            <title/>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

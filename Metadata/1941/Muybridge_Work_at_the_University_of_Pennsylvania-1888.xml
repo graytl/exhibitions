@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="79075151 ">Muybridge, Eadweard, 1830-1904.</name>
+                <dates>
+                    <earliestDate>1830-04-09</earliestDate>
+                    <latestDate>1904-05-08</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>1888</earliestDate>
+                <latestDate>1888</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>British photographer Edweard Muybridge pioneered work on animal locomotion using multiple cameras to capture motion in still photographs.  After success as a photographer of the American West, Muybridge was sponsored by the University of Pennsylvania in the 1880s, providing banks of cameras and staff to photograph people in his studio and animals at the Philadelphia Zoo.  Between 1883 and 1886, Muybridge made more than 100,000 images, from which these sketches originated.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="local" refid="">Vanderbilt University. Science Library.</name>
+                <refid>SCIENCE/591.47 P41a</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>published before 1923</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="85005206">Animal locomotion</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>Animal Locomotion. The Muybridge Work at the University of Pennsylvania, the Method and the Result.</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300028051">books</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-03-30</earliestDate>
+                <latestDate>2015-03-30</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid/>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Muybridge_Work_at_the_University_of_Pennsylvania-1888.jpg</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>
