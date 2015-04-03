@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="local" refid="">Barnes, Frederic Wood, 1943-</name>
+                <dates>
+                    <earliestDate>1943-02-01</earliestDate>
+                    <latestDate>present</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>1975-09-06</earliestDate>
+                <latestDate>1975-09-06</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>News of the attempted assassination of President Gerald Ford (1913-2006) broke immediately after it happened.  All three of the major television news stations were filming as Lynette “Squeaky” Fromme (1948- ) pushed towards the President with her pistol, capturing the event as it happened.  Newspapers of the day splashed the front pages with images of Fromme, Secret Service agents and the President.  The Washington Star’s September 6, 1975 coverage of the startling event is typical of what front pages all over the country looked like the day after the attempted assassination.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <refid>james G. Stahlman Historical Autograph Collection, Lynette Fromme, MSS0412</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Ceased production in 1981</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid=" 	tgm000567">Assassinations</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>The Washington Star Front Page, September 6, 1975</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid=" 300026656">Newspapers</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-03-16</earliestDate>
+                <latestDate>2015-03-16</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>MS0412-C-Washington_Star-Sept_6_1975-Lynette_Fromme.01</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>The Washington Star Front Page, September 6, 1975</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

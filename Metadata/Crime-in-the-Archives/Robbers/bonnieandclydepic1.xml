@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="" vocab="" refid=""/>
+                <dates>
+                    <earliestDate></earliestDate>
+                    <latestDate></latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1932-04-03</earliestDate>
+                <latestDate>1932-04-03</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>This photograph is purportedly of the outlaw couple Bonnie Parker (1910-1934) and Clyde Barrow (1909-1934) taken on April 3, 1932 in San Antonio, Texas.  These two along with their gang were the scourge of the southwest during the early 1930s. The couple participated in hundreds robberies before dying in a hail of gunfire by a posse in Bienville Parish, Louisiana. By then the legends of their exploits were spread across the country in the form of poems, news stories and dime novels glamorizing their lives.   </description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <refid>James G. Stahlman Historical Autograph Collection, Barrow, Clyde</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="undetermined">
+                <text>Can not determine if this really is Bonnie and Clyde or who to attribute the image to.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="n79065767">Barrow, Clyde, 1909-1934</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>Bonnie Parker and Clyde Barrow</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid=" 300128347">black-and-white photographs</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-03-03</earliestDate>
+                <latestDate>2015-03-03</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>MS0412-C-Bonnie_and_Clyde-San_Antonio-April_3_1932</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Bonnie Parker and Clyde Barrow</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

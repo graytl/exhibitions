@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="" vocab="LCNAF">Unknown</name>
+                <dates>
+                    <earliestDate></earliestDate>
+                    <latestDate></latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="">
+                <earliestDate></earliestDate>
+                <latestDate></latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description/>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <refid>George O. Boswell Papers, Box 1, Folder 96</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text/>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="sh85049922">Folk songs</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>Jesse James II</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="" refid=""></worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="" vocab="" refid=""></name>
+                <role></role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate/>
+                <latestDate/>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>MS0049-Jesse_James_lyrics-B01-F96.A.jpg  MS0049-Jesse_James_lyrics-B01-F96.B.jpg</refid>
+                <name type="" vocab="" refid=""/>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text/>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Jesse James II</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid=""></worktype>
+        </worktypeSet>
+    </image>
+</vra>

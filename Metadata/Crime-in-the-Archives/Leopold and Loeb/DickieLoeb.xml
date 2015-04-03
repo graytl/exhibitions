@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="nr2005028476">Acme Newspictures (New York, N.Y.)</name>
+                <dates>
+                    <earliestDate>1913</earliestDate>
+                    <latestDate>1997</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>1936-01-28</earliestDate>
+                <latestDate>1936-01-30</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>Richard Loeb was killed in 1936 by his cellmate James Day at the Illinois State Penitentiary at Statesville.  During his time in prison he was under constant threat by other prisoners because of the heinous nature of his crime.  Leopold (19 at the time) and Loeb (18 at the time) were considered the first “thrill killers” in America a definition that has become synonymous with their names. Both admitted that they were driven by the thrill of the kill, their Übermensch delusions, and their aspiration to commit a "perfect crime". Leopold, at least, considered the incident an intellectual exercise. </description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="" vocab="" refid="">Vanderbilt University Special Collection</name>
+                <refid>James G. Stahlman Historical Autograph Collection, Nathan Leopold, MSS0412</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text/>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="n50048217"> 	Loeb, Richard A., 1905-1936</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>Dickie Loeb Slain in Prison</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300128347">black-and-white photographs</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-03-17</earliestDate>
+                <latestDate>2015-03-17</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>MS0412-C-Richard-Loeb-Slain_in_Prison-Jan_28_1936</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Dickie Loeb Slain in Prison</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid=" 	n96123727">Fromme, Lynette Alice, 1948-</name>
+                <dates>
+                    <earliestDate>1948-10-22</earliestDate>
+                    <latestDate>present</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1975-04-24</earliestDate>
+                <latestDate>1975-04-29</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>In this postcard Lynette “Squeaky” Fromme (1948- ) relates some news on Charles Manson and family members to potential biographer David Nicholas.  She refers to fellow family members Susan Atkins, Patricia Krenwinkel and Linda Kasabian being confined at the California Institute for Women’s Prison (C.I.W.) and writes about the death of King Faisal of Saudi Arabia and Manson’s thoughts on world violence.  She corresponded with hundreds of people interested in Manson’s philosophy during the years after his conviction trying to keep his message alive.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <refid>James G. Stahlman Historical Autograph Collection, Lynette Fromme, MSS0412</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text/>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid=" 	n79115986">	Manson, Charles, 1934-</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>Postcard from Lynette Fromme to David Nicholas, April 29, 1975 </title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300026816">Postcards</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-03-17</earliestDate>
+                <latestDate>2015-03-17</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>MS0412-C-Lynette_Fromme-Postcard-April_29-01</refid><refid>MS0412-C-Lynette_Fromme-Postcard-April_29-02</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Postcard from Lynette Fromme to David Nicholas, April 29, 1975 </title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>
