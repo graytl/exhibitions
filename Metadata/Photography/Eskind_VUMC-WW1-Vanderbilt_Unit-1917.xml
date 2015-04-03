@@ -3,6 +3,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+   <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
@@ -11,8 +12,8 @@
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>1917</earliestDate>
-                <latestDate>1917</latestDate>
+                <earliestDate>1917-08-01</earliestDate>
+                <latestDate>1917-08-01</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
@@ -31,20 +32,23 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid=" sh2008113826">World War, 1914-1918--Hospitals--Pictorial works</term>
+                <term vocab="LCSH" refid="sh 85082982">World War, 1914-1918--Pictorial works</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85062341">Hospitals--Medical staff--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Nurses with the Vanderbilt Unit in World War I]</title>
+            <title>[Vanderbilt Unit, World War I, August 1, 1917]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347 ">Black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -55,7 +59,7 @@
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>Eskind_VUMC-Nurses-WWI-1918.jpg</refid>
+                <refid>Eskind_VUMC-WW1-Vanderbilt_Unit-1917.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
@@ -65,7 +69,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of Nurses with the Vanderbilt Unit in World War I]</title>
+            <title>[Digital reproduction of Vanderbilt Unit, World War I, August 1, 1917]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
