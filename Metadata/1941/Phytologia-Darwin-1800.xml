@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="50037924 ">Darwin, Erasmus, 1731-1802</name>
+                <dates>
+                    <earliestDate>1731-12-12</earliestDate>
+                    <latestDate>1802-04-18</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>1800</earliestDate>
+                <latestDate>1800</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>Erasmus Darwin was a British physician, scientist, inventor and poet who originated the ideas of natural selection and photosynthesis. He published Zoonomia after 20 years of remaining silent due to public censure. His grandson Charles would further these ideas in On the Origin of Species.  Phytologia, a seminal book on plant science, detailed photosynthesis and identified elements essential plant nutrients. His final book traced the evolution of life from the microscopic to humankind.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="local" refid="">Vanderbilt University. Annex.</name>
+                <refid>SCIENCE/ 580 D22p</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>published before 1923</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="85015976">Botany</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>Phytologia; or, ThePhilosophy of Agriculture and Gardening. With the Theory of Draining Morasses, and with an Improved Construction of the Drill Plough.</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300028051">books</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-03-30</earliestDate>
+                <latestDate>2015-03-30</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid/>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Phytologia-Darwin-1800.jpg</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

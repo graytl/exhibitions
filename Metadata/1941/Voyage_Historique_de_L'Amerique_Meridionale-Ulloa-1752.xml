@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid=" 79095539 ">Juan, Jorge, 1713-1773 </name>
+                <dates>
+                    <earliestDate>1713-01-05</earliestDate>
+                    <latestDate>1773-06-21</latestDate>
+                </dates>
+            </agent>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="79093033 ">Ulloa, Antonio de, 1716-1795</name>
+                <dates>
+                    <earliestDate>1716-01-12</earliestDate>
+                    <latestDate>1795-07-03</latestDate>
+                </dates>
+            </agent>
+                <agent>
+                    <name type="personal" vocab="LCNAF" refid="91002541 ">Mauvillon, Eléazar, 1712-1779</name>
+                    <dates>
+                        <earliestDate>1712</earliestDate>
+                        <latestDate>1779</latestDate>
+                    </dates>
+                </agent>  
+                </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>1752</earliestDate>
+                <latestDate>1752</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>In 1734, King Philip V of Spain asked Spanish mathematician, scientist and mariner Jorge Juan and scientist, author and astronomer Antonio de Ulla to join the French Geodesic Mission in measuring the length of a degree of meridian arc at the Equator.  The mission was to determine the roundness of the Earth. Ulloa later published an account of the people and sights they encountered.  Shown here is a triple rainbow seen after the eruption of Mount Cotopaxi.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="local" refid="">Vanderbilt University. Special Collections</name>
+                <refid>Sevier Oversize Collection/F2221 .U441</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>published 1752</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="85006477">Arc measures</term>
+            </subject>
+            <subject>
+            <term vocab="LCSH" refid="85118684">Scientific expeditions</term>
+            </subject>
+            <subject>
+            <term vocab="LCSH" refid="85100204">Peru--History--To 1820</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>Voyage Historique de l'Amérique Méridionale Fait par Ordre du Roi d'Espagne</title>
+            </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300028051">books</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-03-30</earliestDate>
+                <latestDate>2015-03-30</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid/>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Voyage_Historique_de_L'Amerique_Meridionale-Ulloa-1752.jpg</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

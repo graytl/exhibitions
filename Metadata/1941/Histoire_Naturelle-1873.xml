@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="50041361 ">Buffon, Georges Louis Leclerc, comte de, 1707-1788</name>
+                <dates>
+                    <earliestDate>1707-09-07</earliestDate>
+                    <latestDate>1788-04-16</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>1873</earliestDate>
+                <latestDate>1873</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>George Louis Buffon's  Histoire Naturelle was an undertaking on the scale of Diderot and D'Alembert's Encyclopedie.  The Historie broke ground in scientific thought, rejecting God's intervention in nature and theorizing that the Earth was much older than previously thought.  Animals were the result of spontaneous generation rather than divine creation and they changed as they migrated.  In “The Table of the Order of Dogs,” Buffon creates a genealogy for dogs coming from four main branches.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="local" refid="">Vanderbilt University. Special Collections</name>
+                <refid>Science/570 B92h</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>pulbished before 1923</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+               <subject>
+                <term vocab="LCSH" refid="85043011">Encyclopedias and dictionaries, French</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>Histoire Naturelle, Générale et Particulière </title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300129439   	 ">encyclopedias</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-03-30</earliestDate>
+                <latestDate>2015-03-30</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid/>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Histoire_Naturelle-1873.jpg</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>
