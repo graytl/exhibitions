@@ -26,7 +26,10 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="" refid=""></term>
+                <term vocab="local">Merritt, Elizabeth Kirkland--Portraits</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85101240">Portrait photography--Specimens</term>
             </subject>
         </subjectSet>
         <titleSet>
