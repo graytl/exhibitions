@@ -50,18 +50,45 @@ the central library lobby on photography. Text is not yet finalized and is subje
 * Image Title | [Barnard with 36-inch refractor telescope at Lick Observatory, CA]
   * Filename: MS0031.Barnard-Lick Obsrv-1913.jpg
   * While at Lick Observatory, Barnard was the first astronomer to discover a comet using photgraphic plates. In 1889, he became the first astronomer to observe the eclipse of Saturn's satelite Iapetus.
-* Image Title | 
-  * Filename:
-  * 
-* Image Title | 
-  * Filename:
-  * 
-* Image Title | 
-  * Filename:
-  * 
-* Image Title | 
-  * Filename:
-  * 
+* Image Title | [Edward Emerson Barnard with J.W. Braid and P.R.Calvert]
+  * Filename: MS0031-Braid-Barnard-Calvert
+  * Emerson (center) worked for two Nashville photo studios from an early age. His boss, J.W. Braid (on his left), gave him his first telescope. P.R. Calvert (on his right) introduced Barnard to his sister Rhoda. The two married in 1881.
+* Image Title | [Jupiter Camera, Nashville, TN]
+  * Filename: MS0031-Jupiter_Camera-c1885.jpg
+  * Barnard worked for Van Stavoren's photo studio as a nine-year-old. He had to keep this solar camera directed on the sun to avoid setting fire to nearby buidlings. This meant spending hours awake on the roof in all weather.
+* Image Title | [Total Eclipse June 8, 1918]
+  * Filename: MS0031-P-Barnard-Total_Eclipse-June_8_1918.jpg
+  * Barnard pioneered astrophotography as well as discovering 15 comets and the first non-Galilean moon of Jupiter. His astronomical photographs were published postyhumously as A Photographic Atlas of Selected Regions of the Milky Way (1927) completed by the director of Yerkes Observatory, and Mary R. Calvert, Barnard's niece, who worked as his assistant.
+* Image Title | [Solar Eclipse]
+  * Filename: MS0031-SolarEclipse-slide11.jpg
+  * While at Lick Observatory, Barnard was the first astronomer to discover a comet using photgraphic plates. In 1889, he became the first astronomer to observe the eclipse of Saturn's satelite Iapetus.
+* Image Title | [Tennessee Centennial and International Exposition Souvenir Cuff Links]
+  * Filename: MS0123-P-Centennial_Cufflinks-1897.jpg
+  * DESCRIPTION MISSING
+* Image Title | [Becky, Grandma Henderson's Cook]
+  * Filename: MS0242-P-Becky-Grandma_Henderson's_Cook-1890.jpg
+  * DESCRIPTION MISSING
+* Image Title | [Elizabeth Kirkland Merritt with her Nurse, Ida]
+  * Filename: MS0242-P-Elizabeth_Kirkland_Merritt-Nurse_Ida-c1901.jpg
+  * DESCRIPTION MISSING
+* Image Title | [Louise and Willie Tarboux]
+  * Filename: MS0242-P-Louise_and_Willie_Tarboux-1895.jpg
+  * Reverend John W. Tarboux served in Juis de Flora, Brazil as a Methodist missionary and later university president. Willie, his second son, died in 1911. Louise returned to the United States.
+* Image Title | [Mary Henderson Kirkland]
+  * Filename: MS0242-P-Mary_Henderson_Kirkland-1914.jpg
+  * DESCRIPTION MISSING
+* Image Title | [Mary Henderson Kirkland, Robert Clark and Friends, Pictured with Tennis Rackets]
+  * Filename: MS0242-P-Mary_Henderson-Robert_Clark_and_friends-c1887.jpg
+  * DESCRIPTION MISSING
+* Image Title | [Wells A. Henderson]
+  * Filename: MS0242-P-WA_Henderson-c1890.jpg
+  * DESCRIPTION MISSING
+* Image Title | [Harriet Elizabeth Smiley Henderson]
+  * Filename: MS0242-P-Harriet_Eliza_Smiley(Henderson)-c1860.jpg
+  * DESCRIPTION MISSING
+* Image Title | [Grandpa Henderson in his Confederate Uniform]
+  * Filename: MS0242-P-Grandpa_Henderson-Confederate_Uniform-c1860.xml
+  * DESCRIPTION MISSING
 * Image Title | 
   * Filename:
   * 

@@ -6,7 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n 94063816 ">Barnard, Edward Emerson</name>
+                <name type="personal" vocab="LCNAF" refid="n 94063816">Barnard, Edward Emerson, 1857-1923</name>
                 <dates>
                     <earliestDate>1857-12-16</earliestDate>
                     <latestDate>1923-02-06</latestDate>
@@ -24,8 +24,8 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University Library</name>
-                <refid>Edward Emerson Barnard Collection, Ms0031</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS Collection 0031</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,45 +35,44 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh 85009000 ">Astronomical Photography</term>
+                <term vocab="LCSH" refid="sh 85009000">Astronomical Photography</term>
             </subject>
         </subjectSet>
         <titleSet>
             <title/>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347  ">black-and-white photograph</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Library Special Collections</name>
-                <role>Scanner</role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="other">
+            <date type="creation">
                 <earliestDate>2015</earliestDate>
                 <latestDate>2015</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>Ms0031</refid>
-                <name type="corporate" vocab="LCSH" refid="31075875">Vanderbilt University Library </name>
+                <refid>[image filename]</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="publicDomain">
-                <text>Used in 2005 and 2012 Heard Library exhibits. Barnard died in 1923.</text>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Surrogate</title>
+            <title>[Digital Reproduction of....]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347  ">Black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>

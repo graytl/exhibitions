@@ -3,16 +3,8 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF">Unknown</name>
-                <dates>
-                    <earliestDate/>
-                    <latestDate/>
-                </dates>
-            </agent>
-        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>1866</earliestDate>
@@ -24,8 +16,8 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University Library</name>
-                <refid>Ms0031 Photo Box</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS Collection 0031, Photo Box</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,21 +27,23 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid=" "/>
+                <term vocab="LCSH" refid="sh 85009000">Astronomical photography</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85019133">Cameras--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
             <title>[Jupiter Camera, Nashville, TN]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347  ">black-and-white photograph</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Library Special Collections</name>
-                <role>Scanner</role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -60,8 +54,8 @@
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>MS0031-Jupiter_Camera-c1885 </refid>
-                <name type="corporate" vocab="LCSH" refid="31075875">Vanderbilt University Library </name>
+                <refid>MS0031-Jupiter_Camera-c1885.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -70,10 +64,10 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Surrogate of [Jupiter Camera, Nashville, TN with Braid and Calvert]</title>
+            <title>[Digital Reproduction of Jupiter Camera, Nashville, TN with Braid and Calvert]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital Images</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>

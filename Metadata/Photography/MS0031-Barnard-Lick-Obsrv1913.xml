@@ -6,43 +6,44 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local">Whitehead and Hoad (Firm)</name>
+                <name type="personal" vocab="LCNAF" refid="n 94063816">Barnard, Edward Emerson, 1857-1923</name>
                 <dates>
-                    <earliestDate>1892</earliestDate>
-                    <latestDate>1953</latestDate>
+                    <earliestDate>1857-12-16</earliestDate>
+                    <latestDate>1923-02-06</latestDate>
                 </dates>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>1897</earliestDate>
-                <latestDate>1897</latestDate>
+                <earliestDate>1902</earliestDate>
+                <latestDate>1902</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description/>
+            <description>Barnard moved to California in 1887 to inaugurate the new observatory at Mount Hamilton near San Jose. He discovered the first non-Galilean moon of Jupiter, Amalthea, in September 1892, over 275 years after Galileo's discoveries. Observatory staff fought over access to the 36-inch telescope, making working conditions difficult. Barnard moved to Yerkes Observatory in Williams Bay, Wisconsin in 1895 with an astronomy appointment at the Unversity of Chicago.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid/>
+                <refid>MSS 0031, Box 43, Folder 05</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text/>
+                <text>Barnard died in 1923.</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="no 98125557">Tennessee Centennial and International Exposition (1897 : Nashville, Tenn.)</term>
+                <term vocab="LCNAF" refid="n 80146341">Lick Observatory</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Tennessee Centennial and International Exposition Souvenir Cuff Links]</title>
+            <title>[Lick Observatory, Mt. Hamilton, CA]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300209299">Cuff links</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300134468">Astrophotographs</worktype>
         </worktypeSet>
     </work>
     <image>
@@ -53,13 +54,13 @@
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015-03-11</earliestDate>
-                <latestDate>2015-03-11</latestDate>
+                <earliestDate>2015-03-20</earliestDate>
+                <latestDate>2015-03-20</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>MS0123-P-Centennial_Cufflinks-1897.jpg</refid>
+                <refid>MS0031-Barnard-Lick-Obsrv1913.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
@@ -69,10 +70,10 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of Tennessee Centennial and International Exposition Souvenir Cuff Links]</title>
+            <title>[Digital Reproduction of Lick Observatory, Mt. Hamilton, CA]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital Images</worktype>
         </worktypeSet>
     </image>
 </vra>
