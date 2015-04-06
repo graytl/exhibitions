@@ -59,18 +59,18 @@ the central library lobby on photography. Text is not yet finalized and is subje
 * Image Title | [Total Eclipse June 8, 1918]
   * Filename: MS0031-P-Barnard-Total_Eclipse-June_8_1918.jpg
   * Barnard pioneered astrophotography as well as discovering 15 comets and the first non-Galilean moon of Jupiter. His astronomical photographs were published postyhumously as A Photographic Atlas of Selected Regions of the Milky Way (1927) completed by the director of Yerkes Observatory, and Mary R. Calvert, Barnard's niece, who worked as his assistant.
-* Image Title | 
-  * Filename:
-  * 
-* Image Title | 
-  * Filename:
-  * 
-* Image Title | 
-  * Filename:
-  * 
-* Image Title | 
-  * Filename:
-  * 
+* Image Title | [Solar Eclipse]
+  * Filename: MS0031-SolarEclipse-slide11.jpg
+  * While at Lick Observatory, Barnard was the first astronomer to discover a comet using photgraphic plates. In 1889, he became the first astronomer to observe the eclipse of Saturn's satelite Iapetus.
+* Image Title | [Tennessee Centennial and International Exposition Souvenir Cuff Links]
+  * Filename: MS0123-P-Centennial_Cufflinks-1897.jpg
+  * DESCRIPTION MISSING
+* Image Title | [Becky, Grandma Henderson's Cook]
+  * Filename: MS0242-P-Becky-Grandma_Henderson's_Cook-1890.jpg
+  * DESCRIPTION MISSING
+* Image Title | [Elizabeth Kirkland Merritt with her Nurse, Ida]
+  * Filename: MS0242-P-Elizabeth_Kirkland_Merritt-Nurse_Ida-c1901.jpg
+  * DESCRIPTION MISSING
 * Image Title | 
   * Filename:
   * 
