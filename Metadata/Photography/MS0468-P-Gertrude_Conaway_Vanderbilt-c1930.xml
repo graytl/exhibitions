@@ -4,15 +4,6 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
     <work>
-        <agentSet>
-            <agent>
-                <name type="" vocab="" refid="">Unknown</name>
-                <dates>
-                    <earliestDate></earliestDate>
-                    <latestDate></latestDate>
-                </dates>
-            </agent>
-        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>unknown</earliestDate>
@@ -24,8 +15,8 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <refid>Sc.Mss0468</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS Collection 0468</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -42,25 +33,25 @@
             <title>[Gertrude Conaway Vanderbilt]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">Black-and-white Photographs</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015</earliestDate>
-                <latestDate>2015</latestDate>
+                <earliestDate>2015-03-18</earliestDate>
+                <latestDate>2015-03-18</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0468-P-Gertrude_Conaway_Vanderbilt-c1930 </refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0468-P-Gertrude_Conaway_Vanderbilt-c1930.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +60,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Image of [Gertrude Conaway Vanderbilt]</title>
+            <title>[Digital Reproduction of Gertrude Conaway Vanderbilt]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
