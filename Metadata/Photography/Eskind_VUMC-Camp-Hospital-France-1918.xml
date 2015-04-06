@@ -7,7 +7,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
+                <name type="corporate" vocab="LCNAF" refid="n 79099281 ">United States. Army. Signal Corps</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -17,12 +17,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description/>
+            <description>Camp Hospital 28 opened February 4, 1918 and housed wounded troops from 40 miles around Nevers.  Vanderbilt Unit S took over the hospital March 7th.  From February until December 1918, the staff treated over 3,000 cases. The hospital closed June 13, 1919 and staff returning to the U.S. sailed home from St. Nazaire June 23.  Souvenir photos (searchable by person, place or regiment were 15 cents; enlarged prints in 5 sizes ranged from $0.35 for an 11 x 14 to $1.00 for a 20 x 24 inch print.  </description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
-                <refid/>
+                <refid>Vanderbilt Hisotry Files: Series 2, Folder 8, Image 25</refid>
             </location>
         </locationSet>
         <rightsSet>
