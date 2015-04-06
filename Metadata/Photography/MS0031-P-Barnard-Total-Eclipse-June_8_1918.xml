@@ -3,10 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n 94063816 ">Barnard, Edward Emerson</name>
+                <name type="personal" vocab="LCNAF" refid="n 94063816">Barnard, Edward Emerson, 1857-1923</name>
                 <dates>
                     <earliestDate>1857-12-16</earliestDate>
                     <latestDate>1923-02-06</latestDate>
@@ -20,13 +21,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Barnard pioneered astrophotography as well as discovering 15 comets and the first non-Galilean moon of Jupiter.  His astronomical photographs were published postyhumously as A Photographic Atlas of Selected Regions of the Milky Way (1927) completed by the director of Yerkes Observatory, and Mary R. Calvert, Barnard's niece, who worked as his assistant.
-</description>
+            <description>Barnard pioneered astrophotography as well as discovering 15 comets and the first non-Galilean moon of Jupiter. His astronomical photographs were published postyhumously as A Photographic Atlas of Selected Regions of the Milky Way (1927) completed by the director of Yerkes Observatory, and Mary R. Calvert, Barnard's niece, who worked as his assistant.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University Library</name>
-                <refid>Ms0031.B43.F2</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS Collection 0031, Box 43, Folder 002</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -36,33 +36,35 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh 85009000 ">Astronomical Photography</term>
+                <term vocab="LCSH" refid="sh 85009000">Astronomical Photography</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh2007002390">Total solar eclipses--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Total Eclipse June 8, 1918]</title>
+            <title>[Total Eclipse of the Sun, June 8, 1918]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300134977">lantern slides</worktype>
+            <worktype vocab="AAT" refid="300134977">Lantern slides</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Library Special Collections</name>
-                <role>Scanner</role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015</earliestDate>
-                <latestDate>2015</latestDate>
+                <earliestDate>2015-03-11</earliestDate>
+                <latestDate>2015-03-11</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>MS0031-P-Barnard-Total-Eclipse-June_8_1918 </refid>
-                <name type="corporate" vocab="LCSH" refid="31075875">Vanderbilt University Library </name>
+                <refid>MS0031-P-Barnard-Total_Eclipse-June_8_1918.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -71,10 +73,10 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Surrogate of [Total Eclipse June 8, 1918]</title>
+            <title>[Digital Reproduction of Total Eclipse of the Sun, June 8, 1918]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital Images</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>
