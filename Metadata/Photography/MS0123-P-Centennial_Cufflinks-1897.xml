@@ -6,7 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF">Whitehead and Hoad</name>
+                <name type="corporate" vocab="local">Whitehead and Hoad (Firm)</name>
                 <dates>
                     <earliestDate>1892</earliestDate>
                     <latestDate>1953</latestDate>
@@ -24,7 +24,7 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University Library</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
                 <refid/>
             </location>
         </locationSet>
@@ -39,41 +39,40 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Tennessee Centennial and International Exposition Souvenir Lapel Pins ]</title>
+            <title>[Tennessee Centennial and International Exposition Souvenir Cuff Links]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300046007">Lapel Pins</worktype>
+            <worktype vocab="AAT" refid="300209299">Cuff links</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Library Special Collections</name>
-                <role>Scanner</role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="other">
-                <earliestDate>2015</earliestDate>
-                <latestDate>2015</latestDate>
+            <date type="creation">
+                <earliestDate>2015-03-11</earliestDate>
+                <latestDate>2015-03-11</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>MS0123-P-Centennial-Cuff-Links-1897  </refid>
-                <name type="corporate" vocab="LCSH">Vanderbilt University Library</name>
+                <refid>MS0123-P-Centennial_Cufflinks-1897.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="publicDomain">
-                <text/>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Images</title>
+            <title>[Digital reproduction of Tennessee Centennial and International Exposition Souvenir Cuff Links]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>
