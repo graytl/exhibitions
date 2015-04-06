@@ -71,6 +71,33 @@ the central library lobby on photography. Text is not yet finalized and is subje
 * Image Title | [Elizabeth Kirkland Merritt with her Nurse, Ida]
   * Filename: MS0242-P-Elizabeth_Kirkland_Merritt-Nurse_Ida-c1901.jpg
   * DESCRIPTION MISSING
+* Image Title | [Louise and Willie Tarboux]
+  * Filename: MS0242-P-Louise_and_Willie_Tarboux-1895.jpg
+  * Reverend John W. Tarboux served in Juis de Flora, Brazil as a Methodist missionary and later university president. Willie, his second son, died in 1911. Louise returned to the United States.
+* Image Title | [Mary Henderson Kirkland]
+  * Filename: MS0242-P-Mary_Henderson_Kirkland-1914.jpg
+  * DESCRIPTION MISSING
+* Image Title | [Mary Henderson Kirkland, Robert Clark and Friends, Pictured with Tennis Rackets]
+  * Filename: MS0242-P-Mary_Henderson-Robert_Clark_and_friends-c1887.jpg
+  * DESCRIPTION MISSING
+* Image Title | [Wells A. Henderson]
+  * Filename: MS0242-P-WA_Henderson-c1890.jpg
+  * DESCRIPTION MISSING
+* Image Title | [Harriet Elizabeth Smiley Henderson]
+  * Filename: MS0242-P-Harriet_Eliza_Smiley(Henderson)-c1860.jpg
+  * DESCRIPTION MISSING
+* Image Title | [Grandpa Henderson in his Confederate Uniform]
+  * Filename: MS0242-P-Grandpa_Henderson-Confederate_Uniform-c1860.xml
+  * DESCRIPTION MISSING
+* Image Title | 
+  * Filename:
+  * 
+* Image Title | 
+  * Filename:
+  * 
+* Image Title | 
+  * Filename:
+  * 
 * Image Title | 
   * Filename:
   * 
