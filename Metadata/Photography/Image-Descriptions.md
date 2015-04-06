@@ -89,16 +89,16 @@ the central library lobby on photography. Text is not yet finalized and is subje
 * Image Title | [Grandpa Henderson in his Confederate Uniform]
   * Filename: MS0242-P-Grandpa_Henderson-Confederate_Uniform-c1860.xml
   * DESCRIPTION MISSING
-* Image Title | 
-  * Filename:
-  * 
-* Image Title | 
-  * Filename:
-  * 
-* Image Title | 
-  * Filename:
-  * 
-* Image Title | 
-  * Filename:
-  * 
+* Image Title | [Alva Vanderbilt]
+  * Filename: MS0468-P-Boudoir_Hair-c1890-possibly_Alva_Vanderbilt.jpg
+  * DESCRIPTION MISSING
+* Image Title | [Notre Dame de Paris]
+  * Filename: MS0483-P-Paris-Notre_Dame.jpg
+  * Lantern Slide Series dates unknown. Publisher Seemann in Leipzig from 1861 until Allied bombing in December 1943 destroyed the firm's archives. Donor C.W. Howe obtained his Ph.D. in 1905, and was on faculty at Vanderbilt from 1927-1947. Howe died in 1960. His donated photos and lantern slides of France are all undated. His published works date to 1950; no dates or other evidence about his European travels exists in finding aid.
+* Image Title | [Gertrude Conaway Vanderbilt]
+  * Filename: MS0468-P-Gertrude_Conaway_Vanderbilt-c1930.jpg
+  * DESCRIPTION MISSING
+* Image Title | [Harold Stirling Vanderbilt and Gertrude Conaway Vanderbilt]
+  * Filename: MS0468-P-Harold_Stirling_and_Gertrude_Conaway_Vanderbilt-c1935.jpg
+  * DESCRIPTION MISSING
 
