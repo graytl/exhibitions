@@ -3,10 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="no2007089559">Corn, Jack, (1929-)</name>
+                <name type="personal" vocab="LCNAF" refid="no2007089559">Corn, Jack, 1929-</name>
                 <dates>
                     <earliestDate>1929-01-14</earliestDate>
                     <latestDate>present</latestDate>
@@ -20,12 +21,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Striking miners play cards while on the picket line at Brookside Mine near Harlan, KY. Their 1972 dispute against Duke Power Co over working conditions, wages, and labor practices inspired the award-winning documentary Harlan County, USA.  </description>
+            <description>Striking miners play cards while on the picket line at Brookside Mine near Harlan, KY. Their 1972 dispute against Duke Power Co. over working conditions, wages, and labor practices inspired the award-winning documentary Harlan County, USA.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University Library</name>
-                <refid>SC.Ms0774.Box</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS Collection 0774, Box</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,33 +36,38 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh 85006073 ">Appalachian Region--Economic Conditions--Pictoral Works</term>
+                <term vocab="LCSH" refid="sh2008114203">Appalachian Region--Economic conditions--Pictoral works</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85020245">Card games--Pictorial works</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 90004763">Playing cards--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Striking miners play cards on the picket line at Brookside Mine near Harlan, KY]</title>
+            <title>[Striking Miners Play Cards on the Picket Line at Brookside Mine, near Harlan, KY]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347  ">black-and-white photograph</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <role>Scanner</role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="other">
-                <earliestDate>2015</earliestDate>
-                <latestDate>2015</latestDate>
+            <date type="creation">
+                <earliestDate>2015-03-20</earliestDate>
+                <latestDate>2015-03-20</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>MS0774-Cards-on-the-Hood-1968 </refid>
-                <name type="corporate" vocab="LCSH">Vanderbilt University Phtographic Archives</name>
+                <refid>MS0774-Cards_on_the_Hood-1968.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -70,7 +76,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>digital image of [Striking miners play cards on the picket line at Brookside Mine near Harlan, KY]</title>
+            <title>[Digital Reproduction of Striking Miners Play Cards on the Picket Line at Brookside Mine, near Harlan, KY]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

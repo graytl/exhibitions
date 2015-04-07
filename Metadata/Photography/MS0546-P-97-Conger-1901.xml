@@ -6,14 +6,14 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 85188904 ">Underwood and Underwood</name>
+                <name type="corporate" vocab="LCNAF" refid="n 85188904">Underwood &amp; Underwood</name>
                 <dates>
                     <earliestDate>1882</earliestDate>
                     <latestDate>1921</latestDate>
                 </dates>
             </agent>
             <agent>
-                <name type="personal" vocab="LCNAF" refid=" n 88283087  ">Ricalton, James</name>
+                <name type="personal" vocab="LCNAF" refid="n 88283087">Ricalton, James</name>
                 <dates>
                     <earliestDate>1844</earliestDate>
                     <latestDate>1929</latestDate>
@@ -31,8 +31,8 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University Library</name>
-                <refid>SC.Ms0546.Bx </refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS Collection 0546, Box</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -42,21 +42,20 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh 85024100 ">China--History--Boxer Rebellion, 1899-1901</term>
+                <term vocab="LCSH" refid="sh 85024100">China--History--Boxer Rebellion, 1899-1901--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[American Minister Conger, Peking, China.]</title>
+            <title>[American Minister Conger, Peking, China]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300127197     ">Stereograph</worktype>
+            <worktype vocab="AAT" refid="300127197">Stereographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <role>Scanner</role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -68,7 +67,7 @@
         <locationSet>
             <location type="repository">
                 <refid>MS0546-P-97-Conger-1901</refid>
-                <name type="corporate" vocab="LCSH" refid="31075875">Vanderbilt University Library </name>
+                <name type="corporate" vocab="LCSH" refid="31075875">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -77,10 +76,10 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital copy of [American Minister Conger, Peking, China.]</title>
+            <title>[Digital Reproduction of American Minister Conger, Peking, China]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital Images</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>

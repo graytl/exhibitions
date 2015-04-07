@@ -3,10 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="no2007089559">Corn, Jack, (1929-)</name>
+                <name type="personal" vocab="LCNAF" refid="no2007089559">Corn, Jack, 1929-</name>
                 <dates>
                     <earliestDate>1929-01-14</earliestDate>
                     <latestDate>present</latestDate>
@@ -20,12 +21,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>"The people of Appalachia are a proud people.  They were very open and honest with me, welcoming me into their homes and to their tables.  They loved the beauty and solitude of the mountains.  I understood their love of the land. . . . Coalmining changed the landscape forever and the land was never again the same."  Photojournalist Jack Corn captured a grandmother and her grandson near Logan, WV.</description>
+            <description>"The people of Appalachia are a proud people. They were very open and honest with me, welcoming me into their homes and to their tables. They loved the beauty and solitude of the mountains. I understood their love of the land...Coal mining changed the landscape forever and the land was never again the same." Photojournalist Jack Corn captured a grandmother and her grandson near Logan, West Virginia.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University Library</name>
-                <refid>Ms774.Bx </refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS Collection 774, Box</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,33 +36,32 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh 85006073 ">Appalachian Region--Economic Conditions--Pictoral Works</term>
+                <term vocab="LCSH" refid="sh2008114203">Appalachian Region--Economic conditions--Pictoral works</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[A grandmother and her grandson “just a sitting” near Logan, WV.]</title>
+            <title>[A Grandmother and Her Grandson “Just a Sitting,” near Logan, WV]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347  ">black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Library Special Collections</name>
-                <role>Scanner</role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="other">
-                <earliestDate>2015</earliestDate>
-                <latestDate>2015</latestDate>
+            <date type="creation">
+                <earliestDate>2015-03-20</earliestDate>
+                <latestDate>2015-03-20</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>MS0774-Woman-Boy-on-Porch-c.1968 </refid>
-                <name type="corporate" vocab="LCSH" refid="31075875">Vanderbilt University Library </name>
+                <refid>MS0774-Woman_Boy_on_Porch-c1968.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -70,7 +70,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Surrogate of [A grandmother and her grandson “Just a sitting” near Logan, WV.]</title>
+            <title>[Digital Reproduction of a Grandmother and Her Grandson “Just a Sitting,” near Logan, WV]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

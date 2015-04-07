@@ -3,10 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="no2007089559">Corn, Jack, (1929-)</name>
+                <name type="personal" vocab="LCNAF" refid="no2007089559">Corn, Jack, 1929-</name>
                 <dates>
                     <earliestDate>1929-01-14</earliestDate>
                     <latestDate>present</latestDate>
@@ -24,8 +25,8 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University Library</name>
-                <refid>Ms0774.Box</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS Collection 0774, Box</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,34 +36,35 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh 85006073 ">Appalachian Region--Economic Conditions--Pictoral Works</term>
-                <term vocab="LCSH"/>
+                <term vocab="LCSH" refid="sh2008114203">Appalachian Region--Economic conditions--Pictoral works</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 88003345">Classrooms--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Mrs. Helen Allread, substitute teacher at Crawford School] </title>
+            <title>[Mrs. Helen Allread, Substitute Teacher at Crawford School]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347  ">black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <role>Scanner</role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="other">
-                <earliestDate>2015</earliestDate>
-                <latestDate>2015</latestDate>
+            <date type="creation">
+                <earliestDate>2015-03-20</earliestDate>
+                <latestDate>2015-03-20</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>MS0774-Classroom-Stove-1968 </refid>
-                <name type="corporate" vocab="LCSH" refid="31075875">Vanderbilt University Library </name>
+                <refid>MS0774-Classroom_stove-1968.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -71,10 +73,10 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>digital copy of [Mrs. Helen Allread, substitute teacher at Crawford School] </title>
+            <title>[Digital Reproduction of Mrs. Helen Allread, Substitute Teacher at Crawford School]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">digital images</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>
