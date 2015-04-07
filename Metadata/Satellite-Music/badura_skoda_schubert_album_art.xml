@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <display>Paul Badura-Skoda (pianist), Franz Schubert (composer, 1797-1828), Saul Lambert (cover art)</display>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n81147251">Badura-Skoda, Paul</name>
+            </agent>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n50000561">Schubert, Franz, 1797-1828</name>
+                <dates>
+                    <earliestDate>1797</earliestDate>
+                    <latestDate>1828</latestDate>
+                </dates>
+            </agent>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n50037271">Lambert, Saul</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <display>Recorded in 1971.</display>
+            <date type="creation">
+                <earliestDate>1971</earliestDate>
+                <latestDate>1971</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <display>This album cover is a representative example of cover art for classical music produced during the 1970s. The cover is by Saul Lambert, and it is based on a detail of Kupelwieser's famours painting, "Party Game of the Schubertiads.</display>
+            <description source="Sara Manus, Vanderbilt University Library, 2015">This album cover is a representative example of cover art for classical music produced during the 1970s. The cover is by Saul Lambert, and it is based on a detail of Kupelwieser's famours painting, "Party Game of the Schubertiads.</description>
+        </descriptionSet>
+        <locationSet>
+            <display>Vanderbilt University Library, Anne Potter Wilson Music Library. Issued by RCA Records, c1971.</display>
+            <location type="repository">
+                <name type="corporate" vocab="LCNAF" refid="n81075875">Vanderbilt University Library</name>
+                <name type="geographic" vocab="TGN" refid="7013959" extent="inhabited place">Nashville-Davidson</name>
+                <name type="geographic" vocab="TGN" refid="2001855" extent="county">Davidson</name>
+                <name type="geographic" vocab="TGN" refid="7007825" extent="state">Tennessee</name>
+                <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
+                <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
+            </location>
+            <location type="creation">
+                <name type="corporate" vocab="LCNAF" refid="n83189940">RCA Records</name> 
+                <name type="geographic" vocab="TGN" refid="7007567" extent="inhabited place">New York</name>
+                <name type="geographic" vocab="TGN" refid="7007568" extent="state">New York</name>
+                <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
+                <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <display>8/VICS6131 RCA Records, c1971</display>
+            <rights type="copyrighted">
+                <rightsHolder>RCA Records, New York, NY</rightsHolder>                
+                <text>The display of this physical object constitutes a fair use as detailed in the ACRL's Code of Best Practices in Fair Use for Academic and Research Libraries.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <display>Album covers.</display>
+            <subject>
+                <term type="descriptive" vocab="AAT" refid="300247936">record covers</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <display>Schubert: The Complete Piano Sonatas, volume 4, Four Sonatas (1825-1826)</display>
+            <title type="cited" pref="true" source="item">Schubert: The Complete Piano Sonatas, volume 4, Four Sonatas (1825-1826)</title>
+        </titleSet>
+        <worktypeSet>
+            <display>3 LPs, album cover art.</display>
+            <worktype vocab="AAT" refid="300247936">record covers</worktype>
+            <worktype vocab="AAT" refid="300265802">long-playing records</worktype>
+        </worktypeSet>
+    </work>
+</vra>
+
