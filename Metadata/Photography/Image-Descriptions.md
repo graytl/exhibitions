@@ -97,4 +97,32 @@ the central library lobby on photography. Text is not yet finalized and is subje
 * Image Title | [Harold Stirling Vanderbilt and Gertrude Conaway Vanderbilt]
   * Filename: MS0468-P-Harold_Stirling_and_Gertrude_Conaway_Vanderbilt-c1935.jpg
   * DESCRIPTION MISSING
+* Image Title | [Springless, Seatless Coach -- Coal Hill, in Imperial City, Peking, China]
+  * Filename: MS0546-P-85-Coach-1901.jpg
+  * James Ricalton wrote of being the first Westerner inside the Imperial City. He described the palace as “empty of nearly all portable articles” after the looting by Allied troops and missionaries. Ricalton’s wanted armchair travelers to experience "the very same feelings [in Peking]" as he had. He described two states of reality viewers would experience; the reality of the physical world and an altered state of consciousness or "soul life."
+* Image Title | [YMCA Rooms for Allies, Peking, China]
+  * Filename:  MS0546-P-77-YMCA-1901.jpg
+  * James Ricalton photographed sites, survivors, and daily life in October 1900 in Peking after the Rebellion for Underwood &amp; Underwood. Troops posted in Peking found distractions at the Y with games, coffee, lunch, and books. The YMCA provided similar services to occupying American troops Manila during the Spanish-American War. Ricalton intended his 100 images to make the viewer feel "quite at home among the streets" of Peking.
+* Image Title | [Ketteler Street Peking, China]
+  * Filename:  MS0546-P-70-North-1901.jpg
+  *  In June 1900, anti-Western riots in Peking and the 54-day siege of foreign embassies by Chinese militants made headlines. In this image of the foreigners' quarter, Ketteler St. has been renamed for the murdered German minister Clemens von Ketteler. Manchu captain En Hai murdered Ketteler for killing an unarmed Chinese Muslin boy. James Ricalton photographed sites, survivors, and daily life in September 1900 in Peking after the Rebellion for Underwood &amp; Underwood.
+* Image Title | 
+  * Filename:  
+  * 
+* Image Title | 
+  * Filename:  
+  * 
+* Image Title | 
+  * Filename:  
+  * 
+* Image Title | 
+  * Filename:  
+  * 
+* Image Title | 
+  * Filename:  
+  * 
+* Image Title | 
+  * Filename:  
+  * 
+  
 
