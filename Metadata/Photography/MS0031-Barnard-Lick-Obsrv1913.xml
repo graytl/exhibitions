@@ -3,6 +3,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
@@ -25,7 +26,7 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS 0031, Box 43, Folder 05</refid>
+                <refid>MSS Collection 0031, Box 43, Folder 05</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,7 +36,7 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCNAF" refid="n 80146341">Lick Observatory</term>
+                <term vocab="LCNAF" refid="n 80146341">Lick Observatory--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
