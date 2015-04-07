@@ -7,7 +7,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
+                <name type="corporate" vocab="LCNAF">Unknown</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -22,7 +22,7 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
-                <refid>Collection</refid>
+                <refid>Vanderbilt History Files: Series 2, Folder 8, Image 8</refid>
             </location>
         </locationSet>
         <rightsSet>
