@@ -24,8 +24,8 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <display>This sumptuous boxed set features remastered field recordings collected by Alan Lomax for the Library of Congress between 1936 and 1937. In addition to the recordings, the set includes facsimile reproductions of a tourist map with Lomax's annotations, his Haitian Diary, and a photograph.</display>
-            <description source="Sara Manus, Vanderbilt University Library, 2015">This sumptuous boxed set features remastered field recordings collected by Alan Lomax for the Library of Congress between 1936 and 1937. In addition to the recordings, the set includes facsimile reproductions of a tourist map with Lomax's annotations, his Haitian Diary, and a photograph.</description>
+            <display>This sumptuous box set features remastered field recordings collected by Alan Lomax for the Library of Congress between 1936 and 1937. In addition to the recordings, the set includes facsimile reproductions of a tourist map with Lomax's annotations, his Haitian Diary, and a photograph.</display>
+            <description source="Sara Manus, Vanderbilt University Library, 2015">This sumptuous box set features remastered field recordings collected by Alan Lomax for the Library of Congress between 1936 and 1937. In addition to the recordings, the set includes facsimile reproductions of a tourist map with Lomax's annotations, his Haitian Diary, and a photograph.</description>
             <description/>
         </descriptionSet>
         <locationSet>
@@ -40,7 +40,7 @@
             </location>
         </locationSet>
         <rightsSet>
-            <display>p2009, Harte Recordings</display>
+            <display>HR103 Harte Recordings, c2009</display>
             <rights type="copyrighted">
                 <rightsHolder>Harte Recordings, San Francisco, CA.</rightsHolder>
                 <text>The display of this physical object constitutes a fair use as detailed in the ACRL's Code of Best Practices in Fair Use for Academic and Research Libraries.</text>
