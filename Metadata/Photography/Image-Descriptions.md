@@ -5,7 +5,7 @@ the central library lobby on photography. Text is not yet finalized and is subje
 
 * Image Title | [Surgical Ward VI, Camp Hospital 28 Nevers, France 1918]
   * Filename: Eskind_VUMC-Camp_Hospital_France-1918.jpg
-  * DESCRIPTION MISSING
+  * Camp Hospital 28 opened February 4, 1918 and housed wounded troops from 40 miles around Nevers. Vanderbilt Unit S took over the hospital March 7th. From February until December 1918, the staff treated over 3,000 cases. The hospital closed June 13, 1919 and staff returning to the U.S. sailed home from St. Nazaire on June 23rd. Souvenir photos (searchable by person, place or regiment) were 15 cents; enlarged prints in 5 sizes ranged from $0.35 for an 11 x 14 to $1.00 for a 20 x 24 inch print.
 * Image Title | [Katherine Anderson in the laboratory]
   * Filename: Eskind_VUMC-K_Anderson-Scrapbook-A.jpg
   * Katherine Anderson (1909-1995) received a PhD in bacteriology from Vanderbilt in 1940. Her interest in viruses led to her work in Dr. Goodpasture's lab. The couple married in 1945, after which she worked on environmental issues, natural habitats and ornithology.
