@@ -106,18 +106,18 @@ the central library lobby on photography. Text is not yet finalized and is subje
 * Image Title | [Ketteler Street Peking, China]
   * Filename:  MS0546-P-70-North-1901.jpg
   *  In June 1900, anti-Western riots in Peking and the 54-day siege of foreign embassies by Chinese militants made headlines. In this image of the foreigners' quarter, Ketteler St. has been renamed for the murdered German minister Clemens von Ketteler. Manchu captain En Hai murdered Ketteler for killing an unarmed Chinese Muslin boy. James Ricalton photographed sites, survivors, and daily life in September 1900 in Peking after the Rebellion for Underwood &amp; Underwood.
-* Image Title | 
-  * Filename:  
-  * 
-* Image Title | 
-  * Filename:  
-  * 
-* Image Title | 
-  * Filename:  
-  * 
-* Image Title | 
-  * Filename:  
-  * 
+* Image Title | [A Grandmother and Her Grandson “Just a Sitting,” near Logan, WV]
+  * Filename:  MS0774-Woman_Boy_on_Porch-c1968.jpg
+  *  "The people of Appalachia are a proud people. They were very open and honest with me, welcoming me into their homes and to their tables. They loved the beauty and solitude of the mountains. I understood their love of the land...Coal mining changed the landscape forever and the land was never again the same." Photojournalist Jack Corn captured a grandmother and her grandson near Logan, West Virginia.
+* Image Title | [Mrs. Helen Allread, Substitute Teacher at Crawford School]
+  * Filename: MS0774-Classroom_stove-1968.jpg
+  * DESCRIPTION MISSING
+* Image Title | [Striking Miners Play Cards on the Picket Line at Brookside Mine, near Harlan, KY]
+  * Filename:  MS0774-Cards_on_the_Hood-1968.jpg
+  * Striking miners play cards while on the picket line at Brookside Mine near Harlan, KY. Their 1972 dispute against Duke Power Co. over working conditions, wages, and labor practices inspired the award-winning documentary Harlan County, USA.
+* Image Title | [Ed Marlowe, Paralyzed from a Roof Fall in a Coal Mine]
+  * Filename: MS0774-Amputee_Miner-1968.jpg 
+  * Marlowe worked in the mines for twenty years before breaking his back in an accident in 1957.
 * Image Title | 
   * Filename:  
   * 
