@@ -16,12 +16,7 @@ Text is not yet finalized and is subject to further editing._
 * Description: Men who died during the Civil War are brought to life through collections of tintypes taken by photographers with primitive cameras and horse drawn darkrooms. Tintype was not used on the battlefield again until Ed Drew, guardsman and student photographer, brought an antique camera on tour in Afghanistan, asking his combat unit to bare their soul to the camera. Modern tintype poses the same challenge with chemicals, time to set up, pose and have the subject remain still –  a process often interrupted by a call to combat, and like those from battles past portrays soldiers as men and individuals.
 
 #### Clip 5 | The Big Picture
-* Description: The remarkably detailed giant photos taken by artist Clifford Ross attracted interest from the art world, NASA and the 
-National Security Agency. Not just size, but detail that gets sharper as you zoom in makes these images special. Negatives 
-are 2.6 gigabyte files – 100x more data than advanced digital cameras. The R1 camera system Ross  invented uses military 
-aerial film and a post-production process capable of capturing amazing detail two miles away. The government is interested 
-in Ross’ technology and technique for seeing patterns in images, detecting things that are out of place by stepping back to 
-look at detail of the big picture.
+* Description: The remarkably detailed giant photos taken by artist Clifford Ross attracted interest from the art world, NASA and the National Security Agency. Not just size, but detail that gets sharper as you zoom in makes these images special. Negatives are 2.6 gigabyte files – 100x more data than advanced digital cameras. The R1 camera system Ross invented uses military aerial film and a post-production process capable of capturing amazing detail two miles away. The government is interested in Ross’ technology and technique for seeing patterns in images, detecting things that are out of place by stepping back to look at detail of the big picture.
 
 #### Clip 6 | Portraits of Poverty
 * Description: Following the tradition of photographers who captured the humanity of those affected by extreme poverty of the 
