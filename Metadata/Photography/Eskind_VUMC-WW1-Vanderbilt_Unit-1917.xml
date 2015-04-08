@@ -7,7 +7,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
+                <name type="corporate" vocab="LCNAF">Unknown</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -17,17 +17,17 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description/>
+            <description>Over 2,500 Vanderbilt men served in World War I once the United States joined the fighting in April, 1917.  The Vanderbilt Unit included 12 doctors and enlisted men and nurses.  Most of its members served 150 miles from Paris at Nevers, in central France.  Camp Hospital 28 had 450 patient beds and surgeries, laundries, labs and other buildings required to provide medical care.  </description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
-                <refid/>
+                <refid>Vanderbilt History Files: Series 2, Folder 8, Image 5</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text/>
+                <text>photo taken August 1, 1917 during training at Fort McPherson, GA.</text>
             </rights>
         </rightsSet>
         <subjectSet>

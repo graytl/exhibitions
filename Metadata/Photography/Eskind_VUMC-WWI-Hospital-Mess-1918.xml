@@ -7,7 +7,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
+                <name type="corporate" vocab="LCNAF" refid="n 79099281">United States--Army--Signal Corps</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -17,12 +17,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description/>
+            <description>The American Expeditionary Forces depended upon regular train service, and hospitals were positioned near major railroad junctions.  Nevers, 150 miles south of Paris, was a central supply depot for matériel, veterinary hospitals and hospitals.   Officers at front table include left to right: Dr. Witt, Unknown, Dr. Dixon, Dr. McKinney, Dr. McCabe.  One officer recalled “We had over 17,000 shattered bones to mend, over 3,500 arms and legs to amputate, and 20 times that many to save.”</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
-                <refid/>
+                <refid>Vanderbilt History Files: Series 2, Folder 8, Image 16</refid>
             </location>
         </locationSet>
         <rightsSet>
