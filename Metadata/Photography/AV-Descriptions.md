@@ -25,13 +25,7 @@ Text is not yet finalized and is subject to further editing._
 * Description: The Road to Freedom exhibit of photographs highlights the Civil Rights Movement: photos of the protest & the photographers shown. Photographer Bob Adelman recalls the Movement, his best photo, having to carry a gun & his role as a photographer of the Movement. "The Race Beat" author Gene Roberts says the newspaper photos had an impact; he recounts what Dr. Martin Luther King said to a black photographer. [A look back at the work of photographers who covered the Civil Rights Movement, often finding it difficult to be a passive observer as they were met with violence just as were those they were documenting. The wire service camera men made the difference /were vital…supplying day by day news coverage with powerful images of injustice on the front pages of newspapers across America.] 
 
 #### Clip 8 | Eastman Kodak Goes Bankrupt
-* Description: For more than a century Kodak cameras and film helped us capture our most cherished moments. They defined the 
-camera business in the 20th century by selling millions of Brownie cameras, the instamatic in the 1960’s and video cameras 
-in the 1970s. Despite having invented the digital camera in 1975, they lost the technology race.  The end of bankrupt Eastman 
-Kodak’s production of cameras reported. [Kodak instamatic camera for less than $10; load with a cartridge and use flash cubes 
-and take beautiful color snapshots and color slides; at less than $10 to purchase making them affordable to many consumers; 
-Kodak brand with the tagline “Kodak Moment” heavy advertising portraying a range of holidays and special occasions as the 
-perfect opportunity to capture the moment.] 
+* Description: For more than a century, Kodak cameras and film helped us capture our most cherished moments. They defined the camera business in the 20th century by selling millions of Brownie cameras, the instamatic in the 1960’s and video cameras in the 1970s. Despite having invented the digital camera in 1975, they lost the technology race.  The end of bankrupt Eastman Kodak’s production of cameras is reported. [Kodak instamatic camera for less than $10; load with a cartridge and use flash cubes and take beautiful color snapshots and color slides; at less than $10 to purchase making them affordable to many consumers; Kodak brand with the tagline “Kodak Moment” heavy advertising portraying a range of holidays and special occasions as the perfect opportunity to capture the moment.] 
 
 #### Clip 9 | Photography Ban on NYC Subway
 * Description: New York City's consideration of a ban on photography on the subway system to prevent terrorism examined; 
