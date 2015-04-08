@@ -10,11 +10,7 @@ nature to landscapes and environment. The collection profiles photographers from
 skill and talent to create social change, record real life experience and study the environment and society.
 
 #### Clip 2 | Unknown Photographer Vivian Maier
-* Description: The remarkable pictures of photographer Vivian Maier, who worked as a nanny and housekeeper in Chicago, were 
-kept secret until she died in 2009 at age 83. Looking for pictures of the city for a book he was writing, real estate agent 
-John Maloof bid on the negatives that were auctioned to cover delinquent payments on a storage locker following her death. 
-He never expected the treasure he found among the more than 100,000 photographs Maier took of herself and street life in 
-Chicago on her own time using a Roloflex camera and an amazing amount of talent. 
+* Description: The remarkable pictures of photographer, Vivian Maier, who worked as a nanny and housekeeper in Chicago, were kept secret until she died in 2009 at age 83. Looking for pictures of the city for a book he was writing, real estate agent John Maloof bid on the negatives that were auctioned to cover delinquent payments on a storage locker following her death. He never expected the treasure he found among the more than 100,000 photographs Maier took of herself and street life in Chicago on her own time using a Roloflex camera and an amazing amount of talent. 
 
 #### Clip 3 | Year of the Selfie
 * Description: Selfie, Oxford Dictionaries’ 2013 Word of the Year, is defined as “a photographic self-portrait; esp. one 
