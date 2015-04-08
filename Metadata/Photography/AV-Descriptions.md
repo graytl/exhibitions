@@ -13,11 +13,7 @@ Text is not yet finalized and is subject to further editing._
 * Description: Selfie, Oxford Dictionaries’ 2013 Word of the Year, is defined as “a photographic self-portrait; esp. one taken with a smartphone or webcam and shared via social media.” On Twitter alone, the word selfie was mentioned 92 million times. The advent of the front facing camera phone in 2010 put the power and creativity of self-snaps directly in our hands – and it’s not enough to just take photos, posting them on social media sites has become part of our digital identity. It’s who we are, where we are and who we’re with… a moment in time we can’t wait to share. 
 
 #### Clip 4 | Modern Tintype Photos of War
-* Description: Men who died during the Civil War are brought to life through collections of tintypes taken by photographers with primitive 
-cameras and horse drawn darkrooms. Tintype was not used on the battlefield again until Ed Drew, guardsman and student 
-photographer, brought an antique camera on tour in Afghanistan, asking his combat unit to bare their soul to the camera. 
-Modern tintype poses the same challenge with chemicals, time to set up, pose and have the subject remain still –  a process 
-often interrupted by a call to combat, and like those from battles past portrays soldiers as men and individuals.
+* Description: Men who died during the Civil War are brought to life through collections of tintypes taken by photographers with primitive cameras and horse drawn darkrooms. Tintype was not used on the battlefield again until Ed Drew, guardsman and student photographer, brought an antique camera on tour in Afghanistan, asking his combat unit to bare their soul to the camera. Modern tintype poses the same challenge with chemicals, time to set up, pose and have the subject remain still –  a process often interrupted by a call to combat, and like those from battles past portrays soldiers as men and individuals.
 
 #### Clip 5 | The Big Picture
 * Description: The remarkably detailed giant photos taken by artist Clifford Ross attracted interest from the art world, NASA and the 
