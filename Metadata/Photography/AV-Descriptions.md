@@ -4,20 +4,13 @@ _Below are descriptions for audio-visual clips requested by the curators for the
 Text is not yet finalized and is subject to further editing._
 
 #### Clip 1 | Getty Museum: Photographers of Genius
-* Description: The J. Paul Getty Museum’s collection of still photography represents the history of photography beginning 
-in 1842, when photographers could reliably control the medium, and documents the stylistic evolution from portraiture to 
-nature to landscapes and environment. The collection profiles photographers from artist to documentarian who applied their 
-skill and talent to create social change, record real life experience and study the environment and society.
+* Description: The J. Paul Getty Museum’s collection of still photography represents the history of photography beginning in 1842, when photographers could reliably control the medium, and documents the stylistic evolution from portraiture to nature to landscapes and environment. The collection profiles photographers from artist to documentarian who applied their skill and talent to create social change, record real life experience and study the environment and society.
 
 #### Clip 2 | Unknown Photographer Vivian Maier
 * Description: The remarkable pictures of photographer, Vivian Maier, who worked as a nanny and housekeeper in Chicago, were kept secret until she died in 2009 at age 83. Looking for pictures of the city for a book he was writing, real estate agent John Maloof bid on the negatives that were auctioned to cover delinquent payments on a storage locker following her death. He never expected the treasure he found among the more than 100,000 photographs Maier took of herself and street life in Chicago on her own time using a Roloflex camera and an amazing amount of talent. 
 
 #### Clip 3 | Year of the Selfie
-* Description: Selfie, Oxford Dictionaries’ 2013 Word of the Year, is defined as “a photographic self-portrait; esp. one 
-taken with a smartphone or webcam and shared via social media”. On Twitter alone, the word selfie was mentioned 92 million 
-times. The advent of the front facing camera phone in 2010 put the power and creativity of self-snaps directly in our hands
-– and it’s not enough to just take photos, posting them on social media sites has become part of our digital identity. It’s 
-who we are, where we are and who we’re with… a moment in time we can’t wait to share. 
+* Description: Selfie, Oxford Dictionaries’ 2013 Word of the Year, is defined as “a photographic self-portrait; esp. one taken with a smartphone or webcam and shared via social media.” On Twitter alone, the word selfie was mentioned 92 million times. The advent of the front facing camera phone in 2010 put the power and creativity of self-snaps directly in our hands – and it’s not enough to just take photos, posting them on social media sites has become part of our digital identity. It’s who we are, where we are and who we’re with… a moment in time we can’t wait to share. 
 
 #### Clip 4 | Modern Tintype Photos of War
 * Description: Men who died during the Civil War are brought to life through collections of tintypes taken by photographers with primitive 
