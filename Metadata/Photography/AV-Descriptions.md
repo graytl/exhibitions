@@ -19,11 +19,7 @@ Text is not yet finalized and is subject to further editing._
 * Description: The remarkably detailed giant photos taken by artist Clifford Ross attracted interest from the art world, NASA and the National Security Agency. Not just size, but detail that gets sharper as you zoom in makes these images special. Negatives are 2.6 gigabyte files – 100x more data than advanced digital cameras. The R1 camera system Ross invented uses military aerial film and a post-production process capable of capturing amazing detail two miles away. The government is interested in Ross’ technology and technique for seeing patterns in images, detecting things that are out of place by stepping back to look at detail of the big picture.
 
 #### Clip 6 | Portraits of Poverty
-* Description: Following the tradition of photographers who captured the humanity of those affected by extreme poverty of the 
-great depression to tell the story in a compelling way through images, photographer Steve Liss is taking pictures of modern-
-day Americans living in poverty. His project, In Our Own Backyard, documents a family in Athens County, Ohio and their 
-struggle with poverty in society. Like the depression-era photographers, Liss uses the power of images to make the invisible 
-visible.
+* Description: Following the tradition of photographers who captured the humanity of those affected by extreme poverty of the Great Depression to tell the story in a compelling way through images, photographer Steve Liss is taking pictures of modern-day Americans living in poverty. His project, In Our Own Backyard, documents a family in Athens County, Ohio, and their struggle with poverty in society. Like the depression-era photographers, Liss uses the power of images to make the invisible visible.
 
 #### Clip 7 | Road to Freedom Photo Exhibit
 * Description: The Road to Freedom exhibit of photographs highlighting the civil rights era: photos of the protest & the 
