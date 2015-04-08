@@ -5,6 +5,6 @@ the Vanderbilt Divinity Library on the 30th Anniversary of the Judaica Collectio
 
 #### Clip 1 | The Delights of the Judaica Collection
 * Description: Lou Silberman highlights several rarities in the Judaica Collection. Treasures include the manuscript 
-collection of Giovanni de Rossi of Parma on anti-Christian polemic in the Middle Ages. In addition, one of the 7 
+collection of Giovanni de Rossi of Parma on anti-Christian polemic in the Middle Ages. In addition, one of the seven 
 surviving copies of Leo Baeck’s publication “Aus Drei Jahrtausended,” destroyed by the Nazis, is housed in the Judaica 
 Collection.
