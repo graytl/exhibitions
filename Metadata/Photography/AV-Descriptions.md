@@ -22,13 +22,7 @@ Text is not yet finalized and is subject to further editing._
 * Description: Following the tradition of photographers who captured the humanity of those affected by extreme poverty of the Great Depression to tell the story in a compelling way through images, photographer Steve Liss is taking pictures of modern-day Americans living in poverty. His project, In Our Own Backyard, documents a family in Athens County, Ohio, and their struggle with poverty in society. Like the depression-era photographers, Liss uses the power of images to make the invisible visible.
 
 #### Clip 7 | Road to Freedom Photo Exhibit
-* Description: The Road to Freedom exhibit of photographs highlighting the civil rights era: photos of the protest & the 
-photographers shown. Photographer Bob Adelman recalls the movement, his best photo, having to carry a gun & his role as a 
-photographer of the movement. "The Race Beat" author Gene Roberts says the newspaper photos had an impact; recounts what Dr. 
-Martin Luther King said to a black photographer. [A look back at the work of photographers who covered the civil rights 
-movements, often finding it difficult to be a passive observer as they were met with violence just as were those they were 
-documenting. The wire service camera men made the difference /were vital…supplying day by day news coverage with powerful 
-images of injustice on the front pages of newspapers across America.] 
+* Description: The Road to Freedom exhibit of photographs highlights the Civil Rights Movement: photos of the protest & the photographers shown. Photographer Bob Adelman recalls the Movement, his best photo, having to carry a gun & his role as a photographer of the Movement. "The Race Beat" author Gene Roberts says the newspaper photos had an impact; he recounts what Dr. Martin Luther King said to a black photographer. [A look back at the work of photographers who covered the Civil Rights Movement, often finding it difficult to be a passive observer as they were met with violence just as were those they were documenting. The wire service camera men made the difference /were vital…supplying day by day news coverage with powerful images of injustice on the front pages of newspapers across America.] 
 
 #### Clip 8 | Eastman Kodak Goes Bankrupt
 * Description: For more than a century Kodak cameras and film helped us capture our most cherished moments. They defined the 
