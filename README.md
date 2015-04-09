@@ -3,7 +3,7 @@ Heard Library Exhibitions
 
 This repository holds metadata for Heard Library Exhibitions at Vanderbilt University.
 
-###2015 Schedule
+###2015 Schedule!!!
 
 * September 2014 - Topics Finalized, Assigned, and Approved
 * October 2014 - Curatorial Assignments Finalized
