@@ -13,7 +13,7 @@ _Below are descriptions for audio-visual clips requested by the curators for the
 * Description: The video game Minecraft may be compared to a 21st century Lego kit. Players in create worlds unbound by the ordinary laws of physics. In many cases, they also recreate structures in the physical world. In this instance, a Minecraft user, "plom6," has recreated the Vanderbilt University Stadium inside the game world of Minecraft.
 
 #### Clip 4 | Bessie Smith's "Backwater Blues" (Lindsey Fox)
-* Description: Bessie Smith sings about the Cumberland River flood of 1926 in Nashville, TN.
+* Description: In December of 1926, Nashville and the Cumberland River, was hit with a major flooding event.  In response to the devastation caused by the flooding, Bessie Smith sang a song.  The song, called Backwater Blues, describes the five days of rain that subsequently inundated the Music City.
 
 #### Clip 5 | "O, Cumberland River" (Lindsey Fox)
 * Description: [Forthcoming when Old Crow Medicine Show CD is purchased]
