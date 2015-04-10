@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="78089065">Twentieth Century-Fox Film Corporation</name>
+                <dates>
+                    <earliestDate>1935-08-22</earliestDate>
+                    <latestDate>1984</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>1968-01-01</earliestDate>
+                <latestDate>1968-10-16</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>Tony Curtis portrayed serial killer Anthony H. DeSalvo in the 1968 The Boston Strangler, released one year after the sentencing of DeSalvo. Critics condemned the film for sensationalizing Gerald Frank’s story of the murders which took place in the Boston area between 1962 and 1964. DeSalvo confessed to the murders but many questioned whether he was the killer. It was not until 2013 that DNA evidenced proved he was indeed the murderer of the final victim, a 19-year old woman.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="local" refid="">Vanderbilt University. Special Collections</name>
+                <refid>James G. Stahlman Autograph Collection/Curtis, Tony folder</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>c. 20th Century Fox (P.O. Box 900, Beverly Hills, CA 90213-0900; tel: 310-369-1000; fax: 310-369-4647)</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="94074022">De Salvo, Albert Henry, 1931-1973</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>The Boston Strangler</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300128347">black-and-white photograps, inscribed</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-04-09</earliestDate>
+                <latestDate>2015-04-09</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid/>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>MS0412-BostonStrangler-movie_photo.jpg</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>
