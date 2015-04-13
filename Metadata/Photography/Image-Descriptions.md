@@ -130,6 +130,12 @@ the central library lobby on photography. Text is not yet finalized and is subje
 * Image Title | [Tennessee Centennial and International Exposition Postcard Auditorium and Ponte Rialto]
   * Filename: sc.mss.0123.171-B.jpg
   * Auditorium and Ponte Rialto
+* Image Title | [Tennessee Centennial and International Exposition Postcard Parthenon]
+  * Filename: sc.mss.0123.171-A.jpg
+  * Ponte Rialto
+* Image Title | [Tennessee Centennial and International Exposition Postcard Main Entrance Gate]
+  * Filename:  sc.mss.0123.166.jpg
+  * International expositions like the six-month Tennessee Centennial attracted thousands of tourists from across the country.  Like San Francisco's Palace of Fine Arts (1915) and New York's Trylon and Perisphere (1939), Nashville's Parthenon survived the event to become a beloved landmark.  Popular photo postcards like these circulated widely in the United States after the Philadelphia Centennial Exposition.
 * Image Title | 
   * Filename:  
   * 
@@ -139,5 +145,16 @@ the central library lobby on photography. Text is not yet finalized and is subje
 * Image Title | 
   * Filename:  
   * 
-  
+* Image Title | 
+  * Filename:  
+  * 
+* Image Title | 
+  * Filename:  
+  * 
+* Image Title | 
+  * Filename:  
+  * 
+* Image Title | 
+  * Filename:  
+  * 
 
