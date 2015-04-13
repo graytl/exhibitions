@@ -121,6 +121,21 @@ the central library lobby on photography. Text is not yet finalized and is subje
 * Image Title | [Typical gateway over a Street in the Imperial City, Peking, China]
   * Filename: MS0546-P-86-Architecture-1901.jpg 
   * Stereographers often structured their images around a human in the foreground so viewers focused on a vanishing point. This allowed viewers to feel they were in the depths of the picture.
+* Image Title | [Miss Smith, London Mission School, Peking, China]
+  * Filename:  MS0546-P-93-Miss_Smith-1901.jpg
+  * Georgina Smith ran the London Mission’s girls’ boarding school inside the embassy quarter. Her success sheltering Chinese Christian refugees there earned her fame in the West. But other pundits, among them Mark Twain, loudly criticized the wholesale looting of Chinese art and treasure after the Rebellion, singling Smith out for organizing weekly auctions of looted Qing nobles’ property. Ricalton remembered the “greatest loot-marts in the city” on the “last two miles” of Ketteler Street.
+* Image Title | 
+  * Filename:  
+  * 
+* Image Title | 
+  * Filename:  
+  * 
+* Image Title | 
+  * Filename:  
+  * 
+* Image Title | 
+  * Filename:  
+  * 
 * Image Title | 
   * Filename:  
   * 
