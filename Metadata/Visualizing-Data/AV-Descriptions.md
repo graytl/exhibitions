@@ -16,7 +16,7 @@ _Below are descriptions for audio-visual clips requested by the curators for the
 * Description: In December of 1926, Nashville and the Cumberland River, was hit with a major flooding event.  In response to the devastation caused by the flooding, Bessie Smith sang a song.  The song, called Backwater Blues, describes the five days of rain that subsequently inundated the Music City.
 
 #### Clip 5 | "O, Cumberland River" (Lindsey Fox)
-* DESCRIPTION MISSING
+* Description: Old Crow Medicine Show wrote a song about the Cumberland River.  The song describes the wild rainstorms and subsequent flooding that plague the Cumberland River.  Major flooding events have happened in the 1920's, 1930's, 1970's, and the 2000's.  The lyrics talk about the Cumberland flowing through a guitar town- Nashville.
 
 #### Clip 6 | Caruso Sings _Vesti La Giubba_ from _Il Pagliacci_ (Mary Anne Caton and Carla Beals)
 * Description: This video features the famous Italian tenor, Enrico Caruso. The clip from the silent film My Cousin (1918) features Caruso in his signature role – Canino in Leoncavallo's Il Pagliacci. The aria seen here,“Vesti la Giubba,” comes at the end of Act I. Canino has just discovered that his beloved wife has been unfaithful but he must prepare to perform or “put on the costume” and continue the show. Caruso first played the role in Milan in 1897, and recorded it in 1907. 
