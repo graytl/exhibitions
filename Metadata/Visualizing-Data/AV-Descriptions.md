@@ -18,7 +18,7 @@ _Below are descriptions for audio-visual clips requested by the curators for the
 #### Clip 5 | "O, Cumberland River" (Lindsey Fox)
 * Description: Old Crow Medicine Show sings about the Cumberland river flood of 1926. [description is being edited]
 
-#### Clip 6 | Caruso Sings _Vesti La Giubba_ from _Il Pagliacci_
+#### Clip 6 | Caruso Sings _Vesti La Giubba_ from _Il Pagliacci_ (Mary Anne Caton and Carla Beals)
 * Description: This video features the famous Italian tenor, Enrico Caruso. The clip from the silent film My Cousin (1918) features Caruso in his signature role – Canino in Leoncavallo's Il Pagliacci. The aria seen here,“Vesti la Giubba,” comes at the end of Act I. Canino has just discovered that his beloved wife has been unfaithful but he must prepare to perform or “put on the costume” and continue the show. Caruso first played the role in Milan in 1897, and recorded it in 1907. 
 
 
