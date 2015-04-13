@@ -4,18 +4,9 @@ _Below are descriptions for audio-visual clips requested by the curators for the
 Ingram Hall of the Blair School of Music on the history of recorded sound. Text is not yet finalized and is subject to further editing._
 
 #### Clip 1 | The Edison Phonograph Cylinder 
-* Description: Developed by Thomas Edison and introduced to the market in 1889, phonograph cylinders were the first 
-commercial medium for recorded sound. The standard cylinder was a hollow tube of wax that measured four inches in diameter, 
-and could record approximately two minutes of music. Dating from 1912-13, this recording was one of several hundred cylinders
-made during Edison’s attempt to identify and recruit European talent for his record company. This example from Verdi’s Simon 
-Boccanegra is the only known recording by Ignazio Cesari, an Italian bass.
-
+Developed by Thomas Edison and introduced to the market in 1889, phonograph cylinders were the first commercial medium for recorded sound. The standard cylinder was a hollow tube of wax that could record approximately two minutes of music. This recording of Ignazio Cesari’s performance from Verdi’s Simon Boccanegra (1912-13) was one of hundreds of cylinders made during Edison’s attempt to identify and recruit European talent for his company.
 #### Clip 2 | The Victor Talking Machine Company
-* Description: Founded in 1901, the Victor Talking Machine Company was largely responsible for the transition away from the 
-cylinder to the 78 rpm sound recording. Victor employed shrewd marketing techniques for its acoustic 78s, signing the biggest 
-stars to exclusive contracts and using the now famous dog Nipper as part of its distinctive branding. This recording features 
-the great tenor Enrico Caruso, whose series of recordings for Victor helped to make the Victrola into such a staple of 
-American life that it served as subject matter for popular song.
+Founded in 1901, the Victor Talking Machine Company was largely responsible for the transition away from the cylinder to the 78 rpm sound recording. Victor employed shrewd marketing techniques for its acoustic 78s, signing the biggest stars to exclusive contracts and using the now famous dog Nipper as part of its distinctive branding. This recording features the great tenor Enrico Caruso, whose series of recordings for Victor cemented the popularity of the Victrola.
 
 #### Clip 3 | The Rise of the Compact Disc
 * Description: While the LP and cassette tape remained the predominant consumer formats through the 1980s, the adoption of 
@@ -39,5 +30,5 @@ and Apple continues to be known for its ability to generate massive public inter
 #### Clip 6 | Vinyl Makes a Comeback
 * Description: While digital music formats will continue to be dominant, vinyl sound recordings are enjoying a Renaissance. 
 A number of classic albums, including the complete Beatles catalog, have been reissued on vinyl in recent years. As the home 
-of United Record Pressing, Nashville plays a role in the resurgence of vinyl. Owned by Jack White, United has pressed records 
+of United Record Pressing, Nashville plays a role in the resurgence of vinyl. Owned by Jack White, United has pressed records
 for many current artists, including Adele, Radiohead, Kanye West, Kings of Leon, and The Roots.
