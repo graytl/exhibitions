@@ -124,9 +124,9 @@ the central library lobby on photography. Text is not yet finalized and is subje
 * Image Title | [Miss Smith, London Mission School, Peking, China]
   * Filename:  MS0546-P-93-Miss_Smith-1901.jpg
   * Georgina Smith ran the London Mission’s girls’ boarding school inside the embassy quarter. Her success sheltering Chinese Christian refugees there earned her fame in the West. But other pundits, among them Mark Twain, loudly criticized the wholesale looting of Chinese art and treasure after the Rebellion, singling Smith out for organizing weekly auctions of looted Qing nobles’ property. Ricalton remembered the “greatest loot-marts in the city” on the “last two miles” of Ketteler Street.
-* Image Title | 
-  * Filename:  
-  * 
+* Image Title | [American Minister Conger, Peking, China]
+  * Filename: MS0546-P-97-Conger-1901.jpg
+  * Ambassador Edwin H. Conger and his family, with civilians from eleven western diplomatic legations and over 2,500 Chinese Christians were besieged in the embassy district for 54 days in summer 1900. Protesting against western, Christian intrusions in their country, the Society of Righteous and Harmonious Fists (Boxers) fought with the Qing Empress and an estimated 40,000 Manchu troops to remove foreigners. Conger lived, though like many, suffered long term health effects from their experiences.
 * Image Title | 
   * Filename:  
   * 
