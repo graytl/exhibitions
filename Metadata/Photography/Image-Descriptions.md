@@ -136,15 +136,15 @@ the central library lobby on photography. Text is not yet finalized and is subje
 * Image Title | [Tennessee Centennial and International Exposition Postcard Main Entrance Gate]
   * Filename:  sc.mss.0123.166.jpg
   * International expositions like the six-month Tennessee Centennial attracted thousands of tourists from across the country.  Like San Francisco's Palace of Fine Arts (1915) and New York's Trylon and Perisphere (1939), Nashville's Parthenon survived the event to become a beloved landmark.  Popular photo postcards like these circulated widely in the United States after the Philadelphia Centennial Exposition.
-* Image Title | 
-  * Filename:  
-  * 
-* Image Title | 
-  * Filename:  
-  * 
-* Image Title | 
-  * Filename:  
-  * 
+* Image Title | [Bachellor of Ugliness Philip H. Porter]
+  * Filename: sc.mss.0332.238.jpg (not yet scanned) 
+  * DESCRIPTION MISSING
+* Image Title | [Vanderbilt University Adminstration]
+  * Filename:  sc.mss.0332.178.jpg
+  * DESCRIPTION MISSING
+* Image Title | [James Kirkland]
+  * Filename:  sc.mss.0332.223.jpg
+  * James Kirkland served as Vanderbilt's Chancellor from 1893 until 1937. While beloved for his many accomplishments, Chancellor Kirkland also enjoyed the fashions of the day as this photo composite suggests.
 * Image Title | 
   * Filename:  
   * 
