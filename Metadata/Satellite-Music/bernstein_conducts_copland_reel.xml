@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <display>Leonard Bernstein (conductor, 1918-1990), Aaron Copland (composer, 1900-1990), New York Philharmonic</display>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n50007704">Bernstein, Leonard, 1918-1990</name>
+            <dates>
+                <earliestDate>1918</earliestDate>
+                <latestDate>1990</latestDate>
+            </dates>
+            </agent>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n79089419">Copland, Aaron, 1900-1990</name>
+                <dates>
+                    <earliestDate>1900</earliestDate>
+                    <latestDate>1990</latestDate>
+                </dates>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n81139912">New York Philharmonic</name>
+            </agent>
+        </agentSet>
+        <descriptionSet>
+            <display>First used for commercial recordings by Bing Crosby, reel-to-reel tape became the preferred recording medium for artists across all genres of music. The analog magnetic recording remained dominant until the development of digital audio technology.</display>
+            <description source="Sara Manus, Vanderbilt University Library, 2015">First used for commercial recordings by Bing Crosby, reel-to-reel tape became the preferred recording medium for artists across all genres of music. The analog magnetic recording remained dominant until the development of digital audio technology</description>
+        </descriptionSet>
+        <locationSet>
+            <display>Vanderbilt University Library, Anne Potter Wilson Music Library. Issued by Columbia Records, MQ 559.</display>
+            <location type="repository">
+                <name type="corporate" vocab="LCNAF" refid="n81075875">Vanderbilt University Library</name>
+                <name type="geographic" vocab="TGN" refid="7013959" extent="inhabited place">Nashville-Davidson</name>
+                <name type="geographic" vocab="TGN" refid="2001855" extent="county">Davidson</name>
+                <name type="geographic" vocab="TGN" refid="7007825" extent="state">Tennessee</name>
+                <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
+                <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
+            </location>
+            <location type="creation">
+                <name type="corporate" vocab="LCNAF" refid="n92049888">Columbia Records, Inc.</name> 
+                <name type="geographic" vocab="TGN" refid="7007567" extent="inhabited place">New York</name>
+                <name type="geographic" vocab="TGN" refid="7007568" extent="state">New York</name>
+                <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
+                <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <display>MQ 559 Columbia Records, n.d. (recorded works are all still under copyright).</display>
+            <rights type="copyrighted">
+                <rightsHolder>Columbia Records, New York, NY</rightsHolder>                
+                <text>The display of this physical object constitutes a fair use as detailed in the ACRL's Code of Best Practices in Fair Use for Academic and Research Libraries.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <display>Tape reels.</display>
+            <subject>
+                <term type="descriptive" vocab="AAT" refid="300374971">tape reels</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <display>Bernstein Conducts Copland</display>
+            <title type="cited" pref="true" source="item">Bernstein Conducts Copland</title>
+        </titleSet>
+        <worktypeSet>
+            <display>Tape reels</display>
+            <worktype vocab="AAT" refid="300374971">tape reels</worktype>
+        </worktypeSet>
+    </work>
+</vra>
+
+
