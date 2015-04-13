@@ -118,9 +118,9 @@ the central library lobby on photography. Text is not yet finalized and is subje
 * Image Title | [Ed Marlowe, Paralyzed from a Roof Fall in a Coal Mine]
   * Filename: MS0774-Amputee_Miner-1968.jpg 
   * Marlowe worked in the mines for twenty years before breaking his back in an accident in 1957.
-* Image Title | 
-  * Filename:  
-  * 
+* Image Title | [Typical gateway over a Street in the Imperial City, Peking, China]
+  * Filename: MS0546-P-86-Architecture-1901.jpg 
+  * Stereographers often structured their images around a human in the foreground so viewers focused on a vanishing point. This allowed viewers to feel they were in the depths of the picture.
 * Image Title | 
   * Filename:  
   * 
