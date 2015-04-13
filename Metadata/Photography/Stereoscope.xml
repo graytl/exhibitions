@@ -6,7 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 85188904 ">Underwood and Underwood</name>
+                <name type="corporate" vocab="LCNAF" refid="n 85188904">Underwood &amp; Underwood</name>
                 <dates>
                     <earliestDate>1882</earliestDate>
                     <latestDate>1921</latestDate>
@@ -37,21 +37,20 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh 85024100 ">China--History--Boxer Rebellion, 1899-1901</term>
+                <term vocab="LCSH" refid="sh 85024100">China--History--Boxer Rebellion, 1899-1901--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
             <title>[Stereoscope]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300162919">Stereoscope</worktype>
+            <worktype vocab="AAT" refid="300162919">Stereoscopes</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <role>Scanner</role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -72,7 +71,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Image of [Stereoscope]</title>
+            <title>[Digital Image of Stereoscope]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital Images</worktype>

@@ -7,10 +7,6 @@
         <agentSet>
             <agent>
                 <name type="corporate" vocab="LCNAF" refid="n 80070839">Nikon, inc.</name>
-                <dates>
-                    <earliestDate>1959</earliestDate>
-                    <latestDate>present</latestDate>
-                </dates>
             </agent>
         </agentSet>
         <dateSet>
@@ -23,12 +19,12 @@
             <description>Jack Corn described his work as dependent on lighting conditions: “No matter how much talent a 
 Professional photographer has, one keeper, i.e. a good photograph, per one roll of film is a good harvest.” He made these images from 1956 to 1979 in Appalachian towns while staff photographer for The Tennessean newspaper in Nashville, and for the Documerica project, photographing
 environmental damage in coal fields. Corn was Photojournalist in Residence at Western Kentucky
-University from 1977 to 1984. </description>
+University from 1977 to 1984.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University Library</name>
-                <refid>Ms0774</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS Collection 0774</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -38,21 +34,20 @@ University from 1977 to 1984. </description>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term refid="sh 85091943" vocab="LCSH">Nikon camera</term>
+                <term refid="sh 85091943" vocab="LCSH">Nikon camera--Specimens</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Jack Corn's Nikon Camera.]</title>
+            <title>[Jack Corn's Nikon Camera]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300022638">35 mm Camera</worktype>
+            <worktype vocab="AAT" refid="300022638">35mm cameras</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <role>Scanner</role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -64,7 +59,7 @@ University from 1977 to 1984. </description>
         <locationSet>
             <location type="repository">
                 <refid>MS0774-Camera</refid>
-                <name type="corporate" vocab="LCSH" refid="31075875">Vanderbilt University Library </name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -73,7 +68,7 @@ University from 1977 to 1984. </description>
             </rights>
         </rightsSet>
         <titleSet>
-            <title>digital image of [Jack Corn's Nikon Camera.]</title>
+            <title>[Digital Reproduction of Jack Corn's Nikon Camera]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

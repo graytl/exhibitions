@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 85188904 ">Underwood and Underwood</name>
+                <name type="corporate" vocab="LCNAF" refid="n 85188904">Underwood &amp; Underwood</name>
                 <dates>
                     <earliestDate>1882</earliestDate>
                     <latestDate>1921</latestDate>
                 </dates>
             </agent>
             <agent>
-                <name type="personal" vocab="LCNAF" refid=" n 88283087  ">Ricalton, James</name>
+                <name type="personal" vocab="LCNAF" refid="n 88283087">Ricalton, James</name>
                 <dates>
                     <earliestDate>1844</earliestDate>
                     <latestDate>1929</latestDate>
@@ -25,13 +26,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Stereographers often structured their images around a human in the foreground so viewers focused on a vanishing point. This allowed viewers to feel they were in the depths of the picture.  
-</description>
+            <description>Stereographers often structured their images around a human in the foreground so viewers focused on a vanishing point. This allowed viewers to feel they were in the depths of the picture.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University Library</name>
-                <refid>SC.Ms0546.Photo Box 1</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS Collection 0546, Photo Box 1</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -41,33 +41,35 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh 85024100 ">China--History--Boxer Rebellion, 1899-1901</term>
+                <term vocab="LCSH" refid="sh 85024100">China--History--Boxer Rebellion, 1899-1901--Pictorial works</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85006644">Architecture--China--Beijing--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Typical gateway over a Street in the Imperial City, Peking, China.]</title>
+            <title>[Typical gateway over a Street in the Imperial City, Peking, China]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300127197     ">Stereograph</worktype>
+            <worktype vocab="AAT" refid="300127197">Stereographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <role>Scanner</role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015</earliestDate>
-                <latestDate>2015</latestDate>
+                <earliestDate>2015-03-11</earliestDate>
+                <latestDate>2015-03-11</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>MS0546-P-86-Architecture-1901 </refid>
-                <name type="corporate" vocab="LCSH" refid="31075875">Vanderbilt University Library </name>
+                <refid>MS0546-P-86-Architecture-1901.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -76,7 +78,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital image of [Typical Gateway over a Street in the Imperial City, Peking, China.]</title>
+            <title>[Digital Reproduction of Typical gateway over a Street in the Imperial City, Peking, China]</title>
         </titleSet>
         <worktypeSet>
                    <worktype vocab="AAT" refid="300215302">Digital images</worktype>

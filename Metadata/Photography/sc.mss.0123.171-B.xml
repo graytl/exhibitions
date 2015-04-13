@@ -4,15 +4,6 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
     <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="81075875">Vanderbilt University Library</name>
-                <dates>
-                    <earliestDate/>
-                    <latestDate>present</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>1897</earliestDate>
@@ -20,11 +11,11 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Ponte Rialto</description>
+            <description>Auditorium and Ponte Rialto</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University Library</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
                 <refid/>
             </location>
         </locationSet>
@@ -39,41 +30,40 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Tennessee Centennial and International Exposition Postcard Parthenon]</title>
+            <title>[Tennessee Centennial and International Exposition Postcard Auditorium and Ponte Rialto]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300192703">photographic postcards</worktype>
+            <worktype vocab="AAT" refid="300192703">Photographic postcards</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Library Special Collections</name>
-                <role>Scanner</role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="other">
-                <earliestDate>2015</earliestDate>
-                <latestDate>2015</latestDate>
+            <date type="creation">
+                <earliestDate>2015-03-20</earliestDate>
+                <latestDate>2015-03-20</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>ScMS0123.171-A </refid>
-                <name type="corporate" vocab="LCSH">Vanderbilt University Library</name>
+                <refid>sc.mss.0123.171-B.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="publicDomain">
-                <text/>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Images</title>
+            <title>[Digital Reproduction of Tennessee Centennial and International Exposition Postcard Auditorium and Ponte Rialto]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>

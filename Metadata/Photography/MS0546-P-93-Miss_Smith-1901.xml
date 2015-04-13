@@ -3,17 +3,18 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 85188904 ">Underwood and Underwood</name>
+                <name type="corporate" vocab="LCNAF" refid="n 85188904">Underwood &amp; Underwood</name>
                 <dates>
                     <earliestDate>1882</earliestDate>
                     <latestDate>1921</latestDate>
                 </dates>
             </agent>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n 88283087 ">Ricalton, James</name>
+                <name type="personal" vocab="LCNAF" refid="n 88283087">Ricalton, James</name>
                 <dates>
                     <earliestDate>1844</earliestDate>
                     <latestDate>1929</latestDate>
@@ -27,50 +28,47 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Georgina Smith ran the London Mission’s girls’ boarding school inside the embassy quarter. Her success sheltering Chinese Christian refugees there earned her fame in the West. But other pundits, among them Mark Twain, loudly criticized the wholesale looting of Chinese art and treasure after the Rebellion, singling Smith out for organizing weekly auctions of looted Qing nobles’ property. Ricalton remembered the “greatest loot-marts in the city”on the “last two miles” of Ketteler Street.
-  
- </description>
+            <description>Georgina Smith ran the London Mission’s girls’ boarding school inside the embassy quarter. Her success sheltering Chinese Christian refugees there earned her fame in the West. But other pundits, among them Mark Twain, loudly criticized the wholesale looting of Chinese art and treasure after the Rebellion, singling Smith out for organizing weekly auctions of looted Qing nobles’ property. Ricalton remembered the “greatest loot-marts in the city” on the “last two miles” of Ketteler Street.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University Library</name>
-                <refid>MS0546.Photo box 1</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS Collection 0546, Photo box 1</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>Created in 1900 after Boxer Rebellion.  </text>
+                <text>Created in 1900 after Boxer Rebellion.</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh 85024100 ">China--History--Boxer Rebellion, 1899-1901</term>
+                <term vocab="LCSH" refid="sh 85024100">China--History--Boxer Rebellion, 1899-1901--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Miss Smith, London Mission School, Peking, China.]</title>
+            <title>[Miss Smith, London Mission School, Peking, China]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300127197     ">Stereograph</worktype>
+            <worktype vocab="AAT" refid="300127197">Stereographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="81075875">Vanderbilt University Library</name>
-                <role>Scanner</role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015</earliestDate>
-                <latestDate>2015</latestDate>
+                <earliestDate>2015-03-11</earliestDate>
+                <latestDate>2015-03-11</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>MS0546-P-93-Miss Smith-1901 </refid>
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University Library </name>
+                <refid>MS0546-P-93-Miss_Smith-1901.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -79,10 +77,10 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital image of [Miss Smith, London Mission School, Peking, China.]</title>
+            <title>[Digital Reproduction of Miss Smith, London Mission School, Peking, China]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital Images</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>

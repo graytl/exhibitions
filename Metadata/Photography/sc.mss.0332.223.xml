@@ -4,15 +4,6 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
     <work>
-        <agentSet>
-            <agent>
-                <name type="" vocab="" refid="">unknown</name>
-                <dates>
-                    <earliestDate>unknown</earliestDate>
-                    <latestDate>unkown</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>1922</earliestDate>
@@ -20,12 +11,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>James Kirkland served as Vanderbilt's Chancellor from 1893 until 1937. While beloved for his many accomplishments, Chancellor Kirkland also enjoyed the fashions of the day as this photo composite suggests.   </description>
+            <description>James Kirkland served as Vanderbilt's Chancellor from 1893 until 1937. While beloved for his many accomplishments, Chancellor Kirkland also enjoyed the fashions of the day as this photo composite suggests.</description>
         </descriptionSet>
         <locationSet>
-            <location type="other">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <refid>Sc.Mss.0332.223</refid>
+            <location type="repository">
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS Collection 0332, Number 223</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,32 +26,32 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="" refid=""></term>
+                <term vocab="LCNAF" refid="no 99067671">Kirkland, James H. (James Hampton), 1859-1939--Portraits</term>
             </subject>
         </subjectSet>
         <titleSet>
             <title>[James Kirkland]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300134769">Composite Photographs</worktype>
+            <worktype vocab="AAT" refid="300134769">Composite photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015</earliestDate>
-                <latestDate>2015</latestDate>
+                <earliestDate>2015-03-20</earliestDate>
+                <latestDate>2015-03-20</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>sc.mss.0332.223</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>sc.mss.0332.223.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +60,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Image of [James Kirkland]</title>
+            <title>[Digital Reproduction of James Kirkland]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

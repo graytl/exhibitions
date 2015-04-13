@@ -3,6 +3,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
@@ -37,7 +38,7 @@
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>created in 1900 after Boxer Rebellion. No photographer name located besides stereocard maker. </text>
+                <text>created in 1900 after Boxer Rebellion. No photographer name located besides stereocard maker.</text>
             </rights>
         </rightsSet>
         <subjectSet>
@@ -60,14 +61,14 @@
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015</earliestDate>
-                <latestDate>2015</latestDate>
+                <earliestDate>2015-03-11</earliestDate>
+                <latestDate>2015-03-11</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>MS0546-P-97-Conger-1901</refid>
-                <name type="corporate" vocab="LCSH" refid="31075875">Vanderbilt University Photographic Archives</name>
+                <refid>MS0546-P-97-Conger-1901.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
