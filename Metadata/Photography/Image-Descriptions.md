@@ -127,9 +127,9 @@ the central library lobby on photography. Text is not yet finalized and is subje
 * Image Title | [American Minister Conger, Peking, China]
   * Filename: MS0546-P-97-Conger-1901.jpg
   * Ambassador Edwin H. Conger and his family, with civilians from eleven western diplomatic legations and over 2,500 Chinese Christians were besieged in the embassy district for 54 days in summer 1900. Protesting against western, Christian intrusions in their country, the Society of Righteous and Harmonious Fists (Boxers) fought with the Qing Empress and an estimated 40,000 Manchu troops to remove foreigners. Conger lived, though like many, suffered long term health effects from their experiences.
-* Image Title | 
-  * Filename:  
-  * 
+* Image Title | [Tennessee Centennial and International Exposition Postcard Auditorium and Ponte Rialto]
+  * Filename: sc.mss.0123.171-B.jpg
+  * Auditorium and Ponte Rialto
 * Image Title | 
   * Filename:  
   * 
