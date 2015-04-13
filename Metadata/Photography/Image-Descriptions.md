@@ -145,12 +145,12 @@ the central library lobby on photography. Text is not yet finalized and is subje
 * Image Title | [James Kirkland]
   * Filename:  sc.mss.0332.223.jpg
   * James Kirkland served as Vanderbilt's Chancellor from 1893 until 1937. While beloved for his many accomplishments, Chancellor Kirkland also enjoyed the fashions of the day as this photo composite suggests.
-* Image Title | 
-  * Filename:  
-  * 
-* Image Title | 
-  * Filename:  
-  * 
+* Image Title | [Ft. Marion-St. Augustine &amp; Harbor, FL]
+  * Filename:  MS0827-P-St_Augustine-1898.jpg
+  * DESCRIPTION MISSING
+* Image Title | [Mt. Fox and Mt. Dawson, Selkirk Mountains Alberta Canada]
+  * Filename: MS0827-P-Selkirk_Mountains-1902.jpg  
+  * DESCRIPTION MISSING
 * Image Title | 
   * Filename:  
   * 
