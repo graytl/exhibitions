@@ -157,25 +157,25 @@ the central library lobby on photography. Text is not yet finalized and is subje
 * Image Title | [Palacio Del Gobierno General, Habana, Cuba]
   * Filename: MS0827-P-Havana_Cuba-1900.jpg
   * DESCRIPTION MISSING
+* Image Title | [Sea Wall at Bald Head Cliff, York, Maine]
+  * Filename: MS0827-P-Bald_Head_Cliff-1901.jpg
+  * DESCRIPTION MISSING
+* Image Title | [Crevasse Formation in Illecillwaet Glacier, Selkirk Mountains, Alberta, Canada]
+  * Filename: MS0827-P-Crevasse-1902.jpg
+  * DESCRIPTION MISSING
+* Image Title | [High Water Mark at Gettysburg, PA]
+  * Filename: MS0827-P-Gettysburg-1903.jpg
+  * DESCRIPTION MISSING
+* Image Title | [Sheriff Jack Laxton administers oxygen to rescue worker Edker Hunnicutt,  overcome by poisonous gas, while his father, George, waits]
+  * Filename: MS0774-Wounded-Miner-1968.jpg
+  * After a methane gas and coal dust explosion May 24, 1965, Corn photographed rescue efforts and the disaster aftermath at Brimstone Mountain for _The Tennessean_. Five miners were killed, and the two-day rescue drew several hundred anxious spectators, family, and members of the press.
 * Image TItle | 
   * Filename: 
   * 
 * Image TItle | 
   * Filename: 
   * 
-* Image TItle | 
-  * Filename: 
-  * 
-* Image TItle | 
-  * Filename: 
-  * 
-* Image TItle | 
-  * Filename: 
-  * 
-* Image TItle | 
-  * Filename: 
-  * 
-* Image TItle | 
+* Image Title | 
   * Filename: 
   * 
 
