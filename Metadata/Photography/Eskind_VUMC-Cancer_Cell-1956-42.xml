@@ -7,10 +7,10 @@
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n 2002011452">Goodpasture, Ernest William, 1886-1960 </name>
+                <name type="personal" vocab="LCNAF"/>
                 <dates>
-                    <earliestDate>1886-10-17</earliestDate>
-                    <latestDate>1960-09-20</latestDate>
+                    <earliestDate/>
+                    <latestDate/>
                 </dates>
             </agent>
         </agentSet>
@@ -26,7 +26,7 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
-                <refid>MSS Goodpasture Collection 29, Binder 1956</refid>
+                <refid>MSS Collection 29, Ernest Goodpasture Papers, Series 13, Box19b, Folder1, Image 42 </refid>
             </location>
         </locationSet>
         <rightsSet>

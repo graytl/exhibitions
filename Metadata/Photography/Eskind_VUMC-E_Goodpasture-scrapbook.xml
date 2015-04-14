@@ -7,7 +7,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="local">Gunter, Willim Jr.</name>
+                <name type="personal" vocab="local"/>
             </agent>
         </agentSet>
         <dateSet>
@@ -17,17 +17,17 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Ernest Goodpasture studied medicine at Johns Hopkins University in Baltimore starting in 1908, later becoming resident staff and instructor in pathology. He became interested in vaccines during his experience in the 1918 influenza epidemic.</description>
+            <description>Ernest Goodpasture studied medicine at Johns Hopkins University in Baltimore starting in 1908, later becoming resident staff and instructor in pathology. He became interested in vaccines during his experience in the 1918 influenza epidemic.  </description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
-                <refid>MSS Goodpasture Collection 29, Series 10, Box 16A, Folder 0003</refid>
+                <refid>Ms Collection 29: Ernest Goodpasture Papers, Series 10, Box 16A, Folder 0003, Image 049</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>Photo taken c1937 by William Gunter, Jr. at VUMC. Per Eskind Library website, "Copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law."  No Goodpasture or Gunter descendants have been located. Maker undetermined.</text>
+                <text>Photo possibly taken c1937 by William Gunter, Jr. at VUMC. Per Eskind Library website, "Copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law."  No Goodpasture or Gunter descendants have been located. Maker undetermined.</text>
             </rights>
         </rightsSet>
         <subjectSet>

@@ -5,6 +5,11 @@
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
     <!-- HAS BEEN EDITED -->
     <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="local"/>
+            </agent>
+        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>1937</earliestDate>
@@ -17,7 +22,7 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
-                <refid>MSS Goodpasture Collection 29, Series 10, Box 16A, Folder 0003</refid>
+                <refid>Ms Collection 29: Ernest Goodpasture Papers, Series 10, Box 16A, Folder 003, Image 025</refid>
             </location>
         </locationSet>
         <rightsSet>
