@@ -151,10 +151,31 @@ the central library lobby on photography. Text is not yet finalized and is subje
 * Image Title | [Mt. Fox and Mt. Dawson, Selkirk Mountains Alberta Canada]
   * Filename: MS0827-P-Selkirk_Mountains-1902.jpg  
   * DESCRIPTION MISSING
-* Image Title | 
-  * Filename:  
+* Image Title | [Erie Canal at Salina St., Syracuse NY]
+  * Filename: MS0827-P-Erie_Canal-1900.jpg
+  * DESCRIPTION MISSING
+* Image Title | [Palacio Del Gobierno General, Habana, Cuba]
+  * Filename: MS0827-P-Havana_Cuba-1900.jpg
+  * DESCRIPTION MISSING
+* Image TItle | 
+  * Filename: 
   * 
-* Image Title | 
-  * Filename:  
+* Image TItle | 
+  * Filename: 
+  * 
+* Image TItle | 
+  * Filename: 
+  * 
+* Image TItle | 
+  * Filename: 
+  * 
+* Image TItle | 
+  * Filename: 
+  * 
+* Image TItle | 
+  * Filename: 
+  * 
+* Image TItle | 
+  * Filename: 
   * 
 
