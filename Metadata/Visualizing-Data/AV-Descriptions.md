@@ -3,7 +3,7 @@
 _Below are descriptions for audio-visual clips requested by the curators for the upcoming exhibition on Visualizing Data. Text is not yet finalized and is subject to further editing._
 
 #### Clip 1 | The Life of Flannery O’ Connor (Suellen Stringer-Hye)
-* Description: In September of 1961, Flannery O'Connor wrote an article for Holiday Magazine entitled “Living With a Peacock" . In the article she artfully describes her passion for peacocks what they mean to her. The article ends with a quote "I intend to stand firm and let the peacocks multiply, for I am sure that, in the end, the last word will be theirs." Peacocks have come to represent the life and spirit of Flannery O'Connor and her art. 
+* Description: When Flannery O'Connor, suffering from systemic lupus erythematosus, retired  to her ancestral farm in Milledgville Georgia, in 1951, she devoted herself to raising peafowl and other exotic birds as well as to writing. Peacocks can be found in many of her stories and essays.  "I intend to stand firm and let the peacocks multiply, for I am sure that, in the end, the last word will be theirs." Peacocks endure as emblems of the life and spirit of Flannery O'Connor and her art. 
 * NOTE: NEEDS COPYRIGHT CLEARANCE
 
 #### Clip 2 | Flannery O’Connor at Vanderbilt (Suellen Stringer-Hye)
