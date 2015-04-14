@@ -6,7 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="no2007089559">Corn, Jack, (1929-)</name>
+                <name type="personal" vocab="LCNAF" refid="no2007089559">Corn, Jack, 1929-</name>
                 <dates>
                     <earliestDate>1929-01-14</earliestDate>
                     <latestDate>present</latestDate>
@@ -25,8 +25,8 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University Library</name>
-                <refid>Ms0774.Box</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS Collection 0774, Box?</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -36,42 +36,41 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh 85006073 ">Appalachian Region--Economic Conditions--Pictoral Works</term>
+                <term vocab="LCSH" refid="sh 85006073">Appalachian Region--Economic conditions--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Sheriff Jack Laxton administers oxygen to rescue worker Edker Hunnicutt,  overcome by poisonous gas, while his father, George, waits]   </title>
+            <title>[Sheriff Jack Laxton Administers Oxygen to Rescue Worker Edker Hunnicutt]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347  ">black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <role>Scanner</role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="other">
-                <earliestDate>2015</earliestDate>
-                <latestDate>2015</latestDate>
+            <date type="creation">
+                <earliestDate>2015-03-20</earliestDate>
+                <latestDate>2015-03-20</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>MS0774-Wounded-Miner-1968 </refid>
-                <name type="corporate" vocab="LCSH">Vanderbilt University Photographic Archives</name>
+                <refid>MS0774-Wounded_Miner-1968.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>Corn granted rights to Vanderbilt for 2012 exhibition of his work. </text>
+                <text>Corn granted rights to Vanderbilt for 2012 exhibition of his work.</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title>digital copy of [Sheriff Jack Laxton administers oxygen to rescue worker Edker Hunnicutt]  </title>
+            <title>[Digital Reproduction of Sheriff Jack Laxton Administers Oxygen to Rescue Worker Edker Hunnicutt]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
