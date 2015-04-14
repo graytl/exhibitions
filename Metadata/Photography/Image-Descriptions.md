@@ -175,7 +175,13 @@ the central library lobby on photography. Text is not yet finalized and is subje
 * Image TItle | [Pulpit Rock, Utah]
   * Filename: MS0827-P-Pulpit_Rock-1900.jpg
   * DESCRIPTION MISSING
-* Image Title | 
-  * Filename: 
-  * 
+* Image Title | [Pike's Peak Avenue, Colorado]
+  * Filename: MS0827-P-Pikes_Peak-1898.jpg
+  * DESCRIPTION MISSING
+* Image Title | [Passaic Falls, Patterson, New Jersey]
+  * Filename: MS0827-P-Passaic_Falls-1902.jpg
+  * DESCRIPTION MISSING
+* Image Title | [Gold of Ophir Roses Carmelita, Pasadena, California]
+  * Filename: MS0827-P-Ophir_Roses-1902.jpg
+  * DESCRIPTION MISSING
 
