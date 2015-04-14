@@ -169,12 +169,12 @@ the central library lobby on photography. Text is not yet finalized and is subje
 * Image Title | [Sheriff Jack Laxton administers oxygen to rescue worker Edker Hunnicutt,  overcome by poisonous gas, while his father, George, waits]
   * Filename: MS0774-Wounded-Miner-1968.jpg
   * After a methane gas and coal dust explosion May 24, 1965, Corn photographed rescue efforts and the disaster aftermath at Brimstone Mountain for _The Tennessean_. Five miners were killed, and the two-day rescue drew several hundred anxious spectators, family, and members of the press.
-* Image TItle | 
-  * Filename: 
-  * 
-* Image TItle | 
-  * Filename: 
-  * 
+* Image TItle | [Point Sublime, Colorado]
+  * Filename: MS0827-P-Point_Sublime-1901.jpg
+  * DESCRIPTION MISSING
+* Image TItle | [Pulpit Rock, Utah]
+  * Filename: MS0827-P-Pulpit_Rock-1900.jpg
+  * DESCRIPTION MISSING
 * Image Title | 
   * Filename: 
   * 
