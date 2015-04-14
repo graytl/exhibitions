@@ -6,11 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 88079917  ">Detroit Photograph Co.</name>
-                <dates>
-                    <earliestDate>1890</earliestDate>
-                    <latestDate>1924</latestDate>
-                </dates>
+                <name type="corporate" vocab="LCNAF" refid="n 88079917">Detroit Photographic Co.</name>
             </agent>
         </agentSet>
         <dateSet>

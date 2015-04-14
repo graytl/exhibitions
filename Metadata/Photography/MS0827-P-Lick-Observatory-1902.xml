@@ -6,17 +6,13 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 88079917   ">Detroit Photographic Co</name>
-                <dates>
-                    <earliestDate>1890</earliestDate>
-                    <latestDate>1924</latestDate>
-                </dates>
+                <name type="corporate" vocab="LCNAF" refid="n 88079917">Detroit Photographic Co.</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>1902</earliestDate>
-                <latestDate>1902</latestDate>
+                <earliestDate>1893-12-06</earliestDate>
+                <latestDate>1893-12-06</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
@@ -24,8 +20,9 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University Library</name>
-                <refid>Ms0827.Folder1</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS Collection 0827, Folder 1</refid>
+                <refid>MSS Collection 0031, Box 43, Folder 09</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,33 +32,38 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid=" "/>
+                <term vocab="LCNAF" refid="n 80146341">Lick Observatory--Pictorial works</term>
+            </subject>
+            <subject>
+                <term vocab="LCNAF" refid="n 94063816">Barnard, Edward Emerson, 1857-1923--Portraits</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="	sh 85133444">Telescopes--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Lick Observatory, Mt. Hamilton, CA]</title>
+            <title>[Barnard Leaning against Telescope at Lick Observatory, Mt. Hamilton, CA]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300265036  ">photochrom</worktype>
+            <worktype vocab="AAT" refid="300265036">Photochroms</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Library Special Collections</name>
-                <role>Scanner</role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="other">
-                <earliestDate>2015</earliestDate>
-                <latestDate>2015</latestDate>
+            <date type="repository">
+                <earliestDate>2015-03-11</earliestDate>
+                <latestDate>2015-03-11</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>Ms0031.B43.F9</refid>
-                <name type="corporate" vocab="LCSH" refid="31075875">Vanderbilt University Library </name>
+                <refid>MS0031-Barnard-Lick-Obsrv1893.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -70,10 +72,10 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Surrogate of [Lick Observatory, Mt. Hamilton, CA]</title>
+            <title>[Digital Reproduction of Barnard Leaning against Telescope at Lick Observatory, Mt. Hamilton, CA]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital Photgraphs</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>

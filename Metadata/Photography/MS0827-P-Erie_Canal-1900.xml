@@ -6,11 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 88079917  ">Detroit Photograph Co.</name>
-                <dates>
-                    <earliestDate>1890</earliestDate>
-                    <latestDate>1924</latestDate>
-                </dates>
+                <name type="corporate" vocab="LCNAF" refid="n 88079917">Detroit Photographic Co.</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -20,14 +16,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>location &amp; process.
- repeat text for all
- </description>
+            <description>location &amp; process. repeat text for all</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Library Special Collections</name>
-                <refid>MS0827,Box?</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS Collection 0827, Box?</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -37,32 +31,35 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="  "/>
+                <term vocab="LCSH" refid="sh 85044623">Erie Canal (N.Y.)--Pictorial works</term>
+            </subject>
+            <subject>
+                <term vocab="LCNAF" refid="n 79059259">Syracuse (N.Y.)--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Erie Canal at Salina St, Syracuse NY] </title>
+            <title>[Erie Canal at Salina St., Syracuse NY] </title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300265036">Photochrom</worktype>
+            <worktype vocab="AAT" refid="300265036">Photochroms</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015</earliestDate>
-                <latestDate>2015</latestDate>
+                <earliestDate>2015-03-11</earliestDate>
+                <latestDate>2015-03-11</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0827-P-Erie_Canal-1900 </refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0827-P-Erie_Canal-1900.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -71,7 +68,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Image of [Erie Canal at Salina St, Syracuse NY] </title>
+            <title>[Digital Reproduction of Erie Canal at Salina St., Syracuse NY] </title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
