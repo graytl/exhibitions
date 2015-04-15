@@ -20,11 +20,11 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>After the conviction of Charles Manson (1934- ) for conspiring to murder seven people and the publication of Vincent Bugliosi’s book Helter Skelter: The True Story of the Manson Murders people from around the world wanted to write an official history of Manson and his Family.  Lynette Fromme (1948- ) fielded these requests for information and vetted offers from publishing houses to the rights of the true history of the group.  Writing in coded language she warns a potential biographer to stick to the “True” story of Manson and not give in to the media hype surrounding him and his followers.  </description>
+            <description>After the conviction of Charles Manson (1934- ) for conspiring to murder seven people and the publication of Vincent Bugliosi’s book Helter Skelter: The True Story of the Manson Murders people from around the world wanted to write an official history of Manson and his Family. Lynette Fromme (1948- ) fielded these requests for information and vetted offers from publishing houses to the rights of the true history of the group. Writing in coded language she warns a potential biographer to stick to the “True” story of Manson and not give in to the media hype surrounding him and his followers.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
                 <refid>James G. Stahlman Historical Autograph Collection, Lynette Fromme, MSS0412</refid>
             </location>
         </locationSet>
@@ -39,16 +39,16 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Postcard from Lynette Fromme to David Nicholaus, February 1975</title>
+            <title>[Postcard from Lynette Fromme to David Nicholaus, February 1975]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid=" 300026816">Postcards</worktype>
+            <worktype vocab="AAT" refid="300026816">Postcards</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +58,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0412-C-Lynette_Fromme-Postcard-Feb_1975-01</refid><refid>MS0412-C-Lynette_Fromme-Postcard-Feb_1975-02</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0412-C-Lynette_Fromme-Postcard-Feb_1975-01.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +69,37 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Postcard from Lynette Fromme to David Nicholaus, February 1975</title>
+            <title>[Digital Reproduction of Postcard from Lynette Fromme to David Nicholaus, February 1975--View of Recto]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-03-17</earliestDate>
+                <latestDate>2015-03-17</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>MS0412-C-Lynette_Fromme-Postcard-Feb_1975-02.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[Digital Reproduction of Postcard from Lynette Fromme to David Nicholaus, February 1975--View of Verso]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

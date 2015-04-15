@@ -20,11 +20,11 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>As a protégé and longtime follower of Charles Manson, Lynette “Squeaky” Fromme acted as spokesman for the ‘Family” carrying the message of Manson to the media.  After his arrest and 1971 conviction for the Tate/LaBianca murders Fromme continued to represent Manson and deliver messages from him to his followers and keep his name alive in the press.  She was trying to write a history of the “Manson Family” using scrapbooks she created from letters, photographs and news clippings though no manuscript was ever found.</description>
+            <description>As a protégé and longtime follower of Charles Manson, Lynette “Squeaky” Fromme acted as spokesman for the ‘Family” carrying the message of Manson to the media.  After his arrest and 1971 conviction for the Tate/LaBianca murders Fromme continued to represent Manson and deliver messages from him to his followers and keep his name alive in the press. She was trying to write a history of the “Manson Family” using scrapbooks she created from letters, photographs and news clippings though no manuscript was ever found.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
                 <refid>James G. Stahlman Historical Autograph Collection, Lynette Fromme, MSS0412</refid>
             </location>
         </locationSet>
@@ -42,13 +42,13 @@
             <title>Postcard from Lynette Fromme to David Nicholas, April 25, 1975</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid=" 300026816">Postcards</worktype>
+            <worktype vocab="AAT" refid="300026816">Postcards</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +58,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0412-C-Lynette_Fromme-Postcard-April_25_1975-01</refid><refid>MS0412-C-Lynette_Fromme-Postcard-April_25_1975-02</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0412-C-Lynette_Fromme-Postcard-April_25_1975-01.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +69,37 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Postcard from Lynette Fromme to David Nicholas</title>
+            <title>[Digital Reproduction of Postcard from Lynette Fromme to David Nicholas--View of Recto]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-03-17</earliestDate>
+                <latestDate>2015-03-17</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>MS0412-C-Lynette_Fromme-Postcard-April_25_1975-02.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[Digital Reproduction of Postcard from Lynette Fromme to David Nicholas--View of Verso]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
