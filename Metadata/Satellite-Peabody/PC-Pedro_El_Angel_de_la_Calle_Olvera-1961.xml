@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n50021396">Politi, Leo, 1908-1996</name>
+                <dates>
+                    <earliestDate>1908</earliestDate>
+                    <latestDate>1996</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>1946</earliestDate>
+                <latestDate>1961</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>Inspired by the residents of downtown Los Angeles, Leo Politi created the character of Pedro, the Angel of Olvera Street.  Politi's book portrays the Mexican American culture which influenced his own development as an artist.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="other" vocab="local">Peabody Library</name>
+                <refid>PZ7 .P753 Pe 1946</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>©1961 Leo Politi</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="" refid=""></term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>Pedro, the angel of Olvera Street</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300028051">Books</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-03-16</earliestDate>
+                <latestDate>2015-03-16</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>PC-Pedro_El_Angel_de_la_Calle_Olvera-1961.jpg</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[Digital reproduction of Pedro, the angel of Olvera Street--Pages 12&amp;13]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

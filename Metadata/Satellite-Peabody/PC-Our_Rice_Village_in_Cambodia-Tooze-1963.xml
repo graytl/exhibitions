@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n50014530">Tooze, Ruth</name>
+                <dates>
+                    <earliestDate>1951</earliestDate>
+                    <latestDate>2009</latestDate>
+                </dates>
+            </agent>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n80009840">Keats, Ezra Jack</name>
+                <dates>
+                    <earliestDate>1916</earliestDate>
+                    <latestDate>1983</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>1963</earliestDate>
+                <latestDate>1963</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>A pioneer in depicting multiculturalism in children's literature, Ezra Jack Keats provided the illustrations to this story about the everyday life of a young boy and his family in Cambodia.  This book was released shortly after Keats' groundbreaking, Caldecott Award winning book, The Snowy Day.  The publication of this book coincides with the U.S. military's involvement in Southeast Asia.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="other">
+                <name type="other" vocab="local">Peabody Library</name>
+                <refid>PZ9 .T557 Ou</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>©1963 Ruth Tooze &amp; Ezra Jack Keats
+</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="" refid=""></term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>Our rice village in Cambodia</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300028051">Books</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-03-16</earliestDate>
+                <latestDate>2015-03-16</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>PC-Our_Rice_Village_in_Cambodia-Tooze-1963.jpg</refid>
+                <name type="other" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[Digital reproduction of Our Rice Village in Cambodia--Pages 8&amp;9]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>
