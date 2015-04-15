@@ -59,7 +59,7 @@
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>MS0412-C-Lynette_Fromme-Postcard-Feb_1975-01.jpg</refid>
+                <refid>MS0412-C-Lynette_Fromme-Postcard-Feb_1975-01-AB.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
@@ -69,37 +69,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Postcard from Lynette Fromme to David Nicholaus, February 1975--View of Recto]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-17</earliestDate>
-                <latestDate>2015-03-17</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0412-C-Lynette_Fromme-Postcard-Feb_1975-02.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Postcard from Lynette Fromme to David Nicholaus, February 1975--View of Verso]</title>
+            <title>[Digital Reproduction of Postcard from Lynette Fromme to David Nicholaus, February 1975]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
