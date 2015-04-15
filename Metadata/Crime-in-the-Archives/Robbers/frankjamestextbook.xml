@@ -54,14 +54,14 @@
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015-03-17</earliestDate>
-                <latestDate>2015-03-17</latestDate>
+                <earliestDate>2015-04-13</earliestDate>
+                <latestDate>2015-04-13</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>MS0412-C-Frank_James-1883-01.jpg</refid>
-              <refid>MS0412-C-Frank_James-1883-02.jpg</refid>
+                <refid>MS0412-C-Frank_James-1883-01-AB.jpg</refid>
+             
                 <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
