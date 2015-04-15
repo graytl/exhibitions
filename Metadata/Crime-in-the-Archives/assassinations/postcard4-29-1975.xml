@@ -53,13 +53,13 @@
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015-03-17</earliestDate>
-                <latestDate>2015-03-17</latestDate>
+                <earliestDate>2015-04-13</earliestDate>
+                <latestDate>2015-04-13</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>MS0412-C-Lynette_Fromme-Postcard-April_29-01.jpg</refid>
+                <refid>MS0412-C-Lynette_Fromme-Postcard-April_29_1975-01-AB.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
@@ -69,37 +69,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Postcard from Lynette Fromme to David Nicholas, April 29, 1975--View of Recto]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-17</earliestDate>
-                <latestDate>2015-03-17</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0412-C-Lynette_Fromme-Postcard-April_29-02.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Postcard from Lynette Fromme to David Nicholas, April 29, 1975--View of Verso]</title>
+            <title>[Digital Reproduction of Postcard from Lynette Fromme to David Nicholas, April 29, 1975]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
