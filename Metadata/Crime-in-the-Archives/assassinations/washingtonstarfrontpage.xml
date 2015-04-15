@@ -6,7 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="local" refid="">Barnes, Frederic Wood, 1943-</name>
+                <name type="personal" vocab="local">Barnes, Frederic Wood, 1943-</name>
                 <dates>
                     <earliestDate>1943-02-01</earliestDate>
                     <latestDate>present</latestDate>
@@ -24,8 +24,8 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <refid>james G. Stahlman Historical Autograph Collection, Lynette Fromme, MSS0412</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>James G. Stahlman Historical Autograph Collection, Lynette Fromme, MSS0412</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,20 +35,20 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid=" 	tgm000567">Assassinations</term>
+                <term vocab="LCSH" refid="tgm000567">Assassinations</term>
             </subject>
         </subjectSet>
         <titleSet>
             <title>The Washington Star Front Page, September 6, 1975</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid=" 300026656">Newspapers</worktype>
+            <worktype vocab="AAT" refid="300026656">Newspapers</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +58,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0412-C-Washington_Star-Sept_6_1975-Lynette_Fromme.01</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0412-C-Washington_Star-Sept_6_1975-Lynette_Fromme.01.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +69,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>The Washington Star Front Page, September 6, 1975</title>
+            <title>[Digital Reproduction of The Washington Star Front Page, September 6, 1975]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

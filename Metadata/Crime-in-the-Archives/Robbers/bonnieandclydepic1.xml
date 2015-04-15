@@ -4,15 +4,6 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
     <work>
-        <agentSet>
-            <agent>
-                <name type="" vocab="" refid=""/>
-                <dates>
-                    <earliestDate></earliestDate>
-                    <latestDate></latestDate>
-                </dates>
-            </agent>
-        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>1932-04-03</earliestDate>
@@ -24,7 +15,7 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
                 <refid>James G. Stahlman Historical Autograph Collection, Barrow, Clyde</refid>
             </location>
         </locationSet>
@@ -39,16 +30,16 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Bonnie Parker and Clyde Barrow</title>
+            <title>[Bonnie Parker and Clyde Barrow]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid=" 300128347">black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +49,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0412-C-Bonnie_and_Clyde-San_Antonio-April_3_1932</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0412-C-Bonnie_and_Clyde-San_Antonio-April_3_1932.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +60,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Bonnie Parker and Clyde Barrow</title>
+            <title>[Digital Reproduction of Bonnie Parker and Clyde Barrow]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

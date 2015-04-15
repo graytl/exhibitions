@@ -6,7 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid=" 	n94056291">Time</name>
+                <name type="corporate" vocab="LCNAF" refid="n 94056291">Time</name>
                 <dates>
                     <earliestDate>1923</earliestDate>
                     <latestDate>present</latestDate>
@@ -24,7 +24,7 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
                 <refid>James G. Stahlman Historical Autograph Collection, Lynette Fromme, MSS0412</refid>
             </location>
         </locationSet>
@@ -35,20 +35,20 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="n96123727">Fromme, Lynette Alice, 1948-</term>
+                <term vocab="LCSH" refid="n 96123727">Fromme, Lynette Alice, 1948-</term>
             </subject>
         </subjectSet>
         <titleSet>
             <title>The Girl Who Almost Killed Ford</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="">Periodicals</worktype>
+            <worktype vocab="AAT" refid="300026657">Periodicals</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +58,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>MS0412-C-Time-The_Girl_Who_Almost_Killed_Ford-Sept_15_1975</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +69,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>The Girl Who Almost Killed Ford</title>
+            <title>[Digital Reproduction of the Girl Who Almost Killed Ford]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

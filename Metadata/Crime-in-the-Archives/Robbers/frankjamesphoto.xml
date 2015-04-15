@@ -4,15 +4,6 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
     <work>
-        <agentSet>
-            <agent>
-                <name type="" vocab="" refid="">Unknown</name>
-                <dates>
-                    <earliestDate></earliestDate>
-                    <latestDate></latestDate>
-                </dates>
-            </agent>
-        </agentSet>
         <dateSet>
             <date type="publication">
                 <earliestDate>1930</earliestDate>
@@ -20,36 +11,35 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Frank James (1843-1915) was part of the notorious James-Younger Gang.  He and his younger brother, Jesse James roamed the South and Midwest robbing banks and running from the law for over thirty years.   The most famous incident was the disastrous Northfield, Minnesota, raid on September 7, 1876, that ended with the death or capture of most of the gang. After his brother Jesse’s death in 1882 Frank turned himself in and served a little over a year in prison. </description>
+            <description>Frank James (1843-1915) was part of the notorious James-Younger Gang. He and his younger brother, Jesse James roamed the South and Midwest robbing banks and running from the law for over thirty years. The most famous incident was the disastrous Northfield, Minnesota, raid on September 7, 1876, that ended with the death or capture of most of the gang. After his brother Jesse’s death in 1882 Frank turned himself in and served a little over a year in prison.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="other" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
                 <refid>James G. Stahlman Historical Autograph Collection, Frank James File</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="undetermined">
-                <text>Reproduction of an original image.  This was used in a publication.</text>
+                <text>Reproduction of an original image. This was used in a publication.</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="n50028710">James, Frank, 1844-1915</term>
+                <term vocab="LCNAF" refid="n50028710">James, Frank, 1844-1915</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Photograph of Frank James</title>
+            <title>[Frank James]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="other" vocab="" refid="">Vanderbitl University Special Collections</name>
-                <role></role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -61,19 +51,19 @@
         <locationSet>
             <location type="repository">
                 <refid>MS0412-C-Frank_James_portrait.jpg</refid>
-                <name type="other" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text/>
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Portrait of Frank James</title>
+            <title>[Digital Reproduction of Frank James]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid=" 300215302">Digital image</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>
