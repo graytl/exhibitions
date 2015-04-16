@@ -7,24 +7,24 @@
         <agentSet>
             <display>Kevin Reagan (author)</display>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="nb2012006431">Reagan, Kevin(</name>
+                <name type="personal" vocab="LCNAF" refid="nb2012006431">Reagan, Kevin</name>
             </agent>
         </agentSet>
         <dateSet>
-            <display>Published in 2011.</display>
-            <date type="creation">
+            <display>Published in 2011</display>
+            <date type="publication">
                 <earliestDate>2011</earliestDate>
                 <latestDate>2011</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <display>Entire books are dedicated to the art of the album cover. Perhaps the greatest influence on the modern album cover was Alex Steinweiss, whose colorful graphics played a major role in the marketing of Columbia’s new long-playing record format. </display>
-            <description source="Sara Manus, Vanderbilt University Library, 2015">Entire books are dedicated to the art of the album cover. Perhaps the greatest influence on the modern album cover was Alex Steinweiss, whose colorful graphics played a major role in the marketing of Columbia’s new long-playing record format. </description>
+            <display>Entire books are dedicated to the art of the album cover. Perhaps the greatest influence on the modern album cover was Alex Steinweiss, whose colorful graphics played a major role in the marketing of Columbia’s new long-playing record format.</display>
+            <description source="Sara Manus, Vanderbilt University Library, 2015">Entire books are dedicated to the art of the album cover. Perhaps the greatest influence on the modern album cover was Alex Steinweiss, whose colorful graphics played a major role in the marketing of Columbia’s new long-playing record format.</description>
         </descriptionSet>
         <locationSet>
             <display>Vanderbilt University Library, Anne Potter Wilson Music Library. Published by Taschen, Köln, Germany, 2011.</display>
             <location type="repository">
-                <name type="corporate" vocab="LCNAF" refid="n81075875">Vanderbilt University Library</name>
+                <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
                 <name type="geographic" vocab="TGN" refid="7013959" extent="inhabited place">Nashville-Davidson</name>
                 <name type="geographic" vocab="TGN" refid="2001855" extent="county">Davidson</name>
                 <name type="geographic" vocab="TGN" refid="7007825" extent="state">Tennessee</name>
@@ -42,7 +42,7 @@
         <rightsSet>
             <display>Köln : Taschen, 2011</display>
             <rights type="copyrighted">
-                <rightsHolder>Taschen, Cologne, Germany </rightsHolder>                
+                <rightsHolder>Taschen, Cologne, Germany</rightsHolder>                
                 <text>The display of this physical object constitutes a fair use as detailed in the ACRL's Code of Best Practices in Fair Use for Academic and Research Libraries.</text>
             </rights>
         </rightsSet>
@@ -52,10 +52,10 @@
                 <term type="personalName" vocab="LCNAF" refid="no00089843">Steinweiss, Alex, 1917-2011</term>
             </subject>
             <subject>
-                <term type="descriptive" vocab="AAT" refid="300247936">record covers</term>
+                <term vocab="LCSH" refid="sh 85125392">Sound recordings--Record covers--Catalogs</term>
             </subject>
             <subject>
-                <term type="descriptive" vocab="AAT" refid="300264849">graphic arts</term>
+                <term vocab="LCSH" refid="sh2009126060">Graphic arts--United States--History--20th century</term>
             </subject>
         </subjectSet>
         <titleSet>
@@ -64,8 +64,38 @@
         </titleSet>
         <worktypeSet>
             <display>Book</display>
-            <worktype vocab="AAT" refid="300028051">books</worktype>
+            <worktype vocab="AAT" refid="300028051">Books</worktype>
         </worktypeSet>
     </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate></earliestDate>
+                <latestDate></latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid></refid>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[Digital Reproduction of Alex Steinweiss: The Inventor of the Modern Album Cover, Front Cover]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
 </vra>
 
