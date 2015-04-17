@@ -7,7 +7,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF">Unknown</name>
+                <name type="personal" vocab="LCNAF"/>
             </agent>
         </agentSet>
         <dateSet>

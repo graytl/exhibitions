@@ -7,7 +7,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF">Unknown</name>
+                <name type="corporate" vocab="LCNAF"/>
             </agent>
         </agentSet>
         <dateSet>
@@ -27,7 +27,7 @@
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>Photo taken c.1918 in France. No known photographer.</text>
+                <text>Photo taken c.1918 in France. No known photographer. </text>
             </rights>
         </rightsSet>
         <subjectSet>
