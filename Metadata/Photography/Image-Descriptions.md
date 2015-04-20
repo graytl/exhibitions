@@ -101,10 +101,10 @@ the central library lobby on photography. Text is not yet finalized and is subje
   * Architectural portraits of medieval buildings often popularize restorations. When Victor Hugo made the Cathedral famous in his novel, Notre-Dame de Paris (1831), he described a building that had been badly damaged during the French Revolution.  It was restored in the mid-nineteenth-century by architects Eugène Emmanuel Viollet-le-Duc and Jean-Baptiste Lassus. The Gallery of Kings above the portals was battered by Revolutionaries but re-installed in pristine form during the restoration.
 * Image Title | [Ft. Marion-St. Augustine &amp; Harbor, FL]
   * Filename:  MS0827-P-St_Augustine-1898.jpg
-  * DESCRIPTION MISSING
+  * Completed in 1695, Fort Marion (now Castillo de San Marcos) is the oldest surviving masonry fort in the continental U.S.  Engineer Ignazio Daza followed standards for building defensive structures that would withstand cannon projectiles and maximize cannon mounts to repel attackers. The bastion was built to defend St. Augustine against British attack. The coquina shell walls did not splinter into projectiles under cannon fire and mixed with aggregate absorbed cannon balls.
 * Image Title | [Mt. Fox and Mt. Dawson, Selkirk Mountains Alberta Canada]
   * Filename: MS0827-P-Selkirk_Mountains-1902.jpg  
-  * DESCRIPTION MISSING
+  * Crossing the Selkirk Mountain Range completed the transcontinental Canadian Pacific Railway in 1885, connecting remote British Columbia by land to the rest of newly-unified Canada. Ten years of reconnaissance surveys on foot and horseback preceded railway construction. Building the railway presented engineers with formidable challenges, like keeping the line clear. About 40 feet of snow fell on this rail line every winter it was in use. No trains ran for months in the first winter of operation.
 * Image Title | [Erie Canal at Salina St., Syracuse NY]
   * Filename: MS0827-P-Erie_Canal-1900.jpg
   * Built from 1817 to 1825, the 363-mile Erie Canal connected the Great Lakes with the Hudson River, making New York the Atlantic port for midwestern crops, meat, and goods.  The reduced shipping costs spurred New York’s economic explosion in the 1830s and allowed easy internal migration. Smaller Oswego Canal connects Erie Canal with Lake Ontario and the Erie Canal cuts through downtown Syracuse and continues to Buffalo on the shores of Lake Erie.
@@ -122,10 +122,10 @@ the central library lobby on photography. Text is not yet finalized and is subje
   * The three day battle in 1863 produced the greatest bloodshed of the Civil War. Monuments, tours, and photos were produced rapidly to commemorate the fallen. The memorial cemetery opened in 1864. John Batchelder designed this 1892 monument and wrote Gettysburg: What to See and How to See It in 1873. In 1891, Pennsylvania railroad sold tourist packages in 1891 that included Gettysburg. In 1895, Gettysburg became a National Military Park with 600 acres and 320 monuments to Federal troops.
 * * Image Title | [Point Sublime, Colorado]
   * Filename: MS0827-P-Point_Sublime-1901.jpg
-  * DESCRIPTION MISSING
+  * After the Civil War, telegraph and railroad companies created new demands for natural resources. The four major western survey expeditions mapped geological features and mineral resources of the western territories targeting military posts and exploring Canyonlands and territories. In 1870, William Henry Jackson joined Ferdinand Hayden’s group surveying Wyoming and western territories. He eventually settled in Denver, near Point Sublime, where he worked as a landscape photographer. 
 * Image Title | [Pulpit Rock, Utah]
   * Filename: MS0827-P-Pulpit_Rock-1900.jpg
-  * DESCRIPTION MISSING
+  * The Union Pacific Railroad tracks visible in the right half of this image connect Pulpit Rock near Echo City with Portland and San Francisco. The town provided coal and water for trains entering Echo Canyon. Echo began as a stopover on the Mormon trail, becoming a junction between the First Transcontinental Railroad and a spur line to serve silver mines near Park City. Rock formations like this are found throughout the Wasatch Mountains.
 * Image Title | [Pike's Peak Avenue, Colorado]
   * Filename: MS0827-P-Pikes_Peak-1898.jpg
   * In 1874, Congress debated civilian versus military control of the four western mapping surveys. Hayden’s Survey, mapping the western territories, joined the U.S. Department of the Interior.   Named for explorer Zebulon Pike, the area grew in the 1890s during the last gold rush in the continental U.S.  Katharine Lee Bates wrote the song "America the Beautiful" in 1893 after admiring the view from Pikes Peak.  At 14,115 feet, it is the highest summit of the southern Front Range of the Rockies.”
