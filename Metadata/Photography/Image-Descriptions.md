@@ -31,9 +31,9 @@ the central library lobby on photography. Text is not yet finalized and is subje
 * Image Title | [Lt. Kennon's Moustache and Lesser objects]
   * Filename: Eskind_VUMC-Lt.Kennon-1917.jpg
   * DESCRIPTION MISSING
-* Image Title | [Officers' and Nurses' Mess, Camp Hospital, Nevers, France, 1918]
-  * Filename: Eskind_VUMC-WWI-Hospital-Mess-1918.jpg
-  * DESCRIPTION MISSING
+* Image Title | [Officers' and Nurses' Mess, Camp Hospital 28, Nevers, France 1918]
+  * Filename: Eskind_VUMC-WW1-Hospital_Mess-1918.jpg
+  * The American Expeditionary Forces depended upon regular train service, and hospitals were positioned near major railroad junctions. Nevers, 150 miles south of Paris, was a central supply depot for matériel, veterinary hospitals, and hospitals.   Officers at front table include left to right: Dr. Witt, Unknown, Dr. Dixon, Dr. McKinney, Dr. McCabe. One officer recalled “we had over 17,000 shattered bones to mend, over 3,500 arms and legs to amputate, and 20 times that many to save.”
 * Image Title | [Vanderbilt Unit, World War I, August 1, 1917]
   * Filename: Eskind_VUMC-WW1-Vanderbilt_Unit-1917.jpg
   * Over 2,500 Vanderbilt men served in World War I once the United States joined the fighting in April, 1917. The Vanderbilt Unit included 12 doctors, enlisted men and nurses.  Most of its members served 150 miles from Paris at Nevers, in central France. Camp Hospital 28 had 450 patient beds and surgeries, laundries, labs and other buildings required to provide medical care.
