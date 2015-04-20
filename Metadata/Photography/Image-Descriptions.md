@@ -43,6 +43,9 @@ the central library lobby on photography. Text is not yet finalized and is subje
 * Image Title | [Andromeda Galaxy]
   * Filename: MS0031-Andromeda-slide21.jpg
   * Barnard was also known for photgraphs of galaxies, especially after joining the Univesity of Chicago's Yerkes Observatory.
+* Image Title | [Barnard Leaning against Telescope at Lick Observatory, Mt. Hamilton, CA]
+  * MS0031-Barnard-Lick-Obsrv1893.jpg
+  * Barnard moved to California in 1887 to inaugurate the new observatory at Mount Hamilton near San Jose.  He discovered the first non-Galilean moon of Jupiter, Amalthea, in September 1892, over 275 years after Galileo's discoveries.  Observatory staff fought over access to the 36-inch telescope, making working conditions difficult. Barnard moved to Yerkes Observatory in Williams Bay, Wisconsin in 1895 with an astronomy appointment at the University of Chicago.
 * Image Title | [Barnard with 36-inch refractor telescope at Lick Observatory, CA]
   * Filename: MS0031.Barnard-Lick Obsrv-1913.jpg
   * While at Lick Observatory, Barnard was the first astronomer to discover a comet using photgraphic plates. In 1889, he became the first astronomer to observe the eclipse of Saturn's satelite Iapetus.
