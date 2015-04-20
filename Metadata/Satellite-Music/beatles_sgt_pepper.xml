@@ -7,7 +7,7 @@
         <agentSet>
             <display>Beatles (musical group)</display>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n79018119">Beatles</name>
+                <name type="corporate" vocab="LCNAF" refid="n 79018119">Beatles</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -24,7 +24,7 @@
             <display>Vanderbilt University, Anne Potter Wilson Music Library, recorded by Victor Record, Camden, NJ; Side A recorded August 11, 1919, Side B recorded June 13, 1919.</display>
             <notes>Publisher: Capitol, label no. SMAS-2653 Capitol; recorded at EMI Studio, City of Westminster, London, England</notes>
             <location type="repository">
-                <name type="corporate" vocab="LCNAF" refid="n81075875">Vanderbilt University. Library</name>
+                <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
                 <name type="geographic" vocab="TGN" refid="7013959" extent="inhabited place">Nashville-Davidson</name>
                 <name type="geographic" vocab="TGN" refid="2001855" extent="county">Davidson</name>
                 <name type="geographic" vocab="TGN" refid="7007825" extent="state">Tennessee</name>
@@ -48,21 +48,50 @@
             </rights>
         </rightsSet>
         <subjectSet>
-                <display>The Beatles, Rock music--1961-1970, long-playing records</display>
+                <display>The Beatles, Rock music--1961-1970</display>
             <subject>
-                <term type="descriptiveTopic" vocab="AAT" refid="300265802">long-playing records</term>
-            </subject> 
+                <term vocab="LCSH" refid="sh 87003327">Rock music, 1961-1970--Specimens</term>
+            </subject>
         </subjectSet>
         <titleSet>
             <display>Sgt. Pepper's Lonely Hearts Club Band</display>
-            <title>Sgt. Pepper's Lonely Hearts Club Band</title>
-            <title type="cited" pref="true" xml:lang="en">Title on album.</title>
+            <title pref="true" xml:lang="en">Sgt. Pepper's Lonely Hearts Club Band</title>
         </titleSet>
         <worktypeSet>
-            <display>long-playing record</display>
-            <worktype vocab="AAT" refid="300265802">long-playing records</worktype>
+            <display>Long-playing record</display>
+            <worktype vocab="AAT" refid="300265802">Long-playing records</worktype>
         </worktypeSet>
     </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate></earliestDate>
+                <latestDate></latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid></refid>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[Digital Reproduction of ...]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
 </vra>
 
 
