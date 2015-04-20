@@ -9,13 +9,16 @@ the central library lobby on photography. Text is not yet finalized and is subje
 * Image Title | [Katherine Anderson in the laboratory]
   * Filename: Eskind_VUMC-K_Anderson-Scrapbook-A.jpg
   * Katherine Anderson (1909-1995) received a PhD in bacteriology from Vanderbilt in 1940. Her interest in viruses led to her work in Dr. Goodpasture's lab. The couple married in 1945, after which she worked on environmental issues, natural habitats and ornithology.
+* Image Title | [Nurses with the Vanderbilt Hospital in France]
+  * Filename: Eskind_VUMC-WW1-Nurses-1918
+  * In Nashville, Confederate veterans raised $887 selling newspapers and sent small Christmas gifts of 84 French francs to 31 privates and 16 nurses in 1918.  The Vanderbilt Unit, like others from major American hospitals, included doctors and local nurses, many from Davidson County. Head Nurse Catherine Sinnot worked for St. Thomas Hospital and was awarded the Distinguished Service Medal (DSM) for her "splendid leadership, tireless energy, and unselfish devotion."  Few nurses were identified in the photos.
 * Image Title | [HeLa Cancer Cell]
   * Filename: Eskind_VUMC-Cancer-Cell-1956-42.jpg
   * Dr. Ernest Goodpasture was Chair of Pathology at Vanderbilt University from 1924-1955 and remains known for his work developing vaccines 
   by culturing them in chicken eggs. Goodpasture used so-called immortal HeLa cells as many pathologists did after they became availble in 1951.The line was derived from cervical cancer cells (circled in red) taken on February 8, 1951 from cancer patient Henrietta Lacks.
 * Image Title | [Dr. Ernest W. Goodpasture in his lab]
   * Filename: Eskind_VUMC-E_Goodpasture-Scrapbook.jpg
-  * Ernest Goodpasture studied medicine at Johns Hopkins University in Baltimore starting in 1908, later becoming resident staff and instructor in pathology. He became interested in vaccines during his experience in the 1918 influenza epidemic.
+  * Goodpasture studied medicine at Johns Hopkins University, earning his M.D. in 1912. He became interested in vaccines working at Chelsea Naval Hospital’s pathology lab during the 1918 influenza epidemic. In 1925, Goodpasture arrived at Vanderbilt as part of the move to modernize medical education in the South. He discovered how to culture vaccines in fertile hen’s eggs.  This discovery made possible effective, cheap vaccines for influenza, small pox and other diseases.
 * Image Title | [Lt. Kennon's Moustache and Lesser Objects]
   * Filename: Eskind_VUMC-Lt.Kennon-1917.jpg
   * Dr. William G. Kennon specialized in surgery of the eye, ear, nose and throat. Vanderbilt and other medical schools recruited doctors and nurses to assist the American Expeditionary Force in France after the U.S. joined the war in 1917. One of 12 doctors from Vanderbilt, Kennon worked with Nashville-area nurses and enlisted men at Vanderbilt Hospital Units in Nevers, central France. In contrast to the formal portraits, this image shows the photographer’s sense of humor.
