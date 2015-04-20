@@ -34,9 +34,9 @@ the central library lobby on photography. Text is not yet finalized and is subje
 * Image Title | [Officers' and Nurses' Mess, Camp Hospital, Nevers, France, 1918]
   * Filename: Eskind_VUMC-WWI-Hospital-Mess-1918.jpg
   * DESCRIPTION MISSING
-* Image Title | [Nurses with the Vanderbilt Unit in World War I]
+* Image Title | [Vanderbilt Unit, World War I, August 1, 1917]
   * Filename: Eskind_VUMC-WW1-Vanderbilt_Unit-1917.jpg
-  * DESCRIPTION MISSING
+  * Over 2,500 Vanderbilt men served in World War I once the United States joined the fighting in April, 1917. The Vanderbilt Unit included 12 doctors, enlisted men and nurses.  Most of its members served 150 miles from Paris at Nevers, in central France. Camp Hospital 28 had 450 patient beds and surgeries, laundries, labs and other buildings required to provide medical care.
 * Image Title | [Lick Observatory, Mt. Hamilton, CA]
   * Filename: MS0031-Barnard-Lick-Obsrv1913.jpg
   * Barnard moved to California in 1887 to inaugurate the new observatory at Mount Hamilton near San Jose. He discovered the first non-Galilean moon of Jupiter, Amalthea, in September 1892, over 275 years after Galileo's discoveries. Observatory staff fought over access to the 36-inch telescope, making working conditions difficult. Barnard moved to Yerkes Observatory in Williams Bay, Wisconsin in 1895 with an astronomy appointment at the Unversity of Chicago.
