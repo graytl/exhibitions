@@ -93,7 +93,7 @@ the central library lobby on photography. Text is not yet finalized and is subje
   * DESCRIPTION MISSING
 * Image Title | [Notre Dame de Paris]
   * Filename: MS0483-P-Paris-Notre_Dame.jpg
-  * Lantern Slide Series dates unknown. Publisher Seemann in Leipzig from 1861 until Allied bombing in December 1943 destroyed the firm's archives. Donor C.W. Howe obtained his Ph.D. in 1905, and was on faculty at Vanderbilt from 1927-1947. Howe died in 1960. His donated photos and lantern slides of France are all undated. His published works date to 1950; no dates or other evidence about his European travels exists in finding aid.
+  * Architectural portraits of medieval buildings often popularize restorations. When Victor Hugo made the Cathedral famous in his novel, Notre-Dame de Paris (1831), he described a building that had been badly damaged during the French Revolution.  It was restored in the mid-nineteenth-century by architects Eugène Emmanuel Viollet-le-Duc and Jean-Baptiste Lassus. The Gallery of Kings above the portals was battered by Revolutionaries but re-installed in pristine form during the restoration.
 * Image Title | [Gertrude Conaway Vanderbilt]
   * Filename: MS0468-P-Gertrude_Conaway_Vanderbilt-c1930.jpg
   * DESCRIPTION MISSING
@@ -156,20 +156,20 @@ the central library lobby on photography. Text is not yet finalized and is subje
   * DESCRIPTION MISSING
 * Image Title | [Erie Canal at Salina St., Syracuse NY]
   * Filename: MS0827-P-Erie_Canal-1900.jpg
-  * DESCRIPTION MISSING
+  * Built from 1817 to 1825, the 363-mile Erie Canal connected the Great Lakes with the Hudson River, making New York the Atlantic port for midwestern crops, meat, and goods.  The reduced shipping costs spurred New York’s economic explosion in the 1830s and allowed easy internal migration. Smaller Oswego Canal connects Erie Canal with Lake Ontario and the Erie Canal cuts through downtown Syracuse and continues to Buffalo on the shores of Lake Erie.
 * Image Title | [Palacio Del Gobierno General, Habana, Cuba]
   * Filename: MS0827-P-Havana_Cuba-1900.jpg
-  * DESCRIPTION MISSING
+  * Exotic foreign locations—Cuba, Buenos Aires, Moscow, Ceylon—formed part of the Detroit Photographic Company’s images.  Marketed as “absolutely permanent,” the company sold images across multiple formats as postcards, photochroms, and sets of lantern slides. Scenic and Architectural Views and Marine Views were sold in hand-colored and black-and-white formats, all “combin[ing] the truthfulness of a photograph with the color and richness of an oil painting.”
 * Image Title | [Sea Wall at Bald Head Cliff, York, Maine]
   * Filename: MS0827-P-Bald_Head_Cliff-1901.jpg
-  * DESCRIPTION MISSING
+  * Regular trains, overnight steamship service, and seaside hotels lured middle-class tourists from Boston, Philadelphia and New York to spend summertime in this southern Maine coastal town as early as 1875.  Besides walking cliff paths and “rusticating,” tourists explored historic towns popularized by local Sarah Orne Jewett in her novels of Maine.
 * Image Title | [Crevasse Formation in Illecillwaet Glacier, Selkirk Mountains, Alberta, Canada]
   * Filename: MS0827-P-Crevasse-1902.jpg
-  * DESCRIPTION MISSING
+  * The transcontinental Canadian Pacific Railway and great hotels the firm built changed how people saw the mountains. Once considered a barrier to progress, the mountains were now viewed by many as a major tourist attraction. Canadian Pacific Railway’s Glacier House Hotel opened near the glacier’s terminus in 1885. From the Swiss Guides working at the hotel to the photo exhibits and books, Glacier National Park in 1886, the mountains were promoted. Scientists like William H. Sherzer studied glaciers in British Columbia. His findings, including the causes of the glacier’s rich varied colors, were published in 1904 as a Smithsonian Expedition. The glacier’s name means “big water” in the Okangan language.
 * Image Title | [High Water Mark at Gettysburg, PA]
   * Filename: MS0827-P-Gettysburg-1903.jpg
-  * DESCRIPTION MISSING
-* Image Title | [Sheriff Jack Laxton administers oxygen to rescue worker Edker Hunnicutt,  overcome by poisonous gas, while his father, George, waits]
+  * The three day battle in 1863 produced the greatest bloodshed of the Civil War. Monuments, tours, and photos were produced rapidly to commemorate the fallen. The memorial cemetery opened in 1864. John Batchelder designed this 1892 monument and wrote Gettysburg: What to See and How to See It in 1873. In 1891, Pennsylvania railroad sold tourist packages in 1891 that included Gettysburg. In 1895, Gettysburg became a National Military Park with 600 acres and 320 monuments to Federal troops.
+* Image Title | [Sheriff Jack Laxton administers oxygen to rescue worker Edker Hunnicutt, overcome by poisonous gas, while his father, George, waits]
   * Filename: MS0774-Wounded-Miner-1968.jpg
   * After a methane gas and coal dust explosion May 24, 1965, Corn photographed rescue efforts and the disaster aftermath at Brimstone Mountain for _The Tennessean_. Five miners were killed, and the two-day rescue drew several hundred anxious spectators, family, and members of the press.
 * Image TItle | [Point Sublime, Colorado]
@@ -180,11 +180,11 @@ the central library lobby on photography. Text is not yet finalized and is subje
   * DESCRIPTION MISSING
 * Image Title | [Pike's Peak Avenue, Colorado]
   * Filename: MS0827-P-Pikes_Peak-1898.jpg
-  * DESCRIPTION MISSING
+  * In 1874, Congress debated civilian versus military control of the four western mapping surveys. Hayden’s Survey, mapping the western territories, joined the U.S. Department of the Interior.   Named for explorer Zebulon Pike, the area grew in the 1890s during the last gold rush in the continental U.S.  Katharine Lee Bates wrote the song "America the Beautiful" in 1893 after admiring the view from Pikes Peak.  At 14,115 feet, it is the highest summit of the southern Front Range of the Rockies.”
 * Image Title | [Passaic Falls, Patterson, New Jersey]
   * Filename: MS0827-P-Passaic_Falls-1902.jpg
-  * DESCRIPTION MISSING
+  * Images of natural landmarks were also part of the North American views published by the Detroit Photo Company. When New York was the nation’s capital, Alexander Hamilton picked Patterson as a site for an industrial city in 1792 based on the Passaic Falls' 77-foot drop which held great potential for powering textile production. By the 1880s, Patterson Mills produced almost half of all silk made in the U.S.
 * Image Title | [Gold of Ophir Roses Carmelita, Pasadena, California]
   * Filename: MS0827-P-Ophir_Roses-1902.jpg
-  * DESCRIPTION MISSING
+  * Like postcards, photochrom prints appealed to consumers as souvenirs of landscapes, tourist attractions, and idealized locales. Carmelita Garden in Pasadena showcased plants from around the world, all seen thriving in southern California’s mild weather. Started as an agricultural town, Pasadena became famous for its Tournament of Roses Parade begun in 1890 and held every year on New Year’s Day.
 
