@@ -202,8 +202,8 @@ the central library lobby on photography. Text is not yet finalized and is subje
   * Filename: MS0774-Amputee_Miner-1968.jpg 
   * Marlowe worked in the mines for twenty years before breaking his back in an accident in 1957.
 * Image Title | 
-* Filename: Nikon Camera P110.xml
-* DESCRIPTION MISSING
+  * Filename: Nikon Camera P110.xml
+  * DESCRIPTION MISSING
 
 
 
