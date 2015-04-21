@@ -45,15 +45,15 @@ upcoming exhibition held in the Music Library. Text is not yet finalized and is 
 * Image Title | Alan Lomax, Haiti: Recordings for the Library of Congress, 1936-1937
   * Filename: 20150417SG065.jpg
   * This sumptuous box set features remastered field recordings collected by Alan Lomax for the Library of Congress between 1936 and 1937. In addition to the recordings, the set includes facsimile reproductions of a tourist map with Lomax's annotations, his Haitian Diary, and a photograph.
- * Image Title | Introduction to Stereo
-   * Filename: 20150417SG044.jpg
-   * Stereo sound was introduced to the commercial market in 1958. This LP offers listeners a wide variety of selections designed to expose them to the full benefits of stereo, including orchstral works, works for organ, and even sound effects.
- * Image Title | Born in the U.S.A., Bruce Springsteen
-   * Filename: 20150417SG048.jpg
-   * XML RECORD MISSING ENTIRELY
- * Image Title | Poems
-   * Filename:
-   * XML RECORD MISSING ENTIRELY
- * Image Title | iPod Classic Music Player
-   * Filename: 20150417SG041.jpg
-   * XML RECORD MISSING ENTIRELY
+* Image Title | Introduction to Stereo
+  * Filename: 20150417SG044.jpg
+  * Stereo sound was introduced to the commercial market in 1958. This LP offers listeners a wide variety of selections designed to expose them to the full benefits of stereo, including orchstral works, works for organ, and even sound effects.
+* Image Title | Born in the U.S.A., Bruce Springsteen
+  * Filename: 20150417SG048.jpg
+  * XML RECORD MISSING ENTIRELY
+* Image Title | Poems
+  * Filename:
+  * XML RECORD MISSING ENTIRELY
+* Image Title | iPod Classic Music Player
+  * Filename: 20150417SG041.jpg
+  * XML RECORD MISSING ENTIRELY
