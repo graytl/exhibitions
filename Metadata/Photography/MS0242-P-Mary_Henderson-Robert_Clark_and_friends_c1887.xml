@@ -4,15 +4,6 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
     <work>
-        <agentSet>
-            <agent>
-                <name type="" vocab="" refid="">Unknown</name>
-                <dates>
-                    <earliestDate></earliestDate>
-                    <latestDate></latestDate>
-                </dates>
-            </agent>
-        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>1887</earliestDate>
@@ -20,12 +11,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>By 1880, middle class women enjoyed active new summer sports like archery and tennis.  While some players wore fine wool clothes called tuxedo suits, others dressed like Mary Henderson, Robert Clark and their friends.  One fan described tennis parties as “the highlight of society.” First played in Nahant, MA in 1874, tennis gained players quickly with 33 clubs in play by 1881.  Mary Henderson attended Boston’s Gannett Boarding School for two years after graduating from Knoxville High School.  </description>
+            <description>By 1880, middle class women enjoyed active new summer sports like archery and tennis. While some players wore fine wool clothes called tuxedo suits, others dressed like Mary Henderson, Robert Clark and their friends. One fan described tennis parties as “the highlight of society.” First played in Nahant, MA in 1874, tennis gained players quickly with 33 clubs in play by 1881. Mary Henderson attended Boston’s Gannett Boarding School for two years after graduating from Knoxville High School.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University Library</name>
-                <refid>Mss0332.233, "Kirkland and Henderson relatives"</refid>
+                <refid>MSS Collection 0332.233, "Kirkland and Henderson Relatives"</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,32 +26,32 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="">Tennis players--pictorial works</term>
+                <term vocab="LCSH" refid="sh 85133910">Tennis players--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Mary Henderson, Robert Clark and friends c1887 ]</title>
+            <title>[Mary Henderson, Robert Clark and Friends]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300127115">Card Photographs</worktype>
+            <worktype vocab="AAT" refid="300127115">Card photographs (photographs)</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015</earliestDate>
-                <latestDate>2015</latestDate>
+                <earliestDate>2015-03-18</earliestDate>
+                <latestDate>2015-03-18</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0242-P-Mary_Henderson-Robert_Clark_and_friends_c1887 </refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0242-P-Mary_Henderson-Robert_Clark_and_friends-c1887.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +60,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Image of [MS0242-P-Mary_Henderson-Robert_Clark_and_friends_c1887]</title>
+            <title>[Digital Image of Mary Henderson, Robert Clark and Friends]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
