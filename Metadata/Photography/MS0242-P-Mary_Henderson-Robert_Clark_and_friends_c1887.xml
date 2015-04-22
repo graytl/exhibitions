@@ -4,6 +4,15 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
     <work>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="LCNAF"/>
+                <dates>
+                    <earliestDate/>
+                    <latestDate/>
+                </dates>
+            </agent>
+        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>1887</earliestDate>
@@ -16,7 +25,7 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University Library</name>
-                <refid>MSS Collection 0332.233, "Kirkland and Henderson Relatives"</refid>
+                <refid>MSS Collection 0242, "Kirkland and Henderson Relatives"</refid>
             </location>
         </locationSet>
         <rightsSet>
