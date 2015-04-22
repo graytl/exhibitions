@@ -48,7 +48,6 @@
             </rights>
         </rightsSet>
         <subjectSet>
-                <display>The Beatles, Rock music--1961-1970</display>
             <subject>
                 <term vocab="LCSH" refid="sh 87003327">Rock music, 1961-1970--Specimens</term>
             </subject>
@@ -76,7 +75,7 @@
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid></refid>
+                <refid>20150417SG058.jpg</refid>
                 <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
@@ -86,7 +85,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of ...]</title>
+            <title>[Digital Reproduction of Sgt. Pepper's Lonely Hearts Club Band, Album Cover]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
