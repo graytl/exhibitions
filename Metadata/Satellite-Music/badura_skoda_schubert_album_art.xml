@@ -21,7 +21,7 @@
             </agent>
         </agentSet>
         <dateSet>
-            <display>Recorded in 1971.</display>
+            <display>Recorded in 1971</display>
             <date type="creation">
                 <earliestDate>1971</earliestDate>
                 <latestDate>1971</latestDate>
@@ -34,7 +34,7 @@
         <locationSet>
             <display>Vanderbilt University Library, Anne Potter Wilson Music Library. Issued by RCA Records, c1971.</display>
             <location type="repository">
-                <name type="corporate" vocab="LCNAF" refid="n81075875">Vanderbilt University Library</name>
+                <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
                 <name type="geographic" vocab="TGN" refid="7013959" extent="inhabited place">Nashville-Davidson</name>
                 <name type="geographic" vocab="TGN" refid="2001855" extent="county">Davidson</name>
                 <name type="geographic" vocab="TGN" refid="7007825" extent="state">Tennessee</name>
@@ -80,14 +80,14 @@
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+                <earliestDate>2015-04-20</earliestDate>
+                <latestDate>2015-04-20</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid></refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <refid>20150417SG045.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -96,7 +96,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of ...]</title>
+            <title>[Digital Reproduction of Schubert: The Complete Piano Sonatas, volume 4, Four Sonatas (1825-1826), Album Cover]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

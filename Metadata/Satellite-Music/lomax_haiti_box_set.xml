@@ -7,13 +7,13 @@
         <agentSet>
             <display>Alan Lomax, Elizabeth Lyttleton, Révolie Polinice</display>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n50039476">Lomax, Alan, 1915-2002</name>
+                <name type="personal" vocab="LCNAF" refid="n 50039476">Lomax, Alan, 1915-2002</name>
             </agent>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="no2001010523">Lyttleton, Elizabeth</name>
+                <name type="personal" vocab="LCNAF" refid="no 2001010523">Lyttleton, Elizabeth</name>
             </agent>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="no2010037508">Polinice, Révolie</name>
+                <name type="personal" vocab="LCNAF" refid="no 2010037508">Polinice, Révolie</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -31,7 +31,7 @@
         <locationSet>
             <display>Vanderbilt University Library, Anne Potter Wilson Music Library, published by Harte Recordings, San Francisco, CA.</display>
             <location type="repository">
-                <name type="corporate" vocab="LCNAF" refid="n81075875">Vanderbilt University Library</name>
+                <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
                 <name type="geographic" vocab="TGN" refid="7013959" extent="inhabited place">Nashville-Davidson</name>
                 <name type="geographic" vocab="TGN" refid="2001855" extent="county">Davidson</name>
                 <name type="geographic" vocab="TGN" refid="7007825" extent="state">Tennessee</name>
@@ -63,6 +63,36 @@
             <worktype vocab="AAT" refid="300265794">Field recordings</worktype>
         </worktypeSet>
     </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-04-20</earliestDate>
+                <latestDate>2015-04-20</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>20150417SG065.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[Digital Reproduction of Alan Lomax, Haiti: Recordings for the Library of Congress, 1936-1937]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
 </vra>
 
 

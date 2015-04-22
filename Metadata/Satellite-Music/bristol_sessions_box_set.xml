@@ -7,10 +7,10 @@
         <agentSet>
             <display>The Carter Family (musical group), Jimmie Rodgers (performer, 1897-1933), various other artists</display>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n81003300">Carter Family (Musical group)(</name>
+                <name type="corporate" vocab="LCNAF" refid="n 81003300">Carter Family (Musical group)</name>
             </agent>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n87824037">Rodgers, Jimmie, 1897-1933</name>
+                <name type="personal" vocab="LCNAF" refid="n 87824037">Rodgers, Jimmie, 1897-1933</name>
                 <dates>
                     <earliestDate>1897</earliestDate>
                     <latestDate>1933</latestDate>
@@ -31,7 +31,7 @@
         <locationSet>
             <display>Vanderbilt University Library, Anne Potter Wilson Music Library. Published by Bear Family Records, Hambergen, Germany, p2011. Recordings originally released as Victor and Bluebird 78 rpms.</display>
             <location type="repository">
-                <name type="corporate" vocab="LCNAF" refid="n81075875">Vanderbilt University Library</name>
+                <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
                 <name type="geographic" vocab="TGN" refid="7013959" extent="inhabited place">Nashville-Davidson</name>
                 <name type="geographic" vocab="TGN" refid="2001855" extent="county">Davidson</name>
                 <name type="geographic" vocab="TGN" refid="7007825" extent="state">Tennessee</name>
@@ -71,5 +71,35 @@
             <worktype vocab="AAT" refid=" 300028673">Compact discs</worktype>
         </worktypeSet>
     </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-04-20</earliestDate>
+                <latestDate>2015-04-20</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>20150417SG060.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title></title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
 </vra>
 
