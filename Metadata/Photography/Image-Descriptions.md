@@ -194,10 +194,10 @@ the central library lobby on photography. Text is not yet finalized and is subje
   *  "The people of Appalachia are a proud people. They were very open and honest with me, welcoming me into their homes and to their tables. They loved the beauty and solitude of the mountains. I understood their love of the land...Coal mining changed the landscape forever and the land was never again the same." Photojournalist Jack Corn captured a grandmother and her grandson near Logan, West Virginia.
 * Image Title | [Mrs. Helen Allread, Substitute Teacher at Crawford School]
   * Filename: MS0774-Classroom_stove-1968.jpg
-  * DESCRIPTION MISSING
+  * Students at this one-room school had recently gotten a hot lunch program, one of first such programs in Tennessee. This was the main meal for the day for some students.
 * Image Title | [Striking Miners Play Cards on the Picket Line at Brookside Mine, near Harlan, KY]
   * Filename:  MS0774-Cards_on_the_Hood-1968.jpg
-  * Striking miners play cards while on the picket line at Brookside Mine near Harlan, KY. Their 1972 dispute against Duke Power Co. over working conditions, wages, and labor practices inspired the award-winning documentary Harlan County, USA.
+  * The miners' 1972 dispute against Duke Power Co. over working conditions, wages, and labor practices inspired the award-winning documentary Harlan County, USA.
 * Image Title | [Ed Marlowe, Paralyzed from a Roof Fall in a Coal Mine]
   * Filename: MS0774-Amputee_Miner-1968.jpg 
   * Marlowe worked in the mines for twenty years before breaking his back in an accident in 1957.
