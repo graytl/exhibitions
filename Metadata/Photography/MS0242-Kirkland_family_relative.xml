@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1875</earliestDate>
+                <latestDate>1890</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>Although corsets are mythologized as sex objects today, in the 19th century, corsets were worn by all women who wanted their body shape to conform to the current style. By the 1880s, small round waists were equated with good breeding and gentility. This young woman wears her corset laced to an uncommonly small size. Today when a cellphone holds thousands of photos, it’s easy to forget that holding a loved one’s image in your hand was until recently, impossible for all but the wealthy.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>Mss0242, Box38, F11 "PH Arch/ Kirkland Family box, F "Kirkland and Henderson relatives"</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>Image made c. 1880 based on narrow waist.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="sh 85033068 ">Corsets--pictorial works</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85101240">Portrait photography--Specimens</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>{Kirkland Family Relative]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300127115">Card photographs (photographs)</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-03-18</earliestDate>
+                <latestDate>2015-03-18</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>MS0242-Kirkland_family_relative.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[Digital Reproduction of Kirkland_family_relative.jpg]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>
