@@ -6,10 +6,10 @@
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="79081610 ">Diderot, Denis, 1713-1784</name>
+                <name type="personal" vocab="LCNAF" refid="n 79081610">Diderot, Denis, 1713-1784</name>
                 <dates>
-                    <earliestDate>1713-10-05</earliestDate>
-                    <latestDate>1784-07-31</latestDate>
+                    <earliestDate>1713</earliestDate>
+                    <latestDate>1784</latestDate>
                 </dates>
             </agent>
         </agentSet>
