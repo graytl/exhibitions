@@ -42,55 +42,58 @@ the central library lobby on photography. Text is not yet finalized and is subje
 #### That Kodak Moment: Memory-Making (I)
 * Image Title | [Elizabeth Kirkland Merritt with her Nurse, Ida]
   * Filename: MS0242-P-Elizabeth_Kirkland_Merritt-Nurse_Ida-c1901.jpg
-  * DESCRIPTION MISSING
+  * American parents around 1900 faced issues familiar to parents today, including balancing their children’s needs with their own.  While we do not know much about Ida, we can see the affectionate gesture the little girl uses with her caregiver.  Elizabeth, the only child of James Kirkland, was born in 1898. In 1919, she graduated from Wellesley College. She married Benjamin D. Meritt soon after; the couple lived in New Jersey where Meritt taught at Princeton’s Institute for Advanced Study.
 * Image Title | [Louise and Willie Tarboux]
   * Filename: MS0242-P-Louise_and_Willie_Tarboux-1895.jpg
-  * Reverend John W. Tarboux served in Juis de Flora, Brazil as a Methodist missionary and later university president. Willie, his second son, died in 1911. Louise returned to the United States.
+  * Reverend John W. Tarboux worked in Brazil as a Methodist missionary and high school principal for 37 years. His wife Susan was James Kirkland’s sister. Willie, aged one, wears polka dots. His older sister wears a fancy bonnet. Juiz de Fora, a town in the Paraibuna Valley, 50 miles north of Rio in Minas Gerais, a state where mining companies expanded and the economy was booming. Brand’s studio opened December 31, 1889. Many Brazilian studios were run by Americans or Europeans.
 * Image Title | [Wells A. Henderson]
   * Filename: MS0242-P-WA_Henderson-c1890.jpg
-  * DESCRIPTION MISSING
+  * After the Civil War, William A. Henderson practiced law in Knoxville and served as a judge prior to joining Southern Railway in 1894 as assistant counsel. Living in Washington, D.C. and in Knoxville, he worked on the 1896-97 Tennessee Centennial Exposition Company and served as Vice President of Tennessee Historical Society. He visited one of Sol Young’s six studios in New York City possibly on a business trip.  He may have sent this image to his grandchildren in Tennessee and Georgia.
 * Image Title | [Gertrude Conaway Vanderbilt]
   * Filename: MS0468-P-Gertrude_Conaway_Vanderbilt-c1930.jpg
   * DESCRIPTION MISSING
 * Image Title | [Alva Vanderbilt]
   * Filename: MS0468-P-Boudoir_Hair-c1890-possibly_Alva_Vanderbilt.jpg
-  * DESCRIPTION MISSING
+  * Seen with her long hair down and wearing a loose wrapper, this woman, possibly Alva Vanderbilt, stares directly at the viewer/photographer. Is this room a boudoir? Her clothing and pose suggest that this is a private, relaxed moment, as does the paper print.
 * Image Title | [Vanderbilt University Adminstration]
   * Filename:  sc.mss.0332.178.jpg
-  * DESCRIPTION MISSING
-* Image Title | [Bachellor of Ugliness Philip H. Porter]
+  * Composite images like this one were an early form of Photoshop. Chancellor Kirkland is flanked by Registrar Mary W. Haggard, and Academic Bursar J.E. Hart. Medical Department Bursar A.E. Godwin completes the group.
+* Image Title | [Bachelor of Ugliness Philip H. Porter]
   * Filename: sc.mss.0332.238.jpg (not yet scanned) 
-  * DESCRIPTION MISSING
+  * University tradition describes this award as a contest for the most popular male student who represented “the ideal of young manhood.”  Elected by his peers, the Bachelor of Ugliness was first chosen on Founder’s Day in 1895. In 1898, writers at Phi Delta Theta magazine recalled the winner having the “strongest geographical faction”. Several Tennessee universities continue the tradition today.  More recent Vanderbilt Bachelors include John Edgerton and Perry Wallace.
 * Image Title | [James Kirkland]
   * Filename:  sc.mss.0332.223.jpg
-  * James Kirkland served as Vanderbilt's Chancellor from 1893 until 1937. While beloved for his many accomplishments, Chancellor Kirkland also enjoyed the fashions of the day as this photo composite suggests.
+  * James H. Kirkland studied grammar and literature in Leipzig in the 1880s, part of a wave of Americans earning degrees abroad.  He believed that study of bigger philosophical questions was important, not merely for career advancement, but for personal enjoyment. While Kirkland lived before Movember, the moustache fundraiser for men’s cancer, he appears to have stayed fond of the moustaches popular among men in the 1880s. James Kirkland served as Vanderbilt's second Chancellor from 1893 until 1937.
+* Image Title | [Kirkland Family Relative]
+  * Filename: MS0242-Kirkland_family_relative.jpg
+  * Although corsets are mythologized as sex objects today, in the 19th century, corsets were worn by all women who wanted their body shape to conform to the current style. By the 1880s, small round waists were equated with good breeding and gentility. This young woman wears her corset laced to an uncommonly small size. Today when a cellphone holds thousands of photos, it’s easy to forget that holding a loved one’s image in your hand was until recently, impossible for all but the wealthy.
 * Image Title | [Tennessee Centennial and International Exposition Postcard Auditorium and Ponte Rialto]
   * Filename: sc.mss.0123.171-B.jpg
-  * DESCRIPTION MISSING
+  * The six-month Tennessee Centennial attracted over one-and-a-half-million tourists to see the “Athens of the South.”  Despite extensive railway promotion, attendance was low due to an outbreak of Yellow Fever across the Gulf States. Like San Francisco's Palace of Fine Arts, Nashville's Parthenon was recreated in the 1920s, becoming a landmark.  Souvenirs like these circulated widely in the United States after expositions in Philadelphia (1876) and Chicago (1893).
 * Image Title | [Tennessee Centennial and International Exposition Postcard Parthenon]
   * Filename: sc.mss.0123.171-A.jpg
-  * DESCRIPTION MISSING
+  * The six-month Tennessee Centennial attracted over one-and-a-half-million tourists to see the “Athens of the South.”  Despite extensive railway promotion, attendance was low due to an outbreak of Yellow Fever across the Gulf States. Like San Francisco's Palace of Fine Arts, Nashville's Parthenon was recreated in the 1920s, becoming a landmark.  Souvenirs like these circulated widely in the United States after expositions in Philadelphia (1876) and Chicago (1893).
 * Image Title | [Tennessee Centennial and International Exposition Postcard Main Entrance Gate]
   * Filename:  sc.mss.0123.166.jpg
-  * International expositions like the six-month Tennessee Centennial attracted thousands of tourists from across the country.  Like San Francisco's Palace of Fine Arts (1915) and New York's Trylon and Perisphere (1939), Nashville's Parthenon survived the event to become a beloved landmark.  Popular photo postcards like these circulated widely in the United States after the Philadelphia Centennial Exposition.
+  * The six-month Tennessee Centennial attracted over one-and-a-half-million tourists to see the “Athens of the South.”  Despite extensive railway promotion, attendance was low due to an outbreak of Yellow Fever across the Gulf States. Like San Francisco's Palace of Fine Arts, Nashville's Parthenon was recreated in the 1920s, becoming a landmark.  Souvenirs like these circulated widely in the United States after expositions in Philadelphia (1876) and Chicago (1893).
 * Image Title | [Tennessee Centennial and International Exposition Souvenir Cuff Links]
   * Filename: MS0123-P-Centennial_Cufflinks-1897.jpg
   * The six-month Tennessee Centennial attracted over one-and-a-half-million tourists to see the “Athens of the South.”  Despite extensive railway promotion by W.A. Henderson and other railroad executives, attendance was low due to an outbreak of Yellow Fever across the Gulf States. Like San Francisco's Palace of Fine Arts, Nashville's Parthenon was recreated in the 1920s. Souvenirs like these circulated widely in the United States after expositions in Philadelphia (1876) and in Chicago.
 * Image Title | [Becky, Grandma Henderson's Cook]
   * Filename: MS0242-P-Becky-Grandma_Henderson's_Cook-1890.jpg
-  * DESCRIPTION MISSING
+  * Weiser’s four studios across downtown Knoxville catered to the residents of a booming industrial and violent city in the early 1900s. Railroad expansion after the Civil War connected Eastern Tennessee with the rest of the South, bringing Welsh, Swiss and other immigrants. Becky’s large sleeves and the studio’s address on W. Clinch Street  date this photo to about 1896, when the William Henderson and his wife Harriet would have been busy with plans of the Tennessee Centennial Exposition.
 * Image Title | [Mary Henderson Kirkland]
   * Filename: MS0242-P-Mary_Henderson_Kirkland-1914.jpg
-  * DESCRIPTION MISSING
+  * Did the Kodak camera make it possible to record emotion? Photographers could capture emotions easily with shorter exposure times with Kodak film cameras introduced in 1888. The subsequent craze for smiling images taken outdoors prompted one can be summed up in relaxed images like this one of Mary Henderson, c. 1910, on holiday abroad. Just as we snap and share selfies today, our great-grandparents took huge numbers of photos, made albums and sent their favorites to friends and family.
 * Image Title | [Mary Henderson Kirkland, Robert Clark and Friends, Pictured with Tennis Rackets]
   * Filename: MS0242-P-Mary_Henderson-Robert_Clark_and_friends-c1887.jpg
   * DESCRIPTION MISSING
 * Image Title | [Harriet Elizabeth Smiley Henderson]
   * Filename: MS0242-P-Harriet_Eliza_Smiley(Henderson)-c1860.jpg
-  * DESCRIPTION MISSING
+  * Harriet Smiley was born in Vermont in 1838; her family included Revolutionary war officer Col. John Barrett. She graduated from the Knoxville Female Academy and married William Henderson in November 1866.  Harriet’s fashionable dress dates this image to the early 1860s. She may have intended her portrait for William to carry with him while he fought in the war. The Hendersons were married 55 years. Their daughters Mary and Anna, born in 1867 and 1869, trained in Boston and Berlin as accomplished musicians.
 * Image Title | [Grandpa Henderson in his Confederate Uniform]
   * Filename: MS0242-P-Grandpa_Henderson-Confederate_Uniform-c1860.xml
-  * DESCRIPTION MISSING
+  * William Henderson served the CSA as Aid-de-Camp on staff of Brigadier-General Leadbetter and later Major-General Heth.  Wounded at Petersburg, he was captured and spent four months prisoner in Washington and upstate New York.  He rejoined his former regiment in the ranks and surrendered at Appomattox.  A successful attorney in Knoxville, Henderson’s portrait from the 1890s is also in the exhibit.
 * Image Title | [Harold Stirling Vanderbilt and Gertrude Conaway Vanderbilt]
   * Filename: MS0468-P-Harold_Stirling_and_Gertrude_Conaway_Vanderbilt-c1935.jpg
   * DESCRIPTION MISSING
