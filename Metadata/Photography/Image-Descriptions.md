@@ -75,7 +75,7 @@ the central library lobby on photography. Text is not yet finalized and is subje
   * International expositions like the six-month Tennessee Centennial attracted thousands of tourists from across the country.  Like San Francisco's Palace of Fine Arts (1915) and New York's Trylon and Perisphere (1939), Nashville's Parthenon survived the event to become a beloved landmark.  Popular photo postcards like these circulated widely in the United States after the Philadelphia Centennial Exposition.
 * Image Title | [Tennessee Centennial and International Exposition Souvenir Cuff Links]
   * Filename: MS0123-P-Centennial_Cufflinks-1897.jpg
-  * DESCRIPTION MISSING
+  * The six-month Tennessee Centennial attracted over one-and-a-half-million tourists to see the “Athens of the South.”  Despite extensive railway promotion by W.A. Henderson and other railroad executives, attendance was low due to an outbreak of Yellow Fever across the Gulf States. Like San Francisco's Palace of Fine Arts, Nashville's Parthenon was recreated in the 1920s. Souvenirs like these circulated widely in the United States after expositions in Philadelphia (1876) and in Chicago.
 * Image Title | [Becky, Grandma Henderson's Cook]
   * Filename: MS0242-P-Becky-Grandma_Henderson's_Cook-1890.jpg
   * DESCRIPTION MISSING
