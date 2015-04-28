@@ -22,16 +22,13 @@ the central library lobby on photography. Text is not yet finalized and is subje
   * Goodpasture studied medicine at Johns Hopkins University, earning his M.D. in 1912. He became interested in vaccines working at Chelsea Naval Hospital’s pathology lab during the 1918 influenza epidemic. In 1925, Goodpasture arrived at Vanderbilt as part of the move to modernize medical education in the South. He discovered how to culture vaccines in fertile hen’s eggs.  This discovery made possible effective, cheap vaccines for influenza, small pox and other diseases.
 * Image Title | [Lt. Kennon's Moustache and Lesser Objects]
   * Filename: Eskind_VUMC-Lt.Kennon-1917.jpg
-  * Dr. William G. Kennon specialized in surgery of the eye, ear, nose and throat. Vanderbilt and other medical schools recruited doctors and nurses to assist the American Expeditionary Force in France after the U.S. joined the war in 1917. One of 12 doctors from Vanderbilt, Kennon worked with Nashville-area nurses and enlisted men at Vanderbilt Hospital Units in Nevers, central France. In contrast to the formal portraits, this image shows the photographer’s sense of humor.
+  * Dr. William G. Kennon specialized in surgery of the eye, ear, nose and throat. Vanderbilt and other medical schools recruited doctors and nurses to assist the American Expeditionary Force in France after the U.S. joined the war in 1917. One of 12 doctors from Vanderbilt, Kennon worked with Nashville-area nurses and enlisted men at Vanderbilt Hospital Unit S in Nevers, central France. In contrast to the formal portraits, this image shows the photographer’s sense of humor.
 * Image Title | [William Gunter, Jr. autopsy technician and photographer]
   * Filename: Eskind_VUMC-W_Gunter-scrapbook.jpg
   * Gunter was an autopsy technician in the Department of Pathology, as well as a skilled photographer praised by Goodpasture for his work for Pathology and other departments.  Bill’s brother Albert and his father Bill Sr., both worked in Pathology as assistants or deaners.
 * Image Title | [Rapid Transit in France]
   * Filename: Eskind_VUMC-Transit_in_France-1918.jpg
-  * DESCRIPTION MISSING
-* Image Title | [Lt. Kennon's Moustache and Lesser objects]
-  * Filename: Eskind_VUMC-Lt.Kennon-1917.jpg
-  * DESCRIPTION MISSING
+  * The unknown photographer may have been part of the medical staff serving at Camp Hospital 28 with the Vanderbilt unit.
 * Image Title | [Officers' and Nurses' Mess, Camp Hospital 28, Nevers, France 1918]
   * Filename: Eskind_VUMC-WW1-Hospital_Mess-1918.jpg
   * The American Expeditionary Forces depended upon regular train service, and hospitals were positioned near major railroad junctions. Nevers, 150 miles south of Paris, was a central supply depot for matériel, veterinary hospitals, and hospitals.   Officers at front table include left to right: Dr. Witt, Unknown, Dr. Dixon, Dr. McKinney, Dr. McCabe. One officer recalled “we had over 17,000 shattered bones to mend, over 3,500 arms and legs to amputate, and 20 times that many to save.”
@@ -87,7 +84,7 @@ the central library lobby on photography. Text is not yet finalized and is subje
   * Did the Kodak camera make it possible to record emotion? Photographers could capture emotions easily with shorter exposure times with Kodak film cameras introduced in 1888. The subsequent craze for smiling images taken outdoors prompted one can be summed up in relaxed images like this one of Mary Henderson, c. 1910, on holiday abroad. Just as we snap and share selfies today, our great-grandparents took huge numbers of photos, made albums and sent their favorites to friends and family.
 * Image Title | [Mary Henderson Kirkland, Robert Clark and Friends, Pictured with Tennis Rackets]
   * Filename: MS0242-P-Mary_Henderson-Robert_Clark_and_friends-c1887.jpg
-  * DESCRIPTION MISSING
+  * By 1880, middle class women enjoyed active new summer sports like archery and tennis. While some players wore fine wool clothes called tuxedo suits, others dressed like Mary Henderson, Robert Clark and their friends. One fan described tennis parties as “the highlight of society.” First played in Nahant, MA in 1874, tennis gained players quickly with 33 clubs in play by 1881. Mary Henderson attended Boston’s Gannett Boarding School for two years after graduating from Knoxville High School.
 * Image Title | [Harriet Elizabeth Smiley Henderson]
   * Filename: MS0242-P-Harriet_Eliza_Smiley(Henderson)-c1860.jpg
   * Harriet Smiley was born in Vermont in 1838; her family included Revolutionary war officer Col. John Barrett. She graduated from the Knoxville Female Academy and married William Henderson in November 1866.  Harriet’s fashionable dress dates this image to the early 1860s. She may have intended her portrait for William to carry with him while he fought in the war. The Hendersons were married 55 years. Their daughters Mary and Anna, born in 1867 and 1869, trained in Boston and Berlin as accomplished musicians.
