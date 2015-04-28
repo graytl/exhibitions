@@ -159,8 +159,8 @@ the central library lobby on photography. Text is not yet finalized and is subje
   * Filename: MS0546-P-97-Conger-1901.jpg
   * Ambassador Edwin H. Conger and his family, with civilians from eleven western diplomatic legations and over 2,500 Chinese Christians were besieged in the embassy district for 54 days in summer 1900. Protesting against western, Christian intrusions in their country, the Society of Righteous and Harmonious Fists (Boxers) fought with the Qing Empress and an estimated 40,000 Manchu troops to remove foreigners. Conger lived, though like many, suffered long term health effects from their experiences.
 * Image Title | Stereoscope
-  * Filename: Stereoscope.xml
-  * DESCRIPTION MISSING
+  * Filename: 20150417SG014.jpg
+  * Hugely popular in schools and homes from the 1880s through the 1920s, stereoscopes were viewed with a hand-held viewer. By combining two nearly-identical images the experience mimicked a 3-D reality. One guide noted “The making of stereoscopic pictures is one of the most lucrative departments of photography, and the number and variety of subjects everywhere…make a collection of endless extent and beauty." Underwood &amp; Underwood produced over 3 million stereocards in 40 years.
 
 #### 19th Century YouTube
 * Image Title | [Barnard Leaning against Telescope at Lick Observatory, Mt. Hamilton, CA]
