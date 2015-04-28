@@ -204,9 +204,9 @@ the central library lobby on photography. Text is not yet finalized and is subje
 * Image Title | [Ed Marlowe, Paralyzed from a Roof Fall in a Coal Mine]
   * Filename: MS0774-Amputee_Miner-1968.jpg 
   * Marlowe worked in the mines for twenty years before breaking his back in an accident in 1957.
-* Image Title | 
-  * Filename: Nikon Camera P110.xml
-  * DESCRIPTION MISSING
+* Image Title | [Jack Corn's Nikon Camera]
+  * Filename: FreedomPress_Camera_12.jpg
+  * Jack Corn described his work as dependent on lighting conditions: “No matter how much talent a Professional photographer has, one keeper, i.e. a good photograph, per one roll of film is a good harvest.” He made these images from 1956 to 1979 in Appalachian towns while staff photographer for The Tennessean newspaper in Nashville, and for the Documerica project, photographing environmental damage in coal fields. Corn was Photojournalist in Residence at Western Kentucky University from 1977 to 1984.
 
 
 
