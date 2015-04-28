@@ -24,7 +24,7 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local" refid="">Vanderbilt University. W.T. Bandy Center for Modern French Studies</name>
+                <name type="corporate" vocab="LCNAF" refid="n 80042428">W.T. Bandy Center for Baudelaire Studies</name>
                 <refid>Morris Wachs Collection/AE25 .E555 1751a</refid>
             </location>
         </locationSet>
@@ -41,23 +41,20 @@ contact@imprimerienationale.fr</text>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="85117836">Encyclopédie</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="85043011">Encyclopedias and dictionaries, French</term>
+                <term vocab="LCSH" refid="sh 85043011">Encyclopedias and dictionaries, French--Specimens</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Encyclopédie. Prospectus. Encyclopédie, ou Dictionnaire Raisonné des Sciences, des Arts et des Métiers: Dix Volumes In-folio dont Deux de Planches en Taille-douce, Proposés par Souscription / Recueilli des Meilleurs Auteurs et Particulierement des Dictionnaires Anglois de Chambers, D'Harris, de Dyche, &amp;c. par une Société de Gens de Lettres ; Mis en Ordre et Publié par M. Diderot ; &amp; quant à la Partie Mathématique, par M. d'Alembert  </title>
+            <title>Encyclopédie, ou Dictionnaire raisonné des sciences, des arts et des métiers : dix volumes in-folio dont deux de planches en taille-douce, proposés par souscription</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300129439   	 ">encyclopedias</worktype>
+            <worktype vocab="AAT" refid="300129439">Encyclopedias</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -67,9 +64,9 @@ contact@imprimerienationale.fr</text>
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid/>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>Encyclopedie_Prospectus-Diderot-1751.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -78,7 +75,37 @@ contact@imprimerienationale.fr</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Encyclopedie_Prospectus-Diderot-1751.jpg</title>
+            <title>[Digital Reproduction of Encyclopédie, ou Dictionnaire raisonné des sciences, des arts et des métiers : dix volumes in-folio dont deux de planches en taille-douce, proposés par souscription,image 1]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate></earliestDate>
+                <latestDate></latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid></refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[Digital Reproduction of Encyclopédie, ou Dictionnaire raisonné des sciences, des arts et des métiers : dix volumes in-folio dont deux de planches en taille-douce, proposés par souscription, image 2]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
