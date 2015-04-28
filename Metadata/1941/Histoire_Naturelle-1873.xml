@@ -6,10 +6,10 @@
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="50041361 ">Buffon, Georges Louis Leclerc, comte de, 1707-1788</name>
+                <name type="personal" vocab="LCNAF" refid="n 50041361">Buffon, Georges Louis Leclerc, comte de, 1707-1788</name>
                 <dates>
-                    <earliestDate>1707-09-07</earliestDate>
-                    <latestDate>1788-04-16</latestDate>
+                    <earliestDate>1707</earliestDate>
+                    <latestDate>1788</latestDate>
                 </dates>
             </agent>
         </agentSet>
@@ -20,11 +20,11 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>George Louis Buffon's  Histoire Naturelle was an undertaking on the scale of Diderot and D'Alembert's Encyclopedie.  The Historie broke ground in scientific thought, rejecting God's intervention in nature and theorizing that the Earth was much older than previously thought.  Animals were the result of spontaneous generation rather than divine creation and they changed as they migrated.  In “The Table of the Order of Dogs,” Buffon creates a genealogy for dogs coming from four main branches.</description>
+            <description>George Louis Buffon's Histoire Naturelle was an undertaking on the scale of Diderot and D'Alembert's Encyclopedie. The Historie broke ground in scientific thought, rejecting God's intervention in nature and theorizing that the Earth was much older than previously thought. Animals were the result of spontaneous generation rather than divine creation and they changed as they migrated. In “The Table of the Order of Dogs,” Buffon creates a genealogy for dogs coming from four main branches.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local" refid="">Vanderbilt University. Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
                 <refid>Science/570 B92h</refid>
             </location>
         </locationSet>
@@ -35,20 +35,20 @@
         </rightsSet>
         <subjectSet>
                <subject>
-                <term vocab="LCSH" refid="85043011">Encyclopedias and dictionaries, French</term>
+                <term vocab="LCSH" refid="sh 85043011">Encyclopedias and dictionaries, French--Specimens</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Histoire Naturelle, Générale et Particulière </title>
+            <title>Histoire Naturelle, Générale et Particulière</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300129439   	 ">encyclopedias</worktype>
+            <worktype vocab="AAT" refid="300129439">encyclopedias</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +58,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid/>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
