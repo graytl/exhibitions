@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!---->
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF">Robert Lupton</name>
+                <dates>
+                    <earliestDate>unknown</earliestDate>
+                    <latestDate>unknown</latestDate>
+                </dates>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="no2004108374">Sloan Digital Sky Survey Collaboration</name>
+                <dates>
+                    <earliestDate>2008</earliestDate>
+                    <latestDate>2014</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2008</earliestDate>
+                <latestDate>2014</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>This image shows the central region of the Perseus cluster, which contains hundreds of galaxies, even more invisible dark matter, and is one of the most massive objects in the universe.  The image was taken using the 2.5 meter telescope at Apache Point Observatory (NM) and is part of the Sloan Digital Sky Survey, of which Vanderbilt is a partner institution.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="LCSH" refid="no2004108374">Sloan Digital Sky Survey</name>
+                <refid>SDSS-caps-72dpi.jpg</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="other">
+                <text>SDSS III (see photomark on jpg) dates to 2008-2014, per SDSS webpage, http://classic.sdss.org/.
+Source's preferred credit is: Robert Lupton and the Sloan Digital Sky Survey Collaboration,www.sdss.org
+Lupton's email is rhl@astro.princeton.edu
+Permission from Dr. Andreas Berlind, Department of Physics, Vanderbilt.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="no2004108374">Sloan Digital Sky Survey</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>[Hundreds of galaxies in the Perseus Cluster from the Sloan Digital Sky Survey]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300134468"> astrophotographs </worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-04-15</earliestDate>
+                <latestDate>2015-04-15</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>SDSS-caps-72dpi.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[Digital Reproduction of SDSS galaxy map]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>
