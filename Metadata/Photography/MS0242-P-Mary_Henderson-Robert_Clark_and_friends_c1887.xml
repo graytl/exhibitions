@@ -4,15 +4,6 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
     <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF"/>
-                <dates>
-                    <earliestDate/>
-                    <latestDate/>
-                </dates>
-            </agent>
-        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>1887</earliestDate>
@@ -24,7 +15,7 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University Library</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
                 <refid>MSS Collection 0242, "Kirkland and Henderson Relatives"</refid>
             </location>
         </locationSet>
@@ -69,7 +60,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Image of Mary Henderson, Robert Clark and Friends]</title>
+            <title>[Digital Reproduction of Mary Henderson, Robert Clark and Friends]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
