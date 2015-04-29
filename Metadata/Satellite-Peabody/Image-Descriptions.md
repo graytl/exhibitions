@@ -16,9 +16,9 @@ upcoming exhibition held in the Peabody Library. Text is not yet finalized and i
 * Image Title | Henry's Freedom Box
   * Filename: PC-Henry's_Freedom_Box-Levine_Nelson-2007.jpg
   * The depiction of slavery in children's literature evolved throughout the 20th century. In Henry's Freedom Box, Henry, a southern slave, enlists the help of a White abolitionist, Dr. Smith, to help him reach freedom in the North.
-* Image Title | 
-  * Filename:
-  * 
-* Image Title | 
-  * Filename: 
-  * 
+* Image Title | Pedro, the Angel of Olvera Street
+  * Filename: PC-Pedro_El_Angel_de_la_Calle_Olvera-1961.jpg
+  * Inspired by the residents of downtown Los Angeles, Leo Politi created the character of Pedro, the Angel of Olvera Street.  Politi's book portrays the Mexican American culture which influenced his own development as an artist.
+* Image Title | Muhammad
+  * Filename: PC-Muhammad-Demi-2003-A.jpg; PC-Muhammad-Demi-2003-B.jpg
+  * Unlike the depiction of Jesus Christ, a figure portrayed frequently in children's literature, this is the first time the Prophet Muhammad has been depicted in a children's book.  Respecting the Islamic tradition of never portraying the prophet with a body and face, Demi shares the story of Muhammad in a manner that is both informative and respectful.
