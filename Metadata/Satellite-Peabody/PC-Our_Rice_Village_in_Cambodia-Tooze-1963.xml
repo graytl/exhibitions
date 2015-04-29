@@ -30,15 +30,14 @@
             <description>A pioneer in depicting multiculturalism in children's literature, Ezra Jack Keats provided the illustrations to this story about the everyday life of a young boy and his family in Cambodia.  This book was released shortly after Keats' groundbreaking, Caldecott Award winning book, The Snowy Day.  The publication of this book coincides with the U.S. military's involvement in Southeast Asia.</description>
         </descriptionSet>
         <locationSet>
-            <location type="other">
-                <name type="other" vocab="local">Peabody Library</name>
+            <location type="repository">
+                <name type="corporate" vocab="local">Peabody Library</name>
                 <refid>PZ9 .T557 Ou</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>©1963 Ruth Tooze &amp; Ezra Jack Keats
-</text>
+                <text>©1963 Ruth Tooze and Ezra Jack Keats</text>
             </rights>
         </rightsSet>
         <subjectSet>
@@ -47,16 +46,16 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Our rice village in Cambodia</title>
+            <title>Our Rice Village in Cambodia</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300028051">Books</worktype>
+            <worktype vocab="AAT" refid="300343403">Children's books</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -66,9 +65,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>PC-Our_Rice_Village_in_Cambodia-Tooze-1963.jpg</refid>
-                <name type="other" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -77,7 +76,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of Our Rice Village in Cambodia--Pages 8&amp;9]</title>
+            <title>[Digital Reproduction of Our Rice Village in Cambodia, Pages 8-9]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

@@ -3,17 +3,18 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n87126919">Levine, Ellen</name>
+                <name type="personal" vocab="LCNAF" refid="n 87126919">Levine, Ellen</name>
                 <dates>
                     <earliestDate>1939</earliestDate>
                     <latestDate>2012</latestDate>
                 </dates>
             </agent>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n98108301">Nelson, Kadir</name>
+                <name type="personal" vocab="LCNAF" refid="n 98108301">Nelson, Kadir</name>
                 <dates>
                     <earliestDate>1974</earliestDate>
                     <latestDate>present</latestDate>
@@ -27,7 +28,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>The depiction of slavery in children's literature evolved throughout the 20th century.  In Henry's Freedom Box, Henry, a southern slave, enlists the help of a white abolitionist, Dr. Smith, to help him reach freedom in the north.</description>
+            <description>The depiction of slavery in children's literature evolved throughout the 20th century. In Henry's Freedom Box, Henry, a southern slave, enlists the help of a White abolitionist, Dr. Smith, to help him reach freedom in the North.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
@@ -37,26 +38,34 @@
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>©2007 Ellen Levine
-©2007 Kadir Nelson Illustrations</text>
+                <text>©2007 Ellen Levine; ©2007 Kadir Nelson Illustrations</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="" refid=""></term>
+                <term vocab="LCNAF" refid="n 2014029210">Brown, Henry Box, 1815 or 1816---Fiction</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh2008111718">Slavery--Fiction</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh2007100196">African Americans--Fiction</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh2010117325">Underground Railroad--Fiction</term>
             </subject>
         </subjectSet>
         <titleSet>
             <title>Henry's Freedom Box</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300028051">Books</worktype>
+            <worktype vocab="AAT" refid="300343403">Children's books</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -66,9 +75,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>PC-Henry's_Freedom_Box-Levine_Nelson-2007.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -77,7 +86,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of Henry's Freedom Box--Pages 23&amp;24]</title>
+            <title>[Digital Reproduction of Henry's Freedom Box, Pages 23-24]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
