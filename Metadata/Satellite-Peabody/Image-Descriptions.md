@@ -13,3 +13,12 @@ upcoming exhibition held in the Peabody Library. Text is not yet finalized and i
 * Image Title | Japanese Tales and Legends
   * Filename: PC-Japanese_Tales_and_Legends-McAlpine-1959-01.jpg; PC-Japanese_Tales_and_Legends-McAlpine-1959-01.jpg
   * Joan Kiddell-Monroe's beautiful illustrations accompany a collection of Japanese folktales compiled and translated by Helen and William McAlpine for Oxford University Press. Kiddell-Monroe's illustrations emulate the style and technique of traditional Japanese art.
+* Image Title | Henry's Freedom Box
+  * Filename: PC-Henry's_Freedom_Box-Levine_Nelson-2007.jpg
+  * The depiction of slavery in children's literature evolved throughout the 20th century. In Henry's Freedom Box, Henry, a southern slave, enlists the help of a White abolitionist, Dr. Smith, to help him reach freedom in the North.
+* Image Title | 
+  * Filename:
+  * 
+* Image Title | 
+  * Filename: 
+  * 
