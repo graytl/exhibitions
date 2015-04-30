@@ -3,14 +3,20 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
                 <name type="personal" vocab="LCNAF" refid="n 88297214">Handforth, Thomas, 1897-1948</name>
+                <role>Author</role>
                 <dates>
                     <earliestDate>1897</earliestDate>
                     <latestDate>1948</latestDate>
                 </dates>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 86011611">Doubleday, Doran &amp; Company</name>
+                <role>Publisher</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -24,7 +30,7 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="other" vocab="local">Peabody Library</name>
+                <name type="corporate" vocab="local">Peabody Library</name>
                 <refid>PZ7 .H192 Me 1938</refid>
             </location>
         </locationSet>
@@ -69,7 +75,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Mei Li, Pages13 &amp; 14]</title>
+            <title>[Digital Reproduction of Mei Li, Pages 13-14]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -99,7 +105,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of Mei Li, Pages 23 &amp; 24]</title>
+            <title>[Digital reproduction of Mei Li, Pages 23-24]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

@@ -20,6 +20,10 @@
                     <latestDate>present</latestDate>
                 </dates>
             </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="no2005078346">Scholastic Press</name>
+                <role>Publisher</role>
+            </agent>
         </agentSet>
         <dateSet>
             <date type="publication">

@@ -8,16 +8,23 @@
         <agentSet>
             <agent>
                 <name type="personal" vocab="LCNAF" refid="n 2002032520">McAlpine, Helen</name>
+                <role>Author</role>
             </agent>
             <agent>
                 <name type="personal" vocab="LCNAF" refid="n 2002032521">McAlpine, William</name>
+                <role>Author</role>
             </agent>
             <agent>
                 <name type="personal" vocab="LCNAF" refid="n 50048843">Kiddell-Monroe, Joan</name>
+                <role>Illustrator</role>
                 <dates>
                     <earliestDate>1908</earliestDate>
                     <latestDate>1972</latestDate>
                 </dates>
+            </agent>
+            <agent>
+                <name type="" vocab="local">Henry Z. Walck</name>
+                <role>Publisher</role>
             </agent>
         </agentSet>
         <dateSet>

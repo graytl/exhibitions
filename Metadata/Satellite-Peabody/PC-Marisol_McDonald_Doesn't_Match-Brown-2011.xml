@@ -8,6 +8,7 @@
         <agentSet>
             <agent>
                 <name type="personal" vocab="LCNAF" refid="n2001094016">Brown, Monica, 1969-</name>
+                <role>Author</role>
                 <dates>
                     <earliestDate>1969</earliestDate>
                     <latestDate>present</latestDate>
@@ -15,10 +16,19 @@
             </agent>
             <agent>
                 <name type="personal" vocab="LCNAF" refid="n2011029799">Palacios, Sara</name>
+                <role>Illustrator</role>
                 <dates>
                     <earliestDate>2011</earliestDate>
                     <latestDate>present</latestDate>
                 </dates>
+            </agent>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n 2002028106">Domínguez, Adriana</name>
+                <role>Translator</role>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="local">Children's Book Press</name>
+                <role>Publisher</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -28,28 +38,33 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Marisol McDonald is no ordinary girl.  She has brown skin, red hair, and is a soccer-playing pirate- princess.  As a biracial child with a diverse group of friend, Marisol is truly a modern day American kid.</description>
+            <description>Marisol McDonald is no ordinary girl. She has brown skin, red hair, and is a soccer-playing pirate- princess. As a biracial child with a diverse group of friends, Marisol is truly a modern day American kid.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="other" vocab="local">Peabody Library</name>
+                <name type="corporate" vocab="local">Peabody Library</name>
                 <refid>PZ73 .B68564 2011</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>©2011 Monica Brown
-©2011 Sara Palacios Illustrations</text>
+                <text>©2011 Monica Brown; ©2011 Sara Palacios Illustrations</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="" refid=""></term>
+                <term vocab="LCSH" refid="sh 85065690">Individuality in children--Fiction</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh2008105644">Hispanic Americans--Fiction</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh2008110346">Racially mixed people--Fiction</term>
             </subject>
         </subjectSet>
         <titleSet>
             <title pref="true" >Marisol McDonald Doesn't Match</title>
-            <title>Marisol McDonald No Combina</title>
+            <title pref="false">Marisol McDonald No Combina</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300343403">Children's books</worktype>
