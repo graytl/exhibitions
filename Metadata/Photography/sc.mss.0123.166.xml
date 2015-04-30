@@ -5,48 +5,36 @@
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
     <!-- HAS BEEN EDITED -->
     <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 50021396">Politi, Leo, 1908-1996</name>
-                <dates>
-                    <earliestDate>1908</earliestDate>
-                    <latestDate>1996</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
         <dateSet>
-            <date type="publication">
-                <earliestDate>1946</earliestDate>
-                <latestDate>1961</latestDate>
+            <date type="creation">
+                <earliestDate>1897</earliestDate>
+                <latestDate>1897</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Inspired by the residents of downtown Los Angeles, Leo Politi created the character of Pedro, the Angel of Olvera Street.  Politi's book portrays the Mexican American culture which influenced his own development as an artist.</description>
+            <description>The six-month Tennessee Centennial attracted over one-and-a-half-million tourists to see the “Athens of the South.”  Despite extensive railway promotion, attendance was low due to an outbreak of Yellow Fever across the Gulf States. Like San Francisco's Palace of Fine Arts, Nashville's Parthenon was recreated in the 1920s, becoming a landmark.  Souvenirs like these circulated widely in the United States after expositions in Philadelphia (1876) and Chicago (1893).</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="other" vocab="local">Peabody Library</name>
-                <refid>PZ7 .P753 Pe 1946</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS Collection 0123, Box 166</refid>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="copyrighted">
-                <text>©1961 Leo Politi</text>
+            <rights type="publicDomain">
+                <text>Image dates to 1897.</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh 85025320">Christmas stories</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85084534">Mexicans--United States--Fiction</term>
+                <term vocab="LCSH" refid="no 98125557">Tennessee Centennial and International Exposition (1897 : Nashville, Tenn.)--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Pedro, the Angel of Olvera Street</title>
+            <title>[Tennessee Centennial and International Exposition Postcard Main Entrance Gate]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300343403">Children's books</worktype>
+            <worktype vocab="AAT" refid="300192703">Photographic postcards</worktype>
         </worktypeSet>
     </work>
     <image>
@@ -57,13 +45,13 @@
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015-03-16</earliestDate>
-                <latestDate>2015-03-16</latestDate>
+                <earliestDate>2015-03-20</earliestDate>
+                <latestDate>2015-03-20</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>PC-Pedro_El_Angel_de_la_Calle_Olvera-1961.jpg</refid>
+                <refid>sc.mss.0123.166.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
@@ -73,7 +61,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Pedro, the Angel of Olvera Street, Pages 12-13]</title>
+            <title>[Digital Reproduction of Tennessee Centennial and International Exposition Postcard Main Entrance Gate]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

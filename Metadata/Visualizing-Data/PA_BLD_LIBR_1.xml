@@ -6,42 +6,42 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 80070839">Nikon, inc.</name>
+                <name type="personal" vocab="local">Hibbs, Henry C.</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>unknown</earliestDate>
-                <latestDate>unknown</latestDate>
+                <earliestDate>1939-8-29</earliestDate>
+                <latestDate>1939-8-29</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Jack Corn described his work as dependent on lighting conditions: “No matter how much talent a 
-Professional photographer has, one keeper, i.e. a good photograph, per one roll of film is a good harvest.” He made these images from 1956 to 1979 in Appalachian towns while staff photographer for The Tennessean newspaper in Nashville, and for the Documerica project, photographing
-environmental damage in coal fields. Corn was Photojournalist in Residence at Western Kentucky
-University from 1977 to 1984.</description>
+            <description>This architectural rendering shows the east elevation of the proposed "General Library Building," now know as the Central Library.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0774</refid>
+                <refid>PA.BLD.LIBR.1</refid>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="copyrighted">
-                <text>Corn granted rights to Vanderbilt for the 2012 exhibition.</text>
+            <rights type="publicDomain">
+                <text>Under the 1909 Copyright Act, copyright had to be renewed after 28; there is no evidence that copyright was renewed. </text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term refid="sh 85091943" vocab="LCSH">Nikon camera--Specimens</term>
+                <term vocab="LCSH" refid="sh 86007452">Architecture--Designs and plans--Presentation drawings</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85076584">Libraries--Academic libraries</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Jack Corn's Nikon Camera]</title>
+            <title>General Library Building</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300022638">35mm cameras</worktype>
+            <worktype vocab="AAT" refid="300162056">black-and-white photography</worktype>
         </worktypeSet>
     </work>
     <image>
@@ -49,26 +49,29 @@ University from 1977 to 1984.</description>
             <agent>
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
+            <agent>
+                <name type="corporate" vocab="local">Commercial Photography Company</name>
+            </agent>
         </agentSet>
         <dateSet>
-            <date type="other">
-                <earliestDate>2015</earliestDate>
-                <latestDate>2015</latestDate>
+            <date type="repository">
+                <earliestDate>1939-08-29</earliestDate>
+                <latestDate>2003-12-17</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>MS0774-Camera</refid>
+                <refid>PA_BLD_LIBR_1.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            <rights type="public domain">
+                <text>Original photograph maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Jack Corn's Nikon Camera]</title>
+            <title>[Digital Reproduction of the Architectural Rendering of the General Library Building]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

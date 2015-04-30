@@ -4,11 +4,6 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
     <work>
-        <agentSet>
-            <agent>
-                <name></name>
-            </agent>
-        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>unknown</earliestDate>
@@ -16,21 +11,21 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description/>
+            <description>Seen with her long hair down and wearing a loose wrapper, this woman, possibly Alva Vanderbilt, stares directly at the viewer/photographer.  Is this room a boudoir?  Her clothing and pose suggest that this is a private, relaxed moment, as does the paper print.  </description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid/>
+                <refid>MS0468</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>Image made c 1890.  Vanderbilt died in 190?.</text>
+                <text>Image made c 1890.</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Alva Vanderbilt]</title>
+            <title>[Possibly Alva Vanderbilt]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300265164">Boudoir photographs</worktype>

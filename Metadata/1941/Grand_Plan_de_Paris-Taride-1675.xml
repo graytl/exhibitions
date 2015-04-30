@@ -6,11 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid=" 92089022">Arnoullet, Balthzar</name>
-                <dates>
-                    <earliestDate>unknown</earliestDate>
-                    <latestDate>unknown</latestDate>
-                </dates>
+                <name type="personal" vocab="LCNAF" refid="n 92089022">Arnoullet, Balthazar, active 16th century</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -24,47 +20,81 @@
             </date>
             </dateSet>
         <descriptionSet>
+<<<<<<< HEAD
             <description>This 1530 map of Paris depicts key edifices of the French capital and its distinctive topographic features. Printer and cartographer Albert Jouvin Rochefort (c. 1540- c. 1710) included the map in his nine-panel1672 district map of Paris. Rochefort''s map expands on Arnoullet's, particularly in the growing urban center of Paris, where speculators were hoping to build large hotels that the narrow streets of the old city could not accommodate.</description>
+=======
+            <description>This 1530 map of Paris depicts key edifices of the French capital and its distinctive topographic features. Printer and cartographer Albert Jouvin Rochefort (c. 1540-c. 1710) included the map in his nine-panel 1672 district map of Paris. Rochefort's map expands on Arnoullet's, particularly in the growing urban center of Paris, where speculators were hoping to build large hotels that the narrow streets of the old city could not accommodate.</description>
+>>>>>>> origin/master
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University. Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
                 <refid>Sevier Collection/G5834 .P3 1675 .J6</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>published 1675.</text>
+                <text>published 1675</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="2008116531">Paris (France)--maps</term>
+                <term vocab="LCSH" refid="2008116531">Paris (France)--Maps</term>
             </subject>
         </subjectSet>
         <titleSet>
             <title>Paris vers 1530</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300028233">historical maps</worktype>
+            <worktype vocab="AAT" refid="300028233">Historical maps</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="">
+            <date type="creation">
                 <earliestDate></earliestDate>
                 <latestDate></latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid/>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title/>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate></earliestDate>
+                <latestDate></latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid/>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>

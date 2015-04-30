@@ -3,50 +3,42 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n 50021396">Politi, Leo, 1908-1996</name>
-                <dates>
-                    <earliestDate>1908</earliestDate>
-                    <latestDate>1996</latestDate>
-                </dates>
+                <name type="corporate" vocab="LCNAF" refid="n 81075875">Vanderbilt University. Library.</name>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="publication">
-                <earliestDate>1946</earliestDate>
-                <latestDate>1961</latestDate>
+            <date type="creation">
+                <earliestDate>1941-2-14</earliestDate>
+                <latestDate>1941-2-14</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Inspired by the residents of downtown Los Angeles, Leo Politi created the character of Pedro, the Angel of Olvera Street.  Politi's book portrays the Mexican American culture which influenced his own development as an artist.</description>
+            <description>This photograph shows the General Library Building under construction in February 1941.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="other" vocab="local">Peabody Library</name>
-                <refid>PZ7 .P753 Pe 1946</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS Collection 0827, Folder 1</refid>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="copyrighted">
-                <text>©1961 Leo Politi</text>
+            <rights type="copyright">
+                <text>The photograph was taken in 1941, but there is no evidence it was ever published. Copyright expires in 2061.</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh 85025320">Christmas stories</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85084534">Mexicans--United States--Fiction</term>
+                <term vocab="LCSH" refid="sh 85076584">Libraries--Academic libraries</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Pedro, the Angel of Olvera Street</title>
+            <title>[General Library Building]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300343403">Children's books</worktype>
+            <worktype vocab="AAT" refid="300162056">black-and-white photography</worktype>
         </worktypeSet>
     </work>
     <image>
@@ -56,14 +48,14 @@
             </agent>
         </agentSet>
         <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-16</earliestDate>
-                <latestDate>2015-03-16</latestDate>
+            <date type="repository">
+                <earliestDate>1941-2-14</earliestDate>
+                <latestDate>2003-12-17</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>PC-Pedro_El_Angel_de_la_Calle_Olvera-1961.jpg</refid>
+                <refid>1941-PA_BLD_LIBR_13.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
@@ -73,7 +65,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Pedro, the Angel of Olvera Street, Pages 12-13]</title>
+            <title>[General Library Building]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

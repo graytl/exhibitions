@@ -5,6 +5,15 @@
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
     <!-- HAS BEEN EDITED -->
     <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF">Ehrhard Brand and Comp. (firm)</name>
+                <dates>
+                    <earliestDate>1889</earliestDate>
+                    <latestDate>unknown</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>1895</earliestDate>
@@ -12,12 +21,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Reverend John W. Tarboux served in Juis de Flora, Brazil as a Methodist missionary and later university president. Willie, his second son, died in 1911. Louise returned to the United States.</description>
+            <description>Rev. John W. Tarboux worked in Brazil as a Methodist missionary and high school principal for 37 years.  His wife Susan was James Kirkland’s sister. Willie, aged one, wears polka dots.  His older sister wears a fancy bonnet. Juiz de Fora, a town in the Paraibuna Valley, 50 miles north of Rio in Minas Gerais, a state where mining companies expanded and the economy was booming.  Brand’s studio opened December 31, 1889. Many Brazilian studios were run by Americans or Europeans.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid/>
+                <refid>Ms0242, box "PH Arch/Kirkland Family"</refid>
             </location>
         </locationSet>
         <rightsSet>

@@ -3,38 +3,40 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
     <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="local">Warga, Ed</name>
+            </agent>
+        </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>1897</earliestDate>
-                <latestDate>1897</latestDate>
+                <earliestDate>2014-04-14</earliestDate>
+                <latestDate>2014-04-14</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description>International expositions like the six-month Tennessee Centennial attracted thousands of tourists from across the country.  Like San Francisco's Palace of Fine Arts (1915) and New York's Trylon and Perisphere (1939), Nashville's Parthenon survived the event to become a beloved landmark.  Popular photo postcards like these circulated widely in the United States after the Philadelphia Centennial Exposition.</description>
+            <description>Anjelica Saulsberry constructed a model of the Vanderbilt University Library in Minecraft as a part of her 2015 Library Dean's Fellowship. The virtual model in this photograph was exported as a digital file and turned into a physical model using a commercial 3D printing service for display in his exhibition.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0123, Box 166</refid>
+                <refid/>
+                <refid/>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="publicDomain">
-                <text>Image dates to 1897.</text>
+            <rights type="copyrighted">
+                <text>Copyright Vanderbilt University Library</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="no 98125557">Tennessee Centennial and International Exposition (1897 : Nashville, Tenn.)--Pictorial works</term>
+                <term vocab="LCSH" refid="sh 2012000023">Video games-Minecraft (Game)</term>
             </subject>
         </subjectSet>
-        <titleSet>
-            <title>[Tennessee Centennial and International Exposition Postcard Main Entrance Gate]</title>
-        </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300192703">Photographic postcards</worktype>
+            <worktype vocab="AAT" refid="300386812">digital photography (digital camera)</worktype>
         </worktypeSet>
     </work>
     <image>
@@ -44,14 +46,14 @@
             </agent>
         </agentSet>
         <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-20</earliestDate>
-                <latestDate>2015-03-20</latestDate>
+            <date type="repository">
+                <earliestDate>2015-03-11</earliestDate>
+                <latestDate>2015-03-11</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>sc.mss.0123.166.jpg</refid>
+                <refid>IMG_3211.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
@@ -61,7 +63,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Tennessee Centennial and International Exposition Postcard Main Entrance Gate]</title>
+            <title>Angela Saulsberry builds a model of the Central Library in Minecraft</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
