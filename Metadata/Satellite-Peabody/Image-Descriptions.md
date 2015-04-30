@@ -22,3 +22,6 @@ upcoming exhibition held in the Peabody Library. Text is not yet finalized and i
 * Image Title | Muhammad
   * Filename: PC-Muhammad-Demi-2003-A.jpg; PC-Muhammad-Demi-2003-B.jpg
   * Unlike the depiction of Jesus Christ, a figure portrayed frequently in children's literature, this is the first time the Prophet Muhammad has been depicted in a children's book.  Respecting the Islamic tradition of never portraying the prophet with a body and face, Demi shares the story of Muhammad in a manner that is both informative and respectful.
+* Image Title | Black and White: a Song that is a Story about Freedom to Go to School Together
+  * Filenames: PC-Black_and_White-Arkin-1956-01-A.jpg; PC-Black_and_White-Arkin-1956-01-B.jpg; PC-Black_and_White-Arkin-1956-02.jpg; PC-Black_and_White-Arkin-1956-03-A.jpg; PC-Black_and_White-Arkin-1956-03-B.jpg; PC-Black_and_White-Arkin-1956-04.jpg
+  * Musician David Arkin wrote the song "Black &amp; White" in response to the Supreme Court's ruling in the Brown vs. Board of Education case.  Ten years later, Arkin published a children's book combining his original lyrics with powerful illustrations to depict the effect this ruling had on American society.
