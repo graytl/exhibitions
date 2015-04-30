@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="LCNAF"/>
+                <dates>
+                    <earliestDate>1903</earliestDate>
+                    <latestDate>1903</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <descriptionSet>
+            <description>A caricature of Enrico Caruso sent from Enrico Caruso to Miss Izora O. Hunter. This card shows a self-caricature of Caruso, who was well known for his talent as a caricaturist. He published weekly illustrations in an Italian language newspaper for many years while he lived in New York. This card is one of the few in the collection sent by Enrico Caruso, as opposed to those sent to him.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS Collection 0647.p0068</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>Created in 1903.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="sh 85105462 ">postcards</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>[Signor Caruso as Sketched by Himself]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300192703">picture postcards</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-03-11</earliestDate>
+                <latestDate>2015-03-11</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>MS0647.p0068.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[Digital Reproduction of Signor Caruso as Sketched by Himself]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>
