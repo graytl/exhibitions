@@ -12,7 +12,13 @@
                     <latestDate>1784-07-31</latestDate>
                 </dates>
             </agent>
-        </agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="50059010 ">Alembert, Jean Le Rond d', 1717-1783</name>
+                <dates>
+                    <earliestDate>1717-11-16</earliestDate>
+                    <latestDate>1783-10-29</latestDate>
+                </dates>
+            </agent></agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>1751</earliestDate>
@@ -20,7 +26,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Denis Diderot, a key figure in the advancement of Enlightenment philosophy, became connected to the Encyclopedie in 1746. The prospectus promised that the encyclopedia would be a "Chart of the Branches of Human Knowledge," which Diderot described as "the Genealogical Tree of All the Arts and Sciences."  Based on the assumption that all knowledge comes from sensations, the Système figuré groups all learning under memory (history), reason (philosophy) or imagination (poetry).</description>
+            <description>Denis Diderot, a key figure in the advancement of Enlightenment philosophy, envisioned the project of the Encyclopedie with his collaborator Jean D’Alembert. The prospectus was accompanied by a diagram of the “Map of Human Knowledge” which Diderot described as "the Genealogical Tree of All the Arts and Sciences."  The Système figuré groups all learning under memory (history), reason (philosophy) or imagination (poetry). God, as the source of knowledge, is conspicuously absent.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
@@ -48,7 +54,7 @@ contact@imprimerienationale.fr</text>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Encyclopédie. Prospectus. Encyclopédie, ou Dictionnaire Raisonné des Sciences, des Arts et des Métiers: Dix Volumes In-folio dont Deux de Planches en Taille-douce, Proposés par Souscription / Recueilli des Meilleurs Auteurs et Particulierement des Dictionnaires Anglois de Chambers, D'Harris, de Dyche, &amp;c. par une Société de Gens de Lettres ; Mis en Ordre et Publié par M. Diderot ; &amp; quant à la Partie Mathématique, par M. d'Alembert  </title>
+            <title>Prospectus. Encyclopédie, ou Dictionnaire Raisonné des Sciences, des Arts et des Métiers: Dix Volumes In-folio dont Deux de Planches en Taille-douce, Proposés par Souscription / Recueilli des Meilleurs Auteurs et Particulierement des Dictionnaires Anglois de Chambers, D'Harris, de Dyche, &amp;c. par une Société de Gens de Lettres ; Mis en Ordre et Publié par M. Diderot ; &amp; quant à la Partie Mathématique, par M. d'Alembert  </title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300129439   	 ">encyclopedias</worktype>
