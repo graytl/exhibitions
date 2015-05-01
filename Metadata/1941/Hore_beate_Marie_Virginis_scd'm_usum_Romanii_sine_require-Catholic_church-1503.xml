@@ -48,20 +48,20 @@
     <image>
         <agentSet>
             <agent>
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
                 <role></role>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+            <date type="creation">
+                <earliestDate>2015-03-30</earliestDate>
+                <latestDate>2015-03-30</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="">
-                <refid></refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>Hore_beate_Marie_Virginis_scd'm_usum_Romanii_sine_require-Catholic_church-1503.jpg</refid>
+                <name type="other" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -70,7 +70,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title/>
+            <title>Hore_beate_Marie_Virginis_scd'm_usum_Romanii_sine_require-Catholic_church-1503.jpg</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

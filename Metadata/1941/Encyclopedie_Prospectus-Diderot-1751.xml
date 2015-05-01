@@ -51,12 +51,8 @@ contact@imprimerienationale.fr</text>
             </subject>
         </subjectSet>
         <titleSet>
-<<<<<<< HEAD
             <title>Prospectus. Encyclopédie, ou Dictionnaire Raisonné des Sciences, des Arts et des Métiers: Dix Volumes In-folio dont Deux de Planches en Taille-douce, Proposés par Souscription / Recueilli des Meilleurs Auteurs et Particulierement des Dictionnaires Anglois de Chambers, D'Harris, de Dyche, &amp;c. par une Société de Gens de Lettres ; Mis en Ordre et Publié par M. Diderot ; &amp; quant à la Partie Mathématique, par M. d'Alembert  </title>
-=======
-            <title>Encyclopédie, ou Dictionnaire raisonné des sciences, des arts et des métiers : dix volumes in-folio dont deux de planches en taille-douce, proposés par souscription</title>
->>>>>>> origin/master
-        </titleSet>
+           </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300129439">Encyclopedias</worktype>
         </worktypeSet>
@@ -91,34 +87,4 @@ contact@imprimerienationale.fr</text>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid></refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Encyclopédie, ou Dictionnaire raisonné des sciences, des arts et des métiers : dix volumes in-folio dont deux de planches en taille-douce, proposés par souscription, image 2]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
-</vra>
+    </vra>

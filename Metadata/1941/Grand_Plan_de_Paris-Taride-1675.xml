@@ -20,12 +20,8 @@
             </date>
             </dateSet>
         <descriptionSet>
-<<<<<<< HEAD
-            <description>This 1530 map of Paris depicts key edifices of the French capital and its distinctive topographic features. Printer and cartographer Albert Jouvin Rochefort (c. 1540- c. 1710) included the map in his nine-panel1672 district map of Paris. Rochefort''s map expands on Arnoullet's, particularly in the growing urban center of Paris, where speculators were hoping to build large hotels that the narrow streets of the old city could not accommodate.</description>
-=======
-            <description>This 1530 map of Paris depicts key edifices of the French capital and its distinctive topographic features. Printer and cartographer Albert Jouvin Rochefort (c. 1540-c. 1710) included the map in his nine-panel 1672 district map of Paris. Rochefort's map expands on Arnoullet's, particularly in the growing urban center of Paris, where speculators were hoping to build large hotels that the narrow streets of the old city could not accommodate.</description>
->>>>>>> origin/master
-        </descriptionSet>
+        <description>This 1530 map of Paris depicts key edifices of the French capital and its distinctive topographic features. Printer and cartographer Albert Jouvin Rochefort (c. 1540- c. 1710) included the map in his nine-panel1672 district map of Paris. Rochefort''s map expands on Arnoullet's, particularly in the growing urban center of Paris, where speculators were hoping to build large hotels that the narrow streets of the old city could not accommodate.</description>
+         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
@@ -57,13 +53,13 @@
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+                <earliestDate>2015-04-01</earliestDate>
+                <latestDate>2015-04-01</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid/>
+                <refid>Grand_Plan_de_Paris-Taride-1675.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
@@ -73,40 +69,10 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title/>
+            <title>Grand_Plan_de_Paris-Taride-1675.jpg</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid/>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title/>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
-</vra>
+    </vra>
