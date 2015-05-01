@@ -31,3 +31,6 @@ upcoming exhibition held in the Peabody Library. Text is not yet finalized and i
 * Image Title |  The Tar-Baby, and Other Rhymes of Uncle Remus
   * Filenames: PC-The_Tar_Baby-Harris-1904-01.jpg; PC-The_Tar_Baby-Harris-1904-02.jpg
   * Although considered two of the most iconic figures in American literature, Tar Baby and Uncle Remus are also two of the most controversial.  These characters originate in African American folklore, documented by Joel Chandler Harris in the post-Civil War Era.  While controversial, these stories are a vital part of early American culture.
+* Image Title | Three Golden Oranges: and Other Spanish Folk Tales
+  * Filename: PC-Three_Golden_Oranges-Boggs_Davis-1964.jpg
+  * This collection of Spanish folktales was first published during the Spanish Civil War.
