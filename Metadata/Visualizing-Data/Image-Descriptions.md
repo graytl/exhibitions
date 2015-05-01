@@ -20,3 +20,9 @@ the exhibition gallery on Visualizing Data, which includes several sub-topics. T
 * Image Title | Angela Saulsberry Builds a Model of the Central Library in Minecraft
   * Filename:  IMG_3211.jpg
   * Anjelica Saulsberry constructed a model of the Vanderbilt University Library in Minecraft as a part of her 2015 Library Dean's Fellowship. The virtual model in this photograph was exported as a digital file and turned into a physical model using a commercial 3D printing service for display in his exhibition. 
+
+  
+#### Flannery O'Connor 
+*Image Title | [Flannery O'Connor visits Nashville]
+* Filename: MS0305-Flannery_OConnor-002.jpg
+* Flannery O'Connor visits Fanny and Brainard Cheney in 1955. Photo to be used with Clip 2 audio of O'Connor reading from her short story "A Good Man is Hard to Find". (see av-descriptions.md)
