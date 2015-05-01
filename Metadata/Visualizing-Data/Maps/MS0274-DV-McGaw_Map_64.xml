@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">W. Keenan</name>
+                <dates>
+                    <earliestDate/>
+                    <latestDate/>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1853-01-01</earliestDate>
+                <latestDate>1853-01-31</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>This map, published Walker and James and engraved by W. Keenan is part of the Robert A. McGaw Collection and Vanderbilt Library Special Collections.  The subject of this map is the Cumberland and Franklin as it was represented in 1853.  Of special interest to this exhibit, notice the way the Cumberland River is drawn.  The river starts to look more like current day depictions as the years progress.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="local">Vanderbilt Library Special Collections</name>
+                <refid>Robert A. McGaw Collection</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Vanderbilt Library Special Collections</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="" refid=""></term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>Map of Cumberland and Franklin</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300028233">historical maps </worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local" refid="">Vanderbilt Library Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015</earliestDate>
+                <latestDate>2015</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>MS0274-DV-McGAW_Map_64</refid>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Vanderbilt Librar Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[A Digital Reproduction of Map of Cumberland and Franklin]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>
