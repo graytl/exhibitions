@@ -8,23 +8,23 @@
             <agent>
                 <name type="corporate" vocab="LCNAF"/>
                 <dates>
-                    <earliestDate>1901</earliestDate>
-                    <latestDate>1901</latestDate>
+                    <earliestDate>1900</earliestDate>
+                    <latestDate>1900</latestDate>
                 </dates>
             </agent>
         </agentSet>
         <descriptionSet>
-            <description>In 1901, Caruso’s lover Ada Balducci used this postcard as a quick, easy way to send messages and updates, as we use text messages, Snapchat, and Twitter today.  The Women and Fashion section of the collection speaks to images of women in popular culture.  Women rode bicycles, played sports, and lived active lives—all portrayed in this collection.  Most postcards circulating in the U.S. were designed and printed abroad; it’s interesting to think about how fashions in Europe influenced American women.</description>
+            <description>Antonio Pini-Corsi, an operatic baritone then singing with the Metropolitan Opera, sent this postcard to his tenor friend in 1900. The card shows the Masonic Temple in Chicago, with a hand drawn musical score along the bottom.  This Travel and Landmark postcard shows how senders personalized these mass-produced objects.  Over 1 billion postcards were sold annually between 1900 and 1915, the height of the postcard craze.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0647.p0033</refid>
+                <refid>MSS Collection 0647.p0238</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>Created in 1901.</text>
+                <text>Created in 1900.</text>
             </rights>
         </rightsSet>
         <subjectSet>
@@ -33,7 +33,7 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Woman in Ruffled Pink]</title>
+            <title>[Masonic Temple]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300192703">picture postcards</worktype>
@@ -53,7 +53,7 @@
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>MS0647.p0033.jpg</refid>
+                <refid>MS0647.p0238.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
@@ -63,7 +63,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Woman in Ruffled Pink]</title>
+            <title>[Digital Reproduction of Masonic Temple]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
