@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n79119229">Flannery O'Connor</name>
+                <dates>
+                    <earliestDate>1925-03-25</earliestDate>
+                    <latestDate>1964-08-03</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>1986</earliestDate>earliestDate> <latestDate>1986</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+                        <description>Wise Blood, Flannery O'Connors first novel, tells the story of  a returning World War II veteran who, haunted by a lifelong crisis of faith, resolves to form an anti-religious ministry in an eccentric Southern town. Althogh neglected by most critics at the time, it is now considered a classic of 20th Century literature. </description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate">Vanderbilt University Special Collections</name>
+                <refid>Wills Collection</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="other">
+                <text>Copyright belongs to Vanderbilt University</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term></term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>Wise Blood</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="">Book</worktype>
+        </worktypeSet>
+    </work>    
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate></earliestDate>
+                <latestDate></latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid></refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title> [Digital Image of Book Jacket of Wise Blood]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+   
+</vra>
