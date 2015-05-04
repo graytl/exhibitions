@@ -7,6 +7,7 @@
         <agentSet>
             <agent>
                 <name type="personal" vocab="local">Barnes, Frederic Wood, 1943-</name>
+                <role>Author</role>
                 <dates>
                     <earliestDate>1943-02-01</earliestDate>
                     <latestDate>present</latestDate>
@@ -35,7 +36,13 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="tgm000567">Assassinations</term>
+                <term vocab="LCSH" refid="sh 94002318">Presidents--Assassination attempts--Periodicals</term>
+            </subject>
+            <subject>
+                <term vocab="LCNAF" refid="n 79022087">Ford, Gerald R., 1913-2006--Periodicals</term>
+            </subject>
+            <subject>
+                <term vocab="LCNAF" refid="n 96123727">Fromme, Lynette Alice, 1948---Periodicals</term>
             </subject>
         </subjectSet>
         <titleSet>
