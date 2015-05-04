@@ -3,12 +3,10 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
                 <name type="personal" vocab="local">Barnes, Frederic Wood, 1943-</name>
-                <role>Author</role>
                 <dates>
                     <earliestDate>1943-02-01</earliestDate>
                     <latestDate>present</latestDate>
@@ -22,7 +20,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>News of the attempted assassination of President Gerald Ford (1913-2006) broke immediately after it happened. All three of the major television news stations were filming as Lynette “Squeaky” Fromme (1948- ) pushed towards the President with her pistol, capturing the event as it happened. Newspapers of the day splashed the front pages with images of Fromme, Secret Service agents and the President. The Washington Star’s September 6, 1975 coverage of the startling event is typical of what front pages all over the country looked like the day after the attempted assassination.</description>
+            <description>News of the September 5, 1975 assassination attempt on President Gerald Ford’s (1913-2006) life struck a chord deep in the American psyche as it had only been twelve years since the assassination of President John F. Kennedy by Lee Harvey Oswald.  Lynette “Squeaky” Fromme was the first woman to attempt an assassination of an American president.  Interestingly, only seventeen days later while leaving a hotel in San Fransisco, California another attempt was made on Ford’s life by Sara Jane Moore who actually fired off a round at the President.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
@@ -32,22 +30,16 @@
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>Ceased production in 1981</text>
+                <text>Ceased publication in 1981</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh 94002318">Presidents--Assassination attempts--Periodicals</term>
-            </subject>
-            <subject>
-                <term vocab="LCNAF" refid="n 79022087">Ford, Gerald R., 1913-2006--Periodicals</term>
-            </subject>
-            <subject>
-                <term vocab="LCNAF" refid="n 96123727">Fromme, Lynette Alice, 1948---Periodicals</term>
+                <term vocab="LCSH" refid="tgm000567">Assassinations</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>The Washington Star, September 6, 1975, Front Page</title>
+            <title>The Washington Star, September 6, 1975, Page A-4</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300026656">Newspapers</worktype>
@@ -67,7 +59,7 @@
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>MS0412-C-Washinton_Star-Sept_6_1975-Lynette_Fromme.01.jpg</refid>
+                <refid>MS0412-C-Washington_Star-Sept_6_1975-Lynette_Fromme.02.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
@@ -77,7 +69,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of The Washington Star, September 6, 1975, Front Page]</title>
+            <title>[Digital Reproduction of The Washington Star, September 6, 1975, Page A-4]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
