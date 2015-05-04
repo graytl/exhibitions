@@ -37,3 +37,6 @@ upcoming exhibition held in the Peabody Library. Text is not yet finalized and i
 * Image Title | The Olde Irishe Rimes of Brian O'Linn
   * Filenames: PC-The_Olde_Irishe_Rimes_of_Brian_O'Linn-01.jpg, PC-The_Olde_Irishe_Rimes_of_Brian_O'Linn-02.jpg
   * Irish culture is synonymous with folksongs and storytelling. The story of Brian O'Linn is an example of how the Irish preserved their culture through oral dissemination.  S. Rosamond Praeger provides a  literary interpretation of this famous story, continuing its preservation for future generations.
+* Image Title | Our Rice Village in Cambodia 
+  * Filename: PC-Our_Rice_Village_in_Cambodia-Tooze-1963.jpg
+  * A pioneer in depicting multiculturalism in children's literature, Ezra Jack Keats provided the illustrations to this story about the everyday life of a young boy and his family in Cambodia.  This book was released shortly after Keats' groundbreaking, Caldecott Award winning book, The Snowy Day.  The publication of this book coincides with the U.S. military's involvement in Southeast Asia.
