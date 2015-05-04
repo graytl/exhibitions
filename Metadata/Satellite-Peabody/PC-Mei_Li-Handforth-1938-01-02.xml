@@ -39,6 +39,11 @@
                 <text>©1938 Thomas Handforth</text>
             </rights>
         </rightsSet>
+        <stateEditionSet>
+            <stateEdition type="edition">
+                <name>1st Edition</name>
+            </stateEdition>
+        </stateEditionSet>
         <subjectSet>
             <subject>
                 <term vocab="LCSH" refid="sh2008100537">China--Fiction</term>
