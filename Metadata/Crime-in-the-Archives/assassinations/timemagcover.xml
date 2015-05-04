@@ -20,7 +20,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Lynette “Squeaky” Fromme made the cover of Time for her attempted assassination of President Gerald Ford on September 5, 1975. Feminist leaders across the country reacted to the magazine’s use of the word “Girl” to describe Fromme who was twenty-seven at the time, asking if they would have used “Boy” if Fromme had been male.  For a short time she transformed from Charles Manson acolyte, would be assassin to feminist cause célèbre.</description>
+            <description>Lynette “Squeaky” Fromme made the cover of Time for her attempted assassination of President Gerald Ford on September 5, 1975. Feminist leaders across the country reacted to the magazine’s use of the word “Girl” to describe Fromme who was twenty-seven at the time, asking if they would have used “Boy” if Fromme had been male. For a short time she transformed from Charles Manson acolyte, would be assassin to feminist cause célèbre.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
@@ -30,12 +30,12 @@
         </locationSet>
         <rightsSet>
             <rights type="undetermined">
-                <text/>
+                <text>Copyright undetermined</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="n 96123727">Fromme, Lynette Alice, 1948-</term>
+                <term vocab="LCNAF" refid="n 96123727">Fromme, Lynette Alice, 1948-</term>
             </subject>
         </subjectSet>
         <titleSet>
@@ -69,7 +69,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of the Girl Who Almost Killed Ford]</title>
+            <title>[Digital Reproduction of The Girl Who Almost Killed Ford]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
