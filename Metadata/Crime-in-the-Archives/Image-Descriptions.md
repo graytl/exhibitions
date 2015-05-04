@@ -3,6 +3,31 @@
 _Below are descriptions for digital images request for addition into the touchscreen interactives by the curators for the upcoming exhibition held in 
 the exhibition gallery on killers in the archives. Text is not yet finalized and is subject to further editing._
 
+#### Assassins
+* Image Title | The Washington Star, September 6, 1975, Front Page
+  * Filename: MS0412-C-Washington_Star-Sept_6_1975-Lynette_Fromme.01.jpg
+  * News of the attempted assassination of President Gerald Ford (1913-2006) broke immediately after it happened.  All three of the major television news stations were filming as Lynette “Squeaky” Fromme (1948- ) pushed towards the President with her pistol, capturing the event as it happened.  Newspapers of the day splashed the front pages with images of Fromme, Secret Service agents and the President.  The Washington Star’s September 6, 1975 coverage of the startling event is typical of what front pages all over the country looked like the day after the attempted assassination.
+* Image Title | The Girl Who Almost Killed Ford
+  * Filename: MS0412-C-Time-The_Girl_Who_Almost_Killed_Ford-Sept_15_1975.jpg
+  * Lynette “Squeaky” Fromme made the cover of Time for her attempted assassination of President Gerald Ford on September 5, 1975. Feminist leaders across the country reacted to the magazine’s use of the word “Girl” to describe Fromme who was twenty-seven at the time, asking if they would have used “Boy” if Fromme had been male.  For a short time she transformed from Charles Manson acolyte, would be assassin to feminist cause célèbre.
+* Image Title | The Washington Star, September 6, 1975, Page A-4
+  * Filename: MS0412-C-Washington_Star-Sept_6_1975-Lynette_Fromme.02.jpg
+  * MS0412-C-Washington_Star-Sept_6_1975-Lynette_Fromme.02.jpg
+* Image Title | [Postcard from Lynette Fromme to David Nicholaus, February 1975]
+  * Filename: MS0412-C-Lynette_Fromme-Postcard-Feb_1975-01-AB.jpg
+  * After the conviction of Charles Manson (1934- ) for conspiring to murder seven people and the publication of Vincent Bugliosi’s book Helter Skelter: The True Story of the Manson Murders people from around the world wanted to write an official history of Manson and his Family. Lynette Fromme (1948- ) fielded these requests for information and vetted offers from publishing houses to the rights of the true history of the group. Writing in coded language she warns a potential biographer to stick to the “True” story of Manson and not give in to the media hype surrounding him and his followers.
+* Image Title | [Postcard from Lynette Fromme to David Nicholas, April 29, 1975]
+  * Filename: MS0412-C-Lynette_Fromme-Postcard-April_29_1975-01-AB.jpg
+  * In this postcard Lynette “Squeaky” Fromme (1948- ) relates some news on Charles Manson and family members to potential biographer David Nicholas.  She refers to fellow family members Susan Atkins, Patricia Krenwinkel and Linda Kasabian being confined at the California Institute for Women’s Prison (C.I.W.) and writes about the death of King Faisal of Saudi Arabia and Manson’s thoughts on world violence.  She corresponded with hundreds of people interested in Manson’s philosophy during the years after his conviction trying to keep his message alive.
+* Image Title | [Postcard from Lynette Fromme to David Nicholas, April 25, 1975]
+  * Filename: MS0412-C-Lynette_Fromme-Postcard-April_25_1975-01-AB.jpg
+  * As a protégé and longtime follower of Charles Manson, Lynette “Squeaky” Fromme acted as spokesman for the ‘Family” carrying the message of Manson to the media.  After his arrest and 1971 conviction for the Tate/LaBianca murders Fromme continued to represent Manson and deliver messages from him to his followers and keep his name alive in the press. She was trying to write a history of the “Manson Family” using scrapbooks she created from letters, photographs and news clippings though no manuscript was ever found.
+* Image Title | Fromme Fires Co-Counsel
+  * Filename: MS0412-Ford-assassin-Fromme.jpg
+  * The trial of Lynette “Squeaky” Fromme for attempting to assassinate United States President Gerald Ford began on November 4, 1975.  Three days before the trial began, President Ford gave a videotape testimony from the White House as a defense witness in the trial of Fromme.  The testimony was the first time a President testified at a criminal trial. Throughout the trial Fromme was disruptive and often had to watch the proceedings via close-circuit television because of her outbursts.
+* Image Title | President Gerald Fold Assassination Attempt
+  * Filename: MS0412-Ford-assassination_attempt.jpg
+  * This Colorano “Silk” Cachet First Day Cover memorializes the assassination attempt by Lynette “Squeaky” Fromme (1948- ) to shoot President Gerald Ford (1913-2006) as he crossed a park in front of the California State Capitol at Sacramento, California on September 5, 1975. First Day Covers have become popular ways to commemorate events and people and are highly collectible.
 
 #### Making Money from Crime
 * Image Title | The Lindbergh Kidnapping Case
@@ -38,9 +63,7 @@ Randolph Hurst's newspapers made it difficult to find an unbiased jury. The Lind
 * Title | [Still from 'Bonnie and Clyde']
   * Filename: 
   * "Bonnie and Clyde" was a romantic and humorous interpretation of the life of Bonnie Parker and Clyde Barrow. The 1967 film 
-  broke new ground in its depiction of sex and violence and used modern filmmaking techniques inspired by French New Wave directors. 
-  Historical accuracy was marginalized to evoke sympathy among viewers for the crime pair. The project was a success and was 
-  influential in the use of graphic violence in the film industry.
+  broke new ground in its depiction of sex and violence and used modern filmmaking techniques inspired by French New Wave directors. Historical accuracy was marginalized to evoke sympathy among viewers for the crime pair. The project was a success and was influential in the use of graphic violence in the film industry.
 * Title | [Time Magazine cover portrait of Jack Webb, Star of 'Dragnet']
   * Filename: 
   * Dick Wolf, producer of the television series, Law and Order, described Dragnet as “the father of us all." Jack Webb, its 
@@ -50,14 +73,11 @@ Randolph Hurst's newspapers made it difficult to find an unbiased jury. The Lind
   policeman.
 * Title | [Digital reproduction of film still from 'The Return of Frank James']
   * Filename:
-  * Western films have gone in and out of vogue since first appearing in the silent era. By the time "The Return of Frank James" 
-  was released in 1940, the form was gaining new popularity with the advent of a number of high budget productions from major 
-  studios. Its storyline takes up after the death of Frank's brother, Jesse James, with Frank out to avenge his brother's death.
+  * Western films have gone in and out of vogue since first appearing in the silent era. By the time "The Return of Frank James" was released in 1940, the form was gaining new popularity with the advent of a number of high budget productions from major studios. Its storyline takes up after the death of Frank's brother, Jesse James, with Frank out to avenge his brother's death.
 * Title | Grolier Story of America Subscription Card: The Trial of Nathan Leopold and Richard Loeb (#75-13)
   * Filename:  
   * Interest in the trial of Nathan Leopold and Richard Loeb has continued long after their deaths. Grolier Story of America 
-  Cards  were released in sets of 20 between 1994 and 2001. Covering all aspects of American history, the cards were sold on a 
-  subscription basis, with a total of 2600 cards in 130 decks or packets on topics such as "Life in America" and "Notable 
+  Cards  were released in sets of 20 between 1994 and 2001. Covering all aspects of American history, the cards were sold on a subscription basis, with a total of 2600 cards in 130 decks or packets on topics such as "Life in America" and "Notable 
   People." The "Important Events" deck included "The Sinking of the Lusitania" and "The Boston Tea Party."
 * Title | The Art of Murder
   * Filename: 
@@ -77,8 +97,7 @@ Randolph Hurst's newspapers made it difficult to find an unbiased jury. The Lind
 * Title | [Portrait of J. Edgar Hoover]
   * Filename: 
   * Illustrator Paul Frehm worked with reporter Damon Runyon to cover the Lindbergh trial for the New York Daily Mirror, a 
-  William Randoph Hurst newspaper publication. Frehm’s illustration of J. Edgar Hoover, who led the Bureau of Investigation’s 
-  efforts to find the kidnapper, portrays the director in 1949. Hoover's dogged success in the case raised his own profile and 
+  William Randoph Hurst newspaper publication. Frehm’s illustration of J. Edgar Hoover, who led the Bureau of Investigation’s efforts to find the kidnapper, portrays the director in 1949. Hoover's dogged success in the case raised his own profile and 
   helped to bring the Federal Kidnapping Act to Congress, allowing federal authorities jurisdiction in cases crossing state 
   lines.
 * Title | [Montage of Three Photographs of Bruno Richard Hauptmann on Trial]
@@ -115,9 +134,7 @@ Randolph Hurst's newspapers made it difficult to find an unbiased jury. The Lind
 * Title | Link Hauptmann to Kidnap Ladder: Traced to Lindy Home
   * Filename: MS0412-C-Lindbergh-Sept_22_1934-01.xml
   * The country followed the Lindbergh case as it was happening, as this issue of the New York Journal, published two days 
-  before Bruno Hauptmann was indicted for extoring $50,000 from Charles Lindbergh, reveals.  A jotted-down license plate on a 
-  gold certificate led police to Hauptmann's Bronx residence, where police found $14,000 in ransom money in a shoe box hidden 
-  in the garage.  They also found wood in his attic that matched the wood of the ladder used to take the Lindbergh baby.
+  before Bruno Hauptmann was indicted for extoring $50,000 from Charles Lindbergh, reveals.  A jotted-down license plate on a gold certificate led police to Hauptmann's Bronx residence, where police found $14,000 in ransom money in a shoe box hidden in the garage.  They also found wood in his attic that matched the wood of the ladder used to take the Lindbergh baby.
 * Title | How Kidnappers (sic) Got Lindy Baby
   * Filename: MS0412-C-Lindbergh-Ladder-March_8_1932.xml
   * The public was fascinated by how Charles and Anne Lindbergh's baby was kidnapped. Newspapers were full of details like 
