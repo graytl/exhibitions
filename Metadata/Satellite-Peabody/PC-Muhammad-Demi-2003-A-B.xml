@@ -3,14 +3,21 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n80050070">Demi</name>
+                <name type="personal" vocab="LCNAF" refid="n 80050070">Demi</name>
+                <role>Author</role>
+                <role>Illustrator</role>
                 <dates>
                     <earliestDate>1942</earliestDate>
                     <latestDate>present</latestDate>
                 </dates>
+            </agent>
+            <agent>
+                <name vocab="LCNAF" refid="no2011095558">Margaret K. McElderry Books (Firm)</name>
+                <role>Publisher</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -78,7 +85,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of Muhammad, Page 7]</title>
+            <title>[Digital Reproduction of Muhammad, Page 7]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
