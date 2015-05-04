@@ -34,3 +34,6 @@ upcoming exhibition held in the Peabody Library. Text is not yet finalized and i
 * Image Title | Three Golden Oranges: and Other Spanish Folk Tales
   * Filename: PC-Three_Golden_Oranges-Boggs_Davis-1964.jpg
   * This collection of Spanish folktales was first published during the Spanish Civil War.
+* Image Title | The Olde Irishe Rimes of Brian O'Linn
+  * Filenames: PC-The_Olde_Irishe_Rimes_of_Brian_O'Linn-01.jpg, PC-The_Olde_Irishe_Rimes_of_Brian_O'Linn-02.jpg
+  * Irish culture is synonymous with folksongs and storytelling. The story of Brian O'Linn is an example of how the Irish preserved their culture through oral dissemination.  S. Rosamond Praeger provides a  literary interpretation of this famous story, continuing its preservation for future generations.
