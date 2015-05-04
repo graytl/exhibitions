@@ -12,7 +12,7 @@ the exhibition gallery on killers in the archives. Text is not yet finalized and
   * Lynette “Squeaky” Fromme made the cover of Time for her attempted assassination of President Gerald Ford on September 5, 1975. Feminist leaders across the country reacted to the magazine’s use of the word “Girl” to describe Fromme who was twenty-seven at the time, asking if they would have used “Boy” if Fromme had been male.  For a short time she transformed from Charles Manson acolyte, would be assassin to feminist cause célèbre.
 * Image Title | The Washington Star, September 6, 1975, Page A-4
   * Filename: MS0412-C-Washington_Star-Sept_6_1975-Lynette_Fromme.02.jpg
-  * MS0412-C-Washington_Star-Sept_6_1975-Lynette_Fromme.02.jpg
+  * News of the September 5, 1975 assassination attempt on President Gerald Ford’s (1913-2006) life struck a chord deep in the American psyche as it had only been twelve years since the assassination of President John F. Kennedy by Lee Harvey Oswald.  Lynette “Squeaky” Fromme was the first woman to attempt an assassination of an American president.  Interestingly, only seventeen days later while leaving a hotel in San Fransisco, California another attempt was made on Ford’s life by Sara Jane Moore who actually fired off a round at the President.
 * Image Title | [Postcard from Lynette Fromme to David Nicholaus, February 1975]
   * Filename: MS0412-C-Lynette_Fromme-Postcard-Feb_1975-01-AB.jpg
   * After the conviction of Charles Manson (1934- ) for conspiring to murder seven people and the publication of Vincent Bugliosi’s book Helter Skelter: The True Story of the Manson Murders people from around the world wanted to write an official history of Manson and his Family. Lynette Fromme (1948- ) fielded these requests for information and vetted offers from publishing houses to the rights of the true history of the group. Writing in coded language she warns a potential biographer to stick to the “True” story of Manson and not give in to the media hype surrounding him and his followers.
@@ -50,20 +50,15 @@ Randolph Hurst's newspapers made it difficult to find an unbiased jury. The Lind
   everything going for them perform such a criminal act?  What did that say about childhood in America?
 * Title | Frank James and His Brother Jesse: The Daring Border Bandits
   * Filename: 
-  * Western fiction got its starts in the penny dreadfuls and dime novels of the Civil War era. The "Hop Along Cassidy" stories 
-  were first published in 1904 and Zane Grey's "Riders of the Purple Sage" was released in 1912. The genre peaked in 1960. "Frank 
-  James and His Brother Jesse" tells the story of Jesse's murder in a sympathetic tone and follows brother Frank's efforts at 
-  revenge and eventual surrender and conversion.
+  * Western fiction got its starts in the penny dreadfuls and dime novels of the Civil War era. The "Hop Along Cassidy" stories were first published in 1904 and Zane Grey's "Riders of the Purple Sage" was released in 1912. The genre peaked in 1960. "Frank James and His Brother Jesse" tells the story of Jesse's murder in a sympathetic tone and follows brother Frank's efforts at revenge and eventual surrender and conversion.
 * Title | [Bonnie and Clyde $100,000 Novelty Bill]
   * Filename: 
   * Bonnie Parker and Clyde Barrow pose on this novelty $100,000 bill, replacing the image of President Woodrow Wilson that 
   adorned the few $100,000 bank notes that were actually printed by the Federal Reserve System. The couple's photographs are 
-  drawn from candid shots discovered by police in April 1933. In fact, high denomination bills over $100 have not been printed 
-  since 1946 and have been withdrawn from circulation by the Federal Reserve since 1969.
+  drawn from candid shots discovered by police in April 1933. In fact, high denomination bills over $100 have not been printed since 1946 and have been withdrawn from circulation by the Federal Reserve since 1969.
 * Title | [Still from 'Bonnie and Clyde']
   * Filename: 
-  * "Bonnie and Clyde" was a romantic and humorous interpretation of the life of Bonnie Parker and Clyde Barrow. The 1967 film 
-  broke new ground in its depiction of sex and violence and used modern filmmaking techniques inspired by French New Wave directors. Historical accuracy was marginalized to evoke sympathy among viewers for the crime pair. The project was a success and was influential in the use of graphic violence in the film industry.
+  * "Bonnie and Clyde" was a romantic and humorous interpretation of the life of Bonnie Parker and Clyde Barrow. The 1967 film broke new ground in its depiction of sex and violence and used modern filmmaking techniques inspired by French New Wave directors. Historical accuracy was marginalized to evoke sympathy among viewers for the crime pair. The project was a success and was influential in the use of graphic violence in the film industry.
 * Title | [Time Magazine cover portrait of Jack Webb, Star of 'Dragnet']
   * Filename: 
   * Dick Wolf, producer of the television series, Law and Order, described Dragnet as “the father of us all." Jack Webb, its 
