@@ -1,18 +1,13 @@
-Exhibit Meatadata & XQuery
+#Using XQery with Exhibitions Metadata
 
-------HowTo-----
+##HowTo
+###Github
+* Fork, clone and create a working branch of the exhibitions repository at [https://github.com/HeardLibrary/exhibitions](https://github.com/HeardLibrary/exhibitions).
 
-1. GitHub
-	fork/clone/branch the exhibitions repository at 
-		https://github.com/HeardLibrary/exhibitions
+###BaseX
+* Create New database in BaseX from the Metadata directory at [GitHubRepos]/exhibitions/Metadata.
+* Query the data.
+* Push changes back to repository by exporting the DB to the Metadata directory at [GitHubRepos]/exhibitions/Metadata.
 
-2. BaseX
-	create db with xml files in directory 
-		[gitHub]/exhibitions/Metadata
-	Query the db
-	Export changes to [gitHub]/exhibitions/Metadata
-
-3. GitHub
-	commit changes
-
-
+###Github
+* Commit changes to working branch
