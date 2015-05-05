@@ -6,10 +6,10 @@
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n50049890">Leopold, Nathan Freudenthal, 1904-1971</name>
+                <name type="personal" vocab="LCNAF" refid="n 50049890">Leopold, Nathan Freudenthal, 1904-1971</name>
                 <dates>
-                    <earliestDate>1904-11-19</earliestDate>
-                    <latestDate>1971-08-29</latestDate>
+                    <earliestDate>1904</earliestDate>
+                    <latestDate>1971</latestDate>
                 </dates>
             </agent>
         </agentSet>
@@ -20,7 +20,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Nathan Leopold (1904-1971) wrote Life Plus 99 Years while in prison awaiting a parole hearing.  He was released in 1958 after thirty-three years of incarceration.  Nathan Leopold and Richard Loeb’s (1905-1936) are best known for the heinous murder of fourteen year-old Bobby Franks on May 21, 1924 in Chicago, Illinois. Leopold’s autobiography details how the rehabilitation of inmates can be effective as seen in his own experience. Upon his release from the Statesville Penitentiary he moved to Puerto Rico, married and worked as an X-ray technician. </description>
+            <description>Nathan Leopold (1904-1971) wrote Life Plus 99 Years while in prison awaiting a parole hearing.  He was released in 1958 after thirty-three years of incarceration.  Nathan Leopold and Richard Loeb’s (1905-1936) are best known for the heinous murder of fourteen year-old Bobby Franks on May 21, 1924 in Chicago, Illinois. Leopold’s autobiography details how the rehabilitation of inmates can be effective as seen in his own experience. Upon his release from the Statesville Penitentiary he moved to Puerto Rico, married and worked as an X-ray technician.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">

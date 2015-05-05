@@ -89,7 +89,7 @@ Sales: +1 800 462 437</text>
         <locationSet>
             <location type="repository">
                 <refid>MS0412-C-Lindbergh-Spirit_Autograph.jpg</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
