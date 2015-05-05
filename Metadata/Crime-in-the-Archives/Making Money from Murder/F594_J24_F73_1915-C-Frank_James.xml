@@ -3,10 +3,16 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
                 <name type="personal" vocab="LCNAF" refid="no2005015212">James, Edgar</name>
+                <role>Author</role>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="no 96059950">I. &amp; M. Ottenheimer Publishers</name>
+                <role>Publisher</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -21,7 +27,7 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>SEVIER F594 .J24 F73 1915 </refid>
+                <refid>Sevier Collection, F594 .J24 F73 1915 </refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -65,7 +71,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of Frank James and His Brother Jesse: The Daring Border Bandits, front cover]</title>
+            <title>[Digital Reproduction of Frank James and His Brother Jesse: The Daring Border Bandits, Front Cover]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

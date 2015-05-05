@@ -3,10 +3,16 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
                 <name type="personal" vocab="LCNAF" refid="n 79055883">Levin, Meyer, 1905-1981</name>
+                <role>Author</role>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 88606464">Pocket Books</name>
+                <role>Publisher</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -20,14 +26,14 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCNAF">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
                 <refid>James G. Stahlman Autograph Collection, Leopold, Nathan folder</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>c. November 1957, Pocket Books Cardinal Edition (now Simon &amp; Shuster). 
-Simon &amp; Schuster, Inc.
+                <text>c. November 1957, Pocket Books Cardinal Edition (now Simon and Shuster). 
+Simon and Schuster, Inc.
 Attn: Permissions Dept., 12th floor
 1230 Avenue of the Americas
 New York, NY 10020
@@ -49,12 +55,13 @@ Email: permissions@simonandschuster.com
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300200529">Paperbacks</worktype>
+            <worktype vocab="AAT" refid="300028051">Books</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
                 <role/>
             </agent>
         </agentSet>
@@ -67,7 +74,7 @@ Email: permissions@simonandschuster.com
         <locationSet>
             <location type="repository">
                 <refid>Compulsion-M_Levin-1956-cover.jpg</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -76,7 +83,7 @@ Email: permissions@simonandschuster.com
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of Compulsion, front cover]</title>
+            <title>[Digital Reproduction of Compulsion, Front Cover]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
