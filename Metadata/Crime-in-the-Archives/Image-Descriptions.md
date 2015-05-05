@@ -32,22 +32,13 @@ the exhibition gallery on killers in the archives. Text is not yet finalized and
 #### Making Money from Crime
 * Image Title | The Lindbergh Kidnapping Case
   * Filename:
-  * Sir Anthony Hopkins was a relative unknown when he took on the role of Bruno Richard Hauptmann in Columbia Pictures' 1976 "The 
-Lindbergh Kidnapping Case." Hopkins won an Emmy for his performance. Sensational headlines and speculative journalism in William 
-Randolph Hurst's newspapers made it difficult to find an unbiased jury. The Lindbergh kidnapping was the subject of a second film, 
-1998's "The Crime of the Century," a phrase reputedly coined by newspaper reporter Damon Runyon.
+  * Sir Anthony Hopkins was a relative unknown when he took on the role of Bruno Richard Hauptmann in Columbia Pictures' 1976 "The Lindbergh Kidnapping Case." Hopkins won an Emmy for his performance. Sensational headlines and speculative journalism in William Randolph Hurst's newspapers made it difficult to find an unbiased jury. The Lindbergh kidnapping was the subject of a second film, 1998's "The Crime of the Century," a phrase reputedly coined by newspaper reporter Damon Runyon.
 * Image Title | Compulsion
   * Filename: 
-  * Levin's novel was based on the 1924 Leopold and Loeb murder case. Psychiatric experts played a large part in the young men's 
-  avoidance of the electric chair, as it had in the trial of Charles Guiteau, who assassinated President Garfield in 1881 and in 
-  the defense of Harry Thaw in the 1906 Stanford White case. Loeb was killed in prison, but Leopold  was paroled, after which he 
-  unsuccessfully sued Levin for defamation of character.
+  * Levin's novel was based on the 1924 Leopold and Loeb murder case. Psychiatric experts played a large part in the young men's avoidance of the electric chair, as it had in the trial of Charles Guiteau, who assassinated President Garfield in 1881 and in the defense of Harry Thaw in the 1906 Stanford White case. Loeb was killed in prison, but Leopold  was paroled, after which he unsuccessfully sued Levin for defamation of character.
 * Title | [Compulsion film poster]
   * Filename: 
-  * The film "Compulsion" was based on Meyer Levin's 1956 novel of the same name. Both tell the story of the 1924 murder trial 
-  of Nathan Leopold and Richard Loeb, two wealthy students who kidnapped and murdered 14-year old Bobby Franks. The press was on 
-  the story before the killers were identified and helped to thwart the ransom delivery. How could two brilliant young men with 
-  everything going for them perform such a criminal act?  What did that say about childhood in America?
+  * The film "Compulsion" was based on Meyer Levin's 1956 novel of the same name. Both tell the story of the 1924 murder trial of Nathan Leopold and Richard Loeb, two wealthy students who kidnapped and murdered 14-year old Bobby Franks. The press was on the story before the killers were identified and helped to thwart the ransom delivery. How could two brilliant young men with everything going for them perform such a criminal act?  What did that say about childhood in America?
 * Title | Frank James and His Brother Jesse: The Daring Border Bandits
   * Filename: 
   * Western fiction got its starts in the penny dreadfuls and dime novels of the Civil War era. The "Hop Along Cassidy" stories were first published in 1904 and Zane Grey's "Riders of the Purple Sage" was released in 1912. The genre peaked in 1960. "Frank James and His Brother Jesse" tells the story of Jesse's murder in a sympathetic tone and follows brother Frank's efforts at revenge and eventual surrender and conversion.
@@ -87,6 +78,17 @@ Randolph Hurst's newspapers made it difficult to find an unbiased jury. The Lind
   shootings in post offices and how the postal workers were usually the victims of the crime, rather than the perpetrators. 
   The issue also examines the history of riots in the U.S. and looks at other odd stories, including the great Nashville Train 
   Wreck of 1918.
+
+#### Leopold and Loeb
+* Title | Life Plus 99 Years
+  * Filename: HV6248_L43_L54_1958-C-Life_Plus_99_Years.jpg
+  * Nathan Leopold (1904-1971) wrote Life Plus 99 Years while in prison awaiting a parole hearing.  He was released in 1958 after thirty-three years of incarceration.  Nathan Leopold and Richard Loeb’s (1905-1936) are best known for the heinous murder of fourteen year-old Bobby Franks on May 21, 1924 in Chicago, Illinois. Leopold’s autobiography details how the rehabilitation of inmates can be effective as seen in his own experience. Upon his release from the Statesville Penitentiary he moved to Puerto Rico, married and worked as an X-ray technician.
+* Title | Letter to Mary K. Brown 
+  * Filename: MS0412-C-Nathan_F_Leopold_letter-Dec_7_1964.jpg
+  * After his release from prison in 1958 Nathan Leopold (1904-1971) moved to Puerto Rico where he re-started his life as an X-ray technician and advocate for the abolition of the death penalty.  In this letter he discusses his opposition to capital punishment and his belief that criminals could be rehabilitated. While in prison Leopold worked tirelessly to improve the lives of inmates, teaching reading classes and establishing libraries within the penitentiaries.
+* Title |  [Dickie Loeb Slain in Prison]
+  * Filename: MS0412-C-Richard_Loeb-Slain_in_Prison-Jan_28_1936.jpg
+  * Richard Loeb was killed in 1936 by his cellmate James Day at the Illinois State Penitentiary at Statesville. During his time in prison he was under constant threat by other prisoners because of the heinous nature of his crime. Leopold (19 at the time) and Loeb (18 at the time) were considered the first “thrill killers” in America a definition that has become synonymous with their names. Both admitted that they were driven by the thrill of the kill, their Übermensch delusions, and their aspiration to commit a "perfect crime". Leopold, at least, considered the incident an intellectual exercise.
 
 #### Lindbergh: Crime of the Century 
 * Title | [Portrait of J. Edgar Hoover]

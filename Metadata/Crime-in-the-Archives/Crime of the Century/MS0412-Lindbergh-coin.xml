@@ -3,6 +3,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
@@ -63,7 +64,7 @@ Note: Sequential Brands Group purchased Franklin Mint.</text>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -75,7 +76,7 @@ Note: Sequential Brands Group purchased Franklin Mint.</text>
         <locationSet>
             <location type="repository">
                 <refid>MS0412-Lindbergh-coin.jpg</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -84,7 +85,7 @@ Note: Sequential Brands Group purchased Franklin Mint.</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of the Charles Lindbergh Flight (26th Commemorative)</title>
+            <title>[Digital Reproduction of The Charles Lindbergh Flight (26th Commemorative)]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

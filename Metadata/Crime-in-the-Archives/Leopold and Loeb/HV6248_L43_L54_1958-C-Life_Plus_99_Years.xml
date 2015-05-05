@@ -7,39 +7,40 @@
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n 79055883">Levin, Meyer, 1905-1981</name>
+                <name type="personal" vocab="LCNAF" refid="n 50049890">Leopold, Nathan Freudenthal, 1904-1971</name>
                 <role>Author</role>
+                <dates>
+                    <earliestDate>1904</earliestDate>
+                    <latestDate>1971</latestDate>
+                </dates>
             </agent>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 88606464">Pocket Books</name>
+                <name vocab="LCNAF" refid="n 79071101">Gardner, Erle Stanley, 1889-1970</name>
+                <role>Writer of introduction</role>
+            </agent>
+            <agent>
+                <name vocab="local">Popular Library</name>
                 <role>Publisher</role>
             </agent>
         </agentSet>
         <dateSet>
             <date type="publication">
-                <earliestDate>1957-10</earliestDate>
-                <latestDate>1957-10</latestDate>
+                <earliestDate>1958</earliestDate>
+                <latestDate>1958</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Levin's novel was based on the 1924 Leopold and Loeb murder case. Psychiatric experts played a large part in the young men's avoidance of the electric chair, as it had in the trial of Charles Guiteau, who assassinated President Garfield in 1881 and in the defense of Harry Thaw in the 1906 Stanford White case. Loeb was killed in prison, but Leopold  was paroled, after which he unsuccessfully sued Levin for defamation of character.</description>
+            <description>Nathan Leopold (1904-1971) wrote Life Plus 99 Years while in prison awaiting a parole hearing.  He was released in 1958 after thirty-three years of incarceration.  Nathan Leopold and Richard Loeb’s (1905-1936) are best known for the heinous murder of fourteen year-old Bobby Franks on May 21, 1924 in Chicago, Illinois. Leopold’s autobiography details how the rehabilitation of inmates can be effective as seen in his own experience. Upon his release from the Statesville Penitentiary he moved to Puerto Rico, married and worked as an X-ray technician.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>James G. Stahlman Autograph Collection, Leopold, Nathan folder</refid>
+                <refid>Sevier Collection, HV 6248 .L43 L54 1958</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>c. November 1957, Pocket Books Cardinal Edition (now Simon and Shuster). 
-Simon and Schuster, Inc.
-Attn: Permissions Dept., 12th floor
-1230 Avenue of the Americas
-New York, NY 10020
-or fax your request on official letterhead to: (212) 698-7284
-Email: permissions@simonandschuster.com
-- See more at: http://www.simonandschuster.biz/biz/rights-and-permissions#sthash.UF8WS3s4.dpuf  OR http://www.simonandschuster.biz/biz/rights-and-permissions</text>
+                <text/>
             </rights>
         </rightsSet>
         <subjectSet>
@@ -49,9 +50,18 @@ Email: permissions@simonandschuster.com
             <subject>
                 <term vocab="LCNAF" refid="n 50048217">Loeb, Richard A., 1905-1936</term>
             </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85137369">Trials (Murder)--Illinois--Chicago</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 89004680">Murderers--Illinois--Chicago--Biography</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85088613">Murder--Illinois--Chicago--Case studies</term>
+            </subject>
         </subjectSet>
         <titleSet>
-            <title>Compulsion</title>
+            <title>Life Plus 99 Years</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300200529">Paperbacks</worktype>
@@ -62,18 +72,17 @@ Email: permissions@simonandschuster.com
         <agentSet>
             <agent>
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <role/>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015-03-17</earliestDate>
-                <latestDate>2015-03-17</latestDate>
+                <earliestDate>2015-03-02</earliestDate>
+                <latestDate>2015-03-02</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>Compulsion-M_Levin-1956-cover.jpg</refid>
+                <refid>HV6248_L43_L54_1958-C-Life_Plus_99_Years.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
@@ -83,7 +92,7 @@ Email: permissions@simonandschuster.com
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Compulsion, Front Cover]</title>
+            <title>[Digital Reproduction of Life Plus 99 Years, Front Cover]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
