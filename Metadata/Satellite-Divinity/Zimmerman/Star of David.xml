@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="" vocab="" refid=""/>
+                <dates>
+                    <earliestDate></earliestDate>
+                    <latestDate></latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1993</earliestDate>
+                <latestDate>1993</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>In fall of 1993, after 18 months of cataloging the 6,000 volumes in the Glatzer Collection and creating registries for the archival material, an exhibit was created to highlight some of the collection’s unique items. Included in the exhibit were an early example of the use of a six-pointed star, (3rd century. C.E.) and a Hebrew Bible published as the Nazis came to power (1930-1933, published by Soncino-Gesellschaft).   </description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Archives</name>
+                <refid>Divinity Library Archives</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright is maintained by the Divinity Library.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="" refid=""></term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>[Folder of Star of David Exhibit]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300026096">exhibition catalogs</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-03-04</earliestDate>
+                <latestDate>2015-03-04</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>Judaica-Star_of_David_Exhibit-Fall_1993.jpg</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Digital Image of [Folder of Star of David Exhibit]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>
