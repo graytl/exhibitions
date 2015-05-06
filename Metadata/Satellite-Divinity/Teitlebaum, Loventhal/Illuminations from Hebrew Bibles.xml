@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="" vocab="" refid=""/>
+                <dates>
+                    <earliestDate></earliestDate>
+                    <latestDate></latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>1989</earliestDate>
+                <latestDate>1989</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>The portfolio consists of facsimiles from the illuminated Bibles in the Firkovitch Collection at the Leningrad Public Library. There are 27 plates from the original edition published in 1905 and 25 additional plates added for 1989 edition. The most original innovation to be found in these Bibles is the use of micrography (minute script) to outline decoration.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="local" refid="">Vanderbilt Divinity Library</name>
+                <refid>ND2935 .O764 1989</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>It is under fair use. Only one facsimile is on display.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="" refid=""></term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>[A Plate from Illuminations from Hebrew Bibles in Leningrad]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="RBGENR" refid="">books</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <role></role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-04-02</earliestDate>
+                <latestDate>2015-04-02</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>Illuminations_from_Hebrew_Bibleo_of_Leningrad-1989.jpg</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Digital Image of [A Plate from Illuminations from Hebrew Bibles in Leningrad]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">digital image</worktype>
+        </worktypeSet>
+    </image>
+</vra>

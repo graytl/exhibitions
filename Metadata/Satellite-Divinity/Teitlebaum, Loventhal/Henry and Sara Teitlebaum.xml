@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="" vocab="" refid=""/>
+                <dates>
+                    <earliestDate></earliestDate>
+                    <latestDate></latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1930</earliestDate>
+                <latestDate>1939?</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>Henry Teitlebaum was the founder of Loveman’s retail clothing store and a leader of Nashville’s Jewish community. His wife Sarah Lowenstein Teitlebaum was also a prominent member of that community. The Elbogens and Teitlebaums met in Europe in the 1930’s, setting the stage for Sarah Teitelbaum’s 1944 donation to the Library to purchase the Elbogen Collection.  </description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="local" refid="">Jewish Federation of Nashville and Middle Tennessee</name>
+                <refid>image sent from Annette Levy Ratkin Jewish Community Archives</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="undetermined">
+                <text>Image was shared by Lynn Fleischer, Annette Levy Ratkin Jewish Community Archives. Email contactl: archives@jewishnashville.org
+
+</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="" refid=""></term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>[Henry and Sara Teitlebaum]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300128347  ">black-and-white photographs</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt Univeristy Photographic Archives</name>
+                <role></role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="other">
+                <earliestDate>2015</earliestDate>
+                <latestDate>2015</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>Henry and Sara Teitlebaum.jpg</refid>
+                <name type="" vocab="" refid="">Vanderbilt Univeristy Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Digital Image of [Henry and Sara Teitlebaum]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>
