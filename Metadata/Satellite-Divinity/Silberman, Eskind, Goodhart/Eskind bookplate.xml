@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="" vocab="" refid=""/>
+                <dates>
+                    <earliestDate></earliestDate>
+                    <latestDate></latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1963</earliestDate>
+                <latestDate>1963</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>Professor Lou H. Silberman was instrumental in assisting Mr. Manuel Eskind to establish a fund in memory of his wife, Leah Belle Levy Eskind.  From 1963 to 1980, an annual gift was received by the library, enabling the Judaica Collection to maintain a healthy acquisitions program.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Archives</name>
+                <refid>Box 886, Folder 23</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="" refid=""></term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>[Bookplate of the Leah Belle Levy Eskind Memorial Collection of Judaica]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300028731">bookplates</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <role></role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-03-04</earliestDate>
+                <latestDate>2015-03-04</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>Judaica-B886F23-Bookplates-04.jpg</refid>
+                <name type="" vocab="" refid="">Vanderbilt Univeristy Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Digital Images of [Bookplate of the Leah Belle Levy Eskind Memorial Collection of Judaica]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

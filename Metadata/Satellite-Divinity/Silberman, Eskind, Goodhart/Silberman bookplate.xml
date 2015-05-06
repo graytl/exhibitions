@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="" vocab="" refid=""/>
+                <dates>
+                    <earliestDate></earliestDate>
+                    <latestDate></latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1984</earliestDate>
+                <latestDate>1984</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>Professor Silberman devoted himself to further the development of the Judaica Collection. He worked many hours with catalogers and vendors to purchase or swap titles to enhance the Collection’s holdings. A book fund was established in his honor on the occasion of Professor Silberman’s delivery of the Cole Lectures in 1984. The design is adapted from an early typesetting of the Hebrew word for book: sepher ספר.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Archives</name>
+                <refid>Box 886, Folder 23</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="" refid=""></term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>[Bookplate of the Silberman Book Fund]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300028731">bookplates</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <role></role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-03-04</earliestDate>
+                <latestDate>2015-03-04</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>Judaica-B886F23-Bookplates-10.jpg</refid>
+                <name type="" vocab="" refid="">Vanderbilt Univeristy Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Digital Image of [Bookplate of the Silberman Book Fund]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>
