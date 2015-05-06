@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="no98090423">Kuhlman, Frederick</name>
+                <dates>
+                    <earliestDate>1889</earliestDate>
+                    <latestDate>1986</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1944-12-25</earliestDate>
+                <latestDate>1944-12-25</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>Dr. Kuhlman wrote this letter, dated Dec. 25, 1944, to Mrs. Sarah Lowenstein Teitltebaum thanking her for a generous donation in memory of her husband, Henry Teitlebaum. Her gift funded the purchase of Dr. Ismar Elbogen’s collection</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="" vocab="" refid="">Vanderbilt University Archives</name>
+                <refid>Divinity Library Archives/Box 886, Folder 31</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Work for hire, Vanderbilt University</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="" refid=""></term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title> [Letter from Frederick Kuhlman to Mrs. Sara Lowenstein Teitlebaum]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="RBGENR" refid="">letters</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
+                <role></role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-03-04</earliestDate>
+                <latestDate>2015-03-04</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>Judaica-B886F31-Kuhlman-Teitlebaum.jpg</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title> Digital Image of [Letter from Frederick Kuhlman to Mrs. Sara Lowenstein Teitlebaum]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>
