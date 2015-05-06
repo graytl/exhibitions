@@ -13,13 +13,6 @@
                     <latestDate>present</latestDate>
                 </dates>
             </agent>
-            <agent>
-                <name type="personal" vocab="">Unknown</name>
-                <dates>
-                    <earliestDate>1902</earliestDate>
-                    <latestDate>1974</latestDate>
-                </dates>
-            </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
