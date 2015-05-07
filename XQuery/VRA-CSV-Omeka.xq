@@ -137,11 +137,11 @@ let $imageRights :=
     if (fn:empty($imageRightsPath))
     then ("NULL")
     else if ((count($imageRightsPath)) > 1)
-    then (fn:string-join(($fileNamePath), "; "))
+    then (fn:string-join(($imageRightsPath), "; "))
     else ($imageRightsPath)
     
 (:Rights:)
-let $rights := $workRights||"; "||$imageRights
+let $rights := $workRights||$imageRights
 
 let $line := fn:string-join((fn:base-uri($individual),$workTitle, $date, $workType, $workAgents, $subject, $workDescription, $source, $rights, $imageRights, $filePath), '|')
 
