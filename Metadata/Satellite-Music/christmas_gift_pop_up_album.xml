@@ -3,17 +3,18 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
-  <agentSet>
-      <display>Ronco (distributor), CBS Records (manufacturer), Columbia Records (producer)</display>
+        <agentSet>
+            <display>Ronco (distributor), CBS Records (manufacturer), Columbia Records (producer)</display>
             <agent>
                 <name type="corporate" vocab="LCNAF" refid="no2003019616">Ronco Teleproducts</name>
             </agent>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n81097261">CBS Records (firm)</name>            
+                <name type="corporate" vocab="LCNAF" refid="n 81097261">CBS Records (Firm)</name>
             </agent>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n92049888">Columbia Records, Inc.</name>
+                <name type="corporate" vocab="LCNAF" refid="n 92049888">Columbia Records, Inc.</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -24,43 +25,46 @@
         </dateSet>
         <descriptionSet>
             <display>Recording companies also issued “special editions” or “collector’s editions,” often just in time for the holidays. This item features a 3-D pop-up manger scene inside the cover of a Christmas album.</display>
-            <description source="Sara Manus, Vanderbilt University Library, 2014">Recording companies also issued “special editions” or “collector’s editions,” often just in time for the holidays. This item features a 3-D pop-up manger scene inside the cover of a Christmas album.</description>
+            <description>Recording companies also issued “special editions” or “collector’s editions,” often just in time for the holidays. This item features a 3-D pop-up manger scene inside the cover of a Christmas album.</description>
             <description/>
         </descriptionSet>
         <locationSet>
-        <display>Vanderbilt University Library, Anne Potter Wilson Music Library, manufactured by CBS Records, New York, NY.</display>
-        <location type="repository">
-            <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
-            <name type="geographic" vocab="TGN" refid="7013959" extent="inhabited place">Nashville-Davidson</name>
-            <name type="geographic" vocab="TGN" refid="2001855" extent="county">Davidson</name>
-            <name type="geographic" vocab="TGN" refid="7007825" extent="state">Tennessee</name>
-            <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
-            <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
-        </location>
-        <location type="creation">
-            <name type="corporate" vocab="LCNAF" refid="n81097261">CBS Records (firm)</name>
-            <name type="geographic" vocab="TGN" refid="7007567" extent="inhabited place">New York</name>
-            <name type="geographic" vocab="TGN" refid="7007568" extent="state">New York</name>
-            <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
-            <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
-        </location>
+            <display>Vanderbilt University Library, Anne Potter Wilson Music Library, manufactured by CBS Records, New York, NY.</display>
+            <location type="repository">
+                <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
+                <name type="geographic" vocab="TGN" refid="7013959" extent="inhabited place">Nashville-Davidson</name>
+                <name type="geographic" vocab="TGN" refid="2001855" extent="county">Davidson</name>
+                <name type="geographic" vocab="TGN" refid="7007825" extent="state">Tennessee</name>
+                <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
+                <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
+            </location>
+            <location type="creation">
+                <name type="corporate" vocab="LCNAF" refid="n 81097261">CBS Records (firm)</name>
+                <name type="geographic" vocab="TGN" refid="7007567" extent="inhabited place">New York</name>
+                <name type="geographic" vocab="TGN" refid="7007568" extent="state">New York</name>
+                <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
+                <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
+            </location>
         </locationSet>
         <rightsSet>
-            <display> P 12430 Ronco Records, c1974 by CBS Records</display>
+            <display>P 12430 Ronco Records, c1974 by CBS Records</display>
             <rights type="copyrighted">
-            <rightsHolder>CBS Records, 51 W. 52 Street, New York, NY.</rightsHolder>                
+                <rightsHolder>CBS Records, 51 W. 52 Street, New York, NY.</rightsHolder>
                 <text>The display of this physical object constitutes a fair use as detailed in the ACRL's Code of Best Practices in Fair Use for Academic and Research Libraries.</text>
             </rights>
         </rightsSet>
         <subjectSet>
-            <display>Pop-up books, Christmas music, Popular music--1971-1980.</display>
+            <display>Christmas music, Popular music--1971-1980.</display>
             <subject>
-                <term type="descriptive" vocab="AAT" refid="300201034">Pop-up books</term>
+                <term vocab="LCSH" refid="sh 87003311">Popular music--1971-1980--Specimens</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85025312">Christmas music--Specimens</term>
             </subject>
         </subjectSet>
         <titleSet>
             <display>Ronco Presents: A Christmas Gift</display>
-            <title type="cited" pref="true" xml:lang="en">Ronco Presents: A Christmas Gift</title>
+            <title xml:lang="en">Ronco Presents: A Christmas Gift</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300201034">Pop-up books</worktype>
@@ -69,19 +73,19 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+            <date type="creation">
+                <earliestDate>2015-04-20</earliestDate>
+                <latestDate>2015-04-20</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid/>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>20150417SG042.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -90,11 +94,10 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title></title>
+            <title>[Digital Reproduction of Ronco Presents: A Christmas Gift, Nativity Scene]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>
-
