@@ -130,7 +130,20 @@ let $fileName :=
   let $imageShare := "PATH TO IMAGES/"
   let $filePath := $imageShare||$fileName
 
-let $line := fn:string-join((fn:base-uri($individual),$workTitle, $date, $workType, $workAgents, $subject, $workDescription, $source, $workRights, $filePath), '|')
+(:Image Rights:)
+let $imageRightsPath := $individual/vra:image/vra:rightsSet/vra:rights/vra:text/text()
+
+let $imageRights :=
+    if (fn:empty($imageRightsPath))
+    then ("NULL")
+    else if ((count($imageRightsPath)) > 1)
+    then (fn:string-join(($fileNamePath), "; "))
+    else ($imageRightsPath)
+    
+(:Rights:)
+let $rights := $workRights||"; "||$imageRights
+
+let $line := fn:string-join((fn:base-uri($individual),$workTitle, $date, $workType, $workAgents, $subject, $workDescription, $source, $rights, $imageRights, $filePath), '|')
 
 return
  $line)
