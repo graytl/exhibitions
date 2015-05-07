@@ -4,6 +4,22 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
     <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="local"> Thuss, William Gustave</name>
+                <dates>
+                    <earliestDate>1854</earliestDate>
+                    <latestDate>1943</latestDate>
+                </dates>
+            </agent>
+            <agent>
+                    <name type="personal" vocab="local">Thuss, Andrew Joseph</name>
+                    <dates>
+                        <earliestDate>1866</earliestDate>
+                        <latestDate>1956</latestDate>
+                    </dates>
+                </agent>
+            </agentSet>   
         <dateSet>
             <date type="creation">
                 <earliestDate>Unknown</earliestDate>
@@ -11,7 +27,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Composite images like this one were an early form of Photoshop.  Chancellor Kirkland is flanked by Registrar Mary W. Haggard, and Academic Bursar J.E. Hart.   Medical Department Bursar A.E. Godwin completes the group.</description>
+            <description>Composite images like this one were an early form of Photoshop.  Chancellor Kirkland is flanked by Registrar Mary W. Haggard and Academic Bursar J.E. Hart.   Medical Department Bursar A.E. Godwin completes the group. Photographers William Gustav Thuss (1854-1943) and his brother Andrew Joseph (1866-1956)  operated a studio at the Tennessee Centennial Exposition, taking official portraits like this as well as souvenir photographs.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
