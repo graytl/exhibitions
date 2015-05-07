@@ -2,7 +2,8 @@ xquery version "3.0";
  
 declare namespace vra="http://www.vraweb.org/vracore4.htm";
 
-let $head := "BASE_URI|WORK_TITLE|DATE|AGENT_NAMES|DESCRIPTION|WORK_RIGHTS"
+let $head := "BASE_URI|TITLE|DATE|FORMAT|CONTRIBUTOR|SUBJECT|DESCRIPTION|SOURCE|RIGHTS|FILE_PATH"
+
 
 return
 ($head,
@@ -37,7 +38,7 @@ let $date :=
     then (fn:string-join(($datePath), "; "))
     else ($datePath)
     
-(:WorkAgents:)
+(:WorkAgents -- CONTRIBUTORS:)
 let $workAgentsPath := $individual/vra:work/vra:agentSet/vra:agent/vra:name/text()
 
 let $workAgents :=
@@ -47,7 +48,7 @@ let $workAgents :=
     then (fn:string-join(($workAgentsPath), "; "))
     else ($workAgentsPath)
 
-(:WorkType:)
+(:WorkType -- FORMAT:)
 let $workTypePath := $individual/vra:work/vra:worktypeSet/vra:worktype/text()
 
 let $workType :=
@@ -56,6 +57,16 @@ let $workType :=
     else if ((count($workTypePath)) > 1)
     then (fn:string-join(($workTypePath), "; "))
     else ($workTypePath)
+    
+(: Subject! :)
+let $subjectPath := $individual//vra:work//vra:subject/vra:term/text()
+
+let $subject :=
+    if (fn:empty($subjectPath))
+    then ("NULL")
+    else if ((count($subjectPath)) > 1)
+    then (fn:string-join(($subjectPath), "; "))
+    else ($subjectPath)
     
 (:Work Description -- Line breaks replaced with space:)
 let $workDescriptionPath := for $each in $individual/vra:work/vra:descriptionSet//vra:description/text()
@@ -67,6 +78,16 @@ let $workDescription :=
     else if ((count($workDescriptionPath)) > 1)
     then (fn:string-join(($workDescriptionPath), "; "))
     else ($workDescriptionPath)
+    
+(:Work Source:)
+let $sourcePath := $individual//vra:work//vra:location[@type="repository"]/vra:refid/text()
+
+let $source :=
+    if (fn:empty($sourcePath))
+    then ("NULL")
+    else if ((count($sourcePath)) > 1)
+    then (fn:string-join(($sourcePath), "; "))
+    else ($sourcePath)
 
 (:Work Rights -- Newlines replaced with " -- ":)
 let $workRightsPath := for $each in $individual/vra:work/vra:rightsSet/vra:rights/vra:text/text()
@@ -77,7 +98,8 @@ let $workRights :=
     then ("NULL")
     else if ((count($workRightsPath)) > 1)
     then (fn:string-join(($workRightsPath), "; "))
-    else ($workRightsPath)    
+    else ($workRightsPath) 
+       
     
 (:IMAGE DATA:
   Title
@@ -108,7 +130,7 @@ let $fileName :=
   let $imageShare := "PATH TO IMAGES/"
   let $filePath := $imageShare||$fileName
 
-let $line := fn:string-join((fn:base-uri($individual),$workTitle, $imageTitle, $filePath, $date, $workType, $workAgents, $workDescription, $workRights), '|')
+let $line := fn:string-join((fn:base-uri($individual),$workTitle, $date, $workType, $workAgents, $subject, $workDescription, $source, $workRights, $filePath), '|')
 
 return
  $line)

@@ -14,10 +14,15 @@ format
 coverage
 identifier
 date	date/earliestDate
-source
+source	location[@type="repository"]
+
+OMEKA	VRA
+-----	---
+File	image//location/refid
 
 
 
 
 location @type = (repository, creation, other). not mapping to DC right now.
 
+source = location[@type="repository"]
