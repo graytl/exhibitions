@@ -661,7 +661,7 @@
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
-    
+    <image>
     <dateSet>
         <date type="creation">
             <earliestDate>2015-04-16</earliestDate>
@@ -687,6 +687,7 @@
     </worktypeSet>
     </image>
     
+    <image>
     <dateSet>
         <date type="creation">
             <earliestDate>2015-04-16</earliestDate>
@@ -712,6 +713,7 @@
     </worktypeSet>
     </image>
     
+    <image>
     <dateSet>
         <date type="creation">
             <earliestDate>2015-04-16</earliestDate>
@@ -737,6 +739,7 @@
     </worktypeSet>
     </image>
     
+    <image>
     <dateSet>
         <date type="creation">
             <earliestDate>2015-04-16</earliestDate>
