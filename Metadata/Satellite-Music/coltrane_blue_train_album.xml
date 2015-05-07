@@ -3,38 +3,54 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <display>John Coltrane (saxophone, 1926-1967), Lee Morgan (trumpet, 1938-1972), Curtis Fuller (trombone, 1934-), Kenny Drew (piano), Paul Chambers (bass, 1935-1969), Philly Joe Jones (drums). </display>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n50031907">Coltrane, John, 1926-1967</name>
+                <name type="personal" vocab="LCNAF" refid="n 50031907">Coltrane, John, 1926-1967</name>
                 <dates>
-                    <earliestDate>1926</earliestDate>
-                    <latestDate>1967</latestDate>
+                    <earliestDate>1926-09-23</earliestDate>
+                    <latestDate>1967-07-17</latestDate>
                 </dates>
             </agent>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n81058254">Morgan, Lee, 1938-1972</name>
+                <name type="personal" vocab="LCNAF" refid="n 81058254">Morgan, Lee, 1938-1972</name>
                 <dates>
-                    <earliestDate>1938</earliestDate>
-                    <latestDate>1972</latestDate>
+                    <earliestDate>1938-07-10</earliestDate>
+                    <latestDate>1972-02-19</latestDate>
                 </dates>
             </agent>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n81058241">Fuller, Curtis, 1934-</name>
+                <name type="personal" vocab="LCNAF" refid="n 81058241">Fuller, Curtis, 1934-</name>
+                <dates>
+                    <earliestDate>1934-12-15</earliestDate>
+                    <latestDate>present</latestDate>
+                </dates>
             </agent>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n82145589">Drew, Kenny</name>
+                <name type="personal" vocab="LCNAF" refid="n 82145589">Drew, Kenny</name>
+                <dates>
+                    <earliestDate>1928-08-28</earliestDate>
+                    <latestDate>1993-08-04</latestDate>
+                </dates>
             </agent>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n84148412">Chambers, Paul, 1935-1969</name>
+                <name type="personal" vocab="LCNAF" refid="n 84148412">Chambers, Paul, 1935-1969</name>
                 <dates>
                     <earliestDate>1935</earliestDate>
                     <latestDate>1969</latestDate>
                 </dates>
             </agent>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n82077167">Jones, Philly Joe</name>
+                <name type="personal" vocab="LCNAF" refid="n 82077167">Jones, Philly Joe</name>
+                <dates>
+                    <earliestDate>1923-07-15</earliestDate>
+                    <latestDate>1985-08-30</latestDate>
+                </dates>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 95016751">Blue Note (Firm)</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -51,7 +67,7 @@
         <locationSet>
             <display>Vanderbilt University Library, Anne Potter Wilson Music Library. Issued by Blue Note Records, Hollywood, CA.</display>
             <location type="repository">
-                <name type="corporate" vocab="LCNAF" refid="n81075875">Vanderbilt University Library</name>
+                <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
                 <name type="geographic" vocab="TGN" refid="7013959" extent="inhabited place">Nashville-Davidson</name>
                 <name type="geographic" vocab="TGN" refid="2001855" extent="county">Davidson</name>
                 <name type="geographic" vocab="TGN" refid="7007825" extent="state">Tennessee</name>
@@ -59,7 +75,7 @@
                 <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
             </location>
             <location type="creation">
-                <name type="corporate" vocab="LCNAF" refid="n95016751">Blue Note (firm)</name>
+                <name type="corporate" vocab="LCNAF" refid="n 95016751">Blue Note (Firm)</name>
                 <name type="geographic" vocab="TGN" refid=" 7013837" extent="neighborhood">Hollywood</name>
                 <name type="geographic" vocab="TGN" refid="7023900" extent="inhabited place">Los Angeles</name>
                 <name type="geographic" vocab="TGN" refid="1002608" extent="county">Los Angeles</name>
@@ -76,20 +92,52 @@
             </rights>
         </rightsSet>
         <subjectSet>
-            <display>Album covers, Jazz--1951-1960.</display>
+            <display>Jazz--1951-1960; Sound recordings--Album covers--Specimens</display>
             <subject>
-                <term type="descriptive" vocab="AAT" refid="300247936">record covers</term>
+                <term vocab="LCSH" refid="sh 90002680">Jazz--1951-1960</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85125392">Sound recordings--Album covers--Specimens</term>
             </subject>
         </subjectSet>
         <titleSet>
             <display>Blue Train: John Coltrane</display>
-            <title type="cited" pref="true" source="item">Blue Train: John Coltrane</title>
+            <title>Blue Train: John Coltrane</title>
         </titleSet>
         <worktypeSet>
-            <display>CD, album cover art.</display>
-            <worktype vocab="AAT" refid="300247936">record covers</worktype>
-            <worktype vocab="AAT" refid="300028673">compact discs</worktype>
+            <worktype vocab="AAT" refid="300247936">Record covers</worktype>
+            <worktype vocab="AAT" refid="300028673">Compact discs</worktype>
         </worktypeSet>
     </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-04-17</earliestDate>
+                <latestDate>2015-04-17</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>20150417SG047.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[Digital Reproduction of Blue Train: John Coltrane, Album Cover]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
 </vra>
 
