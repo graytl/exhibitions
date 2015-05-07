@@ -3,11 +3,15 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
-            <display>Edison Concert Band (performers)</display>
+            <display>Edison Concert Band (Performers)</display>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="no99004899">Edison Concert Band</name>
+                <name type="corporate" vocab="LCNAF" refid="no 99004899">Edison Concert Band</name>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 85307591">National Phonograph Company</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -19,12 +23,12 @@
         </dateSet>
         <descriptionSet>
             <display>Developed in 1902, the Edison Gold Moulded Cylinder was a significant advancement in recording technology. Rather than relying on inconsistent dubbing techniques, this method created a metal mold from the original recording, and a blank brown cylinder was inserted and heated, resulting in precise reproduction.</display>
-            <description source="Sara Manus, Vanderbilt University Library, 2015">Developed in 1902, the Edison Gold Moulded Cylinder was a significant advancement in recording technology. Rather than relying on inconsistent dubbing techniques, this technique created a metal mold from the original recording, and a blank brown cylinder was inserted and heated, resulting in precise reproduction.</description>
+            <description>Developed in 1902, the Edison Gold Moulded Cylinder was a significant advancement in recording technology. Rather than relying on inconsistent dubbing techniques, this technique created a metal mold from the original recording, and a blank brown cylinder was inserted and heated, resulting in precise reproduction.</description>
         </descriptionSet>
         <locationSet>
-            <display>Middle Tennessee State University, Center for Popular Music. Issued the National Phonograph Company, Edison Gold Moulded Record 8516, 1907.</display>
+            <display>Middle Tennessee State University, Center for Popular Music. Issued by the National Phonograph Company, Edison Gold Moulded Record 8516, 1907.</display>
             <location type="repository">
-                <name type="corporate" vocab="LCNAF" refid="n90727668">Middle Tennessee State University, Center for Popular Music</name>
+                <name type="corporate" vocab="LCNAF" refid="n 90727668">Middle Tennessee State University. Center for Popular Music</name>
                 <name type="geographic" vocab="TGN" refid=" 7014175" extent="inhabited place">Murfreesboro</name>
                 <name type="geographic" vocab="TGN" refid="2001911" extent="county">Rutherford</name>
                 <name type="geographic" vocab="TGN" refid="7007825" extent="state">Tennessee</name>
@@ -32,7 +36,7 @@
                 <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
             </location>
             <location type="creation">
-                <name type="corporate" vocab="LCNAF" refid="n85307591">National Phonograph Company</name>
+                <name type="corporate" vocab="LCNAF" refid="n 85307591">National Phonograph Company</name>
                 <name type="geographic" vocab="TGN" refid="2065747" extent="inhabited place">Orange</name>
                 <name type="geographic" vocab="TGN" refid="1002360" extent="county">Essex</name>
                 <name type="geographic" vocab="TGN" refid="7007565" extent="state">New Jersey</name>
@@ -42,25 +46,57 @@
         </locationSet>
         <rightsSet>
             <display>Issued in 1907 by the National Phonograph Company, now in the public domain.</display>
-            <rights type="publicDomain">
-                <rightsHolder>public domain</rightsHolder>                
+            <rights type="publicDomain">              
                 <text>This item is in the public domain, and no longer restricted by U.S. Copyright Law.</text>
             </rights>
         </rightsSet>
         <subjectSet>
-            <display>Cylinder phonograph, cylinder recording, Gold Moulded Record.</display>
+            <display>Cylinder recording--Specimens, Gold moulded records--Specimens</display>
             <subject>
-                <term type="descriptive" vocab="AAT" refid="300265798">cylinder phonographs (phonographs)</term>
+                <term vocab="LCSH" refid="sh 85101059">Cylinder recordings--Specimens</term>
+            </subject>
+            <subject>
+                <term vocab="local">Gold moulded records--Specimens</term>
             </subject>
         </subjectSet>
         <titleSet>
             <display>Ballet Music from Faust, Part 2</display>
-            <title type="cited" pref="true" source="item">Ballet Music from Faust, Part 2</title>
+            <title>Ballet Music from Faust, Part 2</title>
         </titleSet>
         <worktypeSet>
-            <display>Cylinder phonograph.</display>
-            <worktype vocab="AAT" refid="300265798">cylinder phonographs (phonographs)</worktype>
+            <display>Cylinder recording</display>
+            <worktype vocab="AAT" refid="300028640">Cylinders (sound recordings)</worktype>
         </worktypeSet>
     </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-04-20</earliestDate>
+                <latestDate>2015-04-20</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>20150417SG051.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[Digital Reproduction of Ballet Music from Faust, Part 2, View of Container]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
 </vra>
 
