@@ -7,7 +7,11 @@
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="local">Hibbs, Henry C.</name>
+                <name type="personal" vocab="local">Hibbs, Henry Closson</name>
+                <dates>
+                    <earliestDate>1882-01-26</earliestDate>
+                    <latestDate>1949-03-03</latestDate>
+                </dates>
             </agent>
         </agentSet>
         <dateSet>
@@ -17,7 +21,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>This architectural rendering shows the east elevation of the proposed "General Library Building," now know as the Central Library.</description>
+            <description>This architectural rendering shows the east elevation of the proposed "General Library Building," of Vanderbilt University, now known as the Central Library. Architect Henry Hibbs moved to Nashville in 1914 to design Peabody College (now Peabody College of Education and Human Development, Vanderbilt University).  He later designed the General Library Building and a number of other academic and public buildings across the state.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
