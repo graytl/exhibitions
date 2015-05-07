@@ -2,14 +2,21 @@ xquery version "3.0";
  
 declare namespace vra="http://www.vraweb.org/vracore4.htm";
 
-let $head := "BASE_URI|WORK_TITLE|IMAGE_TITLE|FILE_NAME|CREATION_DATE|PUBLICATION_DATE|WORK_TYPE|AGENT_NAMES|DESCRIPTION|WORK_RIGHTS"
+let $head := "BASE_URI|WORK_TITLE|DATE|AGENT_NAMES|DESCRIPTION|WORK_RIGHTS"
 
 return
 ($head,
 let $records := fn:collection("Metadata")/vra:vra
 for $individual in $records
 
-(:WORK DATA:)
+(:WORK DATA:
+  Title
+  Date
+  Agents
+  Type
+  Description
+  Rights:)
+
 (:Work Title:)
 let $workTitlePath := $individual/vra:work/vra:titleSet/vra:title/text()
 
@@ -19,6 +26,16 @@ let $workTitle :=
     else if ((count($workTitlePath)) > 1)
     then (fn:string-join(($workTitlePath), "; "))
     else ($workTitlePath)
+    
+(:Work Date -- Creation and Publication earliestDate as Date:)
+let $datePath := $individual/vra:work/vra:dateSet/vra:date/vra:earliestDate/text()
+
+let $date :=
+    if (fn:empty($datePath))
+    then ("NULL")
+    else if ((count($datePath)) > 1)
+    then (fn:string-join(($datePath), "; "))
+    else ($datePath)
     
 (:WorkAgents:)
 let $workAgentsPath := $individual/vra:work/vra:agentSet/vra:agent/vra:name/text()
@@ -30,26 +47,6 @@ let $workAgents :=
     then (fn:string-join(($workAgentsPath), "; "))
     else ($workAgentsPath)
 
-(:Work Publication Date - Earliest:)
-let $workPublicationDateEarlyPath := $individual/vra:work/vra:dateSet/vra:date[@type="publication"]/vra:earliestDate/text()
-
-let $workPublicationDateEarly :=
-    if (fn:empty($workPublicationDateEarlyPath))
-    then ("NULL")
-    else if ((count($workPublicationDateEarlyPath)) > 1)
-    then (fn:string-join(($workPublicationDateEarlyPath), "; "))
-    else ($workPublicationDateEarlyPath)
-
-(:Work Creation Date - Earliest:)
-let $workCreationDateEarlyPath := $individual/vra:work/vra:dateSet/vra:date[@type="creation"]/vra:earliestDate/text()
-
-let $workCreationDateEarly :=
-    if (fn:empty($workCreationDateEarlyPath))
-    then ("NULL")
-    else if ((count($workCreationDateEarlyPath)) > 1)
-    then (fn:string-join(($workCreationDateEarlyPath), "; "))
-    else ($workCreationDateEarlyPath)
-    
 (:WorkType:)
 let $workTypePath := $individual/vra:work/vra:worktypeSet/vra:worktype/text()
 
@@ -82,8 +79,12 @@ let $workRights :=
     then (fn:string-join(($workRightsPath), "; "))
     else ($workRightsPath)    
     
-(:IMAGE DATA:)
-(:Image Title:)
+(:IMAGE DATA:
+  Title
+  FileName
+  Image Title (.../vra:image/vra:locationSet/vra:location/vra:refid
+File Path)
+  :)
 let $imageTitlePath := $individual/vra:image/vra:titleSet/vra:title/text()
 
 let $imageTitle := 
@@ -93,17 +94,21 @@ let $imageTitle :=
     then (fn:string-join(($imageTitlePath), "; "))
     else ($imageTitlePath)
     
-(:Image Location REFID:)
-let $imageLocationRefidPath := $individual/vra:image/vra:locationSet/vra:location/vra:refid/text()
+(:FileName (Image Location REFID):)
+let $fileNamePath := $individual/vra:image/vra:locationSet/vra:location/vra:refid/text()
 
-let $imageLocationRefid :=
-    if (fn:empty($imageLocationRefidPath))
+let $fileName :=
+    if (fn:empty($fileNamePath))
     then ("NULL")
-    else if ((count($imageLocationRefidPath)) > 1)
-    then (fn:string-join(($imageLocationRefidPath), "; "))
-    else ($imageLocationRefidPath)    
+    else if ((count($fileNamePath)) > 1)
+    then (fn:string-join(($fileNamePath), "; "))
+    else ($fileNamePath)    
 
-let $line := fn:string-join((fn:base-uri($individual),$workTitle, $imageTitle, $imageLocationRefid, $workCreationDateEarly,$workPublicationDateEarly, $workType, $workAgents, $workDescription, $workRights), '|')
+(: Path to File on server:)
+  let $imageShare := "PATH TO IMAGES/"
+  let $filePath := $imageShare||$fileName
+
+let $line := fn:string-join((fn:base-uri($individual),$workTitle, $imageTitle, $filePath, $date, $workType, $workAgents, $workDescription, $workRights), '|')
 
 return
  $line)
