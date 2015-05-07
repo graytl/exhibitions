@@ -68,9 +68,9 @@ let $subject :=
     then (fn:string-join(($subjectPath), "; "))
     else ($subjectPath)
     
-(:Work Description -- Line breaks replaced with space:)
+(:Work Description -- Line breaks replaced with --:)
 let $workDescriptionPath := for $each in $individual/vra:work/vra:descriptionSet//vra:description/text()
-return replace($each, "&#10;", " ")
+return replace($each, "&#10;", " -- ")
 
 let $workDescription :=
     if (fn:empty($workDescriptionPath))
