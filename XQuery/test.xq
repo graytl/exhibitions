@@ -116,7 +116,7 @@ let $imageTitle :=
     then (fn:string-join(($imageTitlePath), "; "))
     else ($imageTitlePath)
     
-(:File Path (Image Location REFID):)
+(: Path to File on server:)
 let $fileNamePath := $individual/vra:image/vra:locationSet/vra:location/vra:refid/text()
 
 let $imageShare := "PATH TO IMAGES/"
@@ -125,8 +125,10 @@ let $filePath :=
     if (fn:empty($fileNamePath))
     then ("NULL")
     else if ((count($fileNamePath)) > 1)
-    then (fn:string-join(for $file in $fileNamePath return (string-join(($imageShare, $file), "")), "; "))
-    else (string-join(($imageShare, $fileNamePath), ""))
+    then (for $each in $fileNamePath return fn:string-join(($imageShare||$each), "; "))
+    else ($imageShare||$fileNamePath)    
+
+  
 
 (:Image Rights:)
 let $imageRightsPath := for $each in $individual//vra:image/vra:rightsSet/vra:rights/vra:text/text()
