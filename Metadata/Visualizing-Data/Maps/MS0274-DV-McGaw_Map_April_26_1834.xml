@@ -6,7 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local">Randolph Coyle</name>
+                <name type="corporate" vocab="LCNAF" refid=" 88079713 ">Coyle, Randolph </name>
                 <dates>
                     <earliestDate/>
                     <latestDate/>
@@ -20,7 +20,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>This map, drawn by Randolph Coyle, was made to accompany a report on the improvement of the Cumberland river for the navigation of it by steam boats in obedience to a resolution of congress date April 26, 1834.</description>
+            <description>Nashville's early development was limited by the lack of navigability of the Cumberland River. This map, drawn by Randolph Coyle of the Corps of Topical Engineers of the U.S. Army, was made to accompany a report from the War Department to Congress on the improvement of the Cumberland River for the navigation of it by steam boats.Congress ordered the report on April 26, 1834, to identify ways to make it easier to tranport iron ore and bituminous coal out of the region. Coyle went on to become the U.S. City Surveyor in 1851.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">

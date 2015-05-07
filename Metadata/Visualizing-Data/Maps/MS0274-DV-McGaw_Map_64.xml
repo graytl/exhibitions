@@ -6,7 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local">W. Keenan</name>
+                <name type="corporate" vocab="LCNAF" refid="85368716 ">Keenan, William, approximately 1810-</name>
                 <dates>
                     <earliestDate/>
                     <latestDate/>
@@ -20,7 +20,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>This map, published Walker and James and engraved by W. Keenan is part of the Robert A. McGaw Collection and Vanderbilt Library Special Collections.  The subject of this map is the Cumberland and Franklin as it was represented in 1853.  Of special interest to this exhibit, notice the way the Cumberland River is drawn.  The river starts to look more like current day depictions as the years progress.</description>
+            <description>This map by engraver William Keenan depicts the Cumberland and Franklin as it was represented in 1853.   Keenan worked as an engraver and lithographer in Philadelphia 1830-1833 before returning to his native Charleston, S.C. where he worked as an engraver for the rest of his life. Of special interest to this exhibit is the way the Cumberland River is drawn.  The river starts to look more like current day depictions as the years progress.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
