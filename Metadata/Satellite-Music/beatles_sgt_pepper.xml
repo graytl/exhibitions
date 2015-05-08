@@ -3,11 +3,17 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
-            <display>Beatles (musical group)</display>
+            <display>Beatles (Musical group); Capitol Records</display>
             <agent>
                 <name type="corporate" vocab="LCNAF" refid="n 79018119">Beatles</name>
+                <name>Artist</name>
+            </agent>
+            <agent>
+                <term type="corporate" vocab="LCNAF" refid="n 88612146">Capitol Records, Inc.</term>
+                <role>Publisher</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -30,6 +36,7 @@
                 <name type="geographic" vocab="TGN" refid="7007825" extent="state">Tennessee</name>
                 <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
                 <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
+                <refid>Music Library, Vault, LP MUS-LP 3318</refid>
             </location>
             <location type="creation">
                 <name type="geographic" vocab="TGN" refid="7018934" extent="borough">City of Westminster</name>
@@ -53,11 +60,9 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <display>Sgt. Pepper's Lonely Hearts Club Band</display>
-            <title pref="true" xml:lang="en">Sgt. Pepper's Lonely Hearts Club Band</title>
+            <title>Sgt. Pepper's Lonely Hearts Club Band</title>
         </titleSet>
         <worktypeSet>
-            <display>Long-playing record</display>
             <worktype vocab="AAT" refid="300265802">Long-playing records</worktype>
         </worktypeSet>
     </work>
@@ -69,14 +74,14 @@
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+                <earliestDate>2015-04-17</earliestDate>
+                <latestDate>2015-04-17</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
                 <refid>20150417SG058.jpg</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
