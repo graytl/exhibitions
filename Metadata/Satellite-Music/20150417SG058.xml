@@ -12,7 +12,7 @@
                 <name>Artist</name>
             </agent>
             <agent>
-                <term type="corporate" vocab="LCNAF" refid="n 88612146">Capitol Records, Inc.</term>
+                <name type="corporate" vocab="LCNAF" refid="n 88612146">Capitol Records, Inc.</name>
                 <role>Publisher</role>
             </agent>
         </agentSet>
