@@ -3,6 +3,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
@@ -12,6 +13,10 @@
             <agent>
                 <name type="personal" vocab="LCNAF" refid="no90021396">Wilson, Brian, 1942-</name>
                 <role>Producer</role>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 88612146">Capitol Records, Inc.</name>
+                <role>Publisher</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -26,7 +31,6 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <display>This deluxe edition box set allows users to experience the music of the Beach Boys on three different formats: remastered CD recordings, 33 1/3 long-playing records, and 45 rpm singles.</display>
             <description>This deluxe edition box set allows users to experience the music of the Beach Boys on three different formats: remastered CD recordings, 33 1/3 long-playing records, and 7" singles.</description>
             <description/>
         </descriptionSet>
@@ -39,9 +43,10 @@
                 <name type="geographic" vocab="TGN" refid="7007825" extent="state">Tennessee</name>
                 <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
                 <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
+                <refid>Music Library, CD MUS-16791</refid>
             </location>
             <location type="creation">
-                <name type="corporate" vocab="LCNAF" refid="n88612146">Capitol Records, Inc.</name>
+                <name type="corporate" vocab="LCNAF" refid="n 88612146">Capitol Records, Inc.</name>
                 <name type="geographic" vocab="TGN" refid="7013837" extent="neighborhood">Hollywood</name>
                 <name type="geographic" vocab="TGN" refid="7023900" extent="inhabited place">Los Angeles</name>
                 <name type="geographic" vocab="TGN" refid="1002608" extent="county">Los Angeles</name>
@@ -58,25 +63,21 @@
             </rights>
         </rightsSet>
         <subjectSet>
-            <display>The Beach Boys, compact disc, 33 1/3 long-playing records, 45 rpm records, Rock music--1961-1970, Popular music--1961-1970, Surf music.</display>
             <subject>
-                <term type="descriptiveTopic" vocab="AAT" refid="300265802">long-playing records</term>
+                <term vocab="LCSH" refid="sh 87003327">Rock music--1961-1970</term>
             </subject>
             <subject>
-                <term type="descriptiveTopic" vocab="AAT" refid="300265800">45 rpm records</term>
+                <term vocab="LCSH" refid="sh 87003307">Popular music--1961-1970</term>
             </subject>
             <subject>
-                <term type="descriptiveTopic" vocab="AAT" refid="300028673">compact discs</term>
+                <term vocab="LCSH" refid="sh2010002309">Surf music</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <display>The Smile Sessions</display>
-            <title type="cited" pref="true" source="item">The Smile Sessions</title>
+            <title>The Smile Sessions</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300265800"></worktype>
-            <worktype vocab="AAT" refid="300265802">long-playing records</worktype>
-            <worktype vocab="AAT" refid="300028673">compact discs</worktype>
+            <worktype vocab="AAT" refid="300028673">Compact discs</worktype>
         </worktypeSet>
     </work>
     <image>
