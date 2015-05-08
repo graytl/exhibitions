@@ -37,6 +37,7 @@
                 <name type="geographic" vocab="TGN" refid="7007825" extent="state">Tennessee</name>
                 <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
                 <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
+                <refid>Music Library, LP MUS-LP 3675</refid>
             </location>
             <location type="creation">
                 <name type="corporate" vocab="LCNAF" refid="n 81097261">CBS Records (firm)</name>
@@ -54,17 +55,15 @@
             </rights>
         </rightsSet>
         <subjectSet>
-            <display>Christmas music, Popular music--1971-1980.</display>
             <subject>
-                <term vocab="LCSH" refid="sh 87003311">Popular music--1971-1980--Specimens</term>
+                <term vocab="LCSH" refid="sh 87003311">Popular music--1971-1980</term>
             </subject>
             <subject>
-                <term vocab="LCSH" refid="sh 85025312">Christmas music--Specimens</term>
+                <term vocab="LCSH" refid="sh 85025312">Christmas music</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <display>Ronco Presents: A Christmas Gift</display>
-            <title xml:lang="en">Ronco Presents: A Christmas Gift</title>
+            <title>Ronco Presents: A Christmas Gift</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300201034">Pop-up books</worktype>
