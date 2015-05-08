@@ -22,12 +22,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <display>Entire books are dedicated to the art of the album cover. Perhaps the greatest influence on the modern album cover was Alex Steinweiss, whose colorful graphics played a major role in the marketing of Columbia’s new long-playing record format.</display>
-<<<<<<< HEAD:Metadata/Satellite-Music/alex_steinweiss_book.xml
-            <description source="Sara Manus, Vanderbilt University Library, 2015">Entire books are dedicated to the art of the album cover. Perhaps the greatest influencer on the modern album cover was Alex Steinweiss, whose colorful graphics played a major role in the marketing of Columbia’s new long-playing record format.</description>
-=======
-            <description>Entire books are dedicated to the art of the album cover. Perhaps the greatest influence on the modern album cover was Alex Steinweiss, whose colorful graphics played a major role in the marketing of Columbia’s new long-playing record format.</description>
->>>>>>> origin/master:Metadata/Satellite-Music/20150417SG063.xml
+            <description>Entire books are dedicated to the art of the album cover. Perhaps the greatest influencer on the modern album cover was Alex Steinweiss, whose colorful graphics played a major role in the marketing of Columbia’s new long-playing record format.</description>
         </descriptionSet>
         <locationSet>
             <display>Vanderbilt University Library, Anne Potter Wilson Music Library. Published by Taschen, Köln, Germany, 2011.</display>
