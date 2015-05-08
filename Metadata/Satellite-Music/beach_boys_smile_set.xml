@@ -5,30 +5,35 @@
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
     <work>
         <agentSet>
-                <display>The Beach Boys (musical group), Brian Wilson (producer, 1942-)</display>
             <agent>
                 <name type="corporate" vocab="LCNAF" refid="n82020275">Beach Boys</name>
+                <role>Artist</role>
             </agent>
             <agent>
                 <name type="personal" vocab="LCNAF" refid="no90021396">Wilson, Brian, 1942-</name>
+                <role>Producer</role>
             </agent>
         </agentSet>
         <dateSet>
             <display>This box set issued in 2011, originally recorded between 1965 and 1967.</display>
             <date type="creation">
+                <earliestDate>1965</earliestDate>
+                <latestDate>1967</latestDate>
+            </date>
+            <date type="publication">
                 <earliestDate>2011</earliestDate>
                 <latestDate>2011</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
             <display>This deluxe edition box set allows users to experience the music of the Beach Boys on three different formats: remastered CD recordings, 33 1/3 long-playing records, and 45 rpm singles.</display>
-            <description source="Sara Manus, Vanderbilt University Library, 2015">This deluxe edition box set allows users to experience the music of the Beach Boys on three different formats: remastered CD recordings, 33 1/3 long-playing records, and 7" singles.</description>
+            <description>This deluxe edition box set allows users to experience the music of the Beach Boys on three different formats: remastered CD recordings, 33 1/3 long-playing records, and 7" singles.</description>
             <description/>
         </descriptionSet>
         <locationSet>
             <display>Vanderbilt University Library, Anne Potter Wilson Music Library, published by Capitol Records, Hollywood, CA.</display>
             <location type="repository">
-                <name type="corporate" vocab="LCNAF" refid="n81075875">Vanderbilt University Library</name>
+                <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
                 <name type="geographic" vocab="TGN" refid="7013959" extent="inhabited place">Nashville-Davidson</name>
                 <name type="geographic" vocab="TGN" refid="2001855" extent="county">Davidson</name>
                 <name type="geographic" vocab="TGN" refid="7007825" extent="state">Tennessee</name>
