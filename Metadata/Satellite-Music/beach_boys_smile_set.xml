@@ -83,19 +83,19 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+                <earliestDate>2015-04-17</earliestDate>
+                <latestDate>2015-04-17</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid></refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <refid>20150417SG062.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -104,7 +104,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of ...]</title>
+            <title>[Digital Reproduction of The Smile Sessions, Assorted Album Ephemera]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
