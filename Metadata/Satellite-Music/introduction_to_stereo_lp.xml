@@ -21,7 +21,7 @@
             </agent>
         </agentSet>
         <dateSet>
-            <display>Issued in 1958.</display>
+            <display>Issued in 1958</display>
             <date type="creation">
                 <earliestDate>1958</earliestDate>
                 <latestDate>1958</latestDate>
@@ -58,11 +58,41 @@
         </rightsSet>
         <titleSet>
             <display>Introduction to Stereo</display>
-            <title type="cited" pref="true" source="item">Introduction to Stereo</title>
+            <title>Introduction to Stereo</title>
         </titleSet>
         <worktypeSet>
             <display>Long-playing record</display>
             <worktype vocab="AAT" refid="300265802">Long-playing records</worktype>
         </worktypeSet>
     </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-04-17</earliestDate>
+                <latestDate>2015-04-17</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>20150417SG044.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[Digital Reproduction of Introduction to Stereo, Album Cover]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
 </vra>
