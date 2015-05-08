@@ -9,6 +9,9 @@
             <agent>
                 <name type="corporate" vocab="LCNAF" refid="2003097848">Murray Hill Radio Theatre</name>
             </agent>
+            <agent>
+                <name type="" vocab="" refid=""></name>
+            </agent>
         </agentSet>
         <dateSet>
             <date type="publication">
@@ -21,8 +24,8 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University. Special Collections</name>
-                <refid/>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid></refid>
             </location>
         </locationSet>
         <rightsSet>
