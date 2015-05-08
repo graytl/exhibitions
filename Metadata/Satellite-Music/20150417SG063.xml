@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="nb2012006431">Reagan, Kevin</name>
+                <role>Author</role>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="no2004003050">Taschen (Firm)</name>
+                <role>Publisher</role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>2011</earliestDate>
+                <latestDate>2011</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <display>Entire books are dedicated to the art of the album cover. Perhaps the greatest influence on the modern album cover was Alex Steinweiss, whose colorful graphics played a major role in the marketing of Columbia’s new long-playing record format.</display>
+<<<<<<< HEAD:Metadata/Satellite-Music/alex_steinweiss_book.xml
+            <description source="Sara Manus, Vanderbilt University Library, 2015">Entire books are dedicated to the art of the album cover. Perhaps the greatest influencer on the modern album cover was Alex Steinweiss, whose colorful graphics played a major role in the marketing of Columbia’s new long-playing record format.</description>
+=======
+            <description>Entire books are dedicated to the art of the album cover. Perhaps the greatest influence on the modern album cover was Alex Steinweiss, whose colorful graphics played a major role in the marketing of Columbia’s new long-playing record format.</description>
+>>>>>>> origin/master:Metadata/Satellite-Music/20150417SG063.xml
+        </descriptionSet>
+        <locationSet>
+            <display>Vanderbilt University Library, Anne Potter Wilson Music Library. Published by Taschen, Köln, Germany, 2011.</display>
+            <location type="repository">
+                <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
+                <name type="geographic" vocab="TGN" refid="7013959" extent="inhabited place">Nashville-Davidson</name>
+                <name type="geographic" vocab="TGN" refid="2001855" extent="county">Davidson</name>
+                <name type="geographic" vocab="TGN" refid="7007825" extent="state">Tennessee</name>
+                <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
+                <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
+                <refid>Music Library, NC1883.3 .S74 R43 2011</refid>
+            </location>
+            <location type="creation">
+                <name type="corporate" vocab="LCNAF" refid="no2004003050">Taschen (Firm)</name> 
+                <name type="geographic" vocab="TGN" refid="7004446" extent="inhabited place">Cologne</name>
+                <name type="geographic" vocab="TGN" refid="7003677" extent="state">North Rhine-Westphalia</name>
+                <name type="geographic" vocab="TGN" refid="7000084" extent="nation">Germany</name>
+                <name type="geographic" vocab="TGN" refid="1000003" extent="continent">Europe</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <display>Köln : Taschen, 2011</display>
+            <rights type="copyrighted">
+                <rightsHolder>Taschen, Cologne, Germany</rightsHolder>                
+                <text>The display of this physical object constitutes a fair use as detailed in the ACRL's Code of Best Practices in Fair Use for Academic and Research Libraries.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCNAF" refid="no00089843">Steinweiss, Alex, 1917-2011</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85125392">Sound recordings--Record covers--Catalogs</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh2009126060">Graphic arts--United States--History--20th century</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>Alex Steinweiss: The Inventor of the Modern Album Cover</title>
+        </titleSet>
+        <worktypeSet>
+            <display>Book</display>
+            <worktype vocab="AAT" refid="300028051">Books</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-04-17</earliestDate>
+                <latestDate>2015-04-17</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>20150417SG063.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[Digital Reproduction of Alex Steinweiss: The Inventor of the Modern Album Cover, Front Cover]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>
+
