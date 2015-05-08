@@ -34,7 +34,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>This album cover is a representative example of cover art for classical music produced during the 1970s. The cover is by Saul Lambert, and it is based on a detail of Kupelwieser's famours painting, "Party Game of the Schubertiads.</description>
+            <description>This album cover is a representative example of cover art for classical music produced during the 1970s. The cover is by Saul Lambert, and it is based on a detail of Kupelwieser's famous painting, "Party Game of the Schubertiads."</description>
         </descriptionSet>
         <locationSet>
             <display>Vanderbilt University Library, Anne Potter Wilson Music Library. Issued by RCA Records, c1971.</display>
@@ -78,7 +78,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
             </agent>
         </agentSet>
         <dateSet>
