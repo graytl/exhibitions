@@ -3,18 +3,25 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <display>The Carter Family (musical group), Jimmie Rodgers (performer, 1897-1933), various other artists</display>
             <agent>
                 <name type="corporate" vocab="LCNAF" refid="n 81003300">Carter Family (Musical group)</name>
+                <name>Artist</name>
             </agent>
             <agent>
                 <name type="personal" vocab="LCNAF" refid="n 87824037">Rodgers, Jimmie, 1897-1933</name>
+                <role>Performer</role>
                 <dates>
                     <earliestDate>1897</earliestDate>
                     <latestDate>1933</latestDate>
                 </dates>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="no 97046467">Bear Family Records (Firm)</name>
+                <role>Publisher</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -37,6 +44,7 @@
                 <name type="geographic" vocab="TGN" refid="7007825" extent="state">Tennessee</name>
                 <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
                 <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
+                <refid>Music Library, CD MUS-15000</refid>
             </location>
             <location type="creation">
                 <name type="corporate" vocab="LCNAF" refid="no97046467">Bear Family Records (Firm)</name> 
@@ -54,17 +62,15 @@
             </rights>
         </rightsSet>
         <subjectSet>
-            <display>The Carter Family; Jimmie Rodgers, 1897-1933</display>
             <subject>
-                <term type="personalName" vocab="LCNAF" refid="n81003300">Carter Family (Musical group)</term>
+                <term vocab="LCSH" refid="sh2001002368">Old-time music</term>
             </subject>
             <subject>
-                <term type="personalName" vocab="LCNAF" refid="n87824037">Rodgers, Jimmie, 1897-1933</term>
+                <term vocab="LCSH" refid="sh 85055979">Gospel music</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <display>The Bristol Sessions, 1927-1928: The Big Bang of Country Music</display>
-            <title type="cited" pref="true" source="item">The Bristol Sessions, 1927-1928: The Big Bang of Country Music</title>
+            <title>The Bristol Sessions, 1927-1928: The Big Bang of Country Music</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid=" 300028673">Compact discs</worktype>
@@ -83,7 +89,7 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>20150417SG060.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
@@ -94,7 +100,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title></title>
+            <title>[Digital Reproduction of The Bristol Sessions, 1927-1928: The Big Bang of Country Music, View of Box Set]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

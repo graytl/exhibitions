@@ -56,13 +56,21 @@
         <dateSet>
             <display>Reissued in 1985, originally recorded September 15, 1957.</display>
             <date type="creation">
+                <earliestDate>1957-09-15</earliestDate>
+                <latestDate>1957-09-15</latestDate>
+            </date>
+            <date type="publication">
                 <earliestDate>1985</earliestDate>
                 <latestDate>1985</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
+<<<<<<< HEAD
             <display>The album cover for Blue Train featuring a pensive John Coltrane is an iconic image that continues to speak to current generations of jazz enthusiasts.</display>
             <description source="Sara Manus, Vanderbilt University Library, 2015">The album cover for Blue Train featuring a pensive John Coltrane is an iconic image that continues to speak to current generations of jazz enthusiasts.</description>
+=======
+            <description>The album cover for Blue Train featuring a pensive John Coltrane is an iconic image that continues to speak to current generations of jazz enthusiasts.</description>
+>>>>>>> origin/master
         </descriptionSet>
         <locationSet>
             <display>Vanderbilt University Library, Anne Potter Wilson Music Library. Issued by Blue Note Records, Hollywood, CA.</display>
