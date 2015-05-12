@@ -515,7 +515,7 @@
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
-    </image>v  <image>
+    </image>  <image>
         <agentSet>
             <agent>
                 <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
@@ -661,7 +661,7 @@
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
-    
+    <image>
     <dateSet>
         <date type="creation">
             <earliestDate>2015-04-16</earliestDate>
@@ -686,7 +686,7 @@
         <worktype vocab="AAT" refid="300215302">Digital images</worktype>
     </worktypeSet>
     </image>
-    
+    <image>
     <dateSet>
         <date type="creation">
             <earliestDate>2015-04-16</earliestDate>
@@ -711,7 +711,7 @@
         <worktype vocab="AAT" refid="300215302">Digital images</worktype>
     </worktypeSet>
     </image>
-    
+    <image>
     <dateSet>
         <date type="creation">
             <earliestDate>2015-04-16</earliestDate>
@@ -736,7 +736,7 @@
         <worktype vocab="AAT" refid="300215302">Digital images</worktype>
     </worktypeSet>
     </image>
-    
+    <image>
     <dateSet>
         <date type="creation">
             <earliestDate>2015-04-16</earliestDate>
