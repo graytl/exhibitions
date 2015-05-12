@@ -3,14 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
                 <name type="corporate" vocab="LCNAF" refid="2003097848">Murray Hill Radio Theatre</name>
-                <dates>
-                    <earliestDate>c. 1970</earliestDate>
-                    <latestDate>c. 1980</latestDate>
-                </dates>
             </agent>
         </agentSet>
         <dateSet>
@@ -24,7 +21,7 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local" refid="">Vanderbilt University. Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University. Special Collections</name>
                 <refid/>
             </location>
         </locationSet>
@@ -42,13 +39,13 @@
             <title>More of the Shadow Starring Orson Wells</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300265802">long-playing records</worktype>
+            <worktype vocab="AAT" refid="300265802">Long-playing records</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +55,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid/>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>More_of_the_Shadow-C-Records-1979.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +66,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>More_of_the_Shadow-C-Records-1979.jpg</title>
+            <title>[Digital Reproduction of More of the Shadow Starring Orson Wells]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

@@ -3,11 +3,11 @@
 _Below are descriptions for audio-visual clips requested by the curators for the upcoming exhibition on Visualizing Data. Text is not yet finalized and is subject to further editing._
 
 #### Clip 1 | The Life of Flannery O’ Connor (Suellen Stringer-Hye)
-* Description: When Flannery O'Connor, suffering from systemic lupus erythematosus, retired  to her ancestral farm in Milledgville Georgia, in 1951, she devoted herself to raising peafowl and other exotic birds as well as to writing. Peacocks can be found in many of her stories and essays.  "I intend to stand firm and let the peacocks multiply, for I am sure that, in the end, the last word will be theirs." Peacocks endure as emblems of the life and spirit of Flannery O'Connor and her art. 
+* Description: When Flannery O'Connor, suffering from lupus, retired  to her ancestral farm in Milledgville Georgia, in 1951, she devoted herself to raising peacocks and other exotic birds as well as to writing. Peacocks can be found in many of her stories and essays.  "I intend to stand firm and let the peacocks multiply, for I am sure that, in the end, the last word will be theirs." Peacocks endure as emblems of the life and spirit of Flannery O'Connor and her art. 
 * NOTE: NEEDS COPYRIGHT CLEARANCE
 
 #### Clip 2 | Flannery O’Connor at Vanderbilt (Suellen Stringer-Hye)
-* Description: Flannery O’Connor Reads “A Good Man is Hard to Find” at Vanderbilt University, April 1959.
+* Description: In 1955 Flannery O'Connor began a correspondence with Brainard and Francis Cheney. Brainard was a fellow Southern writer and "Fanny" was a librarian at Vanderbilt University. On one of her several trips to Nashville to visit the Cheney's, Flannery read to an appreciative audience her short story, “A Good Man is Hard to Find”. Vanderbilt University,  April 1959.
 
 #### Clip 3 | Minecraft SEC Football Stadiums Tour 1: Vanderbilt Stadium! (Cliff Anderson)
 * Description: The video game Minecraft may be compared to a 21st century Lego kit. Players in create worlds unbound by the ordinary laws of physics. In many cases, they also recreate structures in the physical world. In this instance, a Minecraft user, "plom6," has recreated the Vanderbilt University Stadium inside the game world of Minecraft.

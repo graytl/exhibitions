@@ -8,6 +8,9 @@
             <agent>
                 <name type="corporate" vocab="LCNAF" refid="n 88079917">Detroit Photographic Co.</name>
             </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 50027955">William Henry Jackson</name>
+            </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
@@ -16,7 +19,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>location &amp; process. resorts and natural attractions near major cities human b/c scale</description>
+            <description>Regular trains, overnight steamship service, and seaside hotels lured middle-class tourists from Boston, Philadelphia and New York to spend summertime in this southern Maine coastal town as early as 1875.  Besides walking cliff paths and “rusticating,” tourists explored historic towns popularized by local Sarah Orne Jewett in her novels of Maine.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">

@@ -3,6 +3,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
@@ -65,17 +66,17 @@ Sales: +1 800 462 437</text>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Pilot Charles Lindbergh poses alongside his famous plane 'The Spirit of St. Louis']</title>
+            <title>[Pilot Charles Lindbergh Poses Alongside His Famous Plane 'The Spirit of St. Louis']</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300134989">News photographs</worktype>
-            <worktype vocab="AAT" refid="300028705"> signatures (names)</worktype>
+            <worktype vocab="AAT" refid="300028705">Signatures (names)</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
                 <role/>
             </agent>
         </agentSet>
@@ -88,7 +89,7 @@ Sales: +1 800 462 437</text>
         <locationSet>
             <location type="repository">
                 <refid>MS0412-C-Lindbergh-Spirit_Autograph.jpg</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -97,7 +98,7 @@ Sales: +1 800 462 437</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of Pilot Charles Lindbergh poses alongside his famous plane 'The Spirit of St. Louis']</title>
+            <title>[Digital Reproduction of Pilot Charles Lindbergh Poses Alongside His Famous Plane 'The Spirit of St. Louis']</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

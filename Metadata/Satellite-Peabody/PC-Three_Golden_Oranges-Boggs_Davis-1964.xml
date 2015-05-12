@@ -3,67 +3,78 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n83185948">Boggs, Ralph Steele, 1901-1994</name>
+                <name type="personal" vocab="LCNAF" refid="n 83185948">Boggs, Ralph Steele, 1901-1994</name>
+                <role>Author</role>
                 <dates>
                     <earliestDate>1901</earliestDate>
                     <latestDate>1994</latestDate>
                 </dates>
             </agent>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="no96053162">Davis, Mary Gould, 1882-1956</name>
+                <name type="personal" vocab="LCNAF" refid="no 96053162">Davis, Mary Gould, 1882-1956</name>
+                <role>Author</role>
                 <dates>
                     <earliestDate>1882</earliestDate>
                     <latestDate>1956</latestDate>
                 </dates>
             </agent>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n85034633">Brock, Emma L. (Emma Lillian), 1886-1974</name>
+                <name type="personal" vocab="LCNAF" refid="n 85034633">Brock, Emma L. (Emma Lillian), 1886-1974</name>
+                <role>Illustrator</role>
                 <dates>
                     <earliestDate>1886</earliestDate>
                     <latestDate>1974</latestDate>
                 </dates>
             </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 2005060106">David McKay Company</name>
+                <role>Publisher</role>
+            </agent>
         </agentSet>
-                            <dateSet>
-            <date type="publication">
+        <dateSet>
+            <date type="creation">
                 <earliestDate>1936</earliestDate>
+                <latestDate>1936</latestDate>
+            </date>
+            <date type="publication">
+                <earliestDate>1964</earliestDate>
                 <latestDate>1964</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description>A collection of Spanish folktales, this book was first published during the Spanish Civil War.  </description>
+            <description>This collection of Spanish folktales was first published during the Spanish Civil War.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="other" vocab="local">Peabody Library</name>
-                <refid> PZ8.1 .B59 Th 1964</refid>
+                <name type="corporate" vocab="local">Peabody Library</name>
+                <refid>PZ8.1 .B59 Th 1964</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>©1936 David McKay Company, Inc.
-©1964 Renewed by Ralph Steele Boggs &amp; Perley B. Davis</text>
+                <text>©1936 David McKay Company, Inc.; ©1964 Renewed by Ralph Steele Boggs and Perley B. Davis</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="" refid=""></term>
+                <term vocab="LCSH" refid="sh2008112469">Tales--Spain</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Three Golden Oranges : and other Spanish folk tales</title>
+            <title>Three Golden Oranges: and Other Spanish Folk Tales</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300028051">Books</worktype>
+            <worktype vocab="AAT" refid="300343403">Children's books</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -75,7 +86,7 @@
         <locationSet>
             <location type="repository">
                 <refid>PC-Three_Golden_Oranges-Boggs_Davis-1964.jpg</refid>
-                <name type="corporate" vocab="LCSH" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="LCSH">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -84,7 +95,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of Three Golden Oranges--Page 89]</title>
+            <title>[Digital Reproduction of Three Golden Oranges, Page 89]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

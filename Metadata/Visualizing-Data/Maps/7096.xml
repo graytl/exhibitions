@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="LOC" refid="n79027469">United States Army Corp of Engineers Nashville District</name>
+                <dates>
+                    <earliestDate/>
+                    <latestDate/>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1932-09-17</earliestDate>
+                <latestDate>1932-09-17</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>Dredging, Shelley Island Cumberland River. Looking Upstream. Sept. 17, 1932. Dredging is the proccess of removing or excavating material from the bed of a river.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="other">
+                <name type="corporate" vocab="local" refid="">United States Army Corp of Engineers Nashville District Library</name>
+                <refid/>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>United States Army Corp of Engineers Nashville District</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="" refid=""></term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>[Dredging, Shelley Island -Cumberland River]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300128347">black-and-white photographs</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local" refid="">United States Army Corp of Engineers Nashville District Library</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-03-25</earliestDate>
+                <latestDate>2015-03-25</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>7096.jpg</refid>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>Permission to use but credit must be given to the United States Army Corp of Engineers Nashville District Library.</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[A Digital Reproduction of Dredging, Shelley Island -Cumberland River]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

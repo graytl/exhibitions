@@ -4,19 +4,28 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
     <work>
-        <dateSet>
+        <agentSet>
+        <agent>
+            <name type="corporate" vocab="local">G.W. Weiser</name>
+            <dates>
+                <earliestDate>1896</earliestDate>
+                <latestDate>unknown</latestDate>
+            </dates>
+        </agent>
+    </agentSet>
+            <dateSet>
             <date type="creation">
                 <earliestDate>unknown</earliestDate>
                 <latestDate>unknown</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description/>
+            <description>Weiser’s four studios across downtown Knoxville catered to the residents of a booming industrial and violent city in the early 1900s.  Railroad expansion after the Civil War connected eastern Tennessee with the rest of the South, bringing Welsh, Swiss and other immigrants.  Becky’s large sleeves and the studio’s address on W. Clinch Street  date this photo to about 1896, when William Henderson and his wife Harriet would have been busy with plans for the Tennessee Centennial Exposition.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid/>
+                <refid>MS0242 Box "PH Arch/Kirk;and &amp; Henderson Family"</refid>
             </location>
         </locationSet>
         <rightsSet>

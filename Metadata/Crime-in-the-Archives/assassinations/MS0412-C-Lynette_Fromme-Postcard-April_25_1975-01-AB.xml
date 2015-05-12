@@ -3,10 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n96123727">Fromme, Lynette Alice, 1948-</name>
+                <name type="personal" vocab="LCNAF" refid="n 96123727">Fromme, Lynette Alice, 1948-</name>
                 <dates>
                     <earliestDate>1948-10-22</earliestDate>
                     <latestDate>present</latestDate>
@@ -35,11 +36,11 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCNAF" refid="n79115986">Manson, Charles, 1934-</term>
+                <term vocab="LCNAF" refid="n 79115986">Manson, Charles, 1934-</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Postcard from Lynette Fromme to David Nicholas, April 25, 1975</title>
+            <title>[Postcard from Lynette Fromme to David Nicholas, April 25, 1975]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300026816">Postcards</worktype>
@@ -69,7 +70,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Postcard from Lynette Fromme to David Nicholas]</title>
+            <title>[Digital Reproduction of Postcard from Lynette Fromme to David Nicholas, April 25, 1975]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

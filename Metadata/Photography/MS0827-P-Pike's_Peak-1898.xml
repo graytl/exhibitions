@@ -8,6 +8,9 @@
             <agent>
                 <name type="corporate" vocab="LCNAF" refid="n 88079917">Detroit Photographic Co.</name>
             </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 50027955">William Henry Jackson</name>
+            </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
@@ -16,17 +19,17 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Pike's Peak CO and process. repeat text for all</description>
+            <description>In 1874, Congress debated civilian versus military control of the four western mapping surveys. Hayden’s Survey, mapping the western territories, joined the U.S. Department of the Interior.   Named for explorer Zebulon Pike, the area grew in the 1890s during the last gold rush in the continental U.S.  Katharine Lee Bates wrote the song "America the Beautiful" in 1893 after admiring the view from Pikes Peak.  At 14,115 feet, it is the highest summit of the southern Front Range of the Rockies.”  </description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0827, Box?</refid>
+                <refid>MSS Collection 0827</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text/>
+                <text>Image made in 1898.</text>
             </rights>
         </rightsSet>
         <subjectSet>

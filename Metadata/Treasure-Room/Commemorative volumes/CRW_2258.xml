@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n80039712">United States. Continental Congress</name>
+                <dates>
+                    <earliestDate>1774</earliestDate>
+                    <latestDate>1774</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>1774-09-05</earliestDate>
+                <latestDate>1774-10-26</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>The Journal of the Proceedings of the Congress of 1774 was the second millionth book in the Vanderbilt Library and was donated by and Irene and W. Ridley Wills, II VU `56 in 1992. This is the first issue of the first official journal of the Continental Congress which sat at Carpenter’s Hall in Philadelphia, Pennsylvania from September 5 to October 26, 1774. 
+
+</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <refid>Sevier, J 10 .74 1774</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>govt pub</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="n80039712">United States. Continental Congress</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>CRW_2258.jpg</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="RBGENR" refid="">legislative proceedings</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2013-04-30</earliestDate>
+                <latestDate>2013-04-30</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>CRW_2258.jpg</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>CRW_2258.jpg</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

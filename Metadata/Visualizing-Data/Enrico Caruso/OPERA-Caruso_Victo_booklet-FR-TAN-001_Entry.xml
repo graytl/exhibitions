@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="LCNAF"/>
+                <dates>
+                    <earliestDate>unknown</earliestDate>
+                    <latestDate>1904</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <descriptionSet>
+            <description>Enrico Caruso's image was used on his Victor record albums. Caruso’s huge popularity in the U.S. and Europe came in part from these recordings, made in 1904. Caruso's work ith Victor showed surprising business acumen given his lack of formal education. The royalties from his records would bring in more income than his salary from the Met.  </description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS Collection 0647 Box 200 Opera-Caruso_Hampton-FR-B200_Entry </refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>Created before the singer's death in 1921.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="n 50034771">Enrico Caruso--pictorial works</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>[Enrico Caruso]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300041384     ">chromolithographs</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-03-11</earliestDate>
+                <latestDate>2015-03-11</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>OPERA-Caruso_Victor_booklet-FR-TAN-001_Entry.xml</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[Digital Reproduction of Enrico Caruso]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

@@ -3,21 +3,28 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n79021164">Twain, Mark, 1835-1910</name>
+                <name type="personal" vocab="LCNAF" refid="n  79021164">Twain, Mark, 1835-1910</name>
+                <role>Author</role>
                 <dates>
                     <earliestDate>1835</earliestDate>
                     <latestDate>1910</latestDate>
                 </dates>
             </agent>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n83187145">Kemble, E. W. (Edward Windsor), 1861-1933</name>
+                <name type="personal" vocab="LCNAF" refid="n  83187145 ">Kemble, E. W. (Edward Windsor), 1861-1933</name>
+                <role>Illustrator</role>
                 <dates>
                     <earliestDate>1861</earliestDate>
                     <latestDate>1933</latestDate>
                 </dates>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 80036752">Limited Editions Club</name>
+                <role>Publisher</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -27,12 +34,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>One of the most revered &amp; controversial novels in American literature, The Adventures of Huckleberry Finn tells the exploits of young Huck Finn &amp; his companion Jim.  Most of the controversy related to the novel revolves around the issue of race.  As depicted in E.W. Kemble's drawings from this 1904 version of the novel, Jim is portrayed in a foolish manner, reminiscent of a minstrel show character.</description>
+            <description>One of the most revered and controversial novels in American literature, The Adventures of Huckleberry Finn tells the exploits of young Huck Finn and his companion Jim. Most of the controversy related to the novel revolves around the issue of race.  As depicted in E.W. Kemble's drawings from this 1904 version of the novel, Jim is portrayed in a foolish manner, reminiscent of a minstrel show character.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="other" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>PS1305 .A1 1933</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>Sevier Collection, PS1305 .A1 1933</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -42,20 +49,29 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="" refid=""></term>
+                <term vocab="LCSH" refid="sh2008103799">Finn, Huckleberry (Fictitious character)--Fiction</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH">Boys--Missouri--Fiction</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH">Boys--Travel--Mississippi River--Fiction</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH">Fugitive slaves--Missouri--Fiction</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>The adventures of Huckleberry Finn</title>
+            <title>The Adventures of Huckleberry Finn</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300028051">books</worktype>
+            <worktype vocab="AAT" refid="300343403">Children's books</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -65,9 +81,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>PC-The_Adventures_of_Huckleberry_Finn-1933-01.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -76,7 +92,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of The Adventures of Huckleberry Finn--Frontispiece]</title>
+            <title>[Digital reproduction of The Adventures of Huckleberry Finn, Frontispiece]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -85,7 +101,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -95,9 +111,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>PC-The_Adventures_of_Huckleberry_Finn-1933-02.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -106,7 +122,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of The Adventures of Huckleberry Finn --Page 112]</title>
+            <title>[Digital reproduction of The Adventures of Huckleberry Finn, Page 112]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -115,7 +131,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -125,9 +141,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>PC-The_Adventures_of_Huckleberry_Finn-1933-03.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -136,7 +152,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of The Adventures of Huckleberry Finn --Page 113]</title>
+            <title>[Digital Reproduction of The Adventures of Huckleberry Finn, Page 113]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -145,7 +161,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -157,7 +173,7 @@
         <locationSet>
             <location type="other">
                 <refid>PC-The_Adventures_of_Huckleberry_Finn-1933-04.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -166,7 +182,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of The Adventures of Huckleberry Finn --Page 438]</title>
+            <title>[Digital Reproduction of The Adventures of Huckleberry Finn, Page 438]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

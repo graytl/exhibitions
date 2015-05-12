@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n79059038">McCullers, Carson, 1917-1967</name>
+                <dates>
+                    <earliestDate>1917-02-19</earliestDate>
+                    <latestDate>1967-09-29</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>1946</earliestDate>
+                <latestDate>1946</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>Carson McCullers (1917-1967) wrote eight books, The Member of the Wedding being among one of the most notable.   Her her is often conserved Southern Gothic and is reflective of her southern roots. This story captures a young girl's feelings at her brother's wedding.  It was turned into a play and had a successful Broadway run in 1950–51. This copy has McCuller's presentation inscription to Bob [Robert Linscott, editor at Houghton Mifflin] on the title page. </description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <refid>Southern Civilization Collection, PS 3525 .A1772 M4 1946</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>not the dust jacket though, since that is all we are using</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="sh2008117582">American literature--Southern States</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>Member_of_the_Wedding-C_McCullers-1946</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300028051">books</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-05-07</earliestDate>
+                <latestDate>2015-05-07</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>Member_of_the_Wedding-C_McCullers-1946.jpg</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Member_of_the_Wedding-C_McCullers-1946</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

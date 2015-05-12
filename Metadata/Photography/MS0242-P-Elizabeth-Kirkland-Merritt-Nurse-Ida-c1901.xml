@@ -4,24 +4,33 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
     <work>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Moore &amp; Stephenson</name>
+                <dates>
+                    <earliestDate>unknown</earliestDate>
+                    <latestDate>1908</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>unknown</earliestDate>
-                <latestDate>unknown</latestDate>
+                <earliestDate>1901</earliestDate>
+                <latestDate>1908</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description/>
+            <description>American parents around 1900 faced issues familiar to parents today, including balancing their children’s needs with their own.  While we do not know much about Elizabeth's caretaker Ida, we can see the affectionate gesture of the little girl.  Elizabeth, the only child of James Kirkland, was born in 1898. In 1919, she graduated from Wellesley College. She married Benjamin D. Meritt soon after; the couple lived in New Jersey where Meritt taught at Princeton’s Institute for Advanced Study.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid/>
+                <refid>Mss0242, Box38, F11 "PH Arch/ Kirakland Family box, F "Kirkland and Henderson relatives"</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>Image made c. 1860 by unknown photographer.</text>
+                <text>Image made c. 1905 at Moore &amp; Stephenson studio, Atlanta.  Elizabeth Kirkland was born in 1898. One of the partners, B. Frank Moore is listed in Cleveland, OH in award notices in 1908 edition of Photo-Era Magazine, v.21, p.144.</text>
             </rights>
         </rightsSet>
         <subjectSet>

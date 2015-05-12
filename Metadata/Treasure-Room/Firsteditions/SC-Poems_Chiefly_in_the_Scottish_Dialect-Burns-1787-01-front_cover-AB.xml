@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid=" 	n78088009">Burns, Robert, 1759-1796</name>
+                <dates>
+                    <earliestDate>1759-01-25</earliestDate>
+                    <latestDate>1796-07-21</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>1787</earliestDate>
+                <latestDate>1787</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>This is the same edition of Robert Burns’ 1787 book Poems, Chiefly in the Scottish Dialect but in a fine binding by George Bayntun Bindery in England.  The binding is full crushed dark blue levant leather with raised bands, gilt tooled panels enclosing thistle design in red and green. The front cover has an inlaid oval hand painted miniature on ivory of Robert and Mary Burns, surrounded with eighty-nine pearls and two semi-precious stones, all enclosed by the thistle design tooled in gilt. </description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <refid>Nettie Hale Rand Collection of Fine Bindings, PR 4300 1787 .E3</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>1787</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="SC-Poems_Chiefly_in_the_Scottish_Dialect-Burns-1787.jpg">Poetry</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>SC-Poems_Chiefly_in_the_Scottish_Dialect-Burns-1787-01-front_cover-AB</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300311789">Fine press books</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-05-05</earliestDate>
+                <latestDate>2015-05-05</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>SC-Poems_Chiefly_in_the_Scottish_Dialect-Burns-1787-01-front_cover-AB.jpg</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>SC-Poems_Chiefly_in_the_Scottish_Dialect-Burns-1787-01-front_cover-AB</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

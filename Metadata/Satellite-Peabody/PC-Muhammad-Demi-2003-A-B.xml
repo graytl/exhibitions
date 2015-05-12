@@ -3,14 +3,21 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n80050070">Demi</name>
+                <name type="personal" vocab="LCNAF" refid="n 80050070">Demi</name>
+                <role>Author</role>
+                <role>Illustrator</role>
                 <dates>
                     <earliestDate>1942</earliestDate>
-                    <latestDate>Present</latestDate>
+                    <latestDate>present</latestDate>
                 </dates>
+            </agent>
+            <agent>
+                <name vocab="LCNAF" refid="no2011095558">Margaret K. McElderry Books (Firm)</name>
+                <role>Publisher</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -35,20 +42,29 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="" refid=""></term>
+                <term vocab="LCNAF" refid="n 79130881">Muḥammad, Prophet, -632</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh2008108157">Muslims--Saudi Arabia--Biography</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85107528">Prophets</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 87005732">Islam--Customs and practices</term>
             </subject>
         </subjectSet>
         <titleSet>
             <title>Muhammad</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300028051">Books</worktype>
+            <worktype vocab="AAT" refid="300343403">Children's books</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +74,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>PC-Muhammad-Demi-2003-A.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +85,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of Muhammad--Page 7]</title>
+            <title>[Digital Reproduction of Muhammad, Page 7]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -78,7 +94,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -88,9 +104,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>PC-Muhammad-Demi-2003-B.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -99,7 +115,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of Muhammad--Page 8]</title>
+            <title>[Digital Reproduction of Muhammad, Page 8]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n85101688">Hough, Joseph C. </name>
+                <dates>
+                    <earliestDate/>
+                    <latestDate/>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1993-11-19</earliestDate>
+                <latestDate>1993-11-19</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>A letter, dated Nov. 16, 1993, from Joseph Hough to Raymond and Arlene Zimmerman, inviting them to a small gathering on Dec. 20 for lunch and a walk through the “Star of David” exhibit. The exhibit was organized to highlight acquisitions purchased with a gift from the Raymond Zimmerman Family Foundation.  </description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="" vocab="" refid="">Vanderbilt University Archives</name>
+                <refid>Divinity Library Archives</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Work for hire, Vanderbilt University</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="" refid=""></term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title> [Letter from Joshph C. Hough Jr. to Raymond Zimmerman]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="RBGENR" refid="">letters</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
+                <role></role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-03-04</earliestDate>
+                <latestDate>2015-03-04</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>Judaica-Hough-Zimmerman-Nov_19_1993.jpg</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title> Digital Image of [Letter from Joshph C. Hough Jr. to Raymond Zimmerman]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

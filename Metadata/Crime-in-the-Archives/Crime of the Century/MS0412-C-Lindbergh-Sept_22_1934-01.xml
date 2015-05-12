@@ -3,10 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local"> New York Evening Journal</name>
+                <name type="corporate" vocab="local">New York Evening Journal</name>
                 <dates>
                     <earliestDate>1896</earliestDate>
                     <latestDate>1937</latestDate>
@@ -45,7 +46,7 @@ Austin, Texas 78712; No Rights contact, fill in form: http://www.hrc.utexas.edu/
             <title>Link Hauptmann to Kidnap Ladder: Traced to Lindy Home</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300026867">clippings (information artifacts)</worktype>
+            <worktype vocab="AAT" refid="300026867">Clippings (information artifacts)</worktype>
         </worktypeSet>
     </work>
     <image>
@@ -72,7 +73,7 @@ Austin, Texas 78712; No Rights contact, fill in form: http://www.hrc.utexas.edu/
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of "Link Hauptmann to Kidnap Ladder: Traced to Lindy Home"]</title>
+            <title>[Digital Reproduction of Link Hauptmann to Kidnap Ladder: Traced to Lindy Home]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

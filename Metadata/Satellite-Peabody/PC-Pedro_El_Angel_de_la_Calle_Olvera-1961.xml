@@ -3,10 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n50021396">Politi, Leo, 1908-1996</name>
+                <name type="personal" vocab="LCNAF" refid="n 50021396">Politi, Leo, 1908-1996</name>
                 <dates>
                     <earliestDate>1908</earliestDate>
                     <latestDate>1996</latestDate>
@@ -35,20 +36,23 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="" refid=""></term>
+                <term vocab="LCSH" refid="sh 85025320">Christmas stories</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85084534">Mexicans--United States--Fiction</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Pedro, the angel of Olvera Street</title>
+            <title>Pedro, the Angel of Olvera Street</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300028051">Books</worktype>
+            <worktype vocab="AAT" refid="300343403">Children's books</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +62,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>PC-Pedro_El_Angel_de_la_Calle_Olvera-1961.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +73,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of Pedro, the angel of Olvera Street--Pages 12&amp;13]</title>
+            <title>[Digital Reproduction of Pedro, the Angel of Olvera Street, Pages 12-13]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

@@ -8,6 +8,9 @@
             <agent>
                 <name type="corporate" vocab="LCNAF" refid="n 88079917">Detroit Photographic Co.</name>
             </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 50027955">William Henry Jackson</name>
+            </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
@@ -16,7 +19,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>location &amp; process.resorts and natural attractions near major citieshuman b/c scale</description>
+            <description>Like postcards, photochrom prints appealed to consumers as souvenirs of landscapes, tourist attractions, and idealized locales.  Carmelita Garden in Pasadena showcased plants from around the world, all seen thriving in southern California’s mild weather.   Started as an agricultural town, Pasadena became famous for its Tournament of Roses Parade begun in 1890 and held every year on New Year’s Day.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
@@ -26,7 +29,7 @@
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text/>
+                <text>Image made in 1902.</text>
             </rights>
         </rightsSet>
         <subjectSet>

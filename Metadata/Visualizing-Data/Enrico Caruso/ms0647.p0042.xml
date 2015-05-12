@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="LCNAF">A. Barioletti</name>
+                <dates>
+                    <earliestDate>1905</earliestDate>
+                    <latestDate>1905</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <descriptionSet>
+            <description>When Barioletti drew a couple on the front of this postcard in 1905, he was using the only space available on which to write a message. Before 1907, messages were not allowed by law on the address side of postcards. The word postcard comes from U.S. Post Office Order No. 1447, which replaced the longer “Private Mailing Card” required on the back of postcards. The Universal Postal Union, established in 1875 by 21 nations, regulates international postal policy like equal treatment of foreign and domestic mail.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS Collection 0647.p0042</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>Created in 1905.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="sh 85105462 ">postcards</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>[Woman in Green Hat]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300192703">picture postcards</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-03-11</earliestDate>
+                <latestDate>2015-03-11</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>MS0647.p0042.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[Digital Reproduction of Woman in Green Hat]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

@@ -8,6 +8,9 @@
             <agent>
                 <name type="corporate" vocab="LCNAF" refid="n 88079917">Detroit Photographic Co.</name>
             </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 50027955">William Henry Jackson</name>
+            </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
@@ -16,12 +19,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>location &amp; process.repeat text for all</description>
+            <description>Exotic foreign locations—Cuba, Buenos Aires,Moscow, Ceylon-----formed part of the Detroit Photographic Company’s images.  Marketed as “absolutely permanent,” the company sold images across multiple formats as postcards, photochroms, and sets of lantern slides. Scenic and Architectural Views and Marine Views were sold in hand-colored and black-and-white formats, all “combin[ing] the truthfulness of a photograph with the color and richness of an oil painting.”</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0827, Box?</refid>
+                <refid>MSS Collection 0827</refid>
             </location>
         </locationSet>
         <rightsSet>

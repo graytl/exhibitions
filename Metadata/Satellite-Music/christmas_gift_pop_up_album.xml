@@ -30,7 +30,7 @@
         <locationSet>
         <display>Vanderbilt University Library, Anne Potter Wilson Music Library, manufactured by CBS Records, New York, NY.</display>
         <location type="repository">
-            <name type="corporate" vocab="LCNAF" refid="n81075875">Vanderbilt University Library</name>
+            <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
             <name type="geographic" vocab="TGN" refid="7013959" extent="inhabited place">Nashville-Davidson</name>
             <name type="geographic" vocab="TGN" refid="2001855" extent="county">Davidson</name>
             <name type="geographic" vocab="TGN" refid="7007825" extent="state">Tennessee</name>
@@ -66,5 +66,35 @@
             <worktype vocab="AAT" refid="300201034">Pop-up books</worktype>
         </worktypeSet>
     </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="">
+                <earliestDate></earliestDate>
+                <latestDate></latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid/>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title></title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
 </vra>
 

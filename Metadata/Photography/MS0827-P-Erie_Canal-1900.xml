@@ -8,6 +8,9 @@
             <agent>
                 <name type="corporate" vocab="LCNAF" refid="n 88079917">Detroit Photographic Co.</name>
             </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 50027955">William Henry Jackson</name>
+            </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
@@ -16,17 +19,17 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>location &amp; process. repeat text for all</description>
+            <description>Built from 1817 to 1825, the 363-mile Erie Canal connected the Great Lakes with the Hudson River, making New York the Atlantic port for midwestern crops, meat, and goods.  The reduced shipping costs spurred New York’s economic explosion in the 1830s and allowed easy internal migration. Smaller Oswego Canal connects Erie Canal with Lake Ontario and the Erie Canal cuts through downtown Syracuse and continues to Buffalo on the shores of Lake Erie.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0827, Box?</refid>
+                <refid>MSS Collection 0827</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text/>
+                <text>Image published in 1900.</text>
             </rights>
         </rightsSet>
         <subjectSet>

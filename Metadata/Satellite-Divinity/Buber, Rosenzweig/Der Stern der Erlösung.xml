@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n82144585">Rosenzweig, Franz</name>
+                <dates>
+                    <earliestDate>1886</earliestDate>
+                    <latestDate>1829</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>1921</earliestDate>
+                <latestDate>1921</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>Der Stern der Erlösungr (“The Star of Redemption”); is Rosenzweig’s major philosophical work. The first draft was written in the trenches and in a military hospital while serving in the German army during WWI. In this work, he describes the relationships among God, humanity, and the world, as they are connected by creation, revelation and redemption. In Rosenzweig’s scheme, revelation arises not in metaphysics, but in the here and now of daily religious practice.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
+                <refid>Sevier Collection/BM 565 .R6 1921</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>It is under fair use. Only the front cover is on display.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="" refid=""></term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>Der Stern der Erlösung</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="RBGENR" refid="">books</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2014-03-06</earliestDate>
+                <latestDate>2014-03-06</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>Rosenzweig-Stern_Erlosung-1921_FULL.jpg</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Digital Image of Der Stern der Erlösung</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+    </vra>

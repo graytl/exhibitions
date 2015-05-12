@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">E. Low </name>
+                <dates>
+                    <earliestDate/>
+                    <latestDate/>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1810-01-01</earliestDate>
+                <latestDate>1810-12-31</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>This map, published my E. Low N. York is part of the Robert A. McGaw Collection and Vanderbilt Library Special Collections.  The subject of this map is the Tennessee Government, as it was depicted from the latest surveys of 1810.  Of special interest to this exhibit, notice the way the Cumberland River is drawn.  It differes greatly from current day mapping of the Cumberland.  Also notice, Tennessee is spelled "TennAssee" and Clarksville is spelled "Clerksville."</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="local">Vanderbilt Library Special Collections</name>
+                <refid>Robert A. McGaw Collection</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Vanderbilt Library Special Collections</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="" refid=""></term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>A Map of the Tennassee Government from the latest Surveys of 1810.</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300028233">historical maps </worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local" refid="">Vanderbilt Library Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015</earliestDate>
+                <latestDate>2015</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>MS0274-DV-McGAW_Map_25-1810</refid>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Vanderbilt Librar Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[A Digital ReproductionA Map of the Tennassee Government from the latest Surveys of 1810.]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

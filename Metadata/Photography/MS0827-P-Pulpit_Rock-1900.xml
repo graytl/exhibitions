@@ -8,6 +8,9 @@
             <agent>
                 <name type="corporate" vocab="LCNAF" refid="n 88079917">Detroit Photographic Co.</name>
             </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 50027955">William Henry Jackson</name>
+            </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
@@ -16,7 +19,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>location &amp; process.resorts and natural attractions near major cities human b/c scale</description>
+            <description>The Union Pacific Railroad tracks visible in the right half of this image connect Pulpit Rock near Echo City  with Portland and San Francisco. The town provided coal and water for trains entering Echo Canyon.  Echo began as a stopover on the Mormon trail, becoming a junction between the First Transcontinental Railroad and a spur line to serve silver mines near Park City.  Rock formations like this are found throughout the Wasatch Mountains.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
@@ -26,7 +29,7 @@
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text/>
+                <text>Image made in 1900.</text>
             </rights>
         </rightsSet>
         <subjectSet>

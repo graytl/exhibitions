@@ -6,7 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local">Whitehead and Hoad (Firm)</name>
+                <name type="corporate" vocab="local">Whitehead and Hoag (Firm)</name>
                 <dates>
                     <earliestDate>1892</earliestDate>
                     <latestDate>1953</latestDate>
@@ -20,17 +20,17 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description/>
+            <description>The six-month Tennessee Centennial Exposition attracted over one-and-a-half-million tourists to see the “Athens of the South.”  Despite extensive railway promotion by W.A. Henderson and other railroad executives, attendance was low due to an outbreak of Yellow Fever across the Gulf States. Like San Francisco's Palace of Fine Arts, Nashville's Parthenon was recreated in the 1920s. Souvenirs like these circulated widely in the United States after expositions in Philadelphia (1876) and in Chicago (1893).</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid/>
+                <refid>Ms. 123</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text/>
+                <text>Objects made in 1897 to promote TN Centennial Exposition.</text>
             </rights>
         </rightsSet>
         <subjectSet>
@@ -39,10 +39,10 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Tennessee Centennial and International Exposition Souvenir Cuff Links]</title>
+            <title>[Tennessee Centennial and International Exposition Souvenir Lapel Pins]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300209299">Cuff links</worktype>
+            <worktype vocab="AAT" refid="300046007">Lapel Pins</worktype>
         </worktypeSet>
     </work>
     <image>

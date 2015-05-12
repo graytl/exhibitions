@@ -5,11 +5,6 @@
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
     <!-- HAS BEEN EDITED -->
     <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF">Unknown</name>
-            </agent>
-        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>1918</earliestDate>
@@ -17,7 +12,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>The unknown photographer may have been part of the medical staff serving at Camp Hospital 28 with the Vanderbilt unit. </description>
+            <description>The unknown photographer may have been part of the medical staff serving at Camp Hospital 28 with the Vanderbilt unit.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
@@ -27,7 +22,7 @@
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>Photo taken c.1918 in France. No known photographer.</text>
+                <text>Photo taken c.1918 in France. No known photographer. </text>
             </rights>
         </rightsSet>
         <subjectSet>
@@ -69,7 +64,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of Rapid Transit in France]</title>
+            <title>[Digital Reproduction of Rapid Transit in France]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

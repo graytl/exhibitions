@@ -3,14 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local" refid="">Malcolm and Hayes (Firm)</name>
-                <dates>
-                    <earliestDate>unknown</earliestDate>
-                    <latestDate>unknown</latestDate>
-                </dates>
+                <name type="corporate" vocab="local">Malcolm and Hayes (Firm)</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -24,20 +21,19 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
                 <refid>James G. Stahlman Autograph Collection, Lindbergh, Charles</refid>
             </location>
         </locationSet>
         <rightsSet>
             <display/>
             <rights type="publicDomain">
-                <text>c. Malcolm and Hayes, New York.
-Note that this company appears to be out of business, so considered orphaned--not found in CCC, LC, or Google.</text>
+                <text>c. Malcolm and Hayes, New York. Note that this company appears to be out of business, so considered orphaned--not found in CCC, LC, or Google.</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="79100565">Lindbergh, Charles A. (Charles Augustus), 1902-1974</term>
+                <term vocab="LCNAF" refid="79100565">Lindbergh, Charles A. (Charles Augustus), 1902-1974</term>
             </subject>
         </subjectSet>
         <titleSet>
@@ -50,7 +46,7 @@ Note that this company appears to be out of business, so considered orphaned--no
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -62,7 +58,7 @@ Note that this company appears to be out of business, so considered orphaned--no
         <locationSet>
             <location type="repository">
                 <refid>MS0412-C-Lindbergh-Honor_program_cover-June_17_1927.jpg</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -71,7 +67,7 @@ Note that this company appears to be out of business, so considered orphaned--no
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of Breakfast in Honor of Captain Charles A. Lindbergh on the Presentation of the Raymond Orteig $25000 Dollar Prize</title>
+            <title>[Digital Reproduction of Breakfast in Honor of Captain Charles A. Lindbergh on the Presentation of the Raymond Orteig $25000 Dollar Prize]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

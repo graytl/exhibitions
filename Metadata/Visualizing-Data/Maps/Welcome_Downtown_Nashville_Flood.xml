@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="other" vocab="" refid="">Keith Gallagher</name>
+                <dates>
+                    <earliestDate>2010-05-03</earliestDate>
+                    <latestDate>2010-05-03</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2010-05-03</earliestDate>
+                <latestDate>2010-05-03</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>Flooding of downtown Nasvhille in the catastophic Cumberland River flood of 2010.  </description>
+        </descriptionSet>
+        <locationSet>
+            <location type="other">
+                <name type="" vocab="" refid=""/>
+                <refid/>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>Creative Commons Attribution 2.0 Generic license.
+
+http://commons.wikimedia.org/wiki/File:Welcome_Downtown_Nashville_Flood.jpg#metadata</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="" refid=""></term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title></title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="" refid=""></worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Keith Gallagher</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>unknown</earliestDate>
+                <latestDate>unknown</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>Welcome_Downtown_Nashville_Flood.jpg</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>Creative Commons Attribution 2.0 Generic license.
+
+http://commons.wikimedia.org/wiki/File:Welcome_Downtown_Nashville_Flood.jpg#metadata</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Welcome to Downtown Nashville Flood</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="local">Hibbs, Henry C.</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1939-08-29</earliestDate>
+                <latestDate>1939-08-29</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>This architectural rendering shows the east elevation of the proposed "General Library Building," now know as the Central Library.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+                <refid>PA.BLD.LIBR.1</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>Under the 1909 Copyright Act, copyright had to be renewed after 28; there is no evidence that copyright was renewed.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="sh 86007452">Architecture--Designs and plans--Presentation drawings</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH">Academic libraries--Designs and plans</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>[Architectural Rendering of the General Library Building]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="local">Commercial Photography Company</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2003-12-17</earliestDate>
+                <latestDate>2003-12-17</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>PA_BLD_LIBR_1.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[Digital Reproduction of Architectural Rendering of the General Library Building]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>
