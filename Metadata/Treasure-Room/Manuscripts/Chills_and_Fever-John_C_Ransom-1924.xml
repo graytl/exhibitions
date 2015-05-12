@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid=" 	n50053936">Ransom, John Crowe, 1888-1974</name>
+                <dates>
+                    <earliestDate>1888-04-30</earliestDate>
+                    <latestDate>1974-07-3</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>1924</earliestDate>
+                <latestDate>1924</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>John Crowe Ransom (1888-1974) was a founding member of the Fugitives, a Southern literary group of sixteen writers that was started at Vanderbilt University.  He is considered to be a founder of the New Criticism school of literary criticism. In 1924 Chills and Fever was received warmly and established him as a leading figure in American literature. Ransom continued to tinker with his poems long after their publication as can be seen in this much altered poem “Amphibious Crocodile.”</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <refid>Jesse E. Wills Fugitive/Agrarian Collection, PS 3535. A635 C5 1924</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>his daughter has it. i will provide contact info</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="sh85103704">Poetry</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>Chills_and_Fever-John_C_Ransom-1924</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300028051">Books</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-05-07</earliestDate>
+                <latestDate>2015-05-07</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>Chills_and_Fever-John_C_Ransom-1924.jpg</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Chills_and_Fever-John_C_Ransom-1924</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid=" 	n2014188616">Schedel, Hartmann, 1440-1514. Liber chronicarum. German (Middle High German)</name>
+                <dates>
+                    <earliestDate>1440</earliestDate>
+                    <latestDate>1514</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>1493-07-12</earliestDate>
+                <latestDate>1493-07-12</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>The Nuremberg Chronicle is an outstanding achievement among early printing. Anton Koberger printed the work with cast-lead moveable type, and like most of the earliest printers, he copied some of the conventions current in hand-written books. Koberger combined the moveable type with woodcut illustrations, which were provided by the shop where the young Albrecht Dürer worked. This is the Library's one millionth book, presented by Jesse E. Wills, VU '22, on June 2, 1966.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <refid>Sevier Collection, CE57 .S3 1493</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>its waaay old</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="" refid="">history, medieval--chronology</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>1 Millionth vol-300ppi.jpg</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="RBGENR" refid="">incunabula</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-03-17</earliestDate>
+                <latestDate>2015-03-17</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>1 Millionth vol-300ppi.jpg</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>1 Millionth vol-300ppi.jpg</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

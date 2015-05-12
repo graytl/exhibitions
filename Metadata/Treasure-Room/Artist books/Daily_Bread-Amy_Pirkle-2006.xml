@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid=" 	no2009095943">Pirkle, Amy</name>
+                <dates>
+                    <earliestDate></earliestDate>
+                    <latestDate>present</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>2006</earliestDate>
+                <latestDate>2006</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>Amy Pirkle is a book artist and letterpress printer in Tuscaloosa, Alabama. She established the Perkolator Press in 2005. Relationships, time, and memory are common themes in her works.  In a celebration of Southern culture and cuisine Pirkle has written a poem about her grandmother and the bread she bakes and illustrated it with images familiar to all who have experienced the glory of homemade bread. It is letterpress printed from metal types and linoleum blocks on Nideggen mould made paper.  </description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <refid>Southern Civilization Collection, N 7433.4 .P544 D35 2006</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>http://www.perkolatorpress.com/</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="sh85008302"> 	Artists' books</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>Daily_Bread-Amy_Pirkle-2006</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300123016">artists' books (books)</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-05-07</earliestDate>
+                <latestDate>2015-05-07</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>Daily_Bread-Amy_Pirkle-2006.jpg</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Daily_Bread-Amy_Pirkle-2006</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>
