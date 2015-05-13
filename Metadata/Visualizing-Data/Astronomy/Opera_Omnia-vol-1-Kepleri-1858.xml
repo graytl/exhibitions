@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n50044770">Kepler, Johannes, 1571-1630</name>
+                <dates>
+                    <earliestDate>1571</earliestDate>
+                    <latestDate>1630</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>1858</earliestDate>
+                <latestDate>1858</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description/>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Library</name>
+                <refid>Science Annex 520.8 K38</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>This book was published in 1858.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="sh85009003">Astronomy</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>Joannis Kepleri astronomi opera omnia </title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="" refid=""></worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>20150430</earliestDate>
+                <latestDate>20150430</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>Opera_Omnia-vol-1-Kepleri-1858.jpg</refid>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Opera_Omnia-vol-1-Kepleri-1858.jpg</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

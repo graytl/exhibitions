@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">G. Merz &amp;amp Sohn</name>
+                <dates>
+                    <earliestDate>unknown</earliestDate>
+                    <latestDate>unknown</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1845</earliestDate>
+                <latestDate>1847</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>The stellar spectroscope is from the Garland Collection and is currently being held by the Dyer Observatory.  It is constructed with multiple prisms to allow one to visually observe the spectrum of the stars.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="LCSH" refid="nr95028464">Arthur J. Dyer Observatory</name>
+                <refid/>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>The physical object, from sometime between 1845 and 1847,  is held by the Dyer Observatory.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="" refid=""></term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>Stellar Spectroscope for use with a telescope.</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="" refid=""></worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local" refid="">Steve Green, Vanderbilt University</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>20150417</earliestDate>
+                <latestDate>20150417</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>20150417SG009.jpg</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>20150417SG009.jpg</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

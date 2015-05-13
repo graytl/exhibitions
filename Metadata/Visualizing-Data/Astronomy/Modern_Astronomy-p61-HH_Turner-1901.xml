@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF">Turner, H. H. (Herbert Hall), 1861-1930.</name>
+                <dates>
+                    <earliestDate>1861</earliestDate>
+                    <latestDate>1930</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>1901</earliestDate>
+                <latestDate>1901</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description/>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="local">Vanderbilt Unniversity Library</name>
+                <refid>Science and Engineering Library 520.9 T94m</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>This book was published in 1901.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="sh2008117630">Astronomy--History</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>Modern astronomy; being some account of the revolution of the last quarter of a century</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="">Book</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015.05.04</earliestDate>
+                <latestDate>2015.05.04</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>Modern_Astronomy-p61-HH_Turner-1901.jpg</refid>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Modern_Astronomy-p61-HH_Turner-1901.jpg</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+    
+</vra>
