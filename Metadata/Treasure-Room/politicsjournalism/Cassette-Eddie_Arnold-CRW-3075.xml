@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid=" 	n83044050">Sony Corporation of America</name>
+                <dates>
+                    <earliestDate>1946</earliestDate>
+                    <latestDate>present</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1992</earliestDate>
+                <latestDate>1992</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>In 2012 Jack Hurst donated his interviews with celebrities and industry leaders from the 1970s and 1980s. These are a rich treasure trove of insider information from the people who made country music. Among the hundreds of recordings are interviews with legends Johnny Cash, Waylon Jennings, Dolly Parton and Garth Brooks.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <refid>Jack Hurst Collection, MS630, Memorabilia</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>i am sure the technology is copyrighted but not the image of it, right?</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid=" 	sh85079736"> 	Cassette tape recorders</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>Cassette-Eddie_Arnold-CRW-3075</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300266302">tape recorders</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-05-07</earliestDate>
+                <latestDate>2015-05-07</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>Cassette-Eddie_Arnold-CRW-3075.jpg</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Cassette-Eddie_Arnold-CRW-3075</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

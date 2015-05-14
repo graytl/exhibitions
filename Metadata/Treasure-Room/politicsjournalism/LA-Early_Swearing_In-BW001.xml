@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="nr2001005188">Tennessean</name>
+                <dates>
+                    <earliestDate>1907</earliestDate>
+                    <latestDate>present</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1979-01-17</earliestDate>
+                <latestDate>1979-01-17</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>Corruption at the highest level of state office forced governor-elect Lamar Alexander to make a difficult decision—to take office early and risk the appearance of a coup, leading to four years of struggle with a democratic house.  If he did not act Governor Blanton might have released more murderers and convicts. The country was still reeling from the Watergate scandal and President Ford’s pardon of Richard Nixon in September 1974 was yet fresh in the minds of Americans. The nation watched closely as Alexander assumed command of the state over a tense four-day period and Tennessee progressed from crisis to celebration.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <refid>Alexander Papers, MSS734, photographs series</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>The Tennessean, J.T. Philllips photographer</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="n81044263">. 	Alexander, Lamar, 1940-</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>LA-Early_Swearing_In-BW001</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300128347"> 	black-and-white photographs</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2013-04-30</earliestDate>
+                <latestDate>2013-04-30</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>LA-Early_Swearing_In-BW001.jpg</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>LA-Early_Swearing_In-BW001</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="" vocab="" refid=""/>
+                <dates>
+                    <earliestDate></earliestDate>
+                    <latestDate></latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1982</earliestDate>
+                <latestDate>1983</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>Lamar Alexander( 1940- ) ran for Governor of the State of Tennessee three times; in 1974 he lost to Ray Blanton, in 1978 he handily beat Jake Butcher, and in 1982 he defeated Randy Tyree by a wide margin.  By 1982 campaign Alexander was a popular governor with a high approval rating who was bringing in industry to the state and improving the quality of life among the citizens.  The guitar shape of this sticker refers to Tennessee’s musical heritage and Alexander’s habit of playing the piano at political gatherings.  </description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <refid>Alexander Papers, MS734, memorabilia</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="undetermined">
+                <text>maybe by the Alexander Committee but i doubt it</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid=" 	sh85019201">Campaign paraphernalia</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>MS0734-Alexander-sticker-band</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300207379">stickers</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-05-06</earliestDate>
+                <latestDate>2015-05-06</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>MS0734-Alexander-sticker-band.jpg</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>MS0734-Alexander-sticker-band</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

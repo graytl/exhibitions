@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="" vocab="" refid=""/>
+                <dates>
+                    <earliestDate></earliestDate>
+                    <latestDate></latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1970</earliestDate>
+                <latestDate>1979</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>The Nashville Tennessean editor John Seigenthaler (1927-2014) and reporters Frank Sutherland (1945- ) and Wendell “Sonny” Rawls (1941- ) stand in the reporter’s  bullpen of the newspaper. Journalism in the 20th century went through tremendous changes as the ability to report on events kept pace with advancing technologies. Radio, television, the internet and now twitter and Instagram have pushed the boundaries of traditional journalism to new levels. With evermore outlets for news, well-crafted stories with compelling reporting still are the hallmark of the journalist.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <refid>James D. Squires Papers, MS588, box 2</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="undetermined">
+                <text>unknow photographer</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="sh85070788">Journalists</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>Seigenthaler-G9481</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300128347"> 	black-and-white photographs</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2010-08-06</earliestDate>
+                <latestDate>2010-08-06</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>Seigenthaler-G9481.jpg</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Seigenthaler-G9481</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>
