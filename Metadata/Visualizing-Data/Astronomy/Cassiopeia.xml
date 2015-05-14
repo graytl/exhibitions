@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n88173069">Fujii, Akira</name>
+                <dates>
+                    <earliestDate>1941</earliestDate>
+                    <latestDate>present</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>unknown</earliestDate>
+                <latestDate>unknown</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>This is a photo of the constellation Cassiopeia.  One can see the center bar of the Milky Way Galaxy running through the middle of the image.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="other">
+                <name type="corporate" vocab="" refid="">ESA/Hubble Space Telescope</name>
+                <refid>http://www.spacetelescope.org/</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="other">
+                <text>ESA/Hubble images, videos and web texts are released under the Creative Commons Attribution 3.0 Unported license and may on a non-exclusive basis be reproduced without fee provided they are clearly and visibly credited. Detailed conditions here: http://www.spacetelescope.org/copyright/</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="sh85052763">Galaxies</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh2012000490">Cassiopeia (Constellation)</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>http://www.spacetelescope.org/static/archives/images/original/opo0613c.jpg</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </work>
+   
+</vra>

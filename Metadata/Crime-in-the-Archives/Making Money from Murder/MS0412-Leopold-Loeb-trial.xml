@@ -3,10 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 84089580 ">Grolier Incorporated</name>
+                <name type="corporate" vocab="LCNAF" refid="n 84089580">Grolier Incorporated</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -68,7 +69,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of Grolier Story of America Subscription Card: The Trial of Nathan Leopold and Richard Loeb (#75-13)]</title>
+            <title>[Digital Reproduction of Grolier Story of America Subscription Card: The Trial of Nathan Leopold and Richard Loeb (#75-13)]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

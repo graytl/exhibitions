@@ -14,7 +14,7 @@
                 </dates>
             </agent>
             <agent>
-                <name type="personal" vocab="">Unknown</name>
+                <name type="personal" vocab="LCNAF" refid="79100565">Lindbergh, Charles A. (Charles Augustus), 1902-1974. </name>
                 <dates>
                     <earliestDate>1902</earliestDate>
                     <latestDate>1974</latestDate>

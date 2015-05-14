@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="" refid="">F. H. McConnell</name>
+                <dates>
+                    <earliestDate>unknown</earliestDate>
+                    <latestDate>unknown</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1892</earliestDate>
+                <latestDate>1892</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>This watch was presented to E. E. Barnard upon his discovery, in 1892, of Amalthea, the 5th moon and first non-Galilean, moon of Jupiter.  The gift was from F. H. McConnell, watchmaker and jeweler of San Francisco.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="LCSH" refid="nr95028464">Arthur J. Dyer Observatory</name>
+                <refid/>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>The watch--from 1892--is in the collection of the Dyer Observatory.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab=""/>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>Watch presented to E. E. Barnard upon his discovery, in 1892, of Amalthea.</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300200088">Pocket watches</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local" refid="">Steve Green, Vanderbilt University</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015.04.17</earliestDate>
+                <latestDate>2015.04.17</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>20150417SG001.jpg</refid>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University.</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>20150417SG001.jpg Front face of watch</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local" refid="">Steve Green, Vanderbilt University</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015.04.17</earliestDate>
+                <latestDate>2015.04.17</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>20150417SG002.jpg Back of watch</refid>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University.</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>20150417SG002.jpg</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

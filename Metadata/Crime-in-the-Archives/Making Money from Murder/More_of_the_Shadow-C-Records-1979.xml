@@ -9,6 +9,15 @@
             <agent>
                 <name type="corporate" vocab="LCNAF" refid="2003097848">Murray Hill Radio Theatre</name>
             </agent>
+            <agent>
+                <name type="corporate" vocab="local">Outlet Book Company, Inc.</name>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="96015813 ">Random House Audio Publishing</name>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="local">Murray Hill Music</name>
+            </agent>
         </agentSet>
         <dateSet>
             <date type="publication">
