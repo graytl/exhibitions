@@ -3,14 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
                 <name type="personal" vocab="LCNAF" refid="n 98077443">Marr, Johnny, 1961-</name>
-                <dates>
-                    <earliestDate>1961</earliestDate>
-                    <latestDate>unknown</latestDate>
-                </dates>
             </agent>
         </agentSet>
         <dateSet>
@@ -45,7 +42,7 @@
             <title>The Art of Murder</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="RBGENR">Zines</worktype>
+            <worktype vocab="300252980">Fanzines</worktype>
         </worktypeSet>
     </work>
     <image>
@@ -72,7 +69,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of 'The Art of Murder' zine cover]</title>
+            <title>[Digital Reproduction of 'The Art of Murder,' Zine Cover]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

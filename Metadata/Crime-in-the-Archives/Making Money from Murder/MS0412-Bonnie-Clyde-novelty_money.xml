@@ -3,6 +3,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
@@ -11,8 +12,8 @@
         </agentSet>
         <dateSet>
             <date type="publication">
-                <earliestDate>unknown</earliestDate>
-                <latestDate>present</latestDate>
+                <earliestDate>1940</earliestDate>
+                <latestDate>1970?</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
@@ -26,12 +27,7 @@
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>c. ICI AAC
-American Art Classics, Inc.
-1627 Wildwood Rd
-Clearwater, FL 33756 USA
-Phone: 727-683-7400, Fax: 775-582-3971
-E-Mail: americanartclassics@gmail.com</text>
+                <text>c. ICI AAC, American Art Classics, Inc.,1627 Wildwood Rd, Clearwater, FL 33756 USA, Phone: 727-683-7400, Fax: 775-582-3971, E-Mail: americanartclassics@gmail.com</text>
             </rights>
         </rightsSet>
         <subjectSet>

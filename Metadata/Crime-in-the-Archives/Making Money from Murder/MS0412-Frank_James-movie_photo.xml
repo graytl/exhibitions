@@ -3,6 +3,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
@@ -25,7 +26,7 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>AP 2.M87, Sevier Periodicals</refid>
+                <refid>Sevier Periodicals, AP 2.M87</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,11 +36,11 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCNAF" refid="n 50028710">James, Frank, 1844-1915</term>
+                <term vocab="LCNAF" refid="n 50028710">James, Frank, 1844-1915--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Film still from 'The Return of Frank James']</title>
+            <title>[Film Still from 'The Return of Frank James']</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300134997">Film stills</worktype>
@@ -71,7 +72,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of film still from 'The Return of Frank James']</title>
+            <title>[Digital Reproduction of Film Still from 'The Return of Frank James']</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
