@@ -36,7 +36,7 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
-                <refid></refid>
+                <refid>Music Library, CD MUS-15000</refid>
             </location>
             <location type="creation">
                 <name type="corporate" vocab="LCNAF" refid="no97046467">Bear Family Records (firm)</name> 
