@@ -6,9 +6,13 @@
     <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
-            <display>Beatles (musical group)</display>
             <agent>
                 <name type="corporate" vocab="LCNAF" refid="n 79018119">Beatles</name>
+                <role>Performer</role>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 88612146">Capitol Records, Inc.</name>
+                <role>Publisher</role>
             </agent>
         </agentSet>
         <dateSet>
