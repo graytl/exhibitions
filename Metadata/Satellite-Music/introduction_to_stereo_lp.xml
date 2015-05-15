@@ -1,68 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<!-- HAS BEEN EDITED -->
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
-            <display>Vienna State Opera Orchestra, Deutschmeister Band, Royal Philharmonic Orchestra, Ferrante and Teicher, and various other performers.</display>
             <agent>
                 <name type="corporate" vocab="LCNAF" refid="n 82096185">Wiener Staatsoper. Orchester</name>
+                <role>Performer</role>
             </agent>
             <agent>
                 <name type="corporate" vocab="LCNAF" refid="n 96023996">Deutschmeister Band</name>
+                <role>Performer</role>
             </agent>
             <agent>
                 <name type="corporate" vocab="LCNAF" refid="n 81028030">Royal Philharmonic Orchestra</name>
+                <role>Performer</role>
             </agent>
             <agent>
                 <name type="corporate" vocab="LCNAF" refid="n 93007068">Ferrante and Teicher</name>
+                <role>Performer</role>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="no 94029078">Westminster Recording Co.</name>
+                <role>Publisher</role>
             </agent>
         </agentSet>
         <dateSet>
-            <display>Issued in 1958.</display>
             <date type="creation">
                 <earliestDate>1958</earliestDate>
                 <latestDate>1958</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <display>Stereo sound was introduced to the commercial market in 1958. This LP offers listeners a wide variety of selections designed to expose them to the full benefits of stereo, including orchstral works, works for organ, and even sound effects.</display>
             <description>Stereo sound was introduced to the commercial market in 1958. This LP offers listeners a wide variety of selections designed to expose them to the full benefits of stereo, including orchstral works, works for organ, and even sound effects.</description>
         </descriptionSet>
         <locationSet>
             <display>Vanderbilt University Library, Anne Potter Wilson Music Library. Published by Westminster Stereo Corp., New York, 1958.</display>
             <location type="repository">
                 <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
-                <name type="geographic" vocab="TGN" refid="7013959" extent="inhabited place">Nashville-Davidson</name>
-                <name type="geographic" vocab="TGN" refid="2001855" extent="county">Davidson</name>
-                <name type="geographic" vocab="TGN" refid="7007825" extent="state">Tennessee</name>
-                <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
-                <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
+                <refid>Music Library, LP MUS-LP 3517</refid>
             </location>
             <location type="creation">
                 <name type="corporate" vocab="LCNAF" refid="no 94029078">Westminster Recording Co.</name>
-                <name type="geographic" vocab="TGN" refid="7007567" extent="inhabited place">New York</name>
-                <name type="geographic" vocab="TGN" refid="7007568" extent="state">New York</name>
-                <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
-                <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
             </location>
         </locationSet>
         <rightsSet>
-            <display>WSS-1 Westminster, 275 Seventh Ave., New York, NY</display>
             <rights type="copyrighted">
-                <rightsHolder>Westminster Recording Co.</rightsHolder>
-                <text>The display of this physical object constitutes a fair use as detailed in the ACRL's Code of Best Practices in Fair Use for Academic and Research Libraries.</text>
+                <text>WSS-1 Westminster Recording Co. (275 Seventh Ave., New York, NY). The display of this physical object constitutes a fair use as detailed in the ACRL's Code of Best Practices in Fair Use for Academic and Research Libraries.</text>
             </rights>
         </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="sh 85095326">Orchestral music</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85095468">Organ music</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85101782">Piano music</term>
+            </subject>
+        </subjectSet>
         <titleSet>
-            <display>Introduction to Stereo</display>
-            <title type="cited" pref="true" source="item">Introduction to Stereo</title>
+            <title>Introduction to Stereo</title>
         </titleSet>
         <worktypeSet>
-            <display>Long-playing record</display>
             <worktype vocab="AAT" refid="300265802">Long-playing records</worktype>
         </worktypeSet>
     </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+                <role>Photographer</role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-04-17</earliestDate>
+                <latestDate>2015-04-17</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>20150417SG044.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[Digital Reproduction of Introduction to Stereo, Album Cover]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
 </vra>
