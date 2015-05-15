@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="LCNAF"/>
+                <dates>
+                    <earliestDate/>
+                    <latestDate/>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1921-05-06</earliestDate>
+                <latestDate>1921-05-06</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>After Albert Einstein (1879-1955) published his theory of relativity, a number of observatories attempted to prove the theory based on Einstein’s calculations which predicted the gravitational bending of light passing a large body such as the Sun.  Einstein visited a number of observatories which attempted to prove the theory.  This photograph with the staff of the Yerkes Observatory was taken in 1921, the same year he won the Nobel Prize in Physics.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <refid>Edward Emerson Barnard Papers, Box 43/9</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>Image is stamped "Photo Archive, Vanderbilt University" but was taken at Yerkes Observatory.  It's 1921 date, however, seems to place it in the public domain.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="n 79022889">Einstein, Albert, 1879-1955</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>[Albert Einstein with the staff of Yerkes Observatory]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300128347">black-and-white photographs</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-05-06</earliestDate>
+                <latestDate>2015-05-06</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>MS0031-Barnard_Einstein-B43-F09-AB.jpg</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Digital reproduction of [Albert Einstein with the staff of the Yerkes Observatory]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

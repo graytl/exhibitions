@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF">McConnell, Frank H</name>
+                <dates>
+                    <earliestDate>unknown</earliestDate>
+                    <latestDate>unknown</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1892-09-13</earliestDate>
+                <latestDate>1892-09-13</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>Frank McConnell and Edward Emerson Barnard were both founding members of the Astronomical Society of the Pacific, founded in San Francisco in 1889 while Barnard was affiliated with the Lick Observatory.  Barnard’s discovery of another  moon of Jupiter, later designated Amalthea, brought him many accolades from the astronomical community.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <refid>Edward Emerson Barnard Papers, Box 22</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>Pre-1923 letter, should be public domain</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="sh 85071063">Jupiter (Planet)</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>[Letter from McConnell on Barnard's discovery of Amalthea]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300026877">correspondence</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-04-28</earliestDate>
+                <latestDate>2015-04-28</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>MS0031-McConnell-letter-B22-Sept-22-1892.jpg</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Digital reproduction of [Letter from McConnell on Barnard's discovery of Amalthea]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

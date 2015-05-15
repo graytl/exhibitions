@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 79105937">George C. Marshall Space Flight Center</name>
+                <dates>
+                    <earliestDate>1960-07-01</earliestDate>
+                    <latestDate>present</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>1986</earliestDate>
+                <latestDate>1986</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>In addition to transmitting images down to Earth, Hubble also transmits system reports which enable engineers to identify faults which can be corrected with orbital servicing missions.  Multiple satellites are needed to bounce Hubble’s transmissions back to NASA.   </description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <refid>Robert O'Dell Papers, Box 2/11</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Image is from p. 20 of brochure "Designing an Observatory for Maintenance in Orbit: The Hubble Space Telescope Experience," Space Telescope Project Office, Marshall Space Flight Center.  </text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="n 91011423">Hubble Space Telescope (Spacecraft)</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>Hubble Space Telescope Data Flow</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300248280">brochures</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-05-04</earliestDate>
+                <latestDate>2015-05-04</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>MS0732-Hubble-Data_Flow-B02-F11-p20.jpg</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Digital reproduction of Designing an Observatory for Maintenance in Orbit The Hubble Space Telescope Experience--Page 20</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>
