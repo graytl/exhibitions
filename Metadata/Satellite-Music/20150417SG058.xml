@@ -3,6 +3,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <display>Beatles (musical group)</display>
@@ -17,7 +18,6 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <display>The Beatles' Sgt. Pepper's Lonely Hearts Club Band serves as a fine example of the role that album cover art and supplemental materials served to aid in marketing of the music. While the album cover itself is distinctive, Sgt. Pepper also included paper "cut-outs" for added value.</display>
             <description>The Beatles' Sgt. Pepper's Lonely Hearts Club Band serves as a fine example of the role that album cover art and supplemental materials served to aid in marketing of the music. While the album cover itself is distinctive, Sgt. Pepper also included paper cut-outs for added value.</description>
         </descriptionSet>
         <locationSet>
@@ -25,26 +25,12 @@
             <notes>Publisher: Capitol, label no. SMAS-2653 Capitol; recorded at EMI Studio, City of Westminster, London, England</notes>
             <location type="repository">
                 <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
-                <name type="geographic" vocab="TGN" refid="7013959" extent="inhabited place">Nashville-Davidson</name>
-                <name type="geographic" vocab="TGN" refid="2001855" extent="county">Davidson</name>
-                <name type="geographic" vocab="TGN" refid="7007825" extent="state">Tennessee</name>
-                <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
-                <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
-            </location>
-            <location type="creation">
-                <name type="geographic" vocab="TGN" refid="7018934" extent="borough">City of Westminster</name>
-                <name type="geographic" vocab="TGN" refid="7011781" extent="inhabited place">London</name>
-                <name type="geographic" vocab="TGN" refid="7008136" extent="metropolitan area">Greater London</name>
-                <name type="geographic" vocab="TGN" refid="7012149" extent="country">England</name>
-                <name type="geographic" vocab="TGN" refid="7008653" extent="island">Great Britain</name>
-                <name type="geographic" vocab="TGN" refid="7008591" extent="nation">United Kingdom</name>
-                <name type="geographic" vocab="TGN" refid="1000003" extent="continent">Europe</name>
+                <refid>Music Library, Vault, LP MUS-LP 3318</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <rightsHolder>Capitol Records or EMI</rightsHolder>
-                <text>Contact SESAC, ASCAP or BMI</text>
+                <text>Capitol Records or EMI, Contact SESAC, ASCAP or BMI</text>
             </rights>
         </rightsSet>
         <subjectSet>
@@ -53,11 +39,9 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <display>Sgt. Pepper's Lonely Hearts Club Band</display>
-            <title pref="true" xml:lang="en">Sgt. Pepper's Lonely Hearts Club Band</title>
+            <title>Sgt. Pepper's Lonely Hearts Club Band</title>
         </titleSet>
         <worktypeSet>
-            <display>Long-playing record</display>
             <worktype vocab="AAT" refid="300265802">Long-playing records</worktype>
         </worktypeSet>
     </work>
@@ -69,14 +53,14 @@
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+                <earliestDate>2015-04-17</earliestDate>
+                <latestDate>2015-04-17</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
                 <refid>20150417SG058.jpg</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
