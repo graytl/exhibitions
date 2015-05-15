@@ -5,74 +5,73 @@
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
     <work>
         <agentSet>
-            <display>Alan Lomax, Elizabeth Lyttleton, Révolie Polinice</display>
             <agent>
                 <name type="personal" vocab="LCNAF" refid="n 50039476">Lomax, Alan, 1915-2002</name>
+                <role>Recordist</role>
             </agent>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="no 2001010523">Lyttleton, Elizabeth</name>
+                <name type="personal" vocab="LCNAF" refid="no2001010523">Lyttleton, Elizabeth</name>
+                <role>Recordist</role>
             </agent>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="no 2010037508">Polinice, Révolie</name>
+                <name type="personal" vocab="LCNAF" refid="no2010037508">Polinice, Révolie</name>
+                <role>Recordist</role>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="local">Harte Recordings (Firm)</name>
+                <role>Publisher</role>
             </agent>
         </agentSet>
         <dateSet>
-            <display>This box set issued in 2009, originally recorded in the field between 1936 and 1937.</display>
-            <date type="creation">
+            <date type="publication">
                 <earliestDate>2009</earliestDate>
                 <latestDate>2009</latestDate>
             </date>
+            <date type="creation">
+                <earliestDate>1936</earliestDate>
+                <latestDate>1937</latestDate>
+            </date>
         </dateSet>
         <descriptionSet>
-            <display>This sumptuous box set features remastered field recordings collected by Alan Lomax for the Library of Congress between 1936 and 1937. In addition to the recordings, the set includes facsimile reproductions of a tourist map with Lomax's annotations, his Haitian Diary, and a photograph.</display>
-            <description source="Sara Manus, Vanderbilt University Library, 2015">This sumptuous box set features remastered field recordings collected by Alan Lomax for the Library of Congress between 1936 and 1937. In addition to the recordings, the set includes facsimile reproductions of a tourist map with Lomax's annotations, his Haitian Diary, and a photograph.</description>
-            <description/>
+            <description>This sumptuous box set features remastered field recordings collected by Alan Lomax for the Library of Congress between 1936 and 1937. In addition to the recordings, the set includes facsimile reproductions of a tourist map with Lomax's annotations, his Haitian Diary, and a photograph.</description><description/>
         </descriptionSet>
         <locationSet>
-            <display>Vanderbilt University Library, Anne Potter Wilson Music Library, published by Harte Recordings, San Francisco, CA.</display>
             <location type="repository">
                 <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
-                <name type="geographic" vocab="TGN" refid="7013959" extent="inhabited place">Nashville-Davidson</name>
-                <name type="geographic" vocab="TGN" refid="2001855" extent="county">Davidson</name>
-                <name type="geographic" vocab="TGN" refid="7007825" extent="state">Tennessee</name>
-                <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
-                <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
+                <refid>Music Library, CD MUS-12888</refid>
             </location>
         </locationSet>
         <rightsSet>
-            <display>HR103 Harte Recordings, c2009</display>
             <rights type="copyrighted">
-                <rightsHolder>Harte Recordings, San Francisco, CA.</rightsHolder>
-                <text>The display of this physical object constitutes a fair use as detailed in the ACRL's Code of Best Practices in Fair Use for Academic and Research Libraries.</text>
+                <text>HR103 Harte Recordings (San Francisco, CA), c2009. The display of this physical object constitutes a fair use as detailed in the ACRL's Code of Best Practices in Fair Use for Academic and Research Libraries.</text>
             </rights>
         </rightsSet>
         <subjectSet>
-            <display>Field recordings, Haiti--Research, Lomax, Alan, 1915-2002.</display>
-            <subject>
-                <term type="conceptTopic" vocab="AAT" refid="300265794">Field recordings</term>
-            </subject>
+            <display>Field recordings, Haiti--Research, Lomax, Alan, 1915-2002</display>
             <subject>
                 <term type="personalName" vocab="LCNAF" refid="300265794">Lomax, Alan, 1915-2002</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <display>Alan Lomax, Haiti: Recordings for the Library of Congress, 1936-1937</display>
-            <title type="cited" pref="true" source="item">Alan Lomax, Haiti: Recordings for the Library of Congress, 1936-1937</title>
+            <title pref="true">Alan Lomax in Haiti</title>
+            <title pref="false">Haiti recordings</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300265794">Field recordings</worktype>
+            <worktype vocab="AAT" refid="300028633">Sound recordings</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+                <role>Photographer</role>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015-04-20</earliestDate>
-                <latestDate>2015-04-20</latestDate>
+                <earliestDate>2015-04-17</earliestDate>
+                <latestDate>2015-04-17</latestDate>
             </date>
         </dateSet>
         <locationSet>
