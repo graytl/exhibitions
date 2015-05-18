@@ -7,9 +7,12 @@ In addition to her formidable talent as a writer of fiction, Flannery  O’Conno
 
 1) Cheney, Brainard [First letter from Brainard Cheney to Flannery O’Connor] March 22, 1953. Letter, Brainard and Francis Cheney Collection, Vanderbilt University Special Collections
 
-2)First letter from Flannery O’Connor to Brainard Cheney
-3)Flannery O’Connor manuscript of story about peacocks “King of the Birds”
-4)Manuscript of Brainard Cheney’s review of O’Connors Wise Blood. Published review prompted O’Connor to write first letter
+2)O'Connor, Flannery, [First letter from Flannery O’Connor to Brainard Cheney]February 8, 1953. Letter. Brainard and Francis Cheney Collection, Vanderbilt University Special Collections
+
+3)O'Connor, Flannery, “King of the Birds.” Manuscript. Brainard and Francis Cheney Collection, Vanderbilt University Special Collections
+
+4) Cheney, Brainard, [Review of Wise Blood] Manuscript. Brainard and Francis Cheney Collection, Vanderbilt University Special Collections
+
 5) First edition copy of "Wise Blood" 
 6) Photo of Book Jacket "the Correspondence of Flannery O'Connor"
 7) Interview with O’Connor and Robert Penn Warren in Vanderbilt literary mag, the Vanguard
