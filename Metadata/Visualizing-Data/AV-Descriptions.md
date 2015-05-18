@@ -21,15 +21,18 @@ _Below are descriptions for audio-visual clips requested by the curators for the
 #### Clip 6 | Caruso Sings _Vesti La Giubba_ from _Il Pagliacci_ (Mary Anne Caton and Carla Beals)
 * Description: This video features the famous Italian tenor, Enrico Caruso. The clip from the silent film My Cousin (1918) features Caruso in his signature role – Canino in Leoncavallo's Il Pagliacci. The aria seen here,“Vesti la Giubba,” comes at the end of Act I. Canino has just discovered that his beloved wife has been unfaithful but he must prepare to perform or “put on the costume” and continue the show. Caruso first played the role in Milan in 1897, and recorded it in 1907. 
 
-#### Clip 7 | Touch the Universe
+#### Clip 7 | Act I of Il Pagliacci: Vesti la Giubba (Mary Anne Caton and Carla Beals)
+* Description: MISSING
+
+#### Clip 8 | Touch the Universe
 * Description: The authors of a Braille book of Hubble images talk about the genesis of the idea, the process of its creation, and testing. This is an example of the ultimate in visualizing.
 
-#### Clip 8 | Fomalhaut b : Zombie Exoplanet
+#### Clip 9 | Fomalhaut b : Zombie Exoplanet
 * Description: In 2008 an exoplanet was detected orbiting the star Fomalhaut.  In 2012 other astronomers questioned the existence of the planet because they could not detect its heat. Since then, earlier data has been reanalyzed and confirms the existence of a much smaller exoplanet.
 
-#### Clip 9 | Earth’s Most Powerful Natural Particle Accelerator
+#### Clip 10 | Earth’s Most Powerful Natural Particle Accelerator
 * Description: We have known that powerful thunderstorms can produce terrestrial gamma-ray flashes, or TGFs. Since Fermi studies helped uncover lightning-like radio signals emitted by TGFs, this made it possible to use ground-based lightning location networks to pin down storms producing the flashes, opening the door to a deeper understanding of the meteorology powering these extreme events.
 
-#### Clip 10 | Singing Stars
+#### Clip 11 | Singing Stars
 * Description: The Kepler space telescope catches the flickering of light on stars. The upwelling of hot gas and the descending of cooling gasses create hot and cold spots that flicker.  This flickering is then turned into sound and the sounds of these stars represent variations in its brightness. Tonal variations come from “sunspots” as the star spins.  The hiss is from granulation at the surface of the star and gives us information about the size of the star.
 
