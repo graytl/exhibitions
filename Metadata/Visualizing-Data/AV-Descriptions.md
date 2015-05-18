@@ -31,5 +31,5 @@ _Below are descriptions for audio-visual clips requested by the curators for the
 * Description: We have known that powerful thunderstorms can produce terrestrial gamma-ray flashes, or TGFs. Since Fermi studies helped uncover lightning-like radio signals emitted by TGFs, this made it possible to use ground-based lightning location networks to pin down storms producing the flashes, opening the door to a deeper understanding of the meteorology powering these extreme events.
 
 #### Clip 10 | Singing Stars
-* Description: MISSING
+* Description: The Kepler space telescope catches the flickering of light on stars. The upwelling of hot gas and the descending of cooling gasses create hot and cold spots that flicker.  This flickering is then turned into sound and the sounds of these stars represent variations in its brightness. Tonal variations come from “sunspots” as the star spins.  The hiss is from granulation at the surface of the star and gives us information about the size of the star.
 
