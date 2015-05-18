@@ -13,7 +13,8 @@ In addition to her formidable talent as a writer of fiction, Flannery  O’Conno
 
 4) Cheney, Brainard, [Review of Wise Blood] Manuscript. Brainard and Francis Cheney Collection, Vanderbilt University Special Collections
 
-5) First edition copy of "Wise Blood" 
+5) O'Connor, Flannery. Wise Blood. (New York. Harcourt, Brace. 1952. First ed.) Sevier Collection, Vanderbilt University Special Collections
+
 6) Photo of Book Jacket "the Correspondence of Flannery O'Connor"
 7) Interview with O’Connor and Robert Penn Warren in Vanderbilt literary mag, the Vanguard
 8) Rake from O’Connor’s farm where she raised peacocks
