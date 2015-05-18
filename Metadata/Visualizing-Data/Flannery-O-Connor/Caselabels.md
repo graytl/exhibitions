@@ -1,7 +1,7 @@
-Working draft
-# Example: 
-## The Epistolery Correspondence of Flannery O'Connor
-#### Pedestal: Making Money from Murder
+
+# Working draft: 
+## Visualizing data
+#### The Epistolery Correspondence of Flannery O'Connor
 
 In addition to her formidable talent as a writer of fiction, Flannery  O’Connor devoted much of her too-short life to writing letters; she wrote to friends and acquaintances all over the country, about an array of topics. Using the NoSQL graphing database Neo4j, we encoded relationships between many of these letters and queried them using the Neo4j query language, Cypher. 
 
