@@ -4,15 +4,6 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
     <work>
-        <agentSet>
-            <agent>
-                <name type="" vocab="" refid=""/>
-                <dates>
-                    <earliestDate></earliestDate>
-                    <latestDate></latestDate>
-                </dates>
-            </agent>
-        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>1915</earliestDate>
@@ -24,45 +15,38 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
-                <refid>Nahum N. Glatzer Collection/ Box6, Folder 37</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+                <refid>Nahum N. Glatzer Collection, Box 6, Folder 37</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="undetermined">
-                <text>Photo is from a purchased collection. Not sure who owns the copyright.
-</text>
+                <text>Photo is from a purchased collection. Not sure who owns the copyright</text>
             </rights>
         </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="" refid=""></term>
-            </subject>
-        </subjectSet>
         <titleSet>
-            <title>[Franz Rosenzweig]</title>
+            <title>[A Young Franz Rosenzweig, Seated in Suit]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347  ">black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt Univeristy Photographic Archives</name>
-                <role></role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="other">
+            <date type="creation">
                 <earliestDate>2015-04-01</earliestDate>
                 <latestDate>2015-04-01</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>F214-Rozenzweig-03.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt Univeristy Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -71,10 +55,10 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Image of [Franz Rosenzweig]</title>
+            <title>[Digital Reproduction of A Young Franz Rosenzweig, Seated in Suit]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">digital images</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>
