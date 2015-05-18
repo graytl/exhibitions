@@ -24,15 +24,15 @@ _Below are descriptions for audio-visual clips requested by the curators for the
 #### Clip 7 | Act I of Il Pagliacci: Vesti la Giubba (Mary Anne Caton and Carla Beals)
 * Description: MISSING
 
-#### Clip 8 | Touch the Universe
+#### Clip 8 | Touch the Universe (Carlin Sappenfield)
 * Description: The authors of a Braille book of Hubble images talk about the genesis of the idea, the process of its creation, and testing. This is an example of the ultimate in visualizing.
 
-#### Clip 9 | Fomalhaut b : Zombie Exoplanet
+#### Clip 9 | Fomalhaut b : Zombie Exoplanet (Carlin Sappenfield)
 * Description: In 2008 an exoplanet was detected orbiting the star Fomalhaut.  In 2012 other astronomers questioned the existence of the planet because they could not detect its heat. Since then, earlier data has been reanalyzed and confirms the existence of a much smaller exoplanet.
 
-#### Clip 10 | Earth’s Most Powerful Natural Particle Accelerator
+#### Clip 10 | Earth’s Most Powerful Natural Particle Accelerator (Carlin Sappenfield)
 * Description: We have known that powerful thunderstorms can produce terrestrial gamma-ray flashes, or TGFs. Since Fermi studies helped uncover lightning-like radio signals emitted by TGFs, this made it possible to use ground-based lightning location networks to pin down storms producing the flashes, opening the door to a deeper understanding of the meteorology powering these extreme events.
 
-#### Clip 11 | Singing Stars
+#### Clip 11 | Singing Stars (Carlin Sappenfield)
 * Description: The Kepler space telescope catches the flickering of light on stars. The upwelling of hot gas and the descending of cooling gasses create hot and cold spots that flicker.  This flickering is then turned into sound and the sounds of these stars represent variations in its brightness. Tonal variations come from “sunspots” as the star spins.  The hiss is from granulation at the surface of the star and gives us information about the size of the star.
 
