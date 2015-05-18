@@ -6,10 +6,10 @@
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n82144585">Rosenzweig, Franz</name>
+                <name type="personal" vocab="LCNAF" refid="n 82144585">Rosenzweig, Franz, 1886-1929</name>
                 <dates>
                     <earliestDate>1886</earliestDate>
-                    <latestDate>1829</latestDate>
+                    <latestDate>1929</latestDate>
                 </dates>
             </agent>
         </agentSet>
@@ -24,13 +24,13 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
                 <refid>Nahum N. Glatzer Collection</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>The creation date is 1920.</text>
+                <text>The creation date is approximately 1920, predating 1923 copyright law.</text>
             </rights>
         </rightsSet>
         <subjectSet>
@@ -39,10 +39,10 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Franz Rosenzweig's Letter to Martin Buber]</title>
+            <title>[Letter to Martin Buber]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="RBGENR" refid="">letters</worktype>
+            <worktype vocab="AAT" refid="300026879">Letters (correspondence)</worktype>
         </worktypeSet>
     </work>
     <image>
@@ -60,7 +60,7 @@
         <locationSet>
             <location type="other">
                 <refid>F229-Rozenzweig-01.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +69,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Image of [Franz Rosenzweig's Letter to Martin Buber]</title>
+            <title>[Digital Reproduction of Letter to Martin Buber]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
