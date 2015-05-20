@@ -3,13 +3,15 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n82144585">Rosenzweig, Franz</name>
+                <name type="personal" vocab="LCNAF" refid="n 82144585">Rosenzweig, Franz, 1886-1929</name>
+                <role>Author</role>
                 <dates>
                     <earliestDate>1886</earliestDate>
-                    <latestDate>1829</latestDate>
+                    <latestDate>1929</latestDate>
                 </dates>
             </agent>
         </agentSet>
@@ -24,31 +26,26 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
-                <refid>Nahum N. Glatzer Collection/Box 1, Folder 26</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>Nahum N. Glatzer Collection, Box 1, Folder 26</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>The creation date is 1920</text>
+                <text>The creation date is 1920 - predates 1923 copyright law.</text>
             </rights>
         </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="" refid=""></term>
-            </subject>
-        </subjectSet>
         <titleSet>
             <title>[Notes of Der Stern der Erlösung]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300028569">manuscripts (document genre)</worktype>
+            <worktype vocab="AAT" refid="300028569">Manuscripts (document genre)</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +55,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>F226-Rozenzweig-01.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +66,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Image of [Notes of Der Stern der Erlösung]. </title>
+            <title>[Digital Reproduction of Notes of Der Stern der Erlösung]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
