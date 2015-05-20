@@ -12,7 +12,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>The tallit (prayer shawl) is a portable spiritual home in which one can wrap oneself. According to Jewish tradition, a Jewish male is buried in his tallit with the corners cut off. The cut-off corner fringes signify that the tallit can no longer be used for prayer by this person. This tallit accompanied Franz Rosenzweig for three decades until the day he died.  </description>
+            <description>The tallit (prayer shawl) is a portable spiritual home in which one can wrap oneself. According to Jewish tradition, a Jewish male is buried in his tallit with the corners cut off. The cut-off corner fringes signify that the tallit can no longer be used for prayer by this person. This tallit accompanied Franz Rosenzweig for three decades until the day he died.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
@@ -27,7 +27,7 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="" refid=""></term>
+                <term vocab="LCNAF" refid="n 82144585">Rosenzweig, Franz, 1886-1929</term>
             </subject>
         </subjectSet>
         <titleSet>
@@ -61,7 +61,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Franz Rosenzweig's Tallit]</title>
+            <title>[Digital Reproduction of Franz Rosenzweig's Tallit, View of Cut Corner]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
