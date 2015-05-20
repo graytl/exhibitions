@@ -3,14 +3,20 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
                 <name type="corporate" vocab="LCNAF" refid="no2014137433">Judaic Heritage Society</name>
-                <dates>
-                    <earliestDate></earliestDate>
-                    <latestDate></latestDate>
-                </dates>
+                <role>Publisher</role>
+            </agent>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="no2014142162">Weber, Robert, active 1974</name>
+                <role>Editor</role>
+            </agent>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="no2014142186">Bertram, Fred, active 1974</name>
+                <role>Editor</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -24,8 +30,8 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
-                <refid>Memorabilia/CJ5793 .J4 J82 1969</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>Sevier, Memorabilia Collection, CJ5793 .J4 J82 1969, Volumes I and II</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,20 +41,26 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="" refid=""></term>
+                <term vocab="LCSH" refid="sh 85082817">Jewish medals--Specimens</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85070393">Jews--History</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85070369">Jews--Biography</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Medallic History of the Jewish People</title>
+            <title>The Medallic History of the Jewish People</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="RBGENR" refid="">books</worktype>
+            <worktype vocab="AAT" refid="300028051">Books</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +70,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>CJ5793_J4_J82-1969-Medallic_History_of_the_Jewish_People-01.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +81,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Image of Medallic History of the Jewish People</title>
+            <title>[Digital Reproduction of The Medallic History of the Jewish People]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -78,7 +90,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -88,9 +100,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>CJ5793_J4_J82-1969-Medallic_History_of_the_Jewish_People-02.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -99,7 +111,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Image of Medallic History of the Jewish People</title>
+            <title>[Digital Reproduction of The Medallic History of the Jewish People]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
