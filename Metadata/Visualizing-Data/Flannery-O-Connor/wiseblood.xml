@@ -15,7 +15,7 @@
         </agentSet>
         <dateSet>
             <date type="publication">
-                <earliestDate>1986</earliestDate>earliestDate> <latestDate>1986</latestDate>
+                <earliestDate>1952</earliestDate>earliestDate> <latestDate>1952</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
@@ -29,7 +29,7 @@
         </locationSet>
         <rightsSet>
             <rights type="other">
-                <text>Copyright belongs to Vanderbilt University</text>
+                <text>Book owned by Vanderbilt University</text>
             </rights>
         </rightsSet>
         <subjectSet>
@@ -52,13 +52,13 @@
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+                <earliestDate>2015-19-05</earliestDate>
+                <latestDate>2015-19-05</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="other">
-                <refid></refid>
+                <refid>WISE_BLOOD-Flannery_Oconnor-1952.jpg</refid>
                 <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
