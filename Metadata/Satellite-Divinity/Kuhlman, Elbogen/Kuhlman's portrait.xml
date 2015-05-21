@@ -3,16 +3,8 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
-        <agentSet>
-            <agent>
-                <name type="" vocab="" refid=""/>
-                <dates>
-                    <earliestDate></earliestDate>
-                    <latestDate></latestDate>
-                </dates>
-            </agent>
-        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>1940</earliestDate>
@@ -24,37 +16,36 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
-                <refid>Frederick_Kuhlman-pa.por.kuha.005.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid></refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections
-</text>
+                <text></text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="" refid=""></term>
+                <term vocab="LCNAF" refid="no 98090423">Kuhlman, A. F., (Augustus Frederick), 1889-1986--Portraits</term>
             </subject>
         </subjectSet>
         <titleSet>
             <title>[Frederick Kuhlman in Front of Card Catalog]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347  ">black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt Univeristy Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt Univeristy Special Collections</name>
                 <role></role>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="other">
+            <date type="creation">
                 <earliestDate>2015</earliestDate>
                 <latestDate>2015</latestDate>
             </date>
@@ -62,7 +53,7 @@
         <locationSet>
             <location type="repository">
                 <refid>Frederick_Kuhlman-pa.por.kuha.005.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt Univeristy Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt Univeristy Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -71,10 +62,10 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Frederick Kuhlman in Front of Card Catalog]</title>
+            <title>[Digital Reproduction of Frederick Kuhlman in Front of Card Catalog]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">digital images</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>

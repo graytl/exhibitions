@@ -3,36 +3,35 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="" vocab="" refid=""/>
+                <name type="personal" vocab="LCNAF" refid="no 98090423">Kuhlman, A. F., (Augustus Frederick), 1889-1986</name>
                 <dates>
-                    <earliestDate></earliestDate>
-                    <latestDate></latestDate>
+                    <earliestDate>1889</earliestDate>
+                    <latestDate>1986</latestDate>
                 </dates>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="publication">
-                <earliestDate>1965</earliestDate>
-                <latestDate>1967</latestDate>
+            <date type="creation">
+                <earliestDate>1944-04-12</earliestDate>
+                <latestDate>1944-04-12</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description>The Bird’s Head manuscript, the earliest surviving illustrated Ashkenazi Haggadah, is named for the figures drawn with bird’s heads on human forms. These composite creatures are most probably griffins. Many scholars believe the use of imaginary creatures is a concession to a rabbinic prohibition against Jewish image making. The conical “Jewish hat,” worn by adult males, was mandatory attire for German Jews in the Middle Ages.
-
-</description>
+            <description>Dr. Kuhlman wrote this letter, dated April 12, 1944, to Elbogen's wife Regina, to initiate negotiations to obtain the Elbogen library. A stream of correspondence between Kuhlman and Mrs. Elbogen led to the finalization of the purchase in December 1944.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
-                <refid>Memorabilia Collection/BM675 .P4 J4</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Archives</name>
+                <refid>Divinity Library Archives, Box 886, Folder 30</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>It's under fair use. Two pages are on display.</text>
+                <text>Work for hire, Vanderbilt University</text>
             </rights>
         </rightsSet>
         <subjectSet>
@@ -41,17 +40,16 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Bird’s Head Haggadah</title>
+            <title>[Letter to Mrs. Regina Elbogen]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="" refid="">books</worktype>
+            <worktype vocab="AAT" refid="300026879">Letters (correspondence)</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
-                <role></role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -62,8 +60,8 @@
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>BM675_P4_J4_v1-Birds_Head_Haggada.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <refid>Judaica-B886F30-Kuhlman-Elbogan-April_12_1944.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -72,10 +70,10 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Bird’s Head Haggadah</title>
+            <title>[Digital Reproduction of Letter to Mrs. Regina Elbogen]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">digital images</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>

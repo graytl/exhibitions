@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
+    <work>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Tarshish Books</name>
+                <role>Publisher</role>
+            </agent>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n 85259455">Spitzer, Moshe, 1900-1982</name>
+                <role>Editor</role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>1965</earliestDate>
+                <latestDate>1967</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>The Bird’s Head manuscript, the earliest surviving illustrated Ashkenazi Haggadah, is named for the figures drawn with bird’s heads on human forms. These composite creatures are most probably griffins. Many scholars believe the use of imaginary creatures is a concession to a rabbinic prohibition against Jewish image making. The conical “Jewish hat,” worn by adult males, was mandatory attire for German Jews in the Middle Ages.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>Memorabilia Collection, BM675 .P4 J4</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>It's under fair use. Two pages are on display.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCNAF" refid="n 79084774">Haggadah--Illustrations</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh2008107197">Manuscripts, Hebrew--Facsimiles</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85064367">Jewish illumination of books and manuscripts</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title pref="true" xml:lang="en">The Birds Head Haggada of the Bezalel National Art Museum in Jerusalem</title>
+            <title pref="false" xml:lang="he">Hagadat rashe ha-tsiporim shel Bet ha-Nekhot ha-Le’umi le-’Omanut Betsal’el, Yerushalayim</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300028051">Books</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-03-04</earliestDate>
+                <latestDate>2015-03-04</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>BM675_P4_J4_v1-Birds_Head_Haggada.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[Digital Reproduction of The Birds Head Haggada of the Bezalel National Art Museum in Jerusalem, Facsimile]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>
