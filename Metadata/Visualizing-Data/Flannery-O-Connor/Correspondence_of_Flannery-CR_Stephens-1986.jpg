@@ -53,13 +53,13 @@
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+                <earliestDate>2014-06-05</earliestDate>
+                <latestDate>2014-06-05</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="other">
-                <refid></refid>
+                <refid>Correspondence_of_Flannery-CR_Stephens-1986.jpg</refid>
                 <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
