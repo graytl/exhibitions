@@ -15,15 +15,15 @@ In addition to her formidable talent as a writer of fiction, Flannery  O’Conno
 
 5) O'Connor, Flannery. Wise Blood. (New York. Harcourt, Brace. 1952. First ed.) Sevier Collection, Vanderbilt University Special Collections
 
-6) Photo of Book Jacket "the Correspondence of Flannery O'Connor"
+6) [Photo of Book Jacket "the Correspondence of Flannery O'Connor"]
 
 7) Vagabond. "An Interview with Flannery O’Connor and Robert Penn Warren". Vagabond (Nashville,TN. 1959) article.Brainard and Francis Cheney Collection, Vanderbilt University Special Collections 
 
-8) Rake from O’Connor’s farm where she raised peacocks
+8) [Rake from O’Connor’s farm where she raised peacocks]
 
-9)Peacock feathers from O’Connor’s farm
+9) [Peacock feathers from O’Connor’s farm]
 
-10)Morrisey, Ralph. "Flannery o'Connor". 1955. Black and White Photo. Brainard and Francis Cheney Collection, Vanderbilt University Special Collections
+10) Morrisey, Ralph. "Flannery o'Connor". 1955. Black and White Photo. Brainard and Francis Cheney Collection, Vanderbilt University Special Collections
 
 11) Backdrop: Photo of Network Graph of the letters 
 
