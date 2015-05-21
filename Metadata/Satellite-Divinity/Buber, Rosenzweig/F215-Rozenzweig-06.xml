@@ -3,16 +3,8 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
-        <agentSet>
-            <agent>
-                <name type="" vocab="" refid=""/>
-                <dates>
-                    <earliestDate></earliestDate>
-                    <latestDate></latestDate>
-                </dates>
-            </agent>
-        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>1930</earliestDate>
@@ -24,45 +16,44 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
-                <refid>Nahum N. Glatzer Collection/ Box6, Folder 37</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>Nahum N. Glatzer Collection, Box 6, Folder 37</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="undetermined">
-                <text>Photo is from a purchased collection. Not sure who owns the copyright.
-</text>
+                <text>Photo is from a purchased collection. Not sure who owns the copyright.</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="" refid=""></term>
+                <term vocab="LCNAF" refid="n 79081898">Buber, Martin, 1878-1965</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Martin Buber]</title>
+            <title>[Portrait of Martin Buber]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347  ">black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt Univeristy Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt Univeristy Special Collections</name>
                 <role></role>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="other">
+            <date type="creation">
                 <earliestDate>2015-04-01</earliestDate>
                 <latestDate>2015-04-01</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>F215-Rozenzweig-06.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt Univeristy Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt Univeristy Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -71,10 +62,10 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Image of [Martin Buber]</title>
+            <title>[Digital Reproduction of Portrait of Martin Buber]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">digital images</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>

@@ -3,16 +3,8 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
-        <agentSet>
-            <agent>
-                <name type="" vocab="" refid=""/>
-                <dates>
-                    <earliestDate></earliestDate>
-                    <latestDate></latestDate>
-                </dates>
-            </agent>
-        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>1950</earliestDate>
@@ -20,49 +12,47 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Nahum N. Glatzer, a disciple of Franz Rosenzweig, succeeded Martin Buber in his chair at the University of Frankfurt in 1932. Glazter moved to the United States in 1938 and, after a series of academic posts, began teaching at Brandeis University in 1950. He wrote on the history of rabbinic Judaism as well as contemporary Jewry. </description>
+            <description>Nahum N. Glatzer, a disciple of Franz Rosenzweig, succeeded Martin Buber in his chair at the University of Frankfurt in 1932. Glazter moved to the United States in 1938 and, after a series of academic posts, began teaching at Brandeis University in 1950. He wrote on the history of rabbinic Judaism as well as contemporary Jewry.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
-                <refid/>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+                <refid></refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="undetermined">
-                <text>Photo is from a purchased collection. Not sure who owns the copyright.
-</text>
+                <text>Photo is from a purchased collection. Not sure who owns the copyright.</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="" refid=""></term>
+                <term vocab="LCNAF" refid="n 50033097">Glatzer, Nahum N. (Nahum Norbert), 1903-1990--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
             <title>[Nahum Glatzer]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347  ">black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt Univeristy Photographic Archives</name>
-                <role></role>
+                <name type="corporate" vocab="local">Vanderbilt Univeristy Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="other">
+            <date type="creation">
                 <earliestDate>2015-03-13</earliestDate>
                 <latestDate>2015-03-13</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>Glatzer1.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt Univeristy Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt Univeristy Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -71,10 +61,10 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Image of [Nahum Glatzer]</title>
+            <title>[Digital Reproduction of Nahum Glatzer]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">digital images</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>

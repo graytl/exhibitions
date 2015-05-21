@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n 94063816">Hubble, Edwin, 1889-1953</name>
+                <dates>
+                    <earliestDate>1889</earliestDate>
+                    <latestDate>1953</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1920</earliestDate>
+                <latestDate>1920</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>Following military service in World War I, Edwin Hubble accepted a position at Mount Wilson Observatory.  His discoveries there included proving that nebulae were galaxies rather than simple clouds of gas and dust.  His greatest discovery was that all galaxies appeared to be receding from us, therefore the universe was expanding.  This 1920 letter from Hubble to astronomer Edward Emerson Barnard states that his own work is based on Barnard’s.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <refid>Edward Emerson Barnard Papers, Box 18/1892</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>Pre-1923 letter, should be public domain</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="sh 85090538">Nebulae</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>[Letter from Hubble to Barnard]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300026877">correspondence</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-05-04</earliestDate>
+                <latestDate>2015-05-04</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>MS0031-To_Barnard-B18-F-Hubble1920.jpg</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Digital reproduction of [Letter from Hubble to Barnard]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>
