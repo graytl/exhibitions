@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n 88217104">Hipparcos (Artificial satellite)</name>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 50079617">European Space Agency</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1989-08</earliestDate>
+                <latestDate>1993-03</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description/>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="LCNAF" refid="n 80044740">Goddard Space Flight Center</name>
+                <refid>Raw data available via online catalog; also available via European Space Agency website.</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="undetermined">
+                <text>Data is in the public domain, but the visualization of the Hipparcos data was created by an Astronomy scholar, David De Lee, while at Vanderbilt University.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid=""></term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>[Hipparcos Data Set]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300027020">Graphs</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="no2009108526">De Lee, Nathan</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2012</earliestDate>
+                <latestDate>2012?</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="owner">
+                <refid>Hipparcos Data Set.png</refid>
+                <name type="personal" vocab="LCNAF" refid="no2009108526">De Lee, Nathan</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Information visualization displayed here copyrighted by Nathan De Lee. Raw data is in the public domain.</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[Digital Reproduction of Hipparcos Data Set as Graph Visualization]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

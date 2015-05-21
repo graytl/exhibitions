@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="no2014048298">Bastien, Fabienne Anne</name>
+            </agent>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="no2015068048">Stassun, Keivan G.</name>
+            </agent>
+            <agent>
+                <name type="personal" vocab="local">Basri, Gibor</name>
+            </agent>
+            <agent>
+                <name type="personal" vocab="local">Pepper, Joshua</name>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="local">Kepler Input Catalog</name>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 85149801">Macmillan Publishers</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2013-08-22</earliestDate>
+                <latestDate>2013-08-22</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description/>
+        </descriptionSet>
+        <locationSet>
+            <location type="publication">
+                <name type="other" vocab="local">Nature.com</name>
+                <refid>http://www.nature.com/nature/journal/v500/n7463/full/nature12419.html</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright 2013. Nature Magazine, Issue 500 (August, 2013), Pages 427-430 (copyright MacMillan Publishers). Rights retained by authors: Fabienne A. Bastien, Keivan G. Stassun, Gibor Basri &amp; Joshua Pepper. Can be viewed at: http://www.nature.com/nature/journal/v500/n7463/full/nature12419.html</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="sh 85009032">Astrophysics</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85127415">Stars</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>An Observational Correlation Between Stellar Brightness Variations and Surface Gravity</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300048715">Articles</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="no2014048298">Bastien, Fabienne Anne</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2013-08-22</earliestDate>
+                <latestDate>2013-08-22</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="owner">
+                <refid>Q9_16ptRMS_vs_Range_vs_Teff_fin.jpg</refid>
+                <name type="personal" vocab="LCNAF" refid="no2014048298">Bastien, Fabienne Anne</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Dr. Fabienne Anne Bastien. Permission granted to use as a part of the Vanderbilt University Library exhibition in 2015.</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[Digital Reproduction of Figure 1: Simple Measures of Brightness Variations Reveal a Fundamental ‘Flicker Sequence’ of Stellar Evolution]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>
