@@ -3,10 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="no98090423">Kuhlman, Frederick</name>
+                <name type="personal" vocab="LCNAF" refid="no 98090423">Kuhlman, A. F., (Augustus Frederick), 1889-1986</name>
                 <dates>
                     <earliestDate>1889</earliestDate>
                     <latestDate>1986</latestDate>
@@ -24,8 +25,8 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Archives</name>
-                <refid>Divinity Library Archives/Box 886, Folder 30</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Archives</name>
+                <refid>Divinity Library Archives, Box 886, Folder 30</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -39,17 +40,16 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Letter from Frederick Kuhlman to Mrs. Regina Elbogen]</title>
+            <title>[Letter to Mrs. Regina Elbogen]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="RBGENR" refid="">letters</worktype>
+            <worktype vocab="AAT" refid="300026879">Letters (correspondence)</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
-                <role></role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -59,9 +59,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>Judaica-B886F30-Kuhlman-Elbogan-April_12_1944.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -70,10 +70,10 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Image of [Letter to Frederick kuhlman Mrs. Regina Elbogen]</title>
+            <title>[Digital Reproduction of Letter to Mrs. Regina Elbogen]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">digital images</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>
