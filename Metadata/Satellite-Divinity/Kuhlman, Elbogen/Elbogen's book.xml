@@ -3,14 +3,20 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="nr88006202">Elbogen, Ismar </name>
+                <name type="personal" vocab="LCNAF" refid="nr 88006202">Elbogen, Ismar, 1874-1943</name>
+                <role>Author</role>
                 <dates>
                     <earliestDate>1874</earliestDate>
                     <latestDate>1943</latestDate>
                 </dates>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="no2004057777">J. Kauffmann Antiquariat</name>
+                <role>Publisher</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -20,36 +26,35 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Ismar Elbogen’s major work, Der judische Gottesdienst in seiner geschichtliehen Entwicklung (1913), is a comprehensive historical study of the Jewish public liturgy. It covers the areas traditionally treated by liturgical scholars, and, in addition, deals with synagogue organization, architecture, and music.  A 1993 translation is also in the Judaica Collection, Jewish Liturgy: a comprehensive history. </description>
+            <description>Ismar Elbogen’s major work, Der Judische Gottesdienst in Seiner Geschichtliehen Entwicklung (1913), is a comprehensive historical study of the Jewish public liturgy. It covers the areas traditionally treated by liturgical scholars, and, in addition, deals with synagogue organization, architecture, and music.  A 1993 translation is also in the Judaica Collection, Jewish Liturgy: a comprehensive history. </description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Divinity Library</name>
-                <refid>BM660 .E37</refid>
+                <name type="corporate" vocab="local" refid="300028051">Vanderbilt University Divinity Library</name>
+                <refid>Judaica Collection, BM660 .E37</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>It is under fair use. Only the front cover is on display.</text>
+                <text>Copyright 1931 J. Kauffman. But only the front cover image will be used - argument for fair use.</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH"/>
+                <term vocab="LCSH" refid="sh2008122508">Judaism--Liturgy--History</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Der Jüdische Gottesdienst in seiner geschichtlichen Entwicklung</title>
+            <title>Der Jüdische Gottesdienst in Seiner Geschichtlichen Entwicklung</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="RBGENR" refid="">books</worktype>
+            <worktype vocab="AAT" refid="">Books</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
-                <role></role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -59,9 +64,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>BM660_E37-Der_Judische_Gottesdienst-cover.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -70,10 +75,10 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Image of Der Jüdische Gottesdienst in seiner geschichtlichen Entwicklung</title>
+            <title>[Digital Reproduction of Der Jüdische Gottesdienst in Seiner Geschichtlichen Entwicklung, Front Cover]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">digital images</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>
