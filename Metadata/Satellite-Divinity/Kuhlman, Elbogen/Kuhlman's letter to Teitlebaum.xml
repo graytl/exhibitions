@@ -3,6 +3,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
@@ -35,7 +36,7 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="" refid="">Tietlebaum, Sara Lowenstein--Correspondences</term>
+                <term vocab="local">Tietlebaum, Sara Lowenstein--Correspondences</term>
             </subject>
         </subjectSet>
         <titleSet>
