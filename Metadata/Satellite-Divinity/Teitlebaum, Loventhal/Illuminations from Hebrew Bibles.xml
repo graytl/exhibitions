@@ -3,16 +3,8 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
-        <agentSet>
-            <agent>
-                <name type="" vocab="" refid=""/>
-                <dates>
-                    <earliestDate></earliestDate>
-                    <latestDate></latestDate>
-                </dates>
-            </agent>
-        </agentSet>
         <dateSet>
             <date type="publication">
                 <earliestDate>1989</earliestDate>
@@ -24,8 +16,8 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local" refid="">Vanderbilt Divinity Library</name>
-                <refid>ND2935 .O764 1989</refid>
+                <name type="corporate" vocab="local">Vanderbilt Divinity Library</name>
+                <refid>Judaica Collection, ND2935 .O764 1989 Plates</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,21 +27,27 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="" refid=""></term>
+                <term vocab="LCSH" refid="sh 85064367">Jewish illumination of books and manuscripts</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="n 79054379">Bible. Old Testament--Illustrations</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH">Manuscripts, Hebrew--Russia Federation--Saint Petersburg--Facsimiles</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[A Plate from Illuminations from Hebrew Bibles in Leningrad]</title>
+            <title pref="true" xml:lang="en">Illuminations from Hebrew Bibles of Leningrad</title>
+            <title pref="false" xml:lang="he">Iyure Tanakh °Ivriyim mi-Leningrad</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="RBGENR" refid="">books</worktype>
+            <worktype vocab="AAT" refid="300028051">Books</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
-                <role></role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -59,9 +57,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>Illuminations_from_Hebrew_Bibleo_of_Leningrad-1989.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -70,10 +68,10 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Image of [A Plate from Illuminations from Hebrew Bibles in Leningrad]</title>
+            <title>[Digital Reproduction of Illuminations from Hebrew Bibles of Leningrad, View of one Plate]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">digital image</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>
