@@ -3,16 +3,8 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
-        <agentSet>
-            <agent>
-                <name type="" vocab="" refid=""/>
-                <dates>
-                    <earliestDate></earliestDate>
-                    <latestDate></latestDate>
-                </dates>
-            </agent>
-        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>1915</earliestDate>
@@ -24,45 +16,38 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Archives</name>
                 <refid>RG 935, Box 2660, Folder 35</refid>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="publicDomain">
-                <text>
-</text>
+            <rights type="undetermined">
+                <text>Unknown.</text>
             </rights>
         </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="" refid=""></term>
-            </subject>
-        </subjectSet>
         <titleSet>
-            <title>[Lee J. Loventhal]</title>
+            <title>[Portrait of Lee J. Loventhal]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347  ">black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt Univeristy Photographic Archives</name>
-                <role></role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="other">
+            <date type="creation">
                 <earliestDate>2015-03-04</earliestDate>
                 <latestDate>2015-03-04</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>RG935B2660F35-Lee_Loventhal_portrait.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt Univeristy Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -71,10 +56,10 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Image of [Lee J. Loventhal]</title>
+            <title>[Digital Reproduction of Portrait of Lee J. Loventhal]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">digital images</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>
