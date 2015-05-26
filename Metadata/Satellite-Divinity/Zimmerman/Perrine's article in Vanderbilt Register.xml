@@ -3,14 +3,12 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="local" refid="">Perrine, Jean</name>
-                <dates>
-                    <earliestDate></earliestDate>
-                    <latestDate></latestDate>
-                </dates>
+                <name type="personal" vocab="local">Perrine, Jean</name>
+                <role>Author</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -24,7 +22,7 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Archives</name>
                 <refid>Divinity Library Archives</refid>
             </location>
         </locationSet>
@@ -33,22 +31,17 @@
                 <text>copyright maintain by Vanderbilt University</text>
             </rights>
         </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="" refid=""></term>
-            </subject>
-        </subjectSet>
         <titleSet>
             <title>“$500,000 Honors Founders of Service Merchandise”</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="RBGENR" refid="">periodicals</worktype>
+            <worktype vocab="AAT" refid="300026657">Periodicals</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +51,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>Judaica-Service_Merchandise-Register-Dec_9_1988.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +62,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Image of “$500,000 Honors Founders of Service Merchandise.”</title>
+            <title>[Digital Reproduction of “$500,000 Honors Founders of Service Merchandise.”]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
