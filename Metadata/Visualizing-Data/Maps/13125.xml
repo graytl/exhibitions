@@ -22,7 +22,7 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">United States Army Corp of Engineers Nashville District Library</name>
-                <refid/>
+                <refid>Item on loan</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -32,7 +32,13 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh 85049168">Floods--Tennessee--Nashville</term>
+                <term vocab="LCSH" refid="sh 85049168">Floods--Tennessee--Nashville--Pictorial works</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85034781">Cumberland River (Ky. and Tenn.)--Pictorial works</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85114409">Rivers--Tennessee--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
