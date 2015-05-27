@@ -8,6 +8,7 @@
         <agentSet>
             <agent>
                 <name type="personal" vocab="LCNAF" refid="n 79119229">O’Connor, Flannery</name>
+                <role>Author</role>
                 <dates>
                     <earliestDate>1925-03-25</earliestDate>
                     <latestDate>1964-08-03</latestDate>
@@ -16,8 +17,8 @@
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate/>1950
-                <latestDate/>1960
+                <earliestDate>1950</earliestDate>
+                <latestDate>1960</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
@@ -36,7 +37,7 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term/>
+                <term vocab="LCSH" refid="sj 96006015">Peacocks</term>
             </subject>
         </subjectSet>
         <titleSet>
