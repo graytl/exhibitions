@@ -3,14 +3,12 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
-                <name>Morrisey, Ralph</name>
-                <dates>
-                    <earliestDate/>
-                    <latestDate/>
-                </dates>
+                <name type="personal" vocab="local">Morrisey, Ralph</name>
+                <role>Photographer</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -20,35 +18,35 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>This photo was taken at the Smyrna home of Brainard and Franny Cheney. The Cheney's affectionately called their home "Cold Chimneys" and many of Cheney's letters to Flannery were written from there. By 1955 when this photo was taken, a friendship had developed between O'Connor and the Cheney's that would endure until her death in 1964.  She visited them several times and in 1959 on a visit to the Cheney's,  she read her short story "A Good Man is Hard to Find" at Vanderbilt University. </description>
+            <description>A series of portrait photographs of Flannery O'Conner were taken at the Smyrna home of Brainard and Franny Cheney. The Cheney's affectionately called their home "Cold Chimneys" and many of Cheney's letters to Flannery were written from there. By 1955 when these portraits were taken, a friendship had developed between O'Connor and the Cheney's that would endure until her death in 1964. She visited them several times and in 1959 on a visit to the Cheney's, she read her short story "A Good Man is Hard to Find" at Vanderbilt University.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name>Vanderbilt University Special Collections</name>
-                <refid>MSS 305 The Ralph Morrisey Collection</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS 305, Ralph Morrisey Collection</refid>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="other">
+            <rights type="copyrighted">
                 <text>Copyright belongs to Vanderbilt University</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term></term>
+                <term vocab="LCNAF" refid="n 79119229">O'Connor, Flannery--Portraits</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Photograph of Flannery O'Connor</title>
+            <title>[Portraits of Flannery O'Connor]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -59,7 +57,7 @@
         </dateSet>
         <locationSet>
             <location type="repository">
-                   <name> Vanderbilt University Photographic Archives</name>
+                   <name type="corporate" vocab="local"> Vanderbilt University Photographic Archives</name>
                 <refid>MS305-Flannery_Oconnor-001.jpg</refid>
             </location>
         </locationSet>
@@ -69,7 +67,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital image of photograph of Flannery O'Connor]</title>
+            <title>[Digital Reproduction of Portrait of Flannery O'Connor, Seated on Ladder with Hands in Her Lap, Detailed View]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -78,7 +76,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -90,7 +88,7 @@
         <locationSet>
             <location type="repository">
                 <refid>MS305-Flannery_Oconnor-002.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -99,7 +97,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital image of photograph of Flannery O'Connor]</title>
+            <title>[Digital Reproduction of Portrait of Flannery O'Connor with Right Arm Resting Against Her Face, Detailed View]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -108,7 +106,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -120,7 +118,7 @@
         <locationSet>
             <location type="repository">
                 <refid>MS305-Flannery_Oconnor-003.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -129,7 +127,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital image of photograph of Flannery O'Connor]</title>
+            <title>[Digital Reproduction of Portrait of Flannery O'Connor with Right Arm Resting Against Her Face, Full View]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -138,7 +136,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -150,7 +148,7 @@
         <locationSet>
             <location type="repository">
                 <refid>MS305-Flannery_Oconnor-004.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -159,7 +157,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital image of photograph of Flannery O'Connor]</title>
+            <title>[Digital Reproduction of Portrait of Flannery O'Connor, Seated, Looking Over Her Left Shoulder]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -168,7 +166,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -180,7 +178,7 @@
         <locationSet>
             <location type="repository">
                 <refid>MS305-Flannery_Oconnor-005.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -189,7 +187,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital image of photograph of Flannery O'Connor]</title>
+            <title>[Digital Reproduction of Portrait of Flannery O'Connor, Seated on Ladder with Hands in Her Lap, Full View]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
