@@ -9,15 +9,15 @@
             <agent>
                 <name type="personal" vocab="LCNAF" refid="n 85142129">Cheney, Brainard, 1900-1990</name>
                 <dates>
-                    <earliestDate>1900</earliestDate>
-                    <latestDate>1990</latestDate>
+                    <earliestDate>1900-06-03</earliestDate>
+                    <latestDate>1990-01-15</latestDate>
                 </dates>
             </agent>
         </agentSet>
         <dateSet>
             <date type="">
-                <earliestDate>1900-06-03</earliestDate>
-                <latestDate>1990-01-15</latestDate>
+                <earliestDate>1952</earliestDate>
+                <latestDate>1952</latestDate>
             </date>
                </dateSet>
         <descriptionSet>
