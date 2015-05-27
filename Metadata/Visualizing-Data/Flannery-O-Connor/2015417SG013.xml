@@ -6,8 +6,8 @@
     <work>
         <dateSet>
             <date type="">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+                <earliestDate>1950</earliestDate>
+                <latestDate>1970</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
@@ -15,7 +15,7 @@
         </descriptionSet>
         <locationSet>
             <location type="other">
-                <name type="" vocab="" refid=""/>
+                <name type="on loan from private collection" vocab="" refid=""/>
                 <refid/>
             </location>
         </locationSet>
