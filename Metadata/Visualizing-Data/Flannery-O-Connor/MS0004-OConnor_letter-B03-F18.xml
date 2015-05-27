@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n 79119229 ">Flannery O'Connor</name>
+                <name type="personal" vocab="LCNAF" refid="n 79119229 ">O'Connor, Flannery</name>
+                <role>Author</role>
                 <dates>
                     <earliestDate>1925-03-25</earliestDate>
                     <latestDate>1964-08-03</latestDate>
@@ -22,31 +24,31 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="n79081473">Vanderbilt University Special Collections</name>
-                <refid>Brainard Bartwell Cheney and Francis Neel Cheney Papers B14-F12</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>Brainard Bartwell Cheney and Francis Neel Cheney Papers, Box 14, Folder 12</refid>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="other">
-                <text>Copyright belongs to Vanderbilt University</text>
+            <rights type="copyrighted">
+                <text>Copyright Flannery O'Connor? Not sure if unpublished letters can be copyrighted. License to use held by Vanderbilt?</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh85148637">Writing</term>
+                <term vocab="LCNAF" refid="n 85142129">Cheney, Brainard, 1900-1990--Correspondence</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>First letter from Flannery O’Connor to Brainard Cheney</title>
+            <title>[First Letter from Flannery O’Connor to Brainard Cheney]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="RBGENR" refid="sh2002006490">Letter</worktype>
+            <worktype vocab="AAT" refid="300026879">Letters (correspondence)</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,7 +60,7 @@
         <locationSet>
             <location type="repository">
                 <refid>MS0004-OConnor_letter-B03-F18.jpg</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -67,7 +69,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital image of First letter from Flannery O’Connor to Brainard Cheney]</title>
+            <title>[Digital Reproduction of First letter from Flannery O’Connor to Brainard Cheney]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
