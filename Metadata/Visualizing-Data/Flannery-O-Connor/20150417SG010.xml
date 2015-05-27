@@ -6,18 +6,18 @@
     <!-- HAS BEEN EDITED -->
     <work>
         <dateSet>
-            <date type="">
+            <date type="creation">
                 <earliestDate>1940</earliestDate>
                 <latestDate>1970</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Living on Andalusia farm in Milledgeville, Georgia, O’Connor and her mother, Regina, had many pastoral responsibilities. O’Connor would have used a rake such as this to spread seed for her many beloved peacocks. In her 1961 essay “The King of the Birds,” O’Connor notes, “It is hard to tell the truth about this bird. The habits of any peachicken left to himself would hardly be noticeable, but multiplied by forty, they become a situation.” This rake was taken from a scrap metal pile at Andalusia. </description>
+            <description>Living on Andalusia farm in Milledgeville, Georgia, O’Connor and her mother, Regina, had many pastoral responsibilities. O’Connor would have used a rake such as this to spread seed for her many beloved peacocks. In her 1961 essay “The King of the Birds,” O’Connor notes, “It is hard to tell the truth about this bird. The habits of any peachicken left to himself would hardly be noticeable, but multiplied by forty, they become a situation.” This rake was taken from a scrap metal pile at Andalusia.</description>
         </descriptionSet>
         <locationSet>
             <location type="other">
-                <name type="on loan from private collection" vocab="" refid=""></name>
-                <refid/>
+                <name>Private Collection</name>
+                <refid>Item on loan</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -29,13 +29,13 @@
             <title>Seed Rake used in Care of Flannery O'Connor's Peacocks</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300247430">rakes</worktype>
+            <worktype vocab="AAT" refid="300247430">Rakes</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Creative Services</name>
+                <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
                 <role>Photographer</role>
             </agent>
         </agentSet>
@@ -57,7 +57,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Seed Rake used in Care of Flannery O'Connor's Peacocks]</title>
+            <title>[Digital Reproduction of Seed Rake Used in Care of Flannery O'Connor's Peacocks]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
