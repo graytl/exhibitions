@@ -3,16 +3,8 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
-        <agentSet>
-            <agent>
-                <name type="" vocab="" refid=""/>
-                <dates>
-                    <earliestDate></earliestDate>
-                    <latestDate></latestDate>
-                </dates>
-            </agent>
-        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>1989-10-16</earliestDate>
@@ -24,7 +16,7 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Archives</name>
                 <refid>Divinity Library Archives</refid>
             </location>
         </locationSet>
@@ -33,22 +25,17 @@
                 <text>Copyright is maintained by the Divinity Library.</text>
             </rights>
         </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="" refid=""></term>
-            </subject>
-        </subjectSet>
         <titleSet>
-            <title>[Program of In Commemoration of the Mary and Harry Zimmerman Judaica Collection]</title>
+            <title>[Program in Commemoration of the Mary and Harry Zimmerman Judaica Collection]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300026096">exhibition catalogs</worktype>
+            <worktype vocab="AAT" refid="300027240">Programs (documents)</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +45,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>Judaica-Commemoration-Zimmerman_Collection-Oct_16_1989.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +56,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Image of [Program of In Commemoration of the Mary and Harry Zimmerman Judaica Collection]</title>
+            <title>[Digital Reproduction of Program in Commemoration of the Mary and Harry Zimmerman Judaica Collection]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
