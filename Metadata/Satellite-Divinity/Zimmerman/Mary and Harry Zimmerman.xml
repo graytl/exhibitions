@@ -3,16 +3,8 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
-        <agentSet>
-            <agent>
-                <name type="" vocab="" refid=""/>
-                <dates>
-                    <earliestDate></earliestDate>
-                    <latestDate></latestDate>
-                </dates>
-            </agent>
-        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>1970</earliestDate>
@@ -24,45 +16,39 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Archives</name>
-                <refid/>
+                <name type="corporate" vocab="local">Vanderbilt University Archives</name>
+                <refid>Divinity Library Archives</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="undetermined">
-                <text>The portrait was donated by Raymond Zimmerman and is hung in the Zimmerman Judaica Room.
-</text>
+                <text>The portrait was donated by Raymond Zimmerman and is hung in the Zimmerman Judaica Room.</text>
             </rights>
         </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="" refid=""></term>
-            </subject>
-        </subjectSet>
         <titleSet>
-            <title>Mary and Harry Zimmerman</title>
+            <title>[Portrait of Mary and Harry Zimmerman]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128359">color photographs</worktype>
+            <worktype vocab="AAT" refid="300128359">Color photographs</worktype>
+            <worktype vocab="AAT" refid="300140969">Commercial portraiture</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt Univeristy Photographic Archives</name>
-                <role></role>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collecions</name>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="other">
+            <date type="creation">
                 <earliestDate>2015-03-16</earliestDate>
                 <latestDate>2015-03-16</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>udaica-Zimmerman_portrait.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt Univeristy Photographic Archives</name>
+            <location type="repository">
+                <refid>Judaica-Zimmerman_portrait.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -71,10 +57,10 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital Image of [Mary and Harry Zimmerman]</title>
+            <title>[Digital Reproduction of Portrait of Mary and Harry Zimmerman]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">digital images</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
 </vra>
