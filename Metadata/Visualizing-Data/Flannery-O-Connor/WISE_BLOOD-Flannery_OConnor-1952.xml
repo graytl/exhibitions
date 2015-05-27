@@ -3,19 +3,26 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n79119229">Flannery O'Connor</name>
+                <name type="personal" vocab="LCNAF" refid="n 79119229">O'Connor, Flannery</name>
+                <role>Author</role>
                 <dates>
                     <earliestDate>1925-03-25</earliestDate>
                     <latestDate>1964-08-03</latestDate>
                 </dates>
             </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 87891397">Harcourt Brace &amp; Company</name>
+                <role>Publisher</role>
+            </agent>
         </agentSet>
         <dateSet>
             <date type="publication">
-                <earliestDate>1952</earliestDate>earliestDate> <latestDate>1952</latestDate>
+                <earliestDate>1952</earliestDate>
+                <latestDate>1952</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
@@ -23,31 +30,39 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate">Vanderbilt University Special Collections</name>
-                <refid>Wills Collection</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>Southern Civilization Collection, PZ4 .O183 Wi 1952</refid>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="other">
-                <text>Book owned by Vanderbilt University</text>
+            <rights type="copyrighted">
+                <text>Copyright 1952, Harcourt/Brace. </text>
             </rights>
         </rightsSet>
+        <stateEditionSet>
+            <stateEdition>
+                <description>1st edition</description>
+            </stateEdition>
+        </stateEditionSet>
         <subjectSet>
             <subject>
-                <term></term>
+                <term vocab="LCSH" refid="sh2008111210">Southern States--Fiction</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85112549">Religion--Fiction</term>
             </subject>
         </subjectSet>
         <titleSet>
             <title>Wise Blood</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="">Book</worktype>
+            <worktype vocab="AAT" refid="300028051">Books</worktype>
         </worktypeSet>
     </work>    
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -57,9 +72,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>WISE_BLOOD-Flannery_Oconnor-1952.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -68,11 +83,10 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title> [Digital Image of Book Jacket of Wise Blood]</title>
+            <title>[Digital Reproduction of Wise Blood, Book Jacket]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
-   
 </vra>

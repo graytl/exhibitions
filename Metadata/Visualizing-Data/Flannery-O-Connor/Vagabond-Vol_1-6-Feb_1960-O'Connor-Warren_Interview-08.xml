@@ -3,10 +3,29 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n79081473">Vanderbilt University</name>
+                <name type="personal" vocab="LCNAF" refid="n 79119229">O’Connor, Flannery</name>
+                <role>Interviewee</role>
+                <dates>
+                    <earliestDate>1925-03-25</earliestDate>
+                    <latestDate>1964-08-03</latestDate>
+                </dates>
+            </agent>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n 78091524">Warren, Robert Penn, 1905-1989</name>
+                <role>Author</role>
+                <role>Interviewer</role>
+                <dates>
+                    <earliestDate>1905</earliestDate>
+                    <latestDate>1989</latestDate>
+                </dates>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 79081473">Vanderbilt University</name>
+                <role>Publisher</role>
                 <dates>
                     <earliestDate>1872</earliestDate>
                     <latestDate>2015</latestDate>
@@ -24,31 +43,31 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate">Vanderbilt University Special Collections</name>
-                <refid/>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>Vanderbilt University Publications, Periodicals, LH1 .V25 V343</refid>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="other">
+            <rights type="copyrighted">
                 <text>Copyright belongs to Vanderbilt University</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh2002006490">Writing</term>
+                <term vocab="LCNAF" refid="n 78091524">Warren, Robert Penn, 1905-1989--Portraits</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title> "An Interview with Robert Penn Warren and Flannery O'Connor" from Vanderbilt literary magazine, "Vagabond"</title>
+            <title>"An Interview with Robert Penn Warren and Flannery O'Connor" from Vanderbilt Literary Magazine, "Vagabond"</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="" refid="">article</worktype>
+            <worktype vocab="AAT" refid="300048715">Articles</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +77,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>Vagabond-Vol_1-6-Feb_1960-O'Connor-Warren_Interview-00AB.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +88,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title> "[Digital Image of An Interview with Robert Penn Warren and Flannery O'Connor" from Vanderbilt literary magazine, "Vagabond"]</title>
+            <title>[Digital Image of "An Interview with Robert Penn Warren and Flannery O'Connor" from Vanderbilt Literary Magazine, "Vagabond," Pages 8-9]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -78,7 +97,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -88,9 +107,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>Vagabond-Vol_1-6-Feb_1960-O'Connor-Warren_Interview-01A.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -99,7 +118,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title> "[Digital Image of An Interview with Robert Penn Warren and Flannery O'Connor" from Vanderbilt literary magazine, "Vagabond"]</title>
+            <title>[Digital Image of "An Interview with Robert Penn Warren and Flannery O'Connor" from Vanderbilt Literary Magazine, "Vagabond," Page 8: Crayon Drawing of Robert Penn Warren]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -108,7 +127,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -118,9 +137,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>Vagabond-Vol_1-6-Feb_1960-O'Connor-Warren_Interview-02B.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -129,7 +148,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title> "[Digital Image of An Interview with Robert Penn Warren and Flannery O'Connor" from Vanderbilt literary magazine, "Vagabond"]</title>
+            <title>[Digital Image of "An Interview with Robert Penn Warren and Flannery O'Connor" from Vanderbilt Literary Magazine, "Vagabond," Page 9]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -138,7 +157,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -148,9 +167,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>Vagabond-Vol_1-6-Feb_1960-O'Connor-Warren_Interview-03.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -159,7 +178,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title> "[Digital Image of An Interview with Robert Penn Warren and Flannery O'Connor" from Vanderbilt literary magazine, "Vagabond"]</title>
+            <title>[Digital Image of "An Interview with Robert Penn Warren and Flannery O'Connor" from Vanderbilt Literary Magazine, "Vagabond," Page 10]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -168,7 +187,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -178,9 +197,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>Vagabond-Vol_1-6-Feb_1960-O'Connor-Warren_Interview-04.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -189,7 +208,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title> "[Digital Image of An Interview with Robert Penn Warren and Flannery O'Connor" from Vanderbilt literary magazine, "Vagabond"]</title>
+            <title>[Digital Image of "An Interview with Robert Penn Warren and Flannery O'Connor" from Vanderbilt Literary Magazine, "Vagabond," Page 11]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -198,7 +217,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -208,9 +227,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>Vagabond-Vol_1-6-Feb_1960-O'Connor-Warren_Interview-05.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -219,7 +238,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title> "[Digital Image of An Interview with Robert Penn Warren and Flannery O'Connor" from Vanderbilt literary magazine, "Vagabond"]</title>
+            <title>[Digital Image of "An Interview with Robert Penn Warren and Flannery O'Connor" from Vanderbilt Literary Magazine, "Vagabond," Page 14]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -228,7 +247,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -238,9 +257,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>Vagabond-Vol_1-6-Feb_1960-O'Connor-Warren_Interview-06.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -249,7 +268,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title> "[Digital Image of An Interview with Robert Penn Warren and Flannery O'Connor" from Vanderbilt literary magazine, "Vagabond"]</title>
+            <title>[Digital Image of "An Interview with Robert Penn Warren and Flannery O'Connor" from Vanderbilt Literary Magazine, "Vagabond," Page 15]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -258,7 +277,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -268,9 +287,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>Vagabond-Vol_1-6-Feb_1960-O'Connor-Warren_Interview-07.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -279,7 +298,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title> "[Digital Image of An Interview with Robert Penn Warren and Flannery O'Connor" from Vanderbilt literary magazine, "Vagabond"]</title>
+            <title>[Digital Image of "An Interview with Robert Penn Warren and Flannery O'Connor" from Vanderbilt Literary Magazine, "Vagabond," Page 16]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -288,7 +307,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -298,9 +317,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>Vagabond-Vol_1-6-Feb_1960-O'Connor-Warren_Interview-08.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -309,7 +328,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title> "[Digital Image of An Interview with Robert Penn Warren and Flannery O'Connor" from Vanderbilt literary magazine, "Vagabond"]</title>
+            <title>[Digital Image of "An Interview with Robert Penn Warren and Flannery O'Connor" from Vanderbilt Literary Magazine, "Vagabond," Page 17]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
