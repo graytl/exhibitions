@@ -34,13 +34,12 @@
             <subject>
                 <term vocab="LCSH" refid="sh 85049168">Floods--Tennessee--Nashville--Pictorial works</term>
             </subject>
-            <subjectSet>
-                <subject>
-                    <term vocab="LCSH" refid="sh 85034781">Cumberland River (Ky. and Tenn.)--Pictorial works</term>
-                </subject>
-                <subject>
-                    <term vocab="LCSH" refid="sh 85114409">Rivers--Tennessee--Pictorial works</term>
-                </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85034781">Cumberland River (Ky. and Tenn.)--Pictorial works</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85114409">Rivers--Tennessee--Pictorial works</term>
+            </subject>
         </subjectSet>
         <titleSet>
             <title>[1937 Flood: A Look at 7th and 8th Avenues North]</title>
