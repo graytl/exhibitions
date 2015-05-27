@@ -3,10 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n 85142129 ">Brainard Cheney</name>
+                <name type="personal" vocab="LCNAF" refid="n 85142129">Cheney, Brainard, 1900-1990</name>
                 <dates>
                     <earliestDate>1900-06-03</earliestDate>
                     <latestDate>1990-01-15</latestDate>
@@ -14,7 +15,7 @@
             </agent>
         </agentSet>
         <dateSet>
-            <date>
+            <date type="creation">
                 <earliestDate>1953-22-03</earliestDate>
                 <latestDate>1953-22-03</latestDate>
             </date>
@@ -24,31 +25,26 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name>Vanderbilt University Special Collections</name>
-                <refid>Brainard Bartwell Cheney and Francis Neel Cheney Papers B03-F18</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>Brainard Bartwell Cheney and Francis Neel Cheney Papers, Box 03, Folder 18</refid>
             </location>
         </locationSet>
         <rightsSet>
-            <rights>
+            <rights type="copyrighted">
                 <text>Copyright belongs to Vanderbilt University</text>
             </rights>
         </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh2002006490">Writing</term>
-            </subject>
-        </subjectSet>
         <titleSet>
-            <title>First letter from Brainard Cheney to Flannery O'Connor</title>
+            <title>[First letter from Brainard Cheney to Flannery O'Connor]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="RBGENR" >Letters</worktype>
+            <worktype vocab="AAT" refid="300026879">Letters (correspondence)</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name>Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +54,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location>
+            <location type="repository">
                 <refid>MS0004-OConnor_letter-B03-F18.jpg</refid>
-                <name>Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
