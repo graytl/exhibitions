@@ -5,7 +5,7 @@
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
     <work>
         <dateSet>
-            <date type="">
+            <date type="creation">
                 <earliestDate>1950</earliestDate>
                 <latestDate>1970</latestDate>
             </date>
@@ -15,8 +15,8 @@
         </descriptionSet>
         <locationSet>
             <location type="other">
-                <name type="on loan from private collection" vocab="" refid=""/>
-                <refid/>
+                <name>Private Collection</name>
+                <refid>Item on loan</refid>
             </location>
         </locationSet>
         <rightsSet>
