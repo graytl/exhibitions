@@ -69,7 +69,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Manuscript of Flannery O'Connor's essay "The King of the Birds"]</title>
+            <title>[Digital Reproduction of Manuscript of Flannery O'Connor's essay "The King of the Birds," Page 01]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -78,7 +78,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -88,9 +88,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0004-King_of_the_Birds02-B52-F09</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0004-King_of_the_Birds02-B52-F09.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -99,7 +99,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital image of manuscript of Flannery O'Connor's essay "The King of the Birds" ]</title>
+            <title>[Digital Reproduction of Manuscript of Flannery O'Connor's essay "The King of the Birds," Page 02]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -108,7 +108,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -118,9 +118,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0004-King_of_the_Birds03-B52-F09</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0004-King_of_the_Birds03-B52-F09.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -129,7 +129,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital image of manuscript of Flannery O'Connor's essay "The King of the Birds" ]</title>
+            <title>[Digital Reproduction of Manuscript of Flannery O'Connor's essay "The King of the Birds," Page 03]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -138,7 +138,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -148,9 +148,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0004-King_of_the_Birds04-B52-F09</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0004-King_of_the_Birds04-B52-F09.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -159,7 +159,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital image of manuscript of Flannery O'Connor's essay "The King of the Birds" ]</title>
+            <title>[Digital Reproduction of Manuscript of Flannery O'Connor's essay "The King of the Birds," Page 04]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -168,7 +168,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -178,9 +178,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0004-King_of_the_Birds05-B52-F09</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0004-King_of_the_Birds05-B52-F09.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -189,7 +189,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital image of manuscript of Flannery O'Connor's essay "The King of the Birds" ]</title>
+            <title>[Digital Reproduction of Manuscript of Flannery O'Connor's essay "The King of the Birds," Page 05]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -198,7 +198,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -208,9 +208,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0004-King_of_the_Birds06-B52-F09</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0004-King_of_the_Birds06-B52-F09.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -219,7 +219,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital image of manuscript of Flannery O'Connor's essay "The King of the Birds" ]</title>
+            <title>[Digital Reproduction of Manuscript of Flannery O'Connor's essay "The King of the Birds," Page 06]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -228,7 +228,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -238,9 +238,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0004-King_of_the_Birds07-B52-F09</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0004-King_of_the_Birds07-B52-F09.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -249,7 +249,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital image of manuscript of Flannery O'Connor's essay "The King of the Birds" ]</title>
+            <title>[Digital Reproduction of Manuscript of Flannery O'Connor's essay "The King of the Birds," Page 07]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -258,7 +258,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -268,9 +268,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0004-King_of_the_Birds08-B52-F09</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0004-King_of_the_Birds08-B52-F09.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -279,7 +279,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital image of manuscript of Flannery O'Connor's essay "The King of the Birds" ]</title>
+            <title>[Digital Reproduction of Manuscript of Flannery O'Connor's essay "The King of the Birds," Page 08]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -288,7 +288,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -298,9 +298,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0004-King_of_the_Birds09-B52-F09</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0004-King_of_the_Birds09-B52-F09.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -309,7 +309,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital image of manuscript of Flannery O'Connor's essay "The King of the Birds" ]</title>
+            <title>[Digital Reproduction of Manuscript of Flannery O'Connor's essay "The King of the Birds," Page 09]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -318,7 +318,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -328,9 +328,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0004-King_of_the_Birds10-B52-F09</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0004-King_of_the_Birds10-B52-F09.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -339,7 +339,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital image of manuscript of Flannery O'Connor's essay "The King of the Birds" ]</title>
+            <title>[Digital Reproduction of Manuscript of Flannery O'Connor's essay "The King of the Birds," Page 10]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -348,7 +348,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -358,9 +358,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0004-King_of_the_Birds11-B52-F09</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0004-King_of_the_Birds11-B52-F09.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -369,7 +369,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital image of manuscript of Flannery O'Connor's essay "The King of the Birds" ]</title>
+            <title>[Digital Reproduction of Manuscript of Flannery O'Connor's essay "The King of the Birds," Page 11]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -378,7 +378,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -388,9 +388,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0004-King_of_the_Birds12-B52-F09</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0004-King_of_the_Birds12-B52-F09.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -399,7 +399,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital image of manuscript of Flannery O'Connor's essay "The King of the Birds" ]</title>
+            <title>[Digital Reproduction of Manuscript of Flannery O'Connor's essay "The King of the Birds," Page 12]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -408,7 +408,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -418,9 +418,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0004-King_of_the_Birds13-B52-F09</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0004-King_of_the_Birds13-B52-F09.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -429,7 +429,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital image of manuscript of Flannery O'Connor's essay "The King of the Birds" ]</title>
+            <title>[Digital Reproduction of Manuscript of Flannery O'Connor's essay "The King of the Birds," Page 13]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -438,7 +438,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -448,9 +448,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0004-King_of_the_Birds14-B52-F09</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0004-King_of_the_Birds14-B52-F09.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -459,7 +459,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital image of manuscript of Flannery O'Connor's essay "The King of the Birds" ]</title>
+            <title>[Digital Reproduction of Manuscript of Flannery O'Connor's essay "The King of the Birds," Page 14]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -468,7 +468,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -478,9 +478,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0004-King_of_the_Birds15-B52-F09</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0004-King_of_the_Birds15-B52-F09.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -489,7 +489,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital image of manuscript of Flannery O'Connor's essay "The King of the Birds" ]</title>
+            <title>[Digital Reproduction of Manuscript of Flannery O'Connor's essay "The King of the Birds," Page 15]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -498,7 +498,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -508,9 +508,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0004-King_of_the_Birds16-B52-F09</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0004-King_of_the_Birds16-B52-F09.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -519,7 +519,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital image of manuscript of Flannery O'Connor's essay "The King of the Birds" ]</title>
+            <title>[Digital Reproduction of Manuscript of Flannery O'Connor's essay "The King of the Birds," Page 16]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -528,7 +528,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -538,9 +538,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0004-King_of_the_Birds17-B52-F09</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0004-King_of_the_Birds17-B52-F09.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -549,7 +549,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital image of manuscript of Flannery O'Connor's essay "The King of the Birds" ]</title>
+            <title>[Digital Reproduction of Manuscript of Flannery O'Connor's essay "The King of the Birds," Page 17]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -558,7 +558,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -568,9 +568,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0004-King_of_the_Birds18-B52-F09</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0004-King_of_the_Birds18-B52-F09.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -579,7 +579,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital image of manuscript of Flannery O'Connor's essay "The King of the Birds" ]</title>
+            <title>[Digital Reproduction of Manuscript of Flannery O'Connor's essay "The King of the Birds," Page 18]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -588,7 +588,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -598,9 +598,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0004-King_of_the_Birds19-B52-F09</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0004-King_of_the_Birds19-B52-F09.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -609,7 +609,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital image of manuscript of Flannery O'Connor's essay "The King of the Birds" ]</title>
+            <title>[Digital Reproduction of Manuscript of Flannery O'Connor's essay "The King of the Birds," Page 19]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -618,7 +618,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -628,9 +628,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0004-King_of_the_Birds20-B52-F09</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0004-King_of_the_Birds20-B52-F09.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -639,7 +639,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital image of manuscript of Flannery O'Connor's essay "The King of the Birds" ]</title>
+            <title>[Digital Reproduction of Manuscript of Flannery O'Connor's essay "The King of the Birds," Page 20]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -648,7 +648,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -658,9 +658,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0004-King_of_the_Birds21-B52-F09</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0004-King_of_the_Birds21-B52-F09.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -669,13 +669,18 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital image of manuscript of Flannery O'Connor's essay "The King of the Birds" ]</title>
+            <title>[Digital Reproduction of Manuscript of Flannery O'Connor's essay "The King of the Birds," Page 21]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
     <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>2015-04-16</earliestDate>
@@ -683,9 +688,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0004-King_of_the_Birds22-B52-F09</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0004-King_of_the_Birds22-B52-F09.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -694,13 +699,18 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital image of manuscript of Flannery O'Connor's essay "The King of the Birds" ]</title>
+            <title>[Digital Reproduction of Manuscript of Flannery O'Connor's essay "The King of the Birds," Page 22]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
     <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>2015-04-16</earliestDate>
@@ -708,9 +718,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0004-King_of_the_Birds23-B52-F09</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0004-King_of_the_Birds23-B52-F09.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -719,13 +729,18 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital image of manuscript of Flannery O'Connor's essay "The King of the Birds" ]</title>
+            <title>[Digital Reproduction of Manuscript of Flannery O'Connor's essay "The King of the Birds," Page 23]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
     <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>2015-04-16</earliestDate>
@@ -733,9 +748,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0004-King_of_the_Birds24-B52-F09</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0004-King_of_the_Birds24-B52-F09.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -744,13 +759,18 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital image of manuscript of Flannery O'Connor's essay "The King of the Birds" ]</title>
+            <title>[Digital Reproduction of Manuscript of Flannery O'Connor's essay "The King of the Birds," Page 24]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
     <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>2015-04-16</earliestDate>
@@ -758,9 +778,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0004-King_of_the_Birds25-B52-F09</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0004-King_of_the_Birds25-B52-F09.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -769,7 +789,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital image of manuscript of Flannery O'Connor's essay "The King of the Birds" ]</title>
+            <title>[Digital Reproduction of Manuscript of Flannery O'Connor's essay "The King of the Birds," Page 25]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
