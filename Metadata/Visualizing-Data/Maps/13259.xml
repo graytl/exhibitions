@@ -6,11 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LOC" refid="n79027469 ">United States Army Corp of Engineers Nashville District</name>
-                <dates>
-                    <earliestDate/>
-                    <latestDate/>
-                </dates>
+                <name type="corporate" vocab="LCNAF" refid="n 79027469">United States. Army. Corps of Engineers. Nashville District</name>
             </agent>
         </agentSet>
         <dateSet>
