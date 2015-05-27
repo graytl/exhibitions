@@ -34,8 +34,13 @@
                 <text>Copyright belongs to Vanderbilt University</text>
             </rights>
         </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCNAF" refid="n 79119229">O'Connor, Flannery--Correspondence</term>
+            </subject>
+        </subjectSet>
         <titleSet>
-            <title>[First letter from Brainard Cheney to Flannery O'Connor]</title>
+            <title>[First Letter from Brainard Cheney to Flannery O'Connor]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300026879">Letters (correspondence)</worktype>
@@ -65,7 +70,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of First letter from Brainard Cheney to Flannery O'Connor]</title>
+            <title>[Digital Reproduction of First Letter from Brainard Cheney to Flannery O'Connor]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
