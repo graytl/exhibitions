@@ -21,13 +21,13 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local">United States Army Corp of Engineers Nashville District Library</name>
+                <name type="corporate" vocab="local">United States. Army. Corps of Engineers. Nashville District. Library</name>
                 <refid>Item on loan</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>United States Army Corp of Engineers Nashville District</text>
+                <text>United States. Army. Corps of Engineers. Nashville District</text>
             </rights>
         </rightsSet>
         <subjectSet>
@@ -51,7 +51,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local">United States Army Corp of Engineers Nashville District Library</name>
+                <name type="corporate" vocab="local">United States. Army. Corps of Engineers. Nashville District. Library</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -68,7 +68,7 @@
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>Permission to use but credit must be given to the United States Army Corp of Engineers Nashville District Library.</text>
+                <text>Permission to use but credit must be given to the United States Army Corps of Engineers Nashville District Library.</text>
             </rights>
         </rightsSet>
         <titleSet>
