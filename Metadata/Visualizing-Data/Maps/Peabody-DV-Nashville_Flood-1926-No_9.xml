@@ -7,7 +7,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n79027469">Nashville Aeronautic Corp</name>
+                <name type="corporate" vocab="local">Nashville Aeronautic Corporation</name>
             </agent>
         </agentSet>
         <dateSet>
