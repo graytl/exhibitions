@@ -3,14 +3,40 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n79119229">Flannery O'Connor</name>
+                <name type="personal" vocab="LCNAF" refid="n 85142130">Stephens, C. Ralph (Charles Ralph)</name>
+                <role>Editor</role>
+            </agent>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n 79119229">O'Connor, Flannery</name>
+                <role>Author</role>
                 <dates>
                     <earliestDate>1925-03-25</earliestDate>
                     <latestDate>1964-08-03</latestDate>
                 </dates>
+            </agent>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n 85142129">Cheney, Brainard, 1900-1990</name>
+                <role>Author</role>
+                <dates>
+                    <earliestDate>1900</earliestDate>
+                    <latestDate>1990</latestDate>
+                </dates>
+            </agent>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n 50037181">Cheney, Frances Neel, 1906-1996</name>
+                <role>Author</role>
+                <dates>
+                    <earliestDate>1906</earliestDate>
+                    <latestDate>1996</latestDate>
+                </dates>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 2001088686">University Press of Mississippi</name>
+                <role>Publisher</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -20,35 +46,41 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Flannery O'Connor's first novel  Wise Blood was published in 1952. That same year, Brainard Cheney, a Southern writer living in Nashville and associated with the literary movement known as the Agrarians, wrote an appreciative review which prompted  O'Connor to send a letter thanking  Cheney. Thus began a correspondence and friendship with Cheney and his wife Francis that lasted many years. The letters, housed in Vanderbilt Special Collections  are collected in this volume. </description>
+            <description>Flannery O'Connor's first novel Wise Blood was published in 1952. That same year, Brainard Cheney, a Southern writer living in Nashville and associated with the literary movement known as the Agrarians, wrote an appreciative review which prompted O'Connor to send a letter thanking  Cheney. Thus began a correspondence and friendship with Cheney and his wife Francis that lasted many years. The letters, housed in Vanderbilt Special Collections  are collected in this volume.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate">Vanderbilt University Special Collections</name>
-                <refid>Wills Collection</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>Wills Collection, PS3565 .C57 Z483 1986</refid>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="other">
-                <text>Copyright belongs to Vanderbilt University</text>
+            <rights type="copyrighted">
+                <text>Copyright 1986, University Press of Mississippi</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term></term>
+                <term vocab="LCNAF" refid="n 79119229">O'Connor, Flannery--Correspondence</term>
+            </subject>
+            <subject>
+                <term vocab="LCNAF" refid="n 85142129">Cheney, Brainard, 1900-1990--Correspondence</term>
+            </subject>
+            <subject>
+                <term vocab="LCNAF" refid="n 50037181">Cheney, Frances Neel, 1906-1996--Correspondence</term>
             </subject>
         </subjectSet>
         <titleSet>
             <title>The Correspondence of Flannery O'Connor and the Brainard Cheneys</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="">Book</worktype>
+            <worktype vocab="AAT" refid="300028051">Books</worktype>
         </worktypeSet>
-    </work>    
+    </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +90,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>Correspondence_of_Flannery-CR_Stephens-1986.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,11 +101,10 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title> [Digital Image of The Correspondence of Flannery O'Connor and the Brainard Cheneys]</title>
+            <title>[Digital Reproduction of The Correspondence of Flannery O'Connor and the Brainard Cheneys, Front Cover]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
-   
 </vra>
