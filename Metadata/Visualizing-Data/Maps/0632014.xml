@@ -3,6 +3,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
@@ -31,20 +32,32 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="" refid=""></term>
+                <term vocab="LCSH">Virginia--Maps--Early works to 1800</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH">South Carolina--Maps--Early works to 1800</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH">North Carolina--Maps--Early works to 1800</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH">Georgia--Maps--Early works to 1800</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH">Southern States--Maps--Early works to 1800</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>A Map of the States of Virginia, North Carolina, South Carolina, and Georgia; Comprehending the Spanish Provinces of East and West Florida: Exhibiting the Boundaries as fixed by the late Treaty of Peace between the United States and the Spanish Dominions.  Compiled from late Surveys and Observations by Joseph Purcell.</title>
+            <title>A Map of the States of Virginia, North Carolina, South Carolina, and Georgia; Comprehending the Spanish Provinces of East and West Florida: Exhibiting the Boundaries as fixed by the late Treaty of Peace between the United States and the Spanish Dominions. Compiled from late Surveys and Observations by Joseph Purcell.</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300028233">historical maps </worktype>
+            <worktype vocab="AAT" refid="300028233">Historical maps</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local" refid="">David Rumsey</name>
+                <name type="personal" vocab="LCNAF" refid="">Rumsey, David, 1944-</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -56,16 +69,16 @@
         <locationSet>
             <location type="repository">
                 <refid>0632014.jpg</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>Images copyright © 2000 by Cartography Associates. Images may be reproduced or transmitted, but not for commercial use. For commercial use or commercial republication, contact mailto:carto@davidrumsey.com This work is licensed under a Creative Commons License. </text>
+                <text>Images copyright © 2000 by Cartography Associates. Images may be reproduced or transmitted, but not for commercial use. For commercial use or commercial republication, contact mailto:carto@davidrumsey.com This work is licensed under a Creative Commons License.</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[A Digital Reproduction [A Map of the States of Virginia, North Carolina, South Carolina, and Georgia; Comprehending the Spanish Provinces of East and West Florida: Exhibiting the Boundaries as fixed by the late Treaty of Peace between the United States and the Spanish Dominions.  Compiled from late Surveys and Observations by Joseph Purcell.]</title>
+            <title>[Digital Reproduction of A Map of the States of Virginia, North Carolina, South Carolina, and Georgia; Comprehending the Spanish Provinces of East and West Florida: Exhibiting the Boundaries as fixed by the late Treaty of Peace between the United States and the Spanish Dominions. Compiled from late Surveys and Observations by Joseph Purcell.]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
