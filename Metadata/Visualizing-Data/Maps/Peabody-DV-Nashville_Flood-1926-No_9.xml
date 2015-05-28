@@ -3,14 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
                 <name type="corporate" vocab="LCNAF" refid="n79027469">Nashville Aeronautic Corp</name>
-                <dates>
-                    <earliestDate/>
-                    <latestDate/>
-                </dates>
             </agent>
         </agentSet>
         <dateSet>
@@ -20,12 +17,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>The Cumberland River experienced a major flood event after Christmas of 1926 and into 1927.  This photo shows a a view of the inundated Tennessee Electric Power Company Sub-Station, on Lebanon Pike.</description>
+            <description>The Cumberland River experienced a major flood event after Christmas of 1926 and into 1927. This photo shows a a view of the inundated Tennessee Electric Power Company Sub-Station, on Lebanon Pike.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt Library Special Collections</name>
-                <refid>George Peabody Collection photograph no 9</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>George Peabody Collection, Photograph 09</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,20 +32,26 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="" refid=""></term>
+                <term vocab="LCSH" refid="sh 85049168">Floods--Tennessee--Nashville--Pictorial works</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85034781">Cumberland River (Ky. and Tenn.)--Pictorial works</term>
+            </subject>
+            <subject>
+                <term vocab="LCNAF" refid="n 2008164233">Tennessee Electric Power Company--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[The 1927 Flood- A Look at the Tennessee Electric Power Company Sub-Station]</title>
+            <title>[The 1927 Flood: A Look at the Tennessee Electric Power Company Sub-Station]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local" refid="">United States Army Corp of Engineers Nashville District Library</name>
+                <name type="corporate" vocab="local">United States. Army Corps of Engineers. Nashville District. Library</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -60,7 +63,7 @@
         <locationSet>
             <location type="repository">
                 <refid>Peabody-DV-Nashville_Flood-1926-No_9.jpg</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +72,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[A Digital Reproduction the 1927 Flood- A Look at the Tennessee Electric Power Company Sub-Station]</title>
+            <title>[Digital Reproduction the 1927 Flood: A Look at the Tennessee Electric Power Company Sub-Station]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
