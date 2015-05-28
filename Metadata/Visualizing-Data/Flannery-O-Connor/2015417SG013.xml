@@ -3,6 +3,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <dateSet>
             <date type="creation">
@@ -25,7 +26,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Peacock Feathers]</title>
+            <title>[Peacock Feathers from Flannery O’Connor’s Farm]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300400474">Feathers</worktype>
@@ -55,7 +56,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Peacock Feathers]</title>
+            <title>[Digital Photograph of Peacock Feathers from Flannery O’Connor’s Farm]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
