@@ -3,10 +3,12 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
                 <name type="personal" vocab="local">Warga, Ed</name>
+                <role>Photographer</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -21,7 +23,6 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid/>
                 <refid/>
             </location>
         </locationSet>
@@ -39,7 +40,7 @@
             <title>Angelica Saulsberry Builds a Model of the Central Library in Minecraft</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300386812">Digital photography (digital camera)</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </work>
     <image>
@@ -66,7 +67,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Angelica Saulsberry Builds a Model of the Central Library in Minecraft</title>
+            <title>[Digital Reproduction of Angelica Saulsberry Builds a Model of the Central Library in Minecraft]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
