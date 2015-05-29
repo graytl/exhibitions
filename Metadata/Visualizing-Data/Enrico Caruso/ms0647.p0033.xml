@@ -3,23 +3,27 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF"/>
-                <dates>
-                    <earliestDate>1901</earliestDate>
-                    <latestDate>1901</latestDate>
-                </dates>
+                <name type="personal" vocab="local">Balducci, Ada</name>
+                <role>Sender</role>
             </agent>
         </agentSet>
+        <dateSet>
+            <date>
+                <earliestDate>1901</earliestDate>
+                <latestDate>1901</latestDate>
+            </date>
+        </dateSet>
         <descriptionSet>
-            <description>In 1901, Caruso’s lover Ada Balducci used this postcard as a quick, easy way to send messages and updates, as we use text messages, Snapchat, and Twitter today.  The Women and Fashion section of the collection speaks to images of women in popular culture.  Women rode bicycles, played sports, and lived active lives—all portrayed in this collection.  Most postcards circulating in the U.S. were designed and printed abroad; it’s interesting to think about how fashions in Europe influenced American women.</description>
+            <description>In 1901, Caruso’s lover Ada Balducci used this postcard as a quick, easy way to send messages and updates, as we use text messages, Snapchat, and Twitter today. The Women and Fashion section of the collection speaks to images of women in popular culture. Women rode bicycles, played sports, and lived active lives—all portrayed in this collection.  Most postcards circulating in the U.S. were designed and printed abroad; it’s interesting to think about how fashions in Europe influenced American women.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0647.p0033</refid>
+                <refid>MSS Collection 0647, Postcard 0033</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -29,14 +33,20 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh 85105462 ">postcards</term>
+                <term vocab="LCNAF" refid="n 50034771">Caruso, Enrico, 1873-1921--Correspondence</term>
+            </subject>
+            <subject>
+                <term vocab="local">Balducci, Ada--Correspondence</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85147554">Women in art</term>
             </subject>
         </subjectSet>
         <titleSet>
             <title>[Woman in Ruffled Pink]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300192703">picture postcards</worktype>
+            <worktype vocab="AAT" refid="300026819">Picture postcards</worktype>
         </worktypeSet>
     </work>
     <image>
@@ -53,7 +63,7 @@
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>MS0647.p0033.jpg</refid>
+                <refid>sc.mss.0647.p0033a-vis.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
@@ -63,7 +73,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Woman in Ruffled Pink]</title>
+            <title>[Digital Reproduction of Woman in Ruffled Pink, Recto]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

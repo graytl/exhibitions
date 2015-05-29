@@ -3,23 +3,27 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF"/>
-                <dates>
-                    <earliestDate>1903</earliestDate>
-                    <latestDate>1903</latestDate>
-                </dates>
+                <name type="personal" vocab="LCNAF" refid="n 50034771">Caruso, Enrico, 1873-1921</name>
+                <role>Sender</role>
             </agent>
         </agentSet>
+        <dateSet>
+            <date>
+                <earliestDate>1903</earliestDate>
+                <latestDate>1903</latestDate>
+            </date>
+        </dateSet>
         <descriptionSet>
             <description>A caricature of Enrico Caruso sent from Enrico Caruso to Miss Izora O. Hunter. This card shows a self-caricature of Caruso, who was well known for his talent as a caricaturist. He published weekly illustrations in an Italian language newspaper for many years while he lived in New York. This card is one of the few in the collection sent by Enrico Caruso, as opposed to those sent to him.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0647.p0068</refid>
+                <refid>MSS Collection 0647, Postcard 0068</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -29,14 +33,20 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh 85105462 ">postcards</term>
+                <term vocab="LCNAF" refid="n 50034771">Caruso, Enrico, 1873-1921--Correspondence</term>
+            </subject>
+            <subject>
+                <term vocab="LCNAF" refid="n 50034771">Caruso, Enrico, 1873-1921--Self portraits</term>
+            </subject>
+            <subject>
+                <term vocab="local">Hunter, Izora O.--Correspondence</term>
             </subject>
         </subjectSet>
         <titleSet>
             <title>[Signor Caruso as Sketched by Himself]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300192703">picture postcards</worktype>
+            <worktype vocab="AAT" refid="300026819">Picture postcards</worktype>
         </worktypeSet>
     </work>
     <image>
@@ -53,7 +63,7 @@
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>MS0647.p0068.jpg</refid>
+                <refid>sc.mss.0647.p0068a-vis.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
@@ -63,7 +73,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Signor Caruso as Sketched by Himself]</title>
+            <title>[Digital Reproduction of Signor Caruso as Sketched by Himself, Recto]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

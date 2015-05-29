@@ -3,23 +3,21 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF">A. Barioletti</name>
-                <dates>
-                    <earliestDate>1905</earliestDate>
-                    <latestDate>1905</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
+        <dateSet>
+            <date>
+                <earliestDate>1905</earliestDate>
+                <latestDate>1905</latestDate>
+            </date>
+        </dateSet>
         <descriptionSet>
             <description>When Barioletti drew a couple on the front of this postcard in 1905, he was using the only space available on which to write a message. Before 1907, messages were not allowed by law on the address side of postcards. The word postcard comes from U.S. Post Office Order No. 1447, which replaced the longer “Private Mailing Card” required on the back of postcards. The Universal Postal Union, established in 1875 by 21 nations, regulates international postal policy like equal treatment of foreign and domestic mail.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0647.p0042</refid>
+                <refid>MSS Collection 0647, Postcard 0042</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -29,14 +27,20 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh 85105462 ">postcards</term>
+                <term vocab="LCNAF" refid="n 50034771">Caruso, Enrico, 1873-1921--Correspondence</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85147554">Women in art</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 97001231">Hats in art</term>
             </subject>
         </subjectSet>
         <titleSet>
             <title>[Woman in Green Hat]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300192703">picture postcards</worktype>
+            <worktype vocab="AAT" refid="300026819">Picture postcards</worktype>
         </worktypeSet>
     </work>
     <image>
@@ -53,7 +57,7 @@
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>MS0647.p0042.jpg</refid>
+                <refid>sc.mss.0647.p0042a-vis.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
@@ -63,7 +67,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Woman in Green Hat]</title>
+            <title>[Digital Reproduction of Woman in Green Hat, Recto]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
