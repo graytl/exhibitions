@@ -3,73 +3,70 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local">E. Low </name>
-                <dates>
-                    <earliestDate/>
-                    <latestDate/>
-                </dates>
+                <name type="personal" vocab="LCNAF" refid="no2008171987">Low, Esther Prentiss, 1762-1816</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>1810-01-01</earliestDate>
-                <latestDate>1810-12-31</latestDate>
+                <earliestDate>1810</earliestDate>
+                <latestDate>1810</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description>This map of Tennessee was published my Esther Prentiss Low as part of The New and Complete American Encyclopedia... (aka Well's Encyclopedia).  Esther ran the New York printing company for her husband John, who died during the six-year project.   While the map is dated 1810, it is known that Low reused older maps in the publication. This map depicts Kentucky but shows Tennessee as the Southwest Territory, suggesting a date before Tennessee's founding in 1796. Of special interest to this exhibit, notice the way the Cumberland River is drawn.  It differs greatly from current day mapping of the Cumberland."</description>
+            <description>This map of Tennessee was published by Esther Prentiss Low as part of The New and Complete American Encyclopedia... (aka Well's Encyclopedia).  Esther ran the New York printing company for her husband John, who died during the six-year project.   While the map is dated 1810, it is known that Low reused older maps in the publication. This map depicts Kentucky but shows Tennessee as the Southwest Territory, suggesting a date before Tennessee's founding in 1796. Of special interest to this exhibit, notice the way the Cumberland River is drawn.  It differs greatly from current day mapping of the Cumberland."</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt Library Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
                 <refid>Robert A. McGaw Collection</refid>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="copyrighted">
-                <text>Vanderbilt Library Special Collections</text>
+            <rights type="undetermined">
+                <text>Map copyright once held by Esther Prentiss Low, publisher. Likely in public domain since it is dated from 19th century?</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="" refid=""></term>
+                <term vocab="LCSH" refid="n 79060965">Tennessee--Maps</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>A Map of the Tennassee Government from the latest Surveys of 1810.</title>
+            <title>A Map of the Tennassee Government from the Latest Surveys, 1810</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300028233">historical maps </worktype>
+            <worktype vocab="AAT" refid="300028233">Historical maps</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local" refid="">Vanderbilt Library Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015</earliestDate>
-                <latestDate>2015</latestDate>
+                <earliestDate>2015-03-11</earliestDate>
+                <latestDate>2015-03-11</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>MS0274-DV-McGAW_Map_25-1810</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <refid>MS0274-DV-McGaw_Map_25-1810.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>Vanderbilt Librar Special Collections</text>
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[A Digital ReproductionA Map of the Tennassee Government from the latest Surveys of 1810.]</title>
+            <title>[Digital Reproduction of A Map of the Tennassee Government from the Latest Surveys, 1810]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
