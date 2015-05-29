@@ -3,18 +3,16 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF"/>
-                <dates>
-                    <earliestDate>1904</earliestDate>
-                    <latestDate>1904</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
+        <dateSet>
+            <date>
+                <earliestDate>1904</earliestDate>
+                <latestDate>1904</latestDate>
+            </date>
+        </dateSet>
         <descriptionSet>
-            <description>Military and Hunting postcards collected by Caruso display idealized masculinity and strength to the viewer. This postcard comes from a series of German soldiers with detailed styles of historical uniforms, as opposed to the action of the troops. Caruso himself served only a few months in the Italian army and was never much of a sportsman, so these cards seem to be universally popular rather than of particular resonance with Caruso.</description>
+            <description>Military and Hunting postcards collected by Caruso display idealized masculinity and strength to the viewer. This postcard comes from a series of German soldiers with detailed styles of historical uniforms, as opposed to the action of the troops. Caruso himself served only a few months in the Italian Army and was never much of a sportsman, so these cards seem to be universally popular rather than of particular resonance with Caruso.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
@@ -29,14 +27,17 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh 85105462 ">postcards</term>
+                <term vocab="LCNAF" refid="n 50034771">Caruso, Enrico, 1873-1921--Correspondence</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 97001774">Military uniforms in art</term>
             </subject>
         </subjectSet>
         <titleSet>
             <title>[Uniforms: Navy and Gold]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300192703">picture postcards</worktype>
+            <worktype vocab="AAT" refid="300026819">Picture postcards</worktype>
         </worktypeSet>
     </work>
     <image>
@@ -63,7 +64,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Uniforms: Navy and Gold]</title>
+            <title>[Digital Reproduction of Uniforms: Navy and Gold, Recto and Verso]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

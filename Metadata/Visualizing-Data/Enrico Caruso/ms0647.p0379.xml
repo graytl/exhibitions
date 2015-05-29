@@ -3,41 +3,44 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF"/>
-                <dates>
-                    <earliestDate>1902</earliestDate>
-                    <latestDate>1902</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
+        <dateSet>
+            <date>
+                <earliestDate>1902</earliestDate>
+                <latestDate>1902</latestDate>
+            </date>
+        </dateSet>
         <descriptionSet>
-            <description>A humorous clown postcard sent to Enrico Caruso by Mario. The humor category contains all the postcards intended to make the viewer laugh. The “jokes” of the postcards can include children posed with chamber pots, giraffes with their necks twisted together, an injured hunter and several tropes involving clowns. The humor cards offer the viewer a rare and somewhat incomprehensible glimpse into the humor of the early 20th century.
-</description>
+            <description>A humorous clown postcard sent to Enrico Caruso by Mario. The humor category contains all the postcards intended to make the viewer laugh. The “jokes” of the postcards can include children posed with chamber pots, giraffes with their necks twisted together, an injured hunter and several tropes involving clowns. The humor cards offer the viewer a rare and somewhat incomprehensible glimpse into the humor of the early 20th century.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0647.p0379</refid>
+                <refid>MSS Collection 0647, Postcard 0379</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>Created in 1902.</text>
+                <text>Created in 1902</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh 85105462 ">postcards</term>
+                <term vocab="LCNAF" refid="n 50034771">Caruso, Enrico, 1873-1921--Correspondence</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85027220">Clowns in art</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85089005">Musical instruments in art</term>
             </subject>
         </subjectSet>
         <titleSet>
             <title>[Clowns with Instruments]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300192703">picture postcards</worktype>
+            <worktype vocab="AAT" refid="300026819">Picture postcards</worktype>
         </worktypeSet>
     </work>
     <image>
@@ -64,7 +67,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Clowns with Instruments]</title>
+            <title>[Digital Reproduction of Clowns with Instruments, Recto and Verso]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
