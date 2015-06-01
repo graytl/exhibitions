@@ -3,23 +3,21 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF"/>
-                <dates>
-                    <earliestDate>1905</earliestDate>
-                    <latestDate>1905</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
+        <dateSet>
+            <date>
+                <earliestDate>1905</earliestDate>
+                <latestDate>1905</latestDate>
+            </date>
+        </dateSet>
         <descriptionSet>
-            <description>The Women and Fashion section of the postcard collection speaks to images of women in popular culture. Women rode bicycles, played sports, and lived actively, as other cards in this collection show. These idealized views of women sent to Caruso contrast with images of suffragettes also circulating widely. </description>
+            <description>The Women and Fashion section of the postcard collection speaks to images of women in popular culture. Women rode bicycles, played sports, and lived actively, as other cards in this collection show. These idealized views of women sent to Caruso contrast with images of suffragettes also circulating widely.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0647.p0396</refid>
+                <refid>MSS Collection 0647, Postcard 0396</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -29,14 +27,20 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh 85105462 ">postcards</term>
+                <term vocab="LCSH" refid="sh 85147554">Women in art</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh2009120449">Clothing and dress--History--Pictorial works</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 98005144">Women's hats--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
             <title>[Woman in Yellow Bonnet]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300192703">picture postcards</worktype>
+            <worktype vocab="AAT" refid="300026819">Picture postcards</worktype>
         </worktypeSet>
     </work>
     <image>
@@ -53,7 +57,7 @@
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>MS0647.p0396.jpg</refid>
+                <refid>sc.mss.0647.p0396-A-vis.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
