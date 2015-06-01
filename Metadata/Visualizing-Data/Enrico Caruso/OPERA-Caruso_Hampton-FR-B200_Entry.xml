@@ -3,16 +3,14 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF"/>
-                <dates>
-                    <earliestDate>unknown</earliestDate>
-                    <latestDate>unknown</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
+        <dateSet>
+            <date>
+                <earliestDate></earliestDate>
+                <latestDate></latestDate>
+            </date>
+        </dateSet>
         <descriptionSet>
             <description>Enrico Caruso joked around during a family vacation in the Hamptons shortly before his death in 1921. The humor evident in Caruso’s anecdotes matches the humor often demonstrated in the cards. </description>
         </descriptionSet>
