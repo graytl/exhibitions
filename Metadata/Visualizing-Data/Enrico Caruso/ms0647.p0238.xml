@@ -57,7 +57,7 @@
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>MS0647.p0238.jpg</refid>
+                <refid>sc.mss.0647.p0238-A-vis.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
@@ -67,7 +67,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Masonic Temple, Recto and Verso]</title>
+            <title>[Digital Reproduction of Masonic Temple, Recto]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

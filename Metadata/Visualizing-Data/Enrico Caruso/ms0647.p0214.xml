@@ -17,7 +17,7 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0647.p0214</refid>
+                <refid>MSS Collection 0647, Postcard 214</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -54,7 +54,7 @@
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>MS0647.p0214.jpg</refid>
+                <refid>sc.mss.0647.p0214-A-vis.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
@@ -64,7 +64,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Uniforms: Navy and Gold, Recto and Verso]</title>
+            <title>[Digital Reproduction of Uniforms: Navy and Gold, Recto]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
