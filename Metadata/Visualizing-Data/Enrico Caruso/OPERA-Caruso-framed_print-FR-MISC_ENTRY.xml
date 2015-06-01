@@ -3,23 +3,27 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF"/>
-                <dates>
-                    <earliestDate>unknown</earliestDate>
-                    <latestDate>unknown</latestDate>
-                </dates>
+                <name type="personal" vocab="LCNAF" refid="n 50034771">Caruso, Enrico, 1873-1921</name>
+                <role>Sender</role>
             </agent>
         </agentSet>
+        <dateSet>
+            <date>
+                <earliestDate></earliestDate>
+                <latestDate></latestDate>
+            </date>
+        </dateSet>
         <descriptionSet>
-            <description>Enrico Caruso's performed as Canino in Il Pagliacci the night this picture was made. As Canino, he played his signature role, a man betrayed by his beloved wife who must perform despite his pain. His ability to be both the entertainer and the tragedian defined his incomparable interpretation of Canino. He typically performed in tandem with Cavalleria Rusticana by Pietro Mascagni, in which he played the role of Turiddu. This postcard back lists the address of Via Velasca, the location of Caruso’s Milan estate. </description>
+            <description>Enrico Caruso's performed as Canino in Il Pagliacci the night this picture was made. As Canino, he played his signature role, a man betrayed by his beloved wife who must perform despite his pain. His ability to be both the entertainer and the tragedian defined his incomparable interpretation of Canino. He typically performed in tandem with Cavalleria Rusticana by Pietro Mascagni, in which he played the role of Turiddu. This postcard back lists the address of Via Velasca, the location of Caruso’s Milan estate.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0647 Box 200 Opera-Caruso_framed _print-FR-MISC_ENTRY </refid>
+                <refid>MSS Collection 0647 Box 200</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -29,14 +33,18 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="n 50034771">Enrico Caruso--pictorial works</term>
+                <term vocab="LCNAF" refid="n 50034771">Caruso, Enrico, 1873-1921--Portraits</term>
+            </subject>
+            <subject>
+                <term vocab="LCNAF" refid="n 50034771">Caruso, Enrico, 1873-1921--Performances</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Enrico Caruso]</title>
+            <title>[Enrico Caruso in Costume]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300192703">picture postcards</worktype>
+            <worktype vocab="AAT" refid="300026819">Picture postcards</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white-photographs</worktype>
         </worktypeSet>
     </work>
     <image>
@@ -53,7 +61,7 @@
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>OPERA-Caruso_framed_print-FR-MISC_ENTRY.xml</refid>
+                <refid>OPERA-Caruso-framed_print-FR-MISC.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
@@ -63,7 +71,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Enrico Caruso]</title>
+            <title>[Digital Reproduction of Enrico Caruso in Costume]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
