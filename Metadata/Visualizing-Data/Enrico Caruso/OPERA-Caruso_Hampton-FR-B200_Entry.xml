@@ -17,7 +17,7 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0647 Box 200 Opera-Caruso_Hampton-FR-B200_Entry </refid>
+                <refid>MSS Collection 0647 Box 200</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -27,7 +27,7 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="n 50034771">Enrico Caruso--pictorial works</term>
+                <term vocab="LCNAF" refid="n 50034771">Caruso, Enrico, 1873-1921--Portraits</term>
             </subject>
         </subjectSet>
         <titleSet>
@@ -51,7 +51,7 @@
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>OPERA-Caruso-FR-B199-F003</refid>
+                <refid>OPERA-Caruso_Hampton-FR-B200.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
