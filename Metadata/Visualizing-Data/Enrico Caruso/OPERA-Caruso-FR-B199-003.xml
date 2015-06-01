@@ -3,23 +3,26 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF"/>
-                <dates>
-                    <earliestDate>unknown</earliestDate>
-                    <latestDate>unknown</latestDate>
-                </dates>
+                <name type="personal" vocab="LCNAF" refid="n 50034771">Caruso, Enrico, 1873-1921</name>
             </agent>
         </agentSet>
+        <dateSet>
+            <date>
+                <earliestDate></earliestDate>
+                <latestDate></latestDate>
+            </date>
+        </dateSet>
         <descriptionSet>
-            <description>Caruso loved to draw for his own pleasure.  His caricatures of friends and other singers were first published in 1906, though this later collection dates to 1965.  He was said to “throw off [the sketches]as easily as his mellifluous notes.” He often drew during interviews, as his son recalled.</description>
+            <description>Caruso loved to draw for his own pleasure. His caricatures of friends and other singers were first published in 1906, though this later collection dates to 1965. He was said to “throw off [the sketches] as easily as his mellifluous notes.” He often drew during interviews, as his son recalled.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0647 Box 199 F003 </refid>
+                <refid>MSS Collection 0647, Box 199, Folder 003</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -29,14 +32,23 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="n 50034771">Enrico Caruso--pictorial works</term>
+                <term vocab="LCNAF" refid="n 50034771">Caruso, Enrico, 1873-1921</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh2010102944">Musicians--Caricatures and cartoons</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85122826">Singers--Caricatures and cartoons</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85000744">Actors--Caricatures and cartoons</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Caricatures by Caruso]</title>
+            <title>Caricatures by Caruso</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="local" refid="sh2011004651">Book cover art</worktype>
+            <worktype vocab="AAT" refid="300028051">Books</worktype>
         </worktypeSet>
     </work>
     <image>
@@ -53,7 +65,7 @@
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>OPERA-Caruso-FR-B199-F003</refid>
+                <refid>OPERA-Caruso-FR-B199-003.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
@@ -63,7 +75,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Caricatures by Caruso]</title>
+            <title>[Digital Reproduction of Caricatures by Caruso, Front Cover]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
