@@ -3,11 +3,14 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 79027469">United States. Army. Corps of Engineers. Nashville District</name>
+                <name type="corporate" vocab="LOC" refid="n79027469">United States Army Corp of Engineers Nashville District</name>
+                <dates>
+                    <earliestDate/>
+                    <latestDate/>
+                </dates>
             </agent>
         </agentSet>
         <dateSet>
@@ -21,7 +24,7 @@
         </descriptionSet>
         <locationSet>
             <location type="other">
-                <name type="corporate" vocab="local">United States. Army. Corps of Engineers. Nashville District. Library</name>
+                <name type="corporate" vocab="local" refid="">United States Army Corp of Engineers Nashville District Library</name>
                 <refid/>
             </location>
         </locationSet>
@@ -32,29 +35,20 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh 85039493">Dredging--Pictorial works</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85049168">Floods--Tennessee--Nashville--Pictorial works</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85034781">Cumberland River (Ky. and Tenn.)--Pictorial works</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85114409">Rivers--Tennessee--Pictorial works</term>
+                <term vocab="" refid=""></term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Dredging, Shelley Island - Cumberland River]</title>
+            <title>[Dredging, Shelley Island -Cumberland River]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300128347">black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local">United States. Army. Corps of Engineers. Nashville District. Library</name>
+                <name type="corporate" vocab="local" refid="">United States Army Corp of Engineers Nashville District Library</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -66,7 +60,7 @@
         <locationSet>
             <location type="repository">
                 <refid>7096.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -75,7 +69,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Dredging, Shelley Island - Cumberland River]</title>
+            <title>[A Digital Reproduction of Dredging, Shelley Island -Cumberland River]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

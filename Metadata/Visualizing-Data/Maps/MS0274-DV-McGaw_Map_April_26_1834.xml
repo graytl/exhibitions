@@ -3,11 +3,14 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 88079713">Coyle, Randolph</name>
+                <name type="corporate" vocab="local">Randolph Coyle</name>
+                <dates>
+                    <earliestDate/>
+                    <latestDate/>
+                </dates>
             </agent>
         </agentSet>
         <dateSet>
@@ -21,37 +24,31 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt Library Special Collections</name>
                 <refid>Robert A. McGaw Collection</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>Vanderbilt University Special Collections</text>
+                <text>Vanderbilt Library Special Collections</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh 85049168">Floods--Tennessee--Nashville--Pictorial works</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85034781">Cumberland River (Ky. and Tenn.)--Pictorial works</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85114409">Rivers--Tennessee--Pictorial works</term>
+                <term vocab="" refid=""></term>
             </subject>
         </subjectSet>
         <titleSet>
             <title>Map of the Cumberland River from the Falls of Nashville</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300028233">Historical maps</worktype>
+            <worktype vocab="AAT" refid="300028233">historical maps </worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local" refid="">Vanderbilt Library Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -63,16 +60,16 @@
         <locationSet>
             <location type="repository">
                 <refid>MS0274-DV-McGaw_Map-April_26_1834.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+                <text>Vanderbilt Librar Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Map of the Cumberland River from the Falls of Nashville]</title>
+            <title>[A Digital Reproduction of Map of the Cumberland River from the Falls of Nashville]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

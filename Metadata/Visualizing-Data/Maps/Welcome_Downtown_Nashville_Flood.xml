@@ -3,12 +3,14 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="local">Gallagher, Keith Justin</name>
-                <role>Photographer</role>
+                <name type="other" vocab="" refid="">Keith Gallagher</name>
+                <dates>
+                    <earliestDate>2010-05-03</earliestDate>
+                    <latestDate>2010-05-03</latestDate>
+                </dates>
             </agent>
         </agentSet>
         <dateSet>
@@ -18,59 +20,60 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Flooding of downtown Nashville in the catastrophic Cumberland River flood of 2010</description>
+            <description>Flooding of downtown Nasvhille in the catastophic Cumberland River flood of 2010.  </description>
         </descriptionSet>
         <locationSet>
             <location type="other">
-                <name type="corporate" vocab="local">Flickr Commons</name>
-                <refid>Online Resource, available via: https://www.flickr.com/photos/10183075@N04/4574679644</refid>
+                <name type="" vocab="" refid=""/>
+                <refid/>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>Creative Commons Attribution 2.0 Generic license. https://www.flickr.com/photos/10183075@N04/4574679644</text>
+                <text>Creative Commons Attribution 2.0 Generic license.
+
+http://commons.wikimedia.org/wiki/File:Welcome_Downtown_Nashville_Flood.jpg#metadata</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh 85049168">Floods--Tennessee--Nashville--Pictorial works</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="n 78095801">Nashville (Tenn.)--Pictorial works</term>
+                <term vocab="" refid=""></term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Welcome Downtown Nashville Flood</title>
+            <title></title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+            <worktype vocab="" refid=""></worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="personal" vocab="local">Gallagher, Keith Justin</name>
+                <name type="corporate" vocab="" refid="">Keith Gallagher</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2010-05-03</earliestDate>
-                <latestDate>2010-05-03</latestDate>
+                <earliestDate>unknown</earliestDate>
+                <latestDate>unknown</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
                 <refid>Welcome_Downtown_Nashville_Flood.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>Creative Commons Attribution 2.0 Generic license. http://commons.wikimedia.org/wiki/File:Welcome_Downtown_Nashville_Flood.jpg#metadata</text>
+                <text>Creative Commons Attribution 2.0 Generic license.
+
+http://commons.wikimedia.org/wiki/File:Welcome_Downtown_Nashville_Flood.jpg#metadata</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Welcome to Downtown Nashville Flood]</title>
+            <title>Welcome to Downtown Nashville Flood</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

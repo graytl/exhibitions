@@ -6,7 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n79027469">Nashville Aeronautic Corp</name>
+                <name type="corporate" vocab="LOC">Gabriela Ore</name>
                 <dates>
                     <earliestDate/>
                     <latestDate/>
@@ -15,61 +15,61 @@
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>1926-12-30</earliestDate>
-                <latestDate>1926-12-30</latestDate>
+                <earliestDate>2015-03-01</earliestDate>
+                <latestDate>2015-05-25</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description>The Cumberland River experienced a major flood event after Christmas of 1926 and into 1927.  This photo shows a a view of the inundated Tennessee Electric Power Company Sub-Station, on Lebanon Pike.</description>
+            <description>A GIS analysis of transit density from Nashville to Settlements in the US, Indian and Spanish territories - based on Joseph Purcell 1794</description>
         </descriptionSet>
         <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt Library Special Collections</name>
-                <refid>George Peabody Collection photograph no 9</refid>
+            <location type="other">
+                <name type="corporate" vocab="local"/>
+                <refid/>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="copyrighted">
-                <text>Nashville Aeronautic Corp</text>
+            <rights type="undetermined">
+                <text/>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="" refid=""></term>
+                <term vocab=""/>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[The 1927 Flood- A Look at the Tennessee Electric Power Company Sub-Station]</title>
+            <title>Transit density from Nashville to Settlements in the US, Indian and Spanish territories - based on Joseph Purcell 1794</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300027221">posters</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local" refid="">United States Army Corp of Engineers Nashville District Library</name>
+                <name type="corporate" vocab="local" refid="">Gabriela Ore</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015-03-11</earliestDate>
-                <latestDate>2015-03-11</latestDate>
+                <earliestDate>2015-03-01</earliestDate>
+                <latestDate>2015-05-25</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>Peabody-DV-Nashville_Flood-1926-No_9.jpg</refid>
+                <refid>FinalPoster.jpg</refid>
                 <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="copyrighted">
-                <text>Vanderbilt Library Special Collections</text>
+            <rights type="undetermined">
+                <text/>
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[A Digital Reproduction the 1927 Flood- A Look at the Tennessee Electric Power Company Sub-Station]</title>
+            <title>Transit density from Nashville to Settlements in the US, Indian and Spanish territories - based on Joseph Purcell 1794</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

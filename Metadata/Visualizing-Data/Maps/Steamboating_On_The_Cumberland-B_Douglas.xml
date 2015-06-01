@@ -3,16 +3,14 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="no2002116282">Douglas, Byrd, 1894-</name>
-                <role>Author</role>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="local">Nashville Book Company</name>
-                <role>Publisher</role>
+                <name type="corporate" vocab="local">Byrd Douglas</name>
+                <dates>
+                    <earliestDate/>
+                    <latestDate/>
+                </dates>
             </agent>
         </agentSet>
         <dateSet>
@@ -22,62 +20,56 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Cover of the book, Steamboatin' on the Cumberland</description>
+            <description>Cover of the book, Steamboatin' on the Cumberland.</description>
         </descriptionSet>
         <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>Southern Civilization Collection, F442.2 .D6</refid>
+            <location type="other">
+                <name type="corporate" vocab="local" refid="F442.2 .D6">Vanderbilt Library Special Collections</name>
+                <refid/>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>Copyright 1961 - Nashville Book Company. But only using image of Front Cover - fair use argment.</text>
+                <text>Vanderbilt Library Special Collections</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh 85034781">Cumberland River (Ky. and Tenn.)--History</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85114245">River steamers--Cumberland River (Ky. and Tenn.)--History</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85127732">Steamboats--Tennessee--Nashville--History</term>
+                <term vocab="" refid=""></term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Steamboatin' on the Cumberland</title>
+            <title>The Book Cover of 'Steamboatin' on the Cumberland'</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300028051">Books</worktype>
+            <worktype vocab="local">book cover</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local" refid="">Vanderbilt Library Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015-05-18</earliestDate>
-                <latestDate>2015-05-18</latestDate>
+                <earliestDate>2015</earliestDate>
+                <latestDate>2015</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>Steamboating_On_The_Cumberland-B_Douglas.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+                <refid/>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+                <text>Vadnerbilt Library Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Steamboatin' on the Cumberland, Front Cover]</title>
+            <title>[A Digital Reproduction of the Book Cover of 'Steamboatin' on the Cumberland']</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

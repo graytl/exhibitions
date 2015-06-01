@@ -6,7 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n79027469">Nashville Aeronautic Corp</name>
+                <name type="corporate" vocab="LOC" refid="n79027469">United States Army Corp of Engineers Nashville District</name>
                 <dates>
                     <earliestDate/>
                     <latestDate/>
@@ -15,22 +15,22 @@
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>1926-12-30</earliestDate>
-                <latestDate>1926-12-30</latestDate>
+                <earliestDate>1937-01-26</earliestDate>
+                <latestDate>1937-01-26</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description>The Cumberland River experienced a major flood event after Christmas of 1926 and into 1927.  This photo shows a a view of the inundated Tennessee Electric Power Company Sub-Station, on Lebanon Pike.</description>
+            <description>The Cumberland River flooded again in January of 1937.  This view overlooks a section of East Nashville just above the Jefferson Street Bridge.  The river gage at Lock 1 Upper read 53.0' on this day.  Normally the river should read below 35.0'.  Anything above is considered the point at which flooding is possible in this area.  Only two other flooding events have surpassed 50.0' on the Cumberland, another in 1927 (56.20'), and again in 2010 (52.55').</description>
         </descriptionSet>
         <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt Library Special Collections</name>
-                <refid>George Peabody Collection photograph no 9</refid>
+            <location type="other">
+                <name type="corporate" vocab="local">United States Army Corp of Engineers Nashville District Library</name>
+                <refid/>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>Nashville Aeronautic Corp</text>
+                <text>United States Army Corp of Engineers Nashville District</text>
             </rights>
         </rightsSet>
         <subjectSet>
@@ -39,7 +39,7 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[The 1927 Flood- A Look at the Tennessee Electric Power Company Sub-Station]</title>
+            <title>[The 1937 Flood- A Look at East Nashville]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300128347">black-and-white photographs</worktype>
@@ -53,23 +53,23 @@
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015-03-11</earliestDate>
-                <latestDate>2015-03-11</latestDate>
+                <earliestDate>2015-03-25</earliestDate>
+                <latestDate>2015-03-26</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>Peabody-DV-Nashville_Flood-1926-No_9.jpg</refid>
+                <refid>13125.jpg</refid>
                 <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="copyrighted">
-                <text>Vanderbilt Library Special Collections</text>
+            <rights type="publicDomain">
+                <text>Permission to use but credit must be given to the United States Army Corp of Engineers Nashville District Library.</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[A Digital Reproduction the 1927 Flood- A Look at the Tennessee Electric Power Company Sub-Station]</title>
+            <title>[A Digital Reproduction of the 1937 Flood- A Look at East Nashville] </title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
