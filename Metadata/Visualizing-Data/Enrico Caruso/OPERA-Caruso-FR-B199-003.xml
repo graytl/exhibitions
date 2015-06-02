@@ -11,9 +11,9 @@
             </agent>
         </agentSet>
         <dateSet>
-            <date>
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+            <date type="publication">
+                <earliestDate>1951</earliestDate>
+                <latestDate>1951</latestDate>
             </date>
         </dateSet>
         <descriptionSet>

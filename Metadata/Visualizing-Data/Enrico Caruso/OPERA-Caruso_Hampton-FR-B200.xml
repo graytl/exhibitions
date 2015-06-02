@@ -6,9 +6,9 @@
     <!-- HAS BEEN EDITED -->
     <work>
         <dateSet>
-            <date>
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+            <date type="creation">
+                <earliestDate>unknown</earliestDate>
+                <latestDate>unknown</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
