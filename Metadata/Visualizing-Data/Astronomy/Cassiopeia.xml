@@ -3,24 +3,28 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n88173069">Fujii, Akira</name>
+                <name type="personal" vocab="LCNAF" refid="n 88173069">Fujii, Akira, 1941-</name>
                 <dates>
                     <earliestDate>1941</earliestDate>
                     <latestDate>present</latestDate>
                 </dates>
             </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 91011423">Hubble Space Telescope</name>
+            </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>unknown</earliestDate>
-                <latestDate>unknown</latestDate>
+                <earliestDate>1990</earliestDate>
+                <latestDate>2010?</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description>This is a photo of the constellation Cassiopeia.  One can see the center bar of the Milky Way Galaxy running through the middle of the image.</description>
+            <description>This is a photo of the constellation Cassiopeia. One can see the center bar of the Milky Way Galaxy running through the middle of the image.</description>
         </descriptionSet>
         <locationSet>
             <location type="other">
@@ -35,18 +39,48 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh85052763">Galaxies</term>
+                <term vocab="LCSH" refid="sh 85052763">Galaxies--Pictorial works</term>
             </subject>
             <subject>
-                <term vocab="LCSH" refid="sh2012000490">Cassiopeia (Constellation)</term>
+                <term vocab="LCSH" refid="sh2012000490">Cassiopeia (Constellation)--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>http://www.spacetelescope.org/static/archives/images/original/opo0613c.jpg</title>
+            <title>[Image of Casseopeia]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+            <worktype vocab="AAT" refid="300246214">Space photographs</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-05-13</earliestDate>
+                <latestDate>2015-05-13</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+                <refid></refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>Original image lives in public domain, taken by Akira Fujii on behalf of the Hubble Space Telescope and European Space Agency. Vanderbilt University Special Collection's copy may be used with permission. Please contact the library for more information.</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[Digital Reproduction of Image of Casseopeia]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
-    </work>
-   
+    </image>
 </vra>
