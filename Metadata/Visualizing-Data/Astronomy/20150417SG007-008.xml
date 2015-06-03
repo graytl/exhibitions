@@ -7,7 +7,12 @@
     <work>
         <agentSet>
             <agent>
+<<<<<<< HEAD
                 <name type="corporate" vocab="" refid="">Chronometerwerke GmbH</name>
+=======
+                <name type="corporate" vocab="local">Werke G.M.B.H.</name>
+                <role>Manufacturer</role>
+>>>>>>> origin/master
             </agent>
         </agentSet>
         <dateSet>
