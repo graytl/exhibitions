@@ -3,14 +3,19 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n86013661">Bowditch, Charles Pickering, 1842-1921</name>
+                <name type="personal" vocab="LCNAF" refid="n 86013661">Bowditch, Charles P. (Charles Pickering), 1842-1921</name>
                 <dates>
                     <earliestDate>1842</earliestDate>
                     <latestDate>1921</latestDate>
                 </dates>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 50059133">Cambridge University Press</name>
+                <role>Publisher</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -20,12 +25,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>This book describes the astronomical, and hence, calendarical, understanding of the Maya. </description>
+            <description>This book describes the astronomical, and hence, calendarical, understanding of the Maya.</description>
         </descriptionSet>
         <locationSet>
-            <location type="">
-                <name type="corporate" vocab="" refid="">Vanderbilt University Library</name>
-                <refid>Central Library F1435 .B781</refid>
+            <location type="repository">
+                <name type="corporate" vocab="local">Vanderbilt University Libraries</name>
+                <refid>Central Library, F1435 .B781</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,38 +40,38 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh94000270">Maya Calendar</term>
+                <term vocab="LCSH" refid="sh 94000270">Maya calendar</term>
             </subject>
             <subject>
-                <term vocab="LCSH" refid="sh85082410">Mayas--Antiquities</term>
+                <term vocab="LCSH" refid="sh 85082410">Mayas--Antiquities</term>
             </subject>
             <subject>
-                <term vocab="LCSH" refid="sh85093236">Maya numeration</term>
+                <term vocab="LCSH" refid="sh 85093236">Maya numeration</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Numeration, calendar systems and astronomical knowledge of the Mayas </title>
+            <title>Numeration, Calendar Systems and Astronomical Knowledge of the Mayas</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="" refid="">book</worktype>
+            <worktype vocab="AAT" refid="300028051">Books</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>20150429</earliestDate>
-                <latestDate>20150429</latestDate>
+                <earliestDate>2015-04-29</earliestDate>
+                <latestDate>2015-04-29</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="other">
                 <refid>DV-Astonomical_Knowledge_of_the_Mayas-Bowditch-1910.jpg</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -75,7 +80,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>DV-Astonomical_Knowledge_of_the_Mayas-Bowditch-1910.jpg</title>
+            <title>[Digital Reproduction of Numeration, Calendar Systems and Astronomical Knowledge of the Mayas, Page ___]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
