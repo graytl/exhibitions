@@ -3,10 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n85049037">Ferguson, James</name>
+                <name type="personal" vocab="LCNAF" refid="n 85049037">Ferguson, James, 1710-1776</name>
                 <dates>
                     <earliestDate>1710</earliestDate>
                     <latestDate>1776</latestDate>
@@ -24,46 +25,49 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local" refid="">Special Collections and University Archives</name>
-                <refid>Sevier QB392 .F4</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>Sevier Collection, QB392 .F4</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>This book was published in 1747.</text>
+                <text>Dissertation - printed in London in 1747 for the author - printer unknown. Date precedes 1923 copyright act.</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh85008997">Astronomical Models</term>
+                <term vocab="LCSH" refid="sh2007101548">Astronomy--Early works to 1800</term>
             </subject>
             <subject>
-                <term vocab="LCSH" refid="sh85087142">Moon--Rotation</term>
+                <term vocab="LCSH" refid="sh 85008997">Astronomical models</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85087142">Moon--Rotation</term>
             </subject>
                   </subjectSet>
         <titleSet>
-            <title>A dissertation upon the phaenomena of the harvest moon. Also, The description and use of a new four-wheel'd orrery, and an essay upon the moon's turning round her own axis</title>
+            <title>A Dissertation Upon the Phaenomena of the Harvest Moon: Also, the Description and Use of a New Four-Wheel'd Orrery, and an Essay Upon the Moon's Turning Round Her Own Axis</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="">Book</worktype>
+            <worktype vocab="AAT" refid="300028051">Books</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>20150427</earliestDate>
-                <latestDate>20150427</latestDate>
+                <earliestDate>2015-04-27</earliestDate>
+                <latestDate>2015-04-27</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>Dissertation_Harvest_Moon-J_Ferguson-1747-p49</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <refid>Dissertation_Harvest_Moon-J_Ferguson-1747-p49.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -72,7 +76,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Dissertation_Harvest_Moon-J_Ferguson-1747-p49</title>
+            <title>[Digital Reproduction of A Dissertation Upon the Phaenomena of the Harvest Moon, Page 49]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -81,19 +85,19 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>20150427</earliestDate>
-                <latestDate>20150427</latestDate>
+                <earliestDate>2015-04-27</earliestDate>
+                <latestDate>2015-04-27</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>Dissertation_Harvest_Moon-J_Ferguson-1747-p19</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <refid>Dissertation_Harvest_Moon-J_Ferguson-1747-p19.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -102,7 +106,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Dissertation_Harvest_Moon-J_Ferguson-1747-p19</title>
+            <title>Digital Reproduction of A Dissertation Upon the Phaenomena of the Harvest Moon, Page 19]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -111,19 +115,19 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>20150427</earliestDate>
-                <latestDate>20150427</latestDate>
+                <earliestDate>2015-04-27</earliestDate>
+                <latestDate>2015-04-27</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>Dissertation_Harvest_Moon-J_Ferguson-1747-p65</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <refid>Dissertation_Harvest_Moon-J_Ferguson-1747-p65.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -132,7 +136,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Dissertation_Harvest_Moon-J_Ferguson-1747-p65</title>
+            <title>Digital Reproduction of A Dissertation Upon the Phaenomena of the Harvest Moon, Page 65]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
