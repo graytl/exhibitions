@@ -7,13 +7,13 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Werke G.M.B.H.</name>
+                <name type="corporate" vocab="" refid="">Chronometerwerke GmbH</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>unknown</earliestDate>
-                <latestDate>unknown</latestDate>
+                <earliestDate>1905</earliestDate>
+                <latestDate>1938</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
