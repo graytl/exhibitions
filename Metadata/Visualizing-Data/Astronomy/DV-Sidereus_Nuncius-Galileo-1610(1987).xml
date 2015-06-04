@@ -20,12 +20,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>This is a facsimile of the copy of Sidereus nuncius by Galileo from 1610.  In it Galileo published his discovery of four "Medicean Stars" (now known as the Galilean Moons of Jupiter). It also has Galileo's drawings of the moon, previously thought to be perfect and smooth, but now seen to have mountains and plains. Galileo was not the first person to look through a telescope, but he was the first to point one towards the heavens and report on he saw.</description>
+            <description>This is a facsimile of the copy of Sidereus nuncius by Galileo from 1610. In it Galileo published his discovery of four "Medicean Stars" (now known as the Galilean Moons of Jupiter). It also has Galileo's drawings of the moon, previously thought to be perfect and smooth, but now seen to have mountains and plains. Galileo was not the first person to look through a telescope, but he was the first to point one towards the heavens and report on he saw.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local" refid="">Special Collections and University Archive Library </name>
-                <refid>Sevier QB41 .G178 1610a</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>Sevier Collection, QB41 .G178 1610a</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -42,28 +42,28 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Sidereus nuncius : a reproduction of the copy in the British Library / Galileo Galilei. </title>
+            <title>Sidereus Nuncius : a Reproduction of the Copy in the British Library</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="" refid="">book</worktype>
+            <worktype vocab="AAT" refid="300028051">Books</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>20150330</earliestDate>
-                <latestDate>20150330</latestDate>
+                <earliestDate>2015-03-30</earliestDate>
+                <latestDate>2015-03-30</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
                 <refid>DV-Sidereus_Nuncius-Galileo-1610(1987).jpg</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -72,7 +72,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>DV-Sidereus_Nuncius-Galileo-1610(1987).jpg</title>
+            <title>[Digital Reproduction of Sidereus Nuncius : a Reproduction of the Copy in the British Library]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
