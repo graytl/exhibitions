@@ -3,14 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local"> Henry Clay Brie</name>
-                <dates>
-                    <earliestDate/>
-                    <latestDate/>
-                </dates>
+                <name type="corporate" vocab="local">Brier, Henry Clay</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -20,56 +17,59 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>PHotograph taken from the thesis, "Rise and decline of transportation on the upper Cumberland River."  Photgraph belonging to Captain Hunter made in 1907 is of the Electra.  This boat had its part in the history of the Cumberland.</description>
+            <description>Photograph taken from the thesis, "Rise and decline of transportation on the upper Cumberland River." Photograph belonging to Captain Hunter made in 1907 is of the Electra. This boat had its part in the history of the Cumberland.</description>
         </descriptionSet>
         <locationSet>
-            <location type="other">
-                <name type="corporate" vocab="local" refid="B761r no.808">Vanderbilt Library Special Collections</name>
-                <refid/>
+            <location type="repository">
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>George Peabody College, Thesis 1928 B761r no.808</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>Vanderbilt Library Special Collections</text>
+                <text>Copyright Henry Clay Brier, 1928. Written for graduation at Vanderbilt University, so rights should be retained.</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="" refid=""></term>
+                <term vocab="LCSH" refid="sh 85114245">River steamers--Cumberland River (Ky. and Tenn.)</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85114245">River steamers--Cumberland River (Ky. and Tenn.)--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Photograph taken from Rise and decline of transportation on the upper Cumberland River </title>
+            <title>Rise and Decline of Transportation on the Upper Cumberland River</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300028028">Theses</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local" refid="">Vanderbilt Library Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015</earliestDate>
-                <latestDate>2015</latestDate>
+                <earliestDate>2015-05-19</earliestDate>
+                <latestDate>2015-05-19</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid/>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <refid>Rise_Decline_of_Steamboating_Cumberland-HC_Brier-1928.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>Vadnerbilt Library Special Collections</text>
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[A Digital Reproduction Photograph taken from Rise and decline of transportation on the upper Cumberland River]</title>
+            <title>[Digital Reproduction of Rise and Decline of Transportation on the Upper Cumberland River]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

@@ -3,14 +3,16 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local">W. Keenan</name>
-                <dates>
-                    <earliestDate/>
-                    <latestDate/>
-                </dates>
+                <name type="personal" vocab="LCNAF" refid="n 85368716">Keenan, William, approximately 1810-</name>
+                <role>Engraver</role>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="nr2001040570">Walker &amp; James</name>
+                <role>Publisher</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -20,56 +22,62 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>This map, published Walker and James and engraved by W. Keenan is part of the Robert A. McGaw Collection and Vanderbilt Library Special Collections.  The subject of this map is the Cumberland and Franklin as it was represented in 1853.  Of special interest to this exhibit, notice the way the Cumberland River is drawn.  The river starts to look more like current day depictions as the years progress.</description>
+            <description>This map, published Walker and James and engraved by William Keenan is part of the Robert A. McGaw Collection and Vanderbilt Library Special Collections. The subject of this map is the Cumberland and Franklin as it was represented in 1853.  Of special interest to this exhibit, notice the way the Cumberland River is drawn. The river starts to look more like current day depictions as the years progress.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt Library Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
                 <refid>Robert A. McGaw Collection</refid>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="copyrighted">
-                <text>Vanderbilt Library Special Collections</text>
+            <rights type="publicdomain">
+                <text>Published by Walker and James (1853). But in the public domain b/c of 19th century date.</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="" refid=""></term>
+                <term vocab="LCSH" refid="sh 85034781">Cumberland River (Ky. and Tenn.)--Maps</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="n 80060571">Franklin (Tenn.)--Maps</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85114409">Rivers--Tennessee--Maps</term>
             </subject>
         </subjectSet>
         <titleSet>
             <title>Map of Cumberland and Franklin</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300028233">historical maps </worktype>
+            <worktype vocab="AAT" refid="300028233">Historical maps</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local" refid="">Vanderbilt Library Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015</earliestDate>
-                <latestDate>2015</latestDate>
+                <earliestDate>2015-03-11</earliestDate>
+                <latestDate>2015-03-11</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>MS0274-DV-McGAW_Map_64</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <refid>MS0274-DV-McGAW_Map_64.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>Vanderbilt Librar Special Collections</text>
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[A Digital Reproduction of Map of Cumberland and Franklin]</title>
+            <title>[Digital Reproduction of Map of Cumberland and Franklin]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
