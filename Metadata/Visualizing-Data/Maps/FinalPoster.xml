@@ -3,14 +3,12 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LOC">Gabriela Ore</name>
-                <dates>
-                    <earliestDate/>
-                    <latestDate/>
-                </dates>
+                <name type="personal" vocab="local">Ore Menendez, Gabriela</name>
+                <role>Analyst</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -24,52 +22,59 @@
         </descriptionSet>
         <locationSet>
             <location type="other">
-                <name type="corporate" vocab="local"/>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
                 <refid/>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="undetermined">
-                <text/>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University, Jean and Alexander Heard Library</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab=""/>
+                <term vocab="LCSH" refid="sh 85034781">Cumberland River (Ky. and Tenn.)--Maps</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85125633">Southern States--Maps</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85104918">Population density--Tennessee--Maps</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Transit density from Nashville to Settlements in the US, Indian and Spanish territories - based on Joseph Purcell 1794</title>
+            <title>Transit Density from Nashville to Settlements in the US, Indian and Spanish Territories: Based on Joseph Purcell, 1794</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300027221">posters</worktype>
+            <worktype vocab="AAT" refid="300028459">Digital maps</worktype>
+            <worktype vocab="AAT" refid="300164286">Land use maps</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local" refid="">Gabriela Ore</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015-03-01</earliestDate>
-                <latestDate>2015-05-25</latestDate>
+                <earliestDate>2015-05-07</earliestDate>
+                <latestDate>2015-05-07</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
                 <refid>FinalPoster.jpg</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="undetermined">
-                <text/>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Transit density from Nashville to Settlements in the US, Indian and Spanish territories - based on Joseph Purcell 1794</title>
+            <title>[Digital Reproduction of Transit Density from Nashville to Settlements in the US, Indian and Spanish Territories: Based on Joseph Purcell, 1794]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
