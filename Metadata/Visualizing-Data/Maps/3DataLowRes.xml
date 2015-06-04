@@ -3,14 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local">Lindsey Fox</name>
-                <dates>
-                    <earliestDate/>
-                    <latestDate/>
-                </dates>
+                <name type="corporate" vocab="local">Fox, Lindsey</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -20,35 +17,38 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>A map showing the Digital Elevation Model (DEM) dervied from light detection and ranging (LIDAR) data used for the 3D print of the Cumberland river running through Nashville.  Data was provided by the Nashville Metro government.  </description>
+            <description>A map showing the Digital Elevation Model (DEM) dervied from light detection and ranging (LIDAR) data used for the 3D print of the Cumberland river running through Nashville.  Data was provided by the Nashville Metro government.</description>
         </descriptionSet>
         <locationSet>
-            <location type="other">
-                <name type="corporate" vocab="local" refid="B761r no.808">Vanderbilt Library Special Collections</name>
-                <refid/>
+            <location type="repository">
+                <name type="corporate" vocab="local">Vanderbilt Library Special Collections</name>
+                <refid>B761r no.808</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>Vanderbilt Library Special Collections</text>
+                <text>Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="" refid=""></term>
+                <term vocab="LCSH" refid="sh 85034781">Cumberland River (Ky. and Tenn.)--Pictorial works</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85114409">Rivers--Tennessee--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Map output of Digital Elevation Model (DEM) Used for 3D Print of the Cumberland</title>
+            <title>[Map Output of Digital Elevation Model (DEM) Used for 3D Print of the Cumberland]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local" refid="">Vanderbilt Library Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -65,11 +65,11 @@
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>Vadnerbilt Library Special Collections</text>
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Map output of Digital Elevation Model (DEM) Used for 3D Print of the Cumberland</title>
+            <title>[Digital Reproduction of Map Output of Digital Elevation Model (DEM) Used for 3D Print of the Cumberland]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

@@ -3,52 +3,55 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LOC" refid="n79027469 ">United States Army Corp of Engineers Nashville District</name>
-                <dates>
-                    <earliestDate/>
-                    <latestDate/>
-                </dates>
+                <name type="corporate" vocab="LCNAF" refid="n 79027469">United States. Army. Corps of Engineers. Nashville District</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate/>
-                <latestDate/>
+                <earliestDate>1889</earliestDate>
+                <latestDate>1934</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Sweeping party in operation, Lower East River.  Personnell on pontoons--Chief of Party directing operations, leadsmen sounding, located at center line of each pontoon, leadsmen operating sweep bars (one on each pontoon), recorder operating electrical recording device, and deckhand operationg outboard motor.  On shore, there are three transitmen locating positions.  This operation occurred sometime between 1889 and 1934.  </description>
+            <description>Sweeping party in operation, Lower East River. Personnell on pontoons--Chief of Party directing operations, leadsmen sounding, located at center line of each pontoon, leadsmen operating sweep bars (one on each pontoon), recorder operating electrical recording device, and deckhand operationg outboard motor. On shore, there are three transitmen locating positions. This operation occurred sometime between 1889 and 1934.</description>
         </descriptionSet>
         <locationSet>
             <location type="other">
-                <name type="" vocab="" refid="">United States Army Corp of Engineers Nashville District Library</name>
-                <refid/>
+                <name type="corporate" vocab="local">United States. Army. Corps of Engineers. Nashville District. Library</name>
+                <refid>Item on loan</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>United States Army Corp of Engineers Nashville District </text>
+                <text>United States Army Corps of Engineers Nashville District</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="" refid=""></term>
+                <term vocab="LCSH" refid="sh 85049168">Floods--Tennessee--Nashville--Pictorial works</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85034781">Cumberland River (Ky. and Tenn.)--Pictorial works</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85114409">Rivers--Tennessee--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Sweeping Party on the Cumberland River]</title>
+            <title>[Sweeping Party on the Cumberland River, Without Caption]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local" refid="">United States Army Corp of Engineers Nashville District Library</name>
+                <name type="corporate" vocab="local">United States. Army. Corps of Engineers. Nashville District. Library</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -59,17 +62,17 @@
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>7529withcaption.jpg</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <refid>7529withoutcaption.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>Permission to use but rights retained by United States Army Corp of Engineers Nashville District Library</text>
+                <text>Permission to use but rights retained by United States Army Corps of Engineers Nashville District Library</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[A Digital Reproduction of Sweeping Party on the Cumberland River]</title>
+            <title>[Digital Reproduction of Sweeping Party on the Cumberland River, Without Caption]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
