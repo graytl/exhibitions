@@ -3,7 +3,7 @@
 #### Inset case: Mapping the Cumberland
 
 At the end of the eighteenth century, the maps available for the territories around the Cumberland River and the Tennessee River were still not as accurate as the ones that were published twenty years later.
-Methods in mapping, engineering, and acts of God have all impacted the landscape of the Cumberland.  This exhibit explores changes and history of the Cumberland from 1792 through today.
+Methods in mapping, engineering, geologic processes and catastrophic flood events have all impacted the landscape of the Cumberland.  This exhibit explores changes and history of the Cumberland from 1792 through today.
 
 
 1) Low, E. [A Map of the Tennassee Government from the latest Surveys of 1810] 1810. Map.  Robert A. McGaw Collection, Vanderbilt University Special Collections
@@ -12,7 +12,7 @@ Methods in mapping, engineering, and acts of God have all impacted the landscape
 
 3) Coyle, Randolph [Map of the Cumberland River from the Falls of Nashville] April 26, 1834. Map. Robert A. McGaw Collection, Vanderbilt University Special Collections
 
-4) Dean's Fellow Project OUTPUT
+4) Dean's Fellow Final Project Poster
 
 5) Purcell, Joseph [A Map of the States of Virginia, North Carolina, South Carolina, and Georgia; Comprehending the Spanish Provinces of East and West Florida: Exhibiting the Boundaries as fixed by the late Treaty of Peace between the United States and the Spanish Dominions.  Compiled from late Surveys and Observations by Joseph Purcell.] January 25, 1792. Map. Robert A. McGaw Collection, Vanderbilt University Special Collections
 
@@ -30,7 +30,7 @@ Methods in mapping, engineering, and acts of God have all impacted the landscape
 
 12) USACE Photo of building Old Hickory Dam
 
-12) Mapping instrucments?
+12) Mapping instruments?
 
 
 
@@ -39,4 +39,4 @@ Methods in mapping, engineering, and acts of God have all impacted the landscape
 * Backwater Blues by Bessie Smith
 * News video of flooding in 2010
 * Digital photos of 1926, 1937, and 2010 flooding
-* 
+*
