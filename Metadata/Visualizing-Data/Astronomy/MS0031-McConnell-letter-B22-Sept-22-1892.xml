@@ -3,14 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF">McConnell, Frank H</name>
-                <dates>
-                    <earliestDate>unknown</earliestDate>
-                    <latestDate>unknown</latestDate>
-                </dates>
+                <name type="personal" vocab="local">McConnell, Frank H.</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -20,12 +17,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Frank McConnell and Edward Emerson Barnard were both founding members of the Astronomical Society of the Pacific, founded in San Francisco in 1889 while Barnard was affiliated with the Lick Observatory.  Barnard’s discovery of another moon of Jupiter, later designated Amalthea, brought him many accolades from the astronomical community.</description>
+            <description>Frank McConnell and Edward Emerson Barnard were both founding members of the Astronomical Society of the Pacific, founded in San Francisco in 1889 while Barnard was affiliated with the Lick Observatory. Barnard’s discovery of another moon of Jupiter, later designated Amalthea, brought him many accolades from the astronomical community.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <refid>Edward Emerson Barnard Papers, Box 22</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MS0031, Edward Emerson Barnard Papers, Box 22</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -37,18 +34,21 @@
             <subject>
                 <term vocab="LCSH" refid="sh 85071063">Jupiter (Planet)</term>
             </subject>
+            <subject>
+                <term vocab="LCNAF" refid="n 94063816">Barnard, Edward Emerson, 1857-1923--Correspondence</term>
+            </subject>
         </subjectSet>
         <titleSet>
-            <title>[Letter from McConnell on Barnard's discovery of Amalthea]</title>
+            <title>[Letter to Edward Emerson Barnard about the Discovery of Amalthea]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300026877">correspondence</worktype>
+            <worktype vocab="AAT" refid="300026879">Letters (correspondence)</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +58,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0031-McConnell-letter-B22-Sept-22-1892.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0031-McConnell-letter-B22-Sept-13-1892.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +69,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital reproduction of [Letter from McConnell on Barnard's discovery of Amalthea]</title>
+            <title>[Digital Reproduction of Letter to Edward Emerson Barnard about the Discovery of Amalthea]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
