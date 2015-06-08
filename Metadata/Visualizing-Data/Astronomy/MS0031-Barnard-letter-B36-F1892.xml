@@ -3,6 +3,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
@@ -20,11 +21,11 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Joseph S. Carels, an assistant postmaster in Nashville who befriended Edward Emerson Barnard as a child in Nashville, remained a friend of the noted astronomer throughout his life.  A congratulatory letter to Barnard on his discovery of Amalthea elicited this response.  In the four page letter, Barnard not only thanks his friend for his support but also expresses gratitude to everyone who gave him encouragement from his childhood in Nashville to his present position at the Lick Observatory. </description>
+            <description>Joseph S. Carels, an assistant postmaster in Nashville who befriended Edward Emerson Barnard as a child in Nashville, remained a friend of the noted astronomer throughout his life. A congratulatory letter to Barnard on his discovery of Amalthea elicited this response. In the four page letter, Barnard not only thanks his friend for his support but also expresses gratitude to everyone who gave him encouragement from his childhood in Nashville to his present position at the Lick Observatory.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
                 <refid>Edward Emerson Barnard Papers, Box 36/1892</refid>
             </location>
         </locationSet>
@@ -37,18 +38,21 @@
             <subject>
                 <term vocab="LCSH" refid="sh 85071063">Jupiter (Planet)</term>
             </subject>
+            <subject>
+                <term vocab="local">Carels, Joseph S.--Correspondence</term>
+            </subject>
         </subjectSet>
         <titleSet>
-            <title>[Letter from Barnard to Joseph S. Carels]</title>
+            <title>[Letter to Joseph S. Carels]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300026877">correspondence</worktype>
+            <worktype vocab="AAT" refid="300026879">Letters (correspondence)</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +62,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>MS0031-McConnell-letter-B22-Nov-23-1893.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +73,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital reproduction of [Letter from Barnard to Joseph S. Carels]</title>
+            <title>[Digital Reproduction of Letter to Joseph S. Carels]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
