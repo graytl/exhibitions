@@ -3,6 +3,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
@@ -20,12 +21,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Daniel Kirkwood was an American mathematician who used mathematics to derive theories based on the work of astronomers.  He was the first to suggest that meteor showers were composed of debris from comets.  He also developed a theory – known as Kirkwood’s Gap – that the gaps in the main asteroid belt between Jupiter and Mars were caused by the heavier gravitational pull of Jupiter.  He alludes to this theory in this letter, stating there are additional Jovian satellites yet to be discovered.</description>
+            <description>Daniel Kirkwood was an American mathematician who used mathematics to derive theories based on the work of astronomers. He was the first to suggest that meteor showers were composed of debris from comets. He also developed a theory known as Kirkwood’s Gap. This theory asserts that the gaps in the main asteroid belt between Jupiter and Mars were caused by the heavier gravitational pull of Jupiter. He alludes to the theory in this letter, stating there are additional Jovian satellites yet to be discovered.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <refid>Edward Emerson Barnard Papers, Box 20</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS0031, Edward Emerson Barnard Papers, Box 20</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -42,13 +43,13 @@
             <title>[Daniel Kirkwood to Barnard, 1892]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300026877">correspondence</worktype>
+            <worktype vocab="AAT" refid="300026879">Letters (correspondence)</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +59,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>MS0031-To_Barnard-B20-F-Kirkwood-Dec1892.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +70,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital reproduction of [Daniel Kirkwood to Barnard, 1892]</title>
+            <title>[Digital Reproduction of Daniel Kirkwood to Barnard, 1892]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

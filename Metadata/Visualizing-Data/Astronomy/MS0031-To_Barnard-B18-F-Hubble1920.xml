@@ -3,6 +3,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
@@ -25,7 +26,7 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>Edward Emerson Barnard Papers, Box 18/1892</refid>
+                <refid>MSS0031, Edward Emerson Barnard Papers, Box 18/1892</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -41,11 +42,11 @@
                 <term vocab="LCNAF" refid="n 94063816">Barnard, Edward Emerson, 1857-1923--Correspondence</term>
             </subject>
             <subject>
-                <term vocab="LCNAF" refid="n 81114174">Hubble, Edwin, 1889-1953--Corespondence</term>
+                <term vocab="LCNAF" refid="n 81114174">Hubble, Edwin, 1889-1953--Correspondence</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Letter to Edward Emerson Barnard]</title>
+            <title>[Letter from Edwin Hubble to Edward Emerson Barnard]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300026879">Letters (correspondence)</worktype>
@@ -75,7 +76,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Letter to Edward Emerson Barnard]</title>
+            <title>[Digital Reproduction of Letter from Edwin Hubble to Edward Emerson Barnard]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

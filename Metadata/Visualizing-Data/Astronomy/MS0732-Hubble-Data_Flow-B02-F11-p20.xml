@@ -3,14 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
                 <name type="corporate" vocab="LCNAF" refid="n 79105937">George C. Marshall Space Flight Center</name>
-                <dates>
-                    <earliestDate>1960-07-01</earliestDate>
-                    <latestDate>present</latestDate>
-                </dates>
             </agent>
         </agentSet>
         <dateSet>
@@ -24,8 +21,8 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <refid>Robert O'Dell Papers, Box 2/11</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS0732, Robert O'Dell Papers, Box 2/11</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -39,16 +36,16 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Hubble Space Telescope Data Flow</title>
+            <title>Hubble Space Telescope Data Flow, from within ''Designing an Observatory for Maintenance in Orbit The Hubble Space Telescope Experience'</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300248280">brochures</worktype>
+            <worktype vocab="AAT" refid="300248280">Brochures</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -60,7 +57,7 @@
         <locationSet>
             <location type="other">
                 <refid>MS0732-Hubble-Data_Flow-B02-F11-p20.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +66,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital reproduction of Designing an Observatory for Maintenance in Orbit The Hubble Space Telescope Experience--Page 20</title>
+            <title>[Digital Reproduction of Designing an Observatory for Maintenance in Orbit The Hubble Space Telescope Experience, Page 20]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

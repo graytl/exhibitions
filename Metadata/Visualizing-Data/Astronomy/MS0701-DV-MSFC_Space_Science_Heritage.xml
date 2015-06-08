@@ -3,14 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="79105937">George C. Marshall Space Flight Center</name>
-                <dates>
-                    <earliestDate>1960-07-01</earliestDate>
-                    <latestDate>present</latestDate>
-                </dates>
+                <name type="corporate" vocab="LCNAF" refid="n 79105937">George C. Marshall Space Flight Center</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -24,36 +21,31 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <refid>C. Rick Chappell Papers, Box 1/19</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS0701, C. Rick Chappell Papers, Box 1/19</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>Marshall Space Flight Center, Ref # MSFC 93-0026
-http://www.nasa.gov/centers/marshall/about/contact.html
-NASA Marshall Space Flight Center
-Redstone Arsenal
-Huntsville, AL 35812
-</text>
+                <text>Marshall Space Flight Center, Ref # MSFC 93-0026 / http://www.nasa.gov/centers/marshall/about/contact.html, NASA Marshall Space Flight Center, Redstone Arsenal, Huntsville, AL 35812</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh 85096159">Outer space Exploration</term>
+                <term vocab="LCSH" refid="sh 85096159">Outer space--Exploration</term>
             </subject>
         </subjectSet>
         <titleSet>
             <title>MSFC Space Science Heritage</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300134769">composite photographs</worktype>
+            <worktype vocab="AAT" refid="300134769">Composite photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -63,9 +55,9 @@ Huntsville, AL 35812
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>MS0701-DV-MSFC_Space_Science_Heritage.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -74,7 +66,7 @@ Huntsville, AL 35812
             </rights>
         </rightsSet>
         <titleSet>
-            <title>MSFC Space Science Heritage</title>
+            <title>[Digital Reproduction of MSFC Space Science Heritage]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
