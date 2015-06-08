@@ -3,14 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF">McConnell, Frank H</name>
-                <dates>
-                    <earliestDate>unknown</earliestDate>
-                    <latestDate>unknown</latestDate>
-                </dates>
+                <name type="personal" vocab="local">McConnell, Frank H.</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -20,12 +17,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Frank McConnell and Edward Emerson Barnard were both founding members of the Astronomical Society of the Pacific, founded in San Francisco in 1889 while Barnard was affiliated with the Lick Observatory.  Barnard’s discovery of another moon of Jupiter, later designated Amalthea, brought him many accolades from the astronomical community.  McConnell, a close friend of Barnard and a watchmaker by trade, presented Barnard with a handsome watch to commemorate his friend’s accomplishment.</description>
+            <description>Frank McConnell and Edward Emerson Barnard were both founding members of the Astronomical Society of the Pacific, founded in San Francisco in 1889 while Barnard was affiliated with the Lick Observatory. Barnard’s discovery of another moon of Jupiter, later designated Amalthea, brought him many accolades from the astronomical community. McConnell, a close friend of Barnard and a watchmaker by trade, presented Barnard with a handsome watch to commemorate his friend’s accomplishment.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <refid>Edward Emerson Barnard Papers, Box 22</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MS0031, Edward Emerson Barnard Papers, Box 22</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -39,10 +36,10 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Letter from McConnell Presenting Watch to Barnard]</title>
+            <title>[Letter Presenting Watch to Edward Emerson Barnard]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300026877">correspondence</worktype>
+            <worktype vocab="AAT" refid="300026879">Letters (correspondence)</worktype>
         </worktypeSet>
     </work>
     <image>
@@ -58,9 +55,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0031-McConnell-letter-B22-Nov-23-1893.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0031-McConnell-letter-B22-Nov-23-1892.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -68,8 +65,13 @@
                 <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCNAF" refid="n 94063816">Barnard, Edward Emerson, 1857-1923--Correspondence</term>
+            </subject>
+        </subjectSet>
         <titleSet>
-            <title>Digital reproduction of [Letter from McConnell Presenting Watch to Barnard]</title>
+            <title>[Digital Reproduction of Letter Presenting Watch to Edward Emerson Barnard]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
