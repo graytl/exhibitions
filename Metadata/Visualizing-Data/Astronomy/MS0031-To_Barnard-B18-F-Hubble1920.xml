@@ -6,7 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n 94063816">Hubble, Edwin, 1889-1953</name>
+                <name type="personal" vocab="LCNAF" refid="n 81114174">Hubble, Edwin, 1889-1953</name>
                 <dates>
                     <earliestDate>1889</earliestDate>
                     <latestDate>1953</latestDate>
@@ -20,11 +20,11 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Following military service in World War I, Edwin Hubble accepted a position at Mount Wilson Observatory.  His discoveries there included proving that nebulae were galaxies rather than simple clouds of gas and dust.  His greatest discovery was that all galaxies appeared to be receding from us, therefore the universe was expanding.  This 1920 letter from Hubble to astronomer Edward Emerson Barnard states that his own work is based on Barnard’s.</description>
+            <description>Following military service in World War I, Edwin Hubble accepted a position at Mount Wilson Observatory. His discoveries there included proving that nebulae were galaxies rather than simple clouds of gas and dust. His greatest discovery was that all galaxies appeared to be receding from us, therefore the universe was expanding. This 1920 letter from Hubble to astronomer Edward Emerson Barnard states that his own work is based on Barnard’s.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
                 <refid>Edward Emerson Barnard Papers, Box 18/1892</refid>
             </location>
         </locationSet>
@@ -37,18 +37,24 @@
             <subject>
                 <term vocab="LCSH" refid="sh 85090538">Nebulae</term>
             </subject>
+            <subject>
+                <term vocab="LCNAF" refid="n 94063816">Barnard, Edward Emerson, 1857-1923--Correspondence</term>
+            </subject>
+            <subject>
+                <term vocab="LCNAF" refid="n 81114174">Hubble, Edwin, 1889-1953--Corespondence</term>
+            </subject>
         </subjectSet>
         <titleSet>
-            <title>[Letter from Hubble to Barnard]</title>
+            <title>[Letter to Edward Emerson Barnard]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300026877">correspondence</worktype>
+            <worktype vocab="AAT" refid="300026879">Letters (correspondence)</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +64,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>MS0031-To_Barnard-B18-F-Hubble1920.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +75,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital reproduction of [Letter from Hubble to Barnard]</title>
+            <title>[Digital Reproduction of Letter to Edward Emerson Barnard]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

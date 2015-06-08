@@ -3,29 +3,21 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF"/>
-                <dates>
-                    <earliestDate/>
-                    <latestDate/>
-                </dates>
-            </agent>
-        </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>unknown</earliestDate>
-                <latestDate>unknown</latestDate>
+                <earliestDate>1880</earliestDate>
+                <latestDate>1892?</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description>The first four satellites of Jupiter were discovered by Galileo in 1610.  Edward Emerson Barnard discovered the fifth shortly after midnight on September 9, 1892.  Fifth in order of discovery and third in distance from the planet, Amalthea was the last satellite to be discovered by direct observation through a telescope.  After 1892, astronomers relied on photography to identify new satellites.  Pictured here is the Lick Observatory's 36-inch refractor telescope used by Barnard to detect Amalthea.</description>
+            <description>The first four satellites of Jupiter were discovered by Galileo in 1610. Edward Emerson Barnard discovered the fifth shortly after midnight on September 9, 1892. Fifth in order of discovery and third in distance from the planet, Amalthea was the last satellite to be discovered by direct observation through a telescope. After 1892, astronomers relied on photography to identify new satellites. Pictured here is the Lick Observatory's 36-inch refractor telescope used by Barnard to detect Amalthea.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <refid>Edward Emerson Barnard Papers, Box 22</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MS0031, Edward Emerson Barnard Papers, Box 22</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -37,18 +29,21 @@
             <subject>
                 <term vocab="LCSH" refid="sh 85071063">Jupiter (Planet)</term>
             </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh2006007022">Refracting telescopes--Specimens</term>
+            </subject>
         </subjectSet>
         <titleSet>
             <title>[36-inch Refractor Telescope]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +53,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>MS0031-Telescope-B43-Barnard.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +64,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital reproduction of [36-inch Refractor Telescope]</title>
+            <title>[Digital Reproduction of 36-inch Refractor Telescope]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
