@@ -12,6 +12,9 @@
             <agent>
                 <name type="corporate" vocab="LCNAF" refid="n 50079617">European Space Agency</name>
             </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 78087581">United States. National Aeronautics and Space Administration</name>
+            </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
@@ -20,7 +23,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description/>
+            <description>Shown here is an example visualization from Vanderbilt's Filtergraph tool applied to Hipparcos spacecraft data. Depicted is a so-called Hertzsprung-Russel diagram showing the relationships between stellar temperatures, luminosities, and sizes, and how these evolve with time.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
@@ -35,7 +38,10 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid=""></term>
+                <term vocab="LCNAF" refid="n 88217104">Hipparcos (Artificial satellite)</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85127420">Stars--Charts, diagrams, etc.</term>
             </subject>
         </subjectSet>
         <titleSet>
@@ -48,19 +54,19 @@
     <image>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="no2009108526">De Lee, Nathan</name>
+                <name type="personal" vocab="LCNAF" refid="no2014048388">Burger, Dan (Dan Michael)</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2012</earliestDate>
-                <latestDate>2012?</latestDate>
+                <earliestDate>2013-10</earliestDate>
+                <latestDate>2013-10</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="owner">
+            <location type="other">
                 <refid>Hipparcos Data Set.png</refid>
-                <name type="personal" vocab="LCNAF" refid="no2009108526">De Lee, Nathan</name>
+                <name type="corporate" vocab="LCNAF" refid="n 79081473">Vanderbilt University</name>
             </location>
         </locationSet>
         <rightsSet>
