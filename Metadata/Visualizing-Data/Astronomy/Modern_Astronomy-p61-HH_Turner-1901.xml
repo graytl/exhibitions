@@ -3,14 +3,20 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF">Turner, H. H. (Herbert Hall), 1861-1930.</name>
+                <name type="personal" vocab="LCNAF" refid="n 86866688">Turner, H. H. (Herbert Hall), 1861-1930</name>
+                <role>Author</role>
                 <dates>
                     <earliestDate>1861</earliestDate>
                     <latestDate>1930</latestDate>
                 </dates>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 87864025">Archibald Constable &amp; Co.</name>
+                <role>Publisher</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -24,8 +30,8 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt Unniversity Library</name>
-                <refid>Science and Engineering Library 520.9 T94m</refid>
+                <name type="corporate" vocab="local">Sarah Shannon Stevenson Science &amp; Engineering Library</name>
+                <refid>Annex, 520.9 T94m</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -39,28 +45,28 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Modern astronomy; being some account of the revolution of the last quarter of a century</title>
+            <title>Modern Astronomy: Being Some Account of the Revolution of the Last Quarter of a Century</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="">Book</worktype>
+            <worktype vocab="AAT" refid="300028051">Books</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015.05.04</earliestDate>
-                <latestDate>2015.05.04</latestDate>
+                <earliestDate>2015-05-04</earliestDate>
+                <latestDate>2015-05-04</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>Modern_Astronomy-p61-HH_Turner-1901.jpg</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,11 +75,10 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Modern_Astronomy-p61-HH_Turner-1901.jpg</title>
+            <title>[Digital Reproduction of Modern Astronomy: Being Some Account of the Revolution of the Last Quarter of a Century, Page 61]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
     </image>
-    
 </vra>
