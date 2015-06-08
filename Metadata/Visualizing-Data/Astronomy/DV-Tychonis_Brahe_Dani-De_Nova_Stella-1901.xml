@@ -3,43 +3,47 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n50043255">Brahe, Tycho</name>
+                <name type="personal" vocab="LCNAF" refid="n 50043255">Brahe, Tycho, 1546-1601</name>
+                <role>Author</role>
                 <dates>
                     <earliestDate>1546</earliestDate>
                     <latestDate>1601</latestDate>
                 </dates>
             </agent>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n80066936">Kongelige Danhske videnskabernes selskab</name>
-                <dates>
-                    <earliestDate/>
-                    <latestDate/>
-                </dates>
+                <name type="corporate" vocab="LCNAF" refid="n 80066936">Kongelige Danske videnskabernes selskab</name>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="local">Impensis I. G. Schönvvetteri</name>
+                <role>Printer</role>
             </agent>
         </agentSet>
         <dateSet>
+            <date type="creation">
+                <earliestDate>1573</earliestDate>
+                <latestDate>1573</latestDate>
+            </date>
             <date type="publication">
                 <earliestDate>1901</earliestDate>
                 <latestDate>1901</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description>With the observations in this manuscript, Tycho Brahe refuted the Aristotelian belief in an unchanging celestial realm. His precise measurements indicated that "new stars," stellae novae, were not tailless comets in the atmosphere as previously believed, but were above the atmosphere and moon. He also showed that comets were also not atmospheric phenomena and must pass through the supposedly immutable celestial spheres.
-
-As an astronomer, Tycho worked to combine what he saw as the geometrical benefits of the Copernican system with the philosophical benefits of the Ptolemaic system into his own model of the universe, the Tychonic system. Furthermore, he was the last of the major naked eye astronomers, working without telescopes for his observations.</description>
+            <description>With the observations in this manuscript, Tycho Brahe refuted the Aristotelian belief in an unchanging celestial realm. His precise measurements indicated that "new stars," stellae novae, were not tailless comets in the atmosphere as previously believed, but were above the atmosphere and moon. He also showed that comets were also not atmospheric phenomena and must pass through the supposedly immutable celestial spheres. As an astronomer, Tycho worked to combine what he saw as the geometrical benefits of the Copernican system with the philosophical benefits of the Ptolemaic system into his own model of the universe, the Tychonic system. Furthermore, he was the last of the major naked eye astronomers, working without telescopes for his observations.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local">Special Collections and University Archive Library </name>
-                <refid>Sevier Collection QB41 .92</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>Sevier Collection QB41 .B92</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>This book is a 1901 reprint of a ms from 1573.</text>
+                <text>This book is a 1901 reprint of a manuscript from 1573.</text>
             </rights>
         </rightsSet>
         <subjectSet>
@@ -47,35 +51,35 @@ As an astronomer, Tycho worked to combine what he saw as the geometrical benefit
                 <term vocab="LCSH" refid="sh2007101548">Astronomy--Early works to 1800</term>
             </subject>
             <subject>
-                <term vocab="LCSH">Stars, New -- Early works to 1800.</term>
+                <term vocab="LCSH">Stars, New -- Early works to 1800</term>
             </subject>
             <subject>
-                <term vocab="LCSH">Comets -- Early works to 1800.</term>
+                <term vocab="LCSH">Comets -- Early works to 1800</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Tychonis Brahe mathim: eminent: Dani Opera omnia, sive Astronomiae instauratae progymnasmata, in duas partes distributa, quorum prima de restitutione motuum solis &amp; lunae, stellarumque inerrantium tractat. Secunda autem de mundi aetherei recentioribus phaenomensis agit. Editio ultum nunc cum indicibus &amp; figuris prodit. </title>
+            <title>Tychonis Brahe mathim: eminent: Dani Opera omnia: sive Astronomiae instauratae progymnasmata, in duas partes distributa, quorum prima de restitutione motuum solis &amp; lunae, stellarumque inerrantium tractat</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="">Book</worktype>
+            <worktype vocab="AAT" refid="300028051">Books</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015.03.30</earliestDate>
-                <latestDate>2015.03.30</latestDate>
+                <earliestDate>2015-03-30</earliestDate>
+                <latestDate>2015-03-30</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>DV-Tychonis_Brahe_Dani-De_Nova_Stella-1901-01.jpg</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -84,7 +88,7 @@ As an astronomer, Tycho worked to combine what he saw as the geometrical benefit
             </rights>
         </rightsSet>
         <titleSet>
-            <title>DV-Tychonis_Brahe_Dani-De_Nova_Stella-1901-01.jpg</title>
+            <title>[Digital Reproduction of Tychonis Brahe Mathim: Eminent: Dani Opera Omnia, Pages B[1] verso, and B2 recto]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -93,19 +97,19 @@ As an astronomer, Tycho worked to combine what he saw as the geometrical benefit
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015.03.30</earliestDate>
-                <latestDate>2015.03.30</latestDate>
+                <earliestDate>2015-03-30</earliestDate>
+                <latestDate>2015-03-30</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
                 <refid>DV-Tychonis_Brahe_Dani-De_Nova_Stella-1901-02.jpg</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -114,7 +118,7 @@ As an astronomer, Tycho worked to combine what he saw as the geometrical benefit
             </rights>
         </rightsSet>
         <titleSet>
-            <title>DV-Tychonis_Brahe_Dani-De_Nova_Stella-1901-02.jpg</title>
+            <title>[Digital Reproduction of Tychonis Brahe Mathim: Eminent: Dani Opera Omnia, Signature E[1] recto</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -123,19 +127,19 @@ As an astronomer, Tycho worked to combine what he saw as the geometrical benefit
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015.03.30</earliestDate>
-                <latestDate>2015.03.30</latestDate>
+                <earliestDate>2015-03-30</earliestDate>
+                <latestDate>2015-03-30</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
                 <refid>DV-Tychonis_Brahe_Dani-De_Nova_Stella-1901-03b.jpg</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -144,7 +148,7 @@ As an astronomer, Tycho worked to combine what he saw as the geometrical benefit
             </rights>
         </rightsSet>
         <titleSet>
-            <title>DV-Tychonis_Brahe_Dani-De_Nova_Stella-1901-03b.jpg</title>
+            <title>[Digital Reproduction of Tychonis Brahe Mathim: Eminent: Dani Opera Omnia, Illustration DV]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -153,19 +157,19 @@ As an astronomer, Tycho worked to combine what he saw as the geometrical benefit
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015.03.30</earliestDate>
-                <latestDate>2015.03.30</latestDate>
+                <earliestDate>2015-03-30</earliestDate>
+                <latestDate>2015-03-30</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
                 <refid>DV-Tychonis_Brahe_Dani-De_Nova_Stella-1901-04.jpg</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -174,7 +178,7 @@ As an astronomer, Tycho worked to combine what he saw as the geometrical benefit
             </rights>
         </rightsSet>
         <titleSet>
-            <title>DV-Tychonis_Brahe_Dani-De_Nova_Stella-1901-04.jpg</title>
+            <title>[Digital Reproduction of Tychonis Brahe Mathim: Eminent: Dani Opera Omnia, Illustration DI]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
