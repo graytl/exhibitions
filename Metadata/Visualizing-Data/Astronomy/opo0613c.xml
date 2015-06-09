@@ -16,6 +16,9 @@
             <agent>
                 <name type="corporate" vocab="LCNAF" refid="n 91011423">Hubble Space Telescope</name>
             </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 50079617">European Space Agency</name>
+            </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
@@ -28,7 +31,7 @@
         </descriptionSet>
         <locationSet>
             <location type="other">
-                <name type="corporate" vocab="" refid="">ESA/Hubble Space Telescope</name>
+                <name type="corporate" vocab="LCNAF" refid="n 91011423">Hubble Space Telescope (Spacecraft)</name>
                 <refid>http://www.spacetelescope.org/images/opo0613c/</refid>
             </location>
         </locationSet>

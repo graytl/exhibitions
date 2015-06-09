@@ -8,21 +8,35 @@
         <agentSet>
             <agent>
                 <name type="personal" vocab="LCNAF" refid="no2014048298">Bastien, Fabienne Anne</name>
+                <role>Author</role>
             </agent>
             <agent>
                 <name type="personal" vocab="LCNAF" refid="no2015068048">Stassun, Keivan G.</name>
+                <role>Author</role>
             </agent>
             <agent>
                 <name type="personal" vocab="local">Basri, Gibor</name>
+                <role>Author</role>
             </agent>
             <agent>
                 <name type="personal" vocab="local">Pepper, Joshua</name>
+                <role>Author</role>
             </agent>
             <agent>
                 <name type="corporate" vocab="local">Kepler Input Catalog</name>
+                <role>Data Repository</role>
             </agent>
             <agent>
                 <name type="corporate" vocab="LCNAF" refid="n 85149801">Macmillan Publishers</name>
+                <role>Publisher</role>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 78087581">United States. National Aeronautics and Space Administration</name>
+                <role>Creator of data</role>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 50079617">European Space Agency</name>
+                <role>Creator of data</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -65,6 +79,9 @@
             <agent>
                 <name type="personal" vocab="LCNAF" refid="no2014048298">Bastien, Fabienne Anne</name>
             </agent>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="no2015068048">Stassun, Keivan G.</name>
+            </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
@@ -73,14 +90,14 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="owner">
+            <location type="repository">
                 <refid>Q9_16ptRMS_vs_Range_vs_Teff_fin.jpg</refid>
-                <name type="personal" vocab="LCNAF" refid="no2014048298">Bastien, Fabienne Anne</name>
+                <name type="corporate" vocab="LCNAF" refid="n 79081473">Vanderbilt University</name>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>Copyright maintained by Dr. Fabienne Anne Bastien. Permission granted to use as a part of the Vanderbilt University Library exhibition in 2015.</text>
+                <text>Copyright maintained by the authors, including Dr. Fabienne Anne Bastien and Dr. Keivan G. Stassun, as published by Nature.com. Permission granted to use as a part of the Vanderbilt University Library exhibition in 2015.</text>
             </rights>
         </rightsSet>
         <titleSet>
