@@ -3,14 +3,16 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
                 <name type="personal" vocab="LCNAF" refid="no2008107135">Shattuck, Carolyn</name>
-                <dates>
-                    <earliestDate></earliestDate>
-                    <latestDate></latestDate>
-                </dates>
+                <role>Artist</role>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="local">Shattuck Studio (Firm)</name>
+                <role>Publisher</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -24,8 +26,8 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <refid>Southern Civilization Collection, N 7433.4 .S438 Q55 2011</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>Southern Civilization Collection, N7433.4 .S438 Q55 2011</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,20 +37,27 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh85001894">African American quilts</term>
+                <term vocab="LCSH" refid="sh 85008302">Artists' books</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="">Toy and movable books--Specimens.</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85001894">African American quilts</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>20150417SG025.jpg</title>
+            <title>The Quilts of Gee's Bend</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid=" 300123016"> 	artists' books (books)</worktype>
+            <worktype vocab="AAT" refid="300123016">Artists' books (books)</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+                <role>Photographer</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +67,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>20150417SG025.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +78,69 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>20150417SG025.jpg</title>
+            <title>[Digital Reproduction of The Quilts of Gee's Bend, View from Top of Folded Flexagon]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+                <role>Photographer</role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-04-17</earliestDate>
+                <latestDate>2015-04-17</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>20150417SG026.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[Digital Reproduction of The Quilts of Gee's Bend, View of Colophon from Side]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+                <role>Photographer</role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-04-17</earliestDate>
+                <latestDate>2015-04-17</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>20150417SG027.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[Digital Reproduction of The Quilts of Gee's Bend, View from Side with Tetrahedrons Facing Downward]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
