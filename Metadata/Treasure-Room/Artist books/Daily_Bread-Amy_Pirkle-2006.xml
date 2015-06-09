@@ -3,14 +3,17 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid=" 	no2009095943">Pirkle, Amy</name>
-                <dates>
-                    <earliestDate></earliestDate>
-                    <latestDate>present</latestDate>
-                </dates>
+                <name type="personal" vocab="LCNAF" refid="no2009095943">Pirkle, Amy</name>
+                <role>Artist</role>
+                <role>Author</role>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="no2013018782">Perkolator Press</name>
+                <role>Publisher</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -24,31 +27,37 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <refid>Southern Civilization Collection, N 7433.4 .P544 D35 2006</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>Southern Civilization Collection, N7433.4 .P544 D35 2006</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>http://www.perkolatorpress.com/</text>
+                <text>Amy Pirkle, 2006. http://www.perkolatorpress.com/</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh85008302"> 	Artists' books</term>
+                <term vocab="LCSH" refid="sh 85008302">Artists' books</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 88000076">Cooking (Bread)--Poetry</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85056408">Grandmothers--Poetry</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Daily_Bread-Amy_Pirkle-2006</title>
+            <title>Daily Bread</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300123016">artists' books (books)</worktype>
+            <worktype vocab="AAT" refid="300123016">Artists' books (books)</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +67,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>Daily_Bread-Amy_Pirkle-2006.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +78,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Daily_Bread-Amy_Pirkle-2006</title>
+            <title>[Digital Reproduction of Daily Bread, View of Interior Pages]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
