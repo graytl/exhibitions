@@ -3,6 +3,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <dateSet>
             <date type="creation">
@@ -11,7 +12,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>There is some dispute about early telescopes, but they were probably invented in the early 17th Century.  Galileo built one in 1609 and was the first to point a telescope at the skies. To begin with they were cumbersome, but soon nautical instrument makers who were already providing mariners with navigation instruments began making telescopes—“spyglasses”—for sailors. We do not know the provenance of this instrument, but it is part of the Garland Collection of Scientific Instruments.</description>
+            <description>There is some dispute about early telescopes, but they were probably invented in the early 17th Century. Galileo built one in 1609 and was the first to point a telescope at the skies. To begin with they were cumbersome, but soon nautical instrument makers who were already providing mariners with navigation instruments began making telescopes—“spyglasses”—for sailors. We do not know the provenance of this instrument, but it is part of the Garland Collection of Scientific Instruments.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
@@ -21,20 +22,21 @@
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>The telescope is in the collection of the Dyer Observatory.</text>
+                <text>The telescope is in the Garland Collection of Instruments from the Dyer Observatory.</text>
             </rights>
         </rightsSet>
         <titleSet>
             <title>Telescope</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300150833">telescopes</worktype>
+            <worktype vocab="AAT" refid="300150833">Telescopes</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
                 <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+                <role>Photographer</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -65,6 +67,7 @@
         <agentSet>
             <agent>
                 <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+                <role>Photographer</role>
             </agent>
         </agentSet>
         <dateSet>
