@@ -3,14 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">G. Merz &amp;amp Sohn</name>
-                <dates>
-                    <earliestDate>unknown</earliestDate>
-                    <latestDate>unknown</latestDate>
-                </dates>
+                <name type="corporate" vocab="local">G. Merz &amp; Sohn</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -20,47 +17,43 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>The stellar spectroscope is from the Garland Collection and is currently being held by the Dyer Observatory.  It is constructed with multiple prisms to allow one to visually observe the spectrum of the stars.</description>
+            <description>The stellar spectroscope is from the Garland Collection and is currently being held by the Dyer Observatory. It is constructed with multiple prisms to allow one to visually observe the spectrum of the stars.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="nr95028464">Arthur J. Dyer Observatory</name>
-                <refid/>
+                <name type="corporate" vocab="LCNAF" refid="nr 95028464">Arthur J. Dyer Observatory</name>
+                <refid>Item on loan</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>The physical object, from sometime between 1845 and 1847,  is held by the Dyer Observatory.</text>
+                <text>The physical object, from sometime between 1845 and 1847, is held by the Dyer Observatory.</text>
             </rights>
         </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="" refid=""></term>
-            </subject>
-        </subjectSet>
         <titleSet>
             <title>Stellar Spectroscope for use with a telescope.</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="" refid=""></worktype>
+            <worktype vocab="AAT" refid="300150833">Telescopes</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local" refid="">Steve Green, Vanderbilt University</name>
+                <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+                <role>Photographer</role>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>20150417</earliestDate>
-                <latestDate>20150417</latestDate>
+                <earliestDate>2015-04-17</earliestDate>
+                <latestDate>2015-04-17</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
                 <refid>20150417SG009.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
