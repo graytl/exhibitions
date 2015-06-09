@@ -3,10 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n81042139">Brasseur de Bourbourg, abbé, 1814-1874</name>
+                <name type="personal" vocab="LCNAF" refid="n 81042139">Brasseur de Bourbourg, abbé, 1814-1874</name>
                 <dates>
                     <earliestDate>1814</earliestDate>
                     <latestDate>1874</latestDate>
@@ -24,8 +25,8 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <refid>Sevier, F1435.1 .P2 B8</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>Sevier Collection, F1435.1 .P2 B8</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -39,7 +40,7 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title>3 Millionth vol-300ppi.jpg</title>
+            <title>Monuments Anciens du Mexique: Palenqué et Autres Ruines de L'ancienne Civilisation du Mexique</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300028051">Books</worktype>
@@ -48,7 +49,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +59,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>3 Millionth vol-300ppi.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +70,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>3 Millionth vol-300ppi.jpg</title>
+            <title>[Digital Reproduction of Monuments Anciens du Mexique: Palenqué et Autres Ruines de L'ancienne Civilisation du Mexique, View of Front Cover Alongside Lithograph from the Book]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
