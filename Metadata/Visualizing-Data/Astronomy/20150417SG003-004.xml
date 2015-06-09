@@ -35,7 +35,8 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+                <role>Photographer</role>
             </agent>
         </agentSet>
         <dateSet>

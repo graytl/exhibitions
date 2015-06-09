@@ -3,14 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="" refid="">F. H. McConnell</name>
-                <dates>
-                    <earliestDate>unknown</earliestDate>
-                    <latestDate>unknown</latestDate>
-                </dates>
+                <name type="personal" vocab="local">McConnell, Frank H.</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -20,12 +17,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>This watch was presented to E. E. Barnard upon his discovery, in 1892, of Amalthea, the fifth,  and first non-Galilean, moon of Jupiter.  The gift was from F. H. McConnell, watchmaker and jeweler of San Francisco.</description>
+            <description>This watch was presented to E. E. Barnard upon his discovery, in 1892, of Amalthea, the fifth, and first non-Galilean, moon of Jupiter. The gift was from Frank H. McConnell, watchmaker and jeweler of San Francisco.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="nr95028464">Arthur J. Dyer Observatory</name>
-                <refid/>
+                <name type="corporate" vocab="LCNAF" refid="nr 95028464">Arthur J. Dyer Observatory</name>
+                <refid>Garland Collection of instruments</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -33,13 +30,8 @@
                 <text>The watch--from 1892--is in the collection of the Dyer Observatory.</text>
             </rights>
         </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab=""/>
-            </subject>
-        </subjectSet>
         <titleSet>
-            <title>Watch presented to E. E. Barnard upon his discovery, in 1892, of Amalthea.</title>
+            <title>Watch Presented to E. E. Barnard upon His Discovery of Amalthea in 1892</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300200088">Pocket watches</worktype>
@@ -48,28 +40,29 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local" refid="">Steve Green, Vanderbilt University</name>
+                <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+                <role>Photographer</role>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015.04.17</earliestDate>
-                <latestDate>2015.04.17</latestDate>
+                <earliestDate>2015-04-17</earliestDate>
+                <latestDate>2015-04-17</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
                 <refid>20150417SG001.jpg</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University.</text>
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title>20150417SG001.jpg Front face of watch</title>
+            <title>[Watch Presented to E. E. Barnard upon His Discovery of Amalthea in 1892, Front of Watch]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -78,28 +71,29 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local" refid="">Steve Green, Vanderbilt University</name>
+                <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+                <role>Photographer</role>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015.04.17</earliestDate>
-                <latestDate>2015.04.17</latestDate>
+                <earliestDate>2015-04-17</earliestDate>
+                <latestDate>2015-04-17</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>20150417SG002.jpg Back of watch</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <refid>20150417SG002.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University.</text>
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title>20150417SG002.jpg</title>
+            <title>[Watch Presented to E. E. Barnard upon His Discovery of Amalthea in 1892, Back of Watch]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
