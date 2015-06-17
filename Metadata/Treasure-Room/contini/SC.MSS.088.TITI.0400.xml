@@ -3,10 +3,12 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
                 <name type="personal" vocab="local">Anderson, Domenico</name>
+                <role>Photographer</role>
                 <dates>
                     <earliestDate>1854</earliestDate>
                     <latestDate>1938</latestDate>
@@ -20,35 +22,38 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Attributed to Domenico Anderson, this black and white photograph is representative of much of the Contini-Volterra Photographic Archive. The work depicts a religious scene with Saint Jerome shown in penance kneeling before a crucifixion-- a common theme of the Italian Renaissance. In the background, a skull and hourglass are visible symbolizing the mortality of man. The painting, dated c.1552, is the work of Titian and housed in the Pinacotecca di Brera in Milan, Italy. </description>
+            <description>Attributed to Domenico Anderson, this black and white photograph is representative of much of the Contini-Volterra Photographic Archive. The work depicts a religious scene with Saint Jerome shown in penance kneeling before a crucifixion-- a common theme of the Italian Renaissance. In the background, a skull and hourglass are visible symbolizing the mortality of man. The painting, dated c.1552, is the work of Titian and housed in the Pinacotecca di Brera in Milan, Italy.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
                 <refid>Contini-Volterra Photographic Archive, MS0088, Box 214</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>Anderson-Roma </text>
+                <text>Domenico Anderson- taken in Rome</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="n79124709">. 	Jerome, Saint, -419 or 420</term>
+                <term vocab="LCNAF" refid="n79124709">Jerome, Saint, -419 or 420--Pictorial works</term>
+            </subject>
+            <subject>
+                <term vocab="LCNAF" refid="sh 96011504">Deserts in art</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>SC.MSS.088.TITI.0400</title>
+            <title>Saint Jerome in the Desert</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347"> 	black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +63,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>SC.MSS.088.TITI.0400.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>sc.mss.088.titi.0400.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +74,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>SC.MSS.088.TITI.0400</title>
+            <title>[Digital Reproduction of Saint Jerome in the Desert]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
