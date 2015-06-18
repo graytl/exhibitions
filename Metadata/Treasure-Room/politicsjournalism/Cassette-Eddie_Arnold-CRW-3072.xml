@@ -3,14 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n50064915">Radio Shack</name>
-                <dates>
-                    <earliestDate>1921</earliestDate>
-                    <latestDate>present</latestDate>
-                </dates>
+                <name type="corporate" vocab="LCNAF" refid="n 50064915">Radio Shack</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -20,12 +17,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Jack Hurst was the first full-time music writer for The Tennessean, the first Nashville contributing editor for Country Music Magazine and originated the country music beats at the Philadelphia Inquirer and the Chicago Tribune. In 1981, the Maryville, Tenn., native was the first recipient of the Country Music Association media achievement award. Hurst used recorders such as this one to record the interviews he conducted with musicians, often referring to them later for exact quotes from the artists.</description>
+            <description>Jack Hurst was the first full-time music writer for The Tennessean, the first Nashville contributing editor for Country Music Magazine and originated the country music beats at the Philadelphia Inquirer and the Chicago Tribune. In 1981, the Maryville, Tennessee, native was the first recipient of the Country Music Association media achievement award. Hurst used recorders such as this one to record the interviews he conducted with musicians, often referring to them later for exact quotes from the artists.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <refid>Jack Hurst Collection, MS360, memorabilia</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS0360, Jack Hurst Collection, Memorabilia</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,20 +32,20 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh85079736">Cassette tape recorders</term>
+                <term vocab="LCNAF" refid="n 88106788">Hurst, Jack</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Cassette-Eddie_Arnold-CRW-3072</title>
+            <title>[Realistic CTR-72 Cassette Recorder]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300266302">tape recorders</worktype>
+            <worktype vocab="AAT" refid="300266302">Tape recorders</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +55,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>Cassette-Eddie_Arnold-CRW-3072.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +66,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Cassette-Eddie_Arnold-CRW-3072</title>
+            <title>[Digital Image of Realistic CTR-72 Cassette Recorder]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

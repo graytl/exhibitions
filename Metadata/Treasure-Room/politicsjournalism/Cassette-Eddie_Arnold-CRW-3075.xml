@@ -3,10 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid=" 	n83044050">Sony Corporation of America</name>
+                <name type="corporate" vocab="LCNAF" refid="n83044050">Sony Corporation of America</name>
                 <dates>
                     <earliestDate>1946</earliestDate>
                     <latestDate>present</latestDate>
@@ -20,35 +21,35 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>In 2012 Jack Hurst donated his interviews with celebrities and industry leaders from the 1970s and 1980s to Vanderbilt Unviersity's Special Collections. These are a rich treasure trove of insider information from the people who made country music. Among the hundreds of recordings are interviews with legends Johnny Cash, Waylon Jennings, Dolly Parton and Garth Brooks.</description>
+            <description>In 2012, Jack Hurst donated his interviews with celebrities and industry leaders from the 1970s and 1980s to Vanderbilt Unviersity's Special Collections. These are a rich treasure trove of insider information from the people who made country music. Among the hundreds of recordings are interviews with legends Johnny Cash, Waylon Jennings, Dolly Parton and Garth Brooks.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <refid>Jack Hurst Collection, MS630, Memorabilia</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS0630, Jack Hurst Collection, Memorabilia</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>i am sure the technology is copyrighted but not the image of it, right?</text>
+                <text>Copyright held by Sony over technology. Fair use argment - only using image of front of the player.</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid=" 	sh85079736"> 	Cassette tape recorders</term>
+                <term vocab="LCNAF" refid="n 88106788">Hurst, Jack</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Cassette-Eddie_Arnold-CRW-3075</title>
+            <title>[Jack Hurst's Tape Recorder]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300266302">tape recorders</worktype>
+            <worktype vocab="AAT" refid="300266302">Tape recorders</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +59,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>Cassette-Eddie_Arnold-CRW-3075.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +70,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Cassette-Eddie_Arnold-CRW-3075</title>
+            <title>[Digital Image of Jack Hurst's Tape Recorder]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
