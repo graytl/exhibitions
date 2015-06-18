@@ -3,18 +3,10 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
-        <agentSet>
-            <agent>
-                <name type="other" vocab="" refid=""> Clérambault, de, Madame</name>
-                <dates>
-                    <earliestDate>unknown</earliestDate>
-                    <latestDate>unknown</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
         <dateSet>
-            <date type="other">
+            <date type="creation">
                 <earliestDate>1814</earliestDate>
                 <latestDate>1830</latestDate>
             </date>
@@ -24,31 +16,36 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <refid>Rand Collection, DC 36.8 .B7 .S68</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>RAND, DC36.8 .B7 .S68</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>it is hair!</text>
+                <text>This books contains handwritten snippets and objects such as locks of hair. It predates copyright law.</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh85016118">House of Bourbon</term>
+                <term vocab="LCNAF" refid="sh 85016118">Bourbon, House of</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh2008108421">Nobility--France--Biography</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>RAND-famille_Bourbon-001</title>
+            <title>Un Souvenir de la Famille Bourbon: Comprenant, des Doubles de Cheveux des Personnes Suivantes</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300250795">relics</worktype>
+            <worktype vocab="AAT" refid="300250795">Relics</worktype>
+            <worktype vocab="AAT" refid="300027341">Scrapbooks</worktype>
+            <worktype vocab="AAT" refid="300011820">Human hair</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="corporate">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +55,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>RAND-famille_Bourbon-001.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>20150417SG018.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +66,37 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>RAND-famille_Bourbon-001</title>
+            <title>[Digital Reproduction of Un Souvenir de la Famille Bourbon: Comprenant, des Doubles de Cheveux des Personnes Suivantes, View of Opened Book]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="corporate">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2011-06-16</earliestDate>
+                <latestDate>2011-06-16</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>20150417SG019.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[Digital Reproduction of Un Souvenir de la Famille Bourbon: Comprenant, des Doubles de Cheveux des Personnes Suivantes, View of Closed Book atop Slipcover]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
