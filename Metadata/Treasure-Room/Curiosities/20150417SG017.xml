@@ -3,16 +3,8 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
-        <agentSet>
-            <agent>
-                <name type="" vocab="" refid=""/>
-                <dates>
-                    <earliestDate></earliestDate>
-                    <latestDate></latestDate>
-                </dates>
-            </agent>
-        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>1895</earliestDate>
@@ -24,31 +16,32 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <refid>James G. Stahlman Historical Autograph Collection, MSS0412</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS0412, James G. Stahlman Historical Autograph Collection</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>it is a piece of wood.</text>
+                <text>This artifact is a piece of wood that was part of a ship's structure over 100 years ago. It is not copyrightable and is in the public domain.</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="n99022534">Maine (Battleship No. 10)</term>
+                <term vocab="LCNAF" refid="n 99022534">Maine (Battleship No. 10)</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>20150417SG017</title>
+            <title>[Piece of the Deck of hte U.S. Maine]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300117127">artifacts</worktype>
+            <worktype vocab="AAT" refid="300117130">Fragments</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="corporate">Vanderbilt University Creative Services</name>
+                <role>Photographer</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +51,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>20150417SG017.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +62,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>20150417SG017</title>
+            <title>[Digital Reproduction of Piece of the Deck of hte U.S. Maine]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
