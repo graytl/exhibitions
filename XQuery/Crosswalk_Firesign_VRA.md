@@ -43,11 +43,14 @@ This must be redone before beginning work each time to catch any changes that mi
    * Use the xlsx file to your heart's content.
 
 #### Questions
-* Rights (rightsSet in VRA) and Subjects (subjectSet in VRA) have not been input into Firesign in the past. Will they be now?
+* Rights (rightsSet in VRA) and Subjects (subjectSet in VRA) have not been input into Firesign in the past. Will they be now? *No, we will likely continue to keep Firesign simple and not add these fields.*
 * Do we need to do any further cleanup on any of the fields to aid in copy/paste?
-    - inverted names
-    - names with birth/death dates
-    - dates in different formats
-    - capitalize all Format entries (first word)
-    - remove call numbers from Donor entries
+    - invert agent names to Firstname Lastname (from Lastname, Firstname) -- maybe?
+    - ~~names with birth/death dates~~ 
+    - ~~dates in different formats~~ 
+    - capitalize first word of all Format entries
+    - ~~remove call numbers from Donor entries~~ 
+    - add Creation Date field and relabel current date field to Publication Date (so that both dates are available to choose from)
+    - add Image Filename field
+    - check for other VRA fields that might state the manuscript collection/source and add the field(s) if applicable
 
