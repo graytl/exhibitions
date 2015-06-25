@@ -1,18 +1,22 @@
 xquery version "3.0";
  
 declare namespace vra="http://www.vraweb.org/vracore4.htm";
+(: below function from http://www.xqueryfunctions.com/xq/functx_capitalize-first.html :)
+declare namespace functx = "http://www.functx.com";
+declare function functx:capitalize-first
+  ($arg as xs:string?) as xs:string? { concat(upper-case(substring($arg,1,1)), substring($arg,2)) };
 
 let $field_delimiter := "&#09;" (: delimiter for fields :)
 let $value_delimiter := ", " (: delimiter for values within a field, NOT the field delimiter :)
 
-let $head := string-join(("Exhibit Category", "Exhibit Subcategory (if applicable)", "Filename", "Artist Name", "Active Dates", "Release Date", "Format", "Donor", "Location", "Description"), $field_delimiter)
+let $head := string-join(("Exhibit Category", "Exhibit Subcategory (if applicable)", "Image Filename", "XML Filename", "Artist Name", "Active Dates", "Publication Date", "Creation Date", "Format", "Donor", "Location", "Description"), $field_delimiter)
 
 return
 ($head,
 let $records := fn:collection("Metadata")/vra:vra
 for $individual in $records
 
-(: exhibit item categories/subcategories :)
+(: exhibit item categories/subcategories and XML filename :)
 let $file_path := tokenize(fn:base-uri($individual), '/')
 let $category := $file_path[2]
 let $subcategory := 
@@ -22,10 +26,19 @@ let $subcategory :=
  (: assumes the metadata directory structure is no more than 2 levels deep
     i.e. [main category]/[subcategory **optional**]/[filename.xml]
  :)
-let $filename :=
+let $xmlfilename :=
     if (fn:matches($file_path[3], '\.xml$'))
     then ($file_path[3])
     else ($file_path[4])
+
+(: image filename :)
+let $imagefilenamePath := $individual/vra:image/vra:locationSet/vra:location[@type="repository"]/vra:refid/text()
+let $imagefilename :=
+    if (fn:empty($imagefilenamePath))
+    then ("")
+    else if ((count($imagefilenamePath)) > 1)
+    then (fn:string-join(($imagefilenamePath), $value_delimiter))
+    else ($imagefilenamePath)
 
 (: artist_name => work > titleSet > title :)
 let $workTitlePath := $individual/vra:work/vra:titleSet/vra:title/text()
@@ -47,21 +60,38 @@ let $workAgents :=
     then (fn:string-join(($workAgentsPath), $value_delimiter))
     else ($workAgentsPath)
     
-(: release_date => work > dateSet > date[@type="publication"] > earliestDate, work > dateSet > date[@type="publication"] > latestDate (if different) :)
-let $datePath := $individual/vra:work/vra:dateSet/vra:date[@type="publication"]/vra:earliestDate/text()
-let $datePathL := $individual/vra:work/vra:dateSet/vra:date[@type="publication"]/vra:latestDate/text()
+(: publication_date => work > dateSet > date[@type="publication"] > earliestDate, work > dateSet > date[@type="publication"] > latestDate (if different) :)
+let $pdatePath := $individual/vra:work/vra:dateSet/vra:date[@type="publication"]/vra:earliestDate/text()
+let $pdatePathL := $individual/vra:work/vra:dateSet/vra:date[@type="publication"]/vra:latestDate/text()
 
-let $date :=
-    if (fn:empty($datePath))
+let $pdate :=
+    if (fn:empty($pdatePath))
     then ("")
-    else ($datePath)
+    else ($pdatePath)
     
-let $dateL := 
-    if ($datePath = $datePathL)
+let $pdateL := 
+    if ($pdatePath = $pdatePathL)
     then ("")
-    else (concat("-",$datePathL))
+    else (concat("-",$pdatePathL))
 
-let $date := concat($date,$dateL)
+let $pdate := concat($pdate,$pdateL)
+
+    
+(: creation_date => work > dateSet > date[@type="creation"] > earliestDate, work > dateSet > date[@type="creation"] > latestDate (if different) :)
+let $cdatePath := $individual/vra:work/vra:dateSet/vra:date[@type="creation"]/vra:earliestDate/text()
+let $cdatePathL := $individual/vra:work/vra:dateSet/vra:date[@type="creation"]/vra:latestDate/text()
+
+let $cdate :=
+    if (fn:empty($cdatePath))
+    then ("")
+    else ($cdatePath)
+    
+let $cdateL := 
+    if ($cdatePath = $cdatePathL)
+    then ("")
+    else (concat("-",$cdatePathL))
+
+let $cdate := concat($cdate,$cdateL)
 
 (: format => work > worktypeSet > worktype :)
 let $workTypePath := $individual/vra:work/vra:worktypeSet/vra:worktype/text()
@@ -70,8 +100,8 @@ let $workType :=
     if (fn:empty($workTypePath))
     then ("")
     else if ((count($workTypePath)) > 1)
-    then (fn:string-join(($workTypePath), $value_delimiter))
-    else ($workTypePath)
+    then (functx:capitalize-first(fn:string-join(($workTypePath), $value_delimiter)))
+    else (functx:capitalize-first($workTypePath))
     
 (: donor => work > locationSet > location > refid :)
 let $donorPath := $individual//vra:work//vra:location[@type="repository"]/vra:refid/text()
@@ -105,7 +135,7 @@ let $workDescription :=
     then (fn:string-join(($workDescriptionPath), $value_delimiter))
     else ($workDescriptionPath)
 
-let $line := fn:string-join(($category, $subcategory, $filename, $workTitle, $workAgents, $date, $workType, $donor, $location, $workDescription), $field_delimiter)
+let $line := fn:string-join(($category, $subcategory, $imagefilename, $xmlfilename, $workTitle, $workAgents, $pdate, $cdate, $workType, $donor, $location, $workDescription), $field_delimiter)
 
 return
  $line)

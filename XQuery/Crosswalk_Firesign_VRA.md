@@ -48,9 +48,9 @@ This must be redone before beginning work each time to catch any changes that mi
     - invert agent names to Firstname Lastname (from Lastname, Firstname) -- maybe?
     - ~~names with birth/death dates~~ 
     - ~~dates in different formats~~ 
-    - capitalize first word of all Format entries
+    - [done 6/25/15 jg] capitalize first word of all Format entries
     - ~~remove call numbers from Donor entries~~ 
-    - add Creation Date field and relabel current date field to Publication Date (so that both dates are available to choose from)
-    - add Image Filename field
-    - check for other VRA fields that might state the manuscript collection/source and add the field(s) if applicable
+    - [done 6/25/15 jg] add Creation Date field and relabel current date field to Publication Date (so that both dates are available to choose from)
+    - [done 6/25/15 jg] add Image Filename field
+    - [done--none found 6/25/15 jg] check for other VRA fields that might state the manuscript collection/source and add the field(s) if applicable
 
