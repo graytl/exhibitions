@@ -3,11 +3,14 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="local">Poole, Rodney</name>
+                <name type="personal" vocab="LCNAF">Poole, Rodney</name>
+                <dates>
+                    <earliestDate>Unknown</earliestDate>
+                    <latestDate>Unknown</latestDate>
+                </dates>
             </agent>
         </agentSet>
         <dateSet>
@@ -17,12 +20,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Emerson (center) worked for two Nashville photography studios from an early age. His boss, J.W. Braid (on his left), gave him his first telescope. Peter Ross Calvert (on his right) introduced Barnard to his sister Rhoda. The two married in 1881. Calvert and his brother Ebenezer opened a studio in Nashville in the 1880s. Their photographs of Nashville give us a glimpse into life in middle Tennessee dfuring the first half of the 20th century.  </description>
+            <description>Emerson (center) worked for a Nashville photo studio from an early age. His boss and mentor J.W. Braid (on his left) gave him his first telescope.  P.R. Calvert (on his right) introduced Barnard to his sister Rhoda; they married in 1881. </description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0031, Box 43, Folder 009</refid>
+                <name type="corporate" vocab="LCSH" refid="81075875">Vanderbilt University Library</name>
+                <refid>Ms0031B43.F9</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -30,29 +33,35 @@
                 <text>Emerson died in 1923. This image c. 1870, dates to the era before his astronomy career took off.</text>
             </rights>
         </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH"/>
+            </subject>
+        </subjectSet>
         <titleSet>
             <title>[Edward Emerson Barnard with J.W. Braid and P.R.Calvert]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300128347  ">black-and-white photograph</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Library Special Collections</name>
+                <role>Scanner</role>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015-03-20</earliestDate>
-                <latestDate>2015-03-20</latestDate>
+                <earliestDate>2015</earliestDate>
+                <latestDate>2015</latestDate>
             </date>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>MS0031-Braid-Barnard-Calvert.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+                <refid>MS0031-Braid-Barnard-Calvert </refid>
+                <name type="corporate" vocab="LCSH" refid="31075875">Vanderbilt University Library </name>
             </location>
         </locationSet>
         <rightsSet>
@@ -61,10 +70,10 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Edward Emerson Barnard with J.W. Braid and P.R.Calvert]</title>
+            <title>Digital Surrogate of [Edward Emerson Barnard with J.W. Braid and P.R.Calvert]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital Images </worktype>
         </worktypeSet>
     </image>
 </vra>
