@@ -4,6 +4,15 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
     <work>
+        <agentSet>
+            <agent>
+                <name type="" vocab="" refid="">unknown</name>
+                <dates>
+                    <earliestDate>unknown</earliestDate>
+                    <latestDate>unknown</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>Unknown</earliestDate>
@@ -14,39 +23,44 @@
             <description>Composite images like this one were an early form of Photoshop.  Chancellor Kirkland is flanked by Registrar Mary W. Haggard, and Academic Bursar J.E. Hart.   Medical Department Bursar A.E. Godwin completes the group.</description>
         </descriptionSet>
         <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0332, Number 178</refid>
+            <location type="other">
+                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <refid>Sc.Mss.0332.178</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>Image made c 1888.</text>
+                <text>Image created c. 1898; part of Barthell Collection and may date to c. 1905 when E.E. Barthell was president of the Vanderbilt Alumni Association. </text>
             </rights>
         </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="" refid=""></term>
+            </subject>
+        </subjectSet>
         <titleSet>
             <title>[Vanderbilt University Adminstration]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300134769">Composite photographs</worktype>
+            <worktype vocab="AAT" refid="300134769">Composite Photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>2015-03-20</earliestDate>
-                <latestDate>2015-03-20</latestDate>
+                <earliestDate>2015</earliestDate>
+                <latestDate>2015</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="creation">
-                <refid>sc.mss.0332.178.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+            <location type="other">
+                <refid>sc.mss.0332.178</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -55,7 +69,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Vanderbilt University Administration]</title>
+            <title>Digital Image of [Vanderbilt University Administration]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

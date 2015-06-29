@@ -4,6 +4,15 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
     <work>
+        <agentSet>
+            <agent>
+                <name type="" vocab="" refid="">unknown</name>
+                <dates>
+                    <earliestDate>unknown</earliestDate>
+                    <latestDate>unknown</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>Unknown</earliestDate>
@@ -14,14 +23,14 @@
             <description>University tradition describes this award as a contest for the most popular male student who represented “the ideal of young manhood.”  Elected by his peers, the Bachelor of Ugliness was first chosen on Founder’s Day in 1895. In 1898, writers at Phi Delta Theta magazine recalled the winner having the “strongest geographical faction”. Several Tennessee universities continue the tradition today.  More recent Vanderbilt Bachelors include John Edgerton and Perry Wallace.</description>
         </descriptionSet>
         <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0159, Number 238</refid>
+            <location type="other">
+                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <refid>Sc.Mss.0332.238</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>Image made in 1890.</text>
+                <text>Image made in late 19th century, c. 1895.</text>
             </rights>
         </rightsSet>
         <subjectSet>
@@ -33,13 +42,13 @@
             <title>[Bachellor of Ugliness Philip H. Porter]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white Photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -49,9 +58,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="repository">
-                <refid>sc.mss.0332.238.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+            <location type="other">
+                <refid>sc.mss.0332.178</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -60,7 +69,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Bachellor of Ugliness Phillip H. Porter]</title>
+            <title>Digital Image of [Bachellor of Ugliness Phillip H Porter]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
