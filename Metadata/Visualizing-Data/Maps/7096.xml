@@ -17,7 +17,11 @@
             </date>
         </dateSet>
         <descriptionSet>
+<<<<<<< HEAD
+            <description>Dredging, Shelley Island Cumberland River. Looking Upstream. Sept. 17, 1932. Dredging is the process of removing or excavating material from the bed of a river.  Dredging is typically done to ensure that the navigability of the river is maintained.</description>
+=======
             <description>This map shows dredging around Shelley Island on the Cumberland River, looking upstream om September 17, 1932. Dredging is the proccess of removing or excavating material from the bed of a river.</description>
+>>>>>>> origin/master
         </descriptionSet>
         <locationSet>
             <location type="other">
