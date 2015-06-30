@@ -3,6 +3,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
@@ -21,7 +22,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>The Journal of the Proceedings of the Congress of 1774 was the second millionth book in the Vanderbilt Library and was donated by and Irene and W. Ridley Wills, II VU `56 in 1992. This is the first issue of the first official journal of the Continental Congress which sat at Carpenter’s Hall in Philadelphia, Pennsylvania. from September 5 to October 26, 1774.</description>
+            <description>The Journal of the Proceedings of the Congress of 1774 was the second millionth book in the Vanderbilt Library and was donated by and Irene and W. Ridley Wills II, VU `56 in 1992. This is the first issue of the first official journal of the Continental Congress which sat at Carpenter’s Hall in Philadelphia, Pennsylvania. from September 5 to October 26, 1774.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
@@ -31,7 +32,7 @@
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>govt pub</text>
+                <text>Congress Proceedings are a federal publication and are not under copyright.</text>
             </rights>
         </rightsSet>
         <stateEditionSet>
