@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="local" refid="n50007140">Bellini, Giovanni, -1516</name>
+                <dates>
+                    <earliestDate>unknown</earliestDate>
+                    <latestDate>1516</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1490</earliestDate>
+                <latestDate>1500</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>This photograph depicts a painting created by the workshop of Giovanni Bellini.  Scholarly notes on the back of the photograph, along with a Kress Collection stamp, indicate that the work is one of the many paintings which originally formed the Samuel H. Kress Collection.  The painting is currently housed in the National Gallery of Art, Washington, D.C.
+</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <refid>Contini-Volterra Photographic Archive, MS0088, Box 202</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>National Gallery of Art, Washington, D. C.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="sh 85112607">Religious art</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>Madonna and Child in a Landscape (Giovanni Bellini)</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300128347"> black-and-white photographs</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2014-01-29</earliestDate>
+                <latestDate>2014-01-29</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>SC.MSS.088.VENI.1602.jpg</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Digital reproduction of Madonna and Child in a Landscape (Giovanni Bellini).</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>
