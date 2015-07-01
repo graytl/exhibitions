@@ -3,13 +3,14 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n80161720"> 	Mosquera, T. C. de (Tomás Cipriano), 1798-1878</name>
+                <name type="personal" vocab="LCNAF" refid="n 80161720">Mosquera, T. C. de (Tomás Cipriano), 1798-1878</name>
                 <dates>
-                    <earliestDate>1798-09-26</earliestDate>
-                    <latestDate>1878-10-07</latestDate>
+                    <earliestDate>1798</earliestDate>
+                    <latestDate>1878</latestDate>
                 </dates>
             </agent>
         </agentSet>
@@ -20,12 +21,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>In this arguably disingenuous letter addressed to the citizenry of Colombia, Tomás Cipriano de Mosquera (1798-1878) disclaims any interest in serving as president for an additional term and praises the qualities of another prominent figure.  Despite this, Mosquera is re-elected to the presidency of Colombia and served in that position a total of four terms.</description>
+            <description>In this arguably disingenuous letter addressed to the citizenry of Colombia, Tomás Cipriano de Mosquera (1798-1878) disclaims any interest in serving as president for an additional term and praises the qualities of another prominent figure. Despite this, Mosquera is re-elected to the presidency of Colombia and served in that position a total of four terms.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <refid>Tomas C. de Mosquera Papers, MSS0838, Box 1</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS0838, Tomas C. de Mosquera Papers, Box 1</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -33,22 +34,17 @@
                 <text>it is old and out of copyright</text>
             </rights>
         </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid=" 	sh85028490"> 	Colombia--History--19th century</term>
-            </subject>
-        </subjectSet>
         <titleSet>
-            <title>MS0838-SC-Mosquera-Oct_7_1863-00</title>
+            <title>Alis Colombianos Conciudadanos</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="RBGENR" refid="">Proclamations</worktype>
+            <worktype vocab="AAT" refid="300027237">Proclamations</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +54,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0838-SC-Mosquera-Oct_7_1863-00</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0838-SC-Mosquera-Oct_7_1863-00.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +65,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>MS0838-SC-Mosquera-Oct_7_1863-00</title>
+            <title>[Digital Reproduction of Alis Colombianos Conciudadanos!]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

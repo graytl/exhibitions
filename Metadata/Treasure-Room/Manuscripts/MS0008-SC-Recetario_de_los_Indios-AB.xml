@@ -3,40 +3,37 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
-        
-        
-        <dateSet>
-            <date/><agentSet>
+        <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n98065076">Pérez, Juan Pío, 1798-1859</name>
+                <name type="personal" vocab="LCNAF" refid="n 98065076">Pérez, Juan Pío, 1798-1859</name>
                 <dates>
                     <earliestDate>1798</earliestDate>
                     <latestDate>1859</latestDate>
                 </dates>
             </agent>
-        </agentSet><agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="n98065076"> Carrillo y Ancona, Crescenio,
-                        1837-1897</name>
+                <name type="personal" vocab="LCNAF" refid="n  82128931">Carrillo y Ancona, Crescencio, 1837-1897</name>
                 <dates>
                     <earliestDate>1837</earliestDate>
                     <latestDate>1897</latestDate>
                 </dates>
             </agent>
         </agentSet>
+        <dateSet>
             <date type="creation">
                 <earliestDate>unknown</earliestDate>
                 <latestDate>unknown</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description>This early manuscript serves as a manual for the treatment of a wide variety of ailments.  Here, for example is a remedy for an earache (dolor de oído).  The suggested mixtures often involve the use of herbs and body parts of a remarkable selection of creatures. Cures are provided in Mayan and Spanish. </description>
+            <description>This early manuscript serves as a manual for the treatment of a wide variety of ailments. Here, for example is a remedy for an earache (dolor de oído). The suggested mixtures often involve the use of herbs and body parts of a remarkable selection of creatures. Cures are provided in Mayan and Spanish.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <refid>Maya Medical Manuscripts, MSS008</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS008 Maya Medical Manuscripts</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -46,11 +43,11 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid=" 	sh99004056">Mayas--Medicine</term>
+                <term vocab="LCSH" refid="sh 99004056">Mayas--Medicine</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>MS0008-SC-Recetario_de_los_Indios-AB</title>
+            <title></title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300028051">Books</worktype>
@@ -59,7 +56,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -69,9 +66,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>MS0008-SC-Recetario_de_los_Indios-AB.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -80,7 +77,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>MS0008-SC-Recetario_de_los_Indios-AB</title>
+            <title>[Digital Reproduction of ]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

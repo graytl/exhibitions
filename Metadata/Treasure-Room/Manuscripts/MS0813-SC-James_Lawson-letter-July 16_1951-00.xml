@@ -3,10 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="no99063179">Lawson, James M., 1928-</name>
+                <name type="personal" vocab="LCNAF" refid="no 99063179">Lawson, James M., 1928-</name>
                 <dates>
                     <earliestDate>1928-09-28</earliestDate>
                     <latestDate>present</latestDate>
@@ -24,31 +25,37 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
                 <refid>Carol Hamilton Scott/James M. Lawson Collection, MSS0813, Box 1, Folder-7-1951</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>Presumably by Lawson himself. </text>
+                <text>Presumably by Lawson himself.</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid=" 	sh85031233"> 	Conscientious objectors</term>
+                <term vocab="LCSH" refid="sh85031233">Conscientious objectors</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85092373">Nonviolence</term>
+            </subject>
+            <subject>
+                <term vocab="LCNAF" refid="n 79041626">Gandhi, Mahatma, 1869-1948--Political and social views</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>MS0813-SC-James_Lawson-letter-July 16_1951-00</title>
+            <title>[Letter to Carolyn Hamilton]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300026877"> 	correspondence</worktype>
+            <worktype vocab="AAT" refid="300026877">Correspondence</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +65,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0813-SC-James_Lawson-letter-July 16_1951-00</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0813-SC-James_Lawson-letter-July 16_1951-00.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +76,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>MS0813-SC-James_Lawson-letter-July 16_1951-00</title>
+            <title>[Digital Reproduction of Letter to Carolyn Hamilton]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
