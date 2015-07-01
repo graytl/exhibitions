@@ -8,6 +8,7 @@
         <agentSet>
             <agent>
                 <name type="personal" vocab="LCNAF" refid="n 98065076">Pérez, Juan Pío, 1798-1859</name>
+                <role>Transcriber</role>
                 <dates>
                     <earliestDate>1798</earliestDate>
                     <latestDate>1859</latestDate>
@@ -15,6 +16,7 @@
             </agent>
             <agent>
                 <name type="personal" vocab="LCNAF" refid="n  82128931">Carrillo y Ancona, Crescencio, 1837-1897</name>
+                <role>Transcriber</role>
                 <dates>
                     <earliestDate>1837</earliestDate>
                     <latestDate>1897</latestDate>
@@ -23,8 +25,8 @@
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>unknown</earliestDate>
-                <latestDate>unknown</latestDate>
+                <earliestDate>1800</earliestDate>
+                <latestDate>1899?</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
@@ -45,9 +47,15 @@
             <subject>
                 <term vocab="LCSH" refid="sh 99004056">Mayas--Medicine</term>
             </subject>
+            <subject>
+                <term vocab="LCSH" refid="">Indians of Mexico--Medicine</term>
+            </subject>
         </subjectSet>
         <titleSet>
-            <title></title>
+            <title pref="true">[Maya Medical Manuscripts Transcribed in the Nineteenth Century]</title>
+            <title pref="false">Cuaderno de Teabo</title>
+            <title pref="false">Recetario de los Indios</title>
+            <title pref="false">Copia de un cuaderno que se haya en poder</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300028051">Books</worktype>
@@ -77,7 +85,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of ]</title>
+            <title>[Digital Reproduction of Maya Medical Manuscripts Transcribed in the Nineteenth Century]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
