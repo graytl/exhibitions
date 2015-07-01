@@ -39,6 +39,11 @@
                 <text>Book copyright 1946. Argument for fair use - only using an image of the dust jacket.</text>
             </rights>
         </rightsSet>
+        <stateEditionSet>
+            <stateEdition>
+                <description>1st edition</description>
+            </stateEdition>
+        </stateEditionSet>
         <subjectSet>
             <subject>
                 <term vocab="LCSH" refid="sh 85110249">Race relations--Southern States--Fiction</term>
