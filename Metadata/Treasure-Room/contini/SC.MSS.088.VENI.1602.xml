@@ -42,6 +42,9 @@
         <titleSet>
             <title>Madonna and Child in a Landscape (Giovanni Bellini)</title>
         </titleSet>
+        <titleSet>
+            <title>Scholarly notes for Madonna and Child in a Landscape (Giovanni Bellini)</title>
+        </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300128347"> black-and-white photographs</worktype>
         </worktypeSet>
@@ -61,6 +64,7 @@
         <locationSet>
             <location type="other">
                 <refid>SC.MSS.088.VENI.1602.jpg</refid>
+                <refid>sc.mss.088.veni.1602-Back_text.jpg</refid>
                 <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
@@ -71,6 +75,9 @@
         </rightsSet>
         <titleSet>
             <title>Digital reproduction of Madonna and Child in a Landscape (Giovanni Bellini).</title>
+        </titleSet>
+        <titleSet>
+            <title>Digital reproduction of Scholarly notes for Madonna and Child in a Landscape (Giovanni Bellini).</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
