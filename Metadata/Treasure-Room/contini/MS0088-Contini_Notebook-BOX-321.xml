@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="local">unknown</name>
+                <dates>
+                    <earliestDate>unknown</earliestDate>
+                    <latestDate>unknown</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1934</earliestDate>
+                <latestDate>1969</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>In the early 1930s, Count Alessandro Contini-Bonacossi began assembling a massive photograph collection of European art to guide him in building his growing art collection.  A series of art historians helped organize the photograph collection, sorting the photographs into categories by nation, region, and then by artist name.  This notebook contains the original index of artists included in the research collection and the box numbers where photographs of their work could be found.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <refid>Contini-Volterra Photographic Archive, Box 321</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Vanderbilt University</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="local">Contini-Volterra Photographic Archive</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>[Original Contini Catalog].  circa 1930-1950.  archival catalog</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300026554">indexes (reference sources) </worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-07-01</earliestDate>
+                <latestDate>2015-07-01</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>MS0088-Contini_Notebook-BOX-321.jpg</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Digital reproduction of [Original Contini Catalog].  circa 1930-1950.  archival catalog</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

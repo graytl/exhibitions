@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="local" refid="n50076801">Christie, Manson &amp; Woods</name>
+                <dates>
+                    <earliestDate>1859</earliestDate>
+                    <latestDate>unknown</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1931</earliestDate>
+                <latestDate>1931</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>Before the age of internet auctions, art collectors relied on print catalogs from major auction houses to discover new works for their collections or galleries.  This Christie’s catalog from 1931 provides illustrations of works to be auctioned along with background information on the artist and the period in which the work was produced.  Such catalogs are essential reference sources for art historians who are tracing the historical ownership of a work of art.
+</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <refid>Contini-Volterra Photographic Archive, MS0088, Box 321</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Christie's International, PLC</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="sh2003009288">Auction catalogs</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>Christie's Catalog, 1931</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300026068">auction catalogs</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-07-01</earliestDate>
+                <latestDate>2015-07-01</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>MS0088-Christies_Catalog-BOX-321.jpg</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Digital reproduction of Christie's Catalog, 1931.</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>

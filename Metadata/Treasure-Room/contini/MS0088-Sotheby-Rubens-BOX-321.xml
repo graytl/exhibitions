@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="local" refid="n81107853">Sotheby &amp; Co. (London, England)</name>
+                <dates>
+                    <earliestDate>1882</earliestDate>
+                    <latestDate>present</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1962</earliestDate>
+                <latestDate>1962</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>This 1961 Sotheby’s auction catalog describes the sale of Ruben’s 1603 painting, “Portrait of the Duke of Lerma on Horseback.”  It is a fine example of an auction catalog, featuring color photographs of the original painting and black and white detail images.  Background on the artist, the creation of the work, and the historical period which produced it are also provided, along with a list of previous owners, exhibition history, and a bibliography of scholarly works on the painting.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <refid>Contini-Volterra Photographic Archive, MS0088, Box 321</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Sotheby &amp; Co.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="sh2003009288">Auction catalogs</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>Sotheby &amp; Co.  El Retracto Ecuestre Del Duque De Lerma De Pedro Pablo Rubens.  (London &amp; Bradford: Lund Humpries, 1962)</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300026068">auction catalogs</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-07-01</earliestDate>
+                <latestDate>2015-07-01</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>MS0088-Sotheby-Rubens-BOX-321.jpg</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Digital reproduction of Sotheby &amp; Co.  El Retracto Ecuestre Del Duque De Lerma De Pedro Pablo Rubens.  (London &amp; Bradford: Lund Humpries, 1962)</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>
