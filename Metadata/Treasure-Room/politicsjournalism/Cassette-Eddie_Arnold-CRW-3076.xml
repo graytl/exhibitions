@@ -34,8 +34,8 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <refid>Jack Hurst Collection, MS360</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS0360, Jack Hurst Collection</refid>
             </location>
         </locationSet>
         <rightsSet>
