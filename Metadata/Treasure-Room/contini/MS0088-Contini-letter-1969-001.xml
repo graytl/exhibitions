@@ -3,14 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="local">Contini Bonacossi, Alessandro</name>
-                <dates>
-                    <earliestDate>c. 1921</earliestDate>
-                    <latestDate>c. 1980s</latestDate>
-                </dates>
+                <name type="personal" vocab="LCNAF" refid="n 79043902">Contini Bonacossi, Alessandro</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -24,31 +21,34 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <refid>Contini-Volterra Photographic Archive, Donor File</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS0088, Contini-Volterra Photographic Archive, Donor File</refid>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="copyrighted">
+            <rights type="undetermined">
                 <text>Unknown. Contini-Bonacossi was Working at the Samuel H. Kress Foundation in 1969.</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="local">Contini-Volterra Photographic Archive</term>
+                <term vocab="LCNAF" refid="n 80113052">Hazlehurst, F. Hamilton (Franklin Hamilton), 1925---Correspondence</term>
+            </subject>
+            <subject>
+                <term vocab="LCNAF" refid="n 79043902">Contini Bonacossi, Alessandro--Correspondence</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Alessandro Contini-Bonacossi.  [Letter to Mr. F. Hamilton Hazelhurst].  1969.</title>
+            <title>[Letter to Mr. F. Hamilton Hazelhurst]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300026877">correspondence</worktype>
+            <worktype vocab="AAT" refid="300026879">Letters (correspondence)</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +58,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>MS0088-Contini-letter-1969-001.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +69,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital reproduction of Alessandro Contini-Bonacossi.  [Letter to Mr. F. Hamilton Hazelhurst].  1969.</title>
+            <title>[Digital Reproduction of Letter to Mr. F. Hamilton Hazelhurst]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
