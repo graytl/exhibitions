@@ -6,7 +6,7 @@
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="87814084 ">Burritt, Elijah H. (Elijah Hinsdale), 1794-1838</name>
+                <name type="personal" vocab="LCNAF" refid="n 87814084">Burritt, Elijah H. (Elijah Hinsdale), 1794-1838</name>
                 <dates>
                     <earliestDate>1794-04-20</earliestDate>
                     <latestDate>1838-01-03</latestDate>
@@ -24,8 +24,8 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local" refid="">Vanderbilt University. Special Collections</name>
-                <refid>Sevier Oversize Collection/QB65 .B87 1833</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>Sevier Oversize Collection, QB65 .B87 1833</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -33,22 +33,33 @@
                 <text>published before 1923</text>
             </rights>
         </rightsSet>
+        <stateEditionSet>
+            <stateEdition>
+                <description>2nd edition</description>
+            </stateEdition>
+        </stateEditionSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="85009003">Astronomy</term>
+                <term vocab="LCSH" refid="sh 85127417">Stars--Atlases</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85009004">Astronomy--Charts, diagrams, etc.</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85008887">Astrographic catalog and chart</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Atlas Designed to Illustrate the Geography of the Heavens </title>
+            <title>Atlas Designed to Illustrate the Geography of the Heavens</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300028053">atlases</worktype>
+            <worktype vocab="AAT" refid="300028164">Astronomical charts</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +69,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid/>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>Atlas-Geography_of_the_Heavens-Burritt-1833-01.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +80,37 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Atlas-Geography_of_the_Heavens-Burritt-1833-02.jpg</title>
+            <title>[Digital Reproduction of Atlas Designed to Illustrate the Geography of the Heavens, View of Front Cover]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-04-13</earliestDate>
+                <latestDate>2015-04-13</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>Atlas-Geography_of_the_Heavens-Burritt-1833-02.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[Digital Reproduction of Atlas Designed to Illustrate the Geography of the Heavens, View of Celestial Map]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
