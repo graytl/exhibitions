@@ -3,40 +3,52 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
                 <name type="personal" vocab="LCNAF" refid="n 79081610">Diderot, Denis, 1713-1784</name>
+                <role>Typographer</role>
                 <dates>
                     <earliestDate>1713</earliestDate>
                     <latestDate>1784</latestDate>
                 </dates>
             </agent>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="50059010 ">Alembert, Jean Le Rond d', 1717-1783</name>
+                <name type="personal" vocab="LCNAF" refid="n 50059010">Alembert, Jean Le Rond d', 1717-1783</name>
+                <role>Editor</role>
                 <dates>
                     <earliestDate>1717-11-16</earliestDate>
                     <latestDate>1783-10-29</latestDate>
                 </dates>
-            </agent></agentSet>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 50054657">Imprimerie nationale (France)</name>
+                <role>Publisher</role>
+            </agent>
+        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>1751</earliestDate>
                 <latestDate>1751</latestDate>
             </date>
+            <date type="publication">
+                <earliestDate>1950</earliestDate>
+                <latestDate>1950</latestDate>
+            </date>
         </dateSet>
         <descriptionSet>
-            <description>Denis Diderot, a key figure in the advancement of Enlightenment philosophy, envisioned the project of the Encyclopedie with his collaborator Jean D’Alembert. The prospectus was accompanied by a diagram of the “Map of Human Knowledge” which Diderot described as "the Genealogical Tree of All the Arts and Sciences."  The Système figuré groups all learning under memory (history), reason (philosophy) or imagination (poetry). God, as the source of knowledge, is conspicuously absent.</description>
+            <description>Denis Diderot, a key figure in the advancement of Enlightenment philosophy, envisioned the project of the Encyclopedie with his collaborator Jean D’Alembert. The prospectus was accompanied by a diagram of the “Map of Human Knowledge” which Diderot described as "the Genealogical Tree of All the Arts and Sciences." The Systême figuré groups all learning under memory (history), reason (philosophy) or imagination (poetry). God, as the source of knowledge, is conspicuously absent.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="LCNAF" refid="n 80042428">W.T. Bandy Center for Baudelaire Studies</name>
-                <refid>Morris Wachs Collection/AE25 .E555 1751a</refid>
+                <refid>Morris Wachs Collection, AE25 .E555 1751a</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>published 1950; Facsimilie reproduction, Paris: Imprimerie Nationale; Atelier du Livre d'Art et de l'Estampe, Rue des Frères Beaumont, 59128 Flers en Escrébieux, Tél : 03 27 93 70 70, Fax : 03 27 93 70 13, contact@imprimerienationale.fr</text>
+                <text>Published 1950; Facsimilie reproduction, Paris: Imprimerie Nationale; Atelier du Livre d'Art et de l'Estampe, Rue des Frères Beaumont, 59128 Flers en Escrébieux, Tél : 03 27 93 70 70, Fax : 03 27 93 70 13, contact@imprimerienationale.fr</text>
             </rights>
         </rightsSet>
         <subjectSet>
@@ -45,7 +57,7 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Prospectus. Encyclopédie, ou Dictionnaire Raisonné des Sciences, des Arts et des Métiers: Dix Volumes In-folio dont Deux de Planches en Taille-douce, Proposés par Souscription / Recueilli des Meilleurs Auteurs et Particulierement des Dictionnaires Anglois de Chambers, D'Harris, de Dyche, &amp;c. par une Société de Gens de Lettres ; Mis en Ordre et Publié par M. Diderot ; &amp; quant à la Partie Mathématique, par M. d'Alembert  </title>
+            <title>Encyclopédie, ou Dictionnaire Raisonné des Sciences, des Arts et des Métiers</title>
            </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300129439">Encyclopedias</worktype>
@@ -75,7 +87,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Encyclopédie, ou Dictionnaire raisonné des sciences, des arts et des métiers : dix volumes in-folio dont deux de planches en taille-douce, proposés par souscription,image 1]</title>
+            <title>[Digital Reproduction of Encyclopédie, ou Dictionnaire Raisonné des Sciences, des Arts et des Métiers, "Systême Figuré des Connoissances Humaines"]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
