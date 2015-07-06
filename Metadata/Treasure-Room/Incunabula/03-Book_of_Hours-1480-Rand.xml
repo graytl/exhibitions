@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Catholic Church</name>
+                <dates>
+                    <earliestDate></earliestDate>
+                    <latestDate>present</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1480</earliestDate>
+                <latestDate>1480</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>Medieval Books of Hours act as windows on the daily lives of laypeople, revealing the extent to which religion structured their lives and hinting at the individual book owner’s devotional preferences.  A Book of Hours includes the Hours of the Virgin, prayers and readings on the Virgin’s mercy and our own sinfulness, at each canonical hour. A French woman had a hand in personalizing this Book of Hours, adding a French poem on the life of St. Margaret, the patron saint of pregnant women, to supplement the standard Latin prayers. </description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <refid>Nettie Hale Rand Collection of Fine Bindings and Printing, BX2080 .C37 1480</refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>it is really old</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="sh85062530">Books of hours</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>03-Book_of_Hours-1480-Rand</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="RBGENR" refid="">Books of Hours</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2010-12-20</earliestDate>
+                <latestDate>2010-12-20</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="other">
+                <refid>03-Book_of_Hours-1480-Rand.jpg</refid>
+                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>03-Book_of_Hours-1480-Rand</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>
