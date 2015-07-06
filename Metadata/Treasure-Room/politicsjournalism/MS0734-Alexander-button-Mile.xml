@@ -3,16 +3,8 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
-        <agentSet>
-            <agent>
-                <name type="" vocab="" refid=""/>
-                <dates>
-                    <earliestDate></earliestDate>
-                    <latestDate></latestDate>
-                </dates>
-            </agent>
-        </agentSet>
         <dateSet>
             <date type="publication">
                 <earliestDate>1982</earliestDate>
@@ -24,31 +16,34 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <refid>Alexander Papers, MS734, memorabilia</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS0734, Alexander Papers, Memorabilia</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="undetermined">
-                <text>phrase may be copyrighted by Alexander Committee</text>
+                <text>Phrase may be copyrighted by Alexander Committee</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
                 <term vocab="LCSH" refid="sh85041555">Political campaigns</term>
             </subject>
+            <subject>
+                <term vocab="LCNAF" refid="n 81044263">Alexander, Lamar, 1940-</term>
+            </subject>
         </subjectSet>
         <titleSet>
-            <title>MS0734_Alexander-button-Mile</title>
+            <title>I’m Going the Extra Mile</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300207332">buttons (information artifacts)</worktype>
+            <worktype vocab="AAT" refid="300207332">Buttons (information artifacts)</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +53,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>MS0734_Alexander-button-Mile.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +64,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>MS0734_Alexander-button-Mile</title>
+            <title>[Digital Image of Campaign Button, I’m Going the Extra Mile]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
