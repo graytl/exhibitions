@@ -3,6 +3,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <dateSet>
             <date type="creation">
@@ -11,7 +12,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>This photograph of Clyde Barrow (1909-1934) cannot be confirmed though the writing on the back reads “Jan. 2, 1932 too much work- next time I will youse a tractor- bonnie is laughing at me- the sherrif cant shoot a dam- Clyde” Bonnie Parker (1910-1934) enjoyed photography and took a number of photographs of Clyde and the gang.  Undeveloped film was found at their hideout in Joplin, Missouri in 1933 and given to The Joplin Globe which published the images thus securing their fame as notorious criminals.  Long before their dramatic deaths on May 23, 1934 the adventures of Bonnie and Clyde were staples of newspapers and news reels.   </description>
+            <description>This photograph of Clyde Barrow (1909-1934) cannot be confirmed though the writing on the back reads “Jan. 2, 1932 too much work- next time I will youse a tractor- bonnie is laughing at me- the sherrif cant shoot a dam- Clyde.” Bonnie Parker (1910-1934) enjoyed photography and took a number of photographs of Clyde and the gang. Undeveloped film was found at their hideout in Joplin, Missouri in 1933 and given to The Joplin Globe which published the images thus securing their fame as notorious criminals.  Long before their dramatic deaths on May 23, 1934 the adventures of Bonnie and Clyde were staples of newspapers and news reels.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
@@ -26,7 +27,7 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="n79065767">Barrow, Clyde, 1909-1934</term>
+                <term vocab="LCNAF" refid="n 79065767">Barrow, Clyde, 1909-1934--Portraits</term>
             </subject>
         </subjectSet>
         <titleSet>
@@ -50,7 +51,7 @@
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>MS0412-C-Clyde_Barrow-Jan_2_1932</refid>
+                <refid>MS0412-C-Clyde_Barrow-Jan_2_1932.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
