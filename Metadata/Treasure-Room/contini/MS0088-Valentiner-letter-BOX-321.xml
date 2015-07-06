@@ -3,10 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="local" refid="n79132431">Valentiner, Wilhelm Reinhold, 1880-1958</name>
+                <name type="personal" vocab="LCNAF" refid="n 79132431">Valentiner, Wilhelm Reinhold, 1880-1958</name>
                 <dates>
                     <earliestDate>1880</earliestDate>
                     <latestDate>1958</latestDate>
@@ -20,11 +21,11 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>In this 1948 letter, art critic and historian Wilhelm Reinhold Valentiner describes a painting depicted in one of the Contini photographs and attributes the work to Rembrandt van Rijn. This kind of correspondence was valuable to scholars as they grew in their understanding of the artwork and artists represented in collection. With the help of connoisseurs such as Valentiner, scholars working on the project were able to better differentiate original masterpieces from copies of the same work. </description>
+            <description>In this 1948 letter, art critic and historian Wilhelm Reinhold Valentiner describes a painting depicted in one of the Contini photographs and attributes the work to Rembrandt van Rijn. This kind of correspondence was valuable to scholars as they grew in their understanding of the artwork and artists represented in collection. With the help of connoisseurs such as Valentiner, scholars working on the project were able to better differentiate original masterpieces from copies of the same work.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
                 <refid>Contini-Volterra Photographic Archive, MS0088, Box 321</refid>
             </location>
         </locationSet>
@@ -35,20 +36,20 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="n79142935">Rembrandt Harmenszoon van Rijn, 1606-1669</term>
+                <term vocab="LCNAF" refid="n 79142935">Rembrandt Harmenszoon van Rijn, 1606-1669</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Letter from Valentiner], 1948</title>
+            <title>[Letter from Valentiner]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300026877">correspondence</worktype>
+            <worktype vocab="AAT" refid="300026879">Letters (correspondence)</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +59,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>MS0088-Valentiner-letter-BOX-321.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Contini-Volterra Photographic Archive</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +70,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital reproduction of [Letter from Valentiner], 1948</title>
+            <title>[Digital Reproduction of Letter from Valentiner]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

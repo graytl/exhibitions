@@ -3,10 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="local" refid="n81107853">Sotheby &amp; Co. (London, England)</name>
+                <name type="personal" vocab="LCNAF" refid="n 81107853">Sotheby &amp; Co. (London, England)</name>
                 <dates>
                     <earliestDate>1882</earliestDate>
                     <latestDate>present</latestDate>
@@ -24,8 +25,8 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <refid>Contini-Volterra Photographic Archive, MS0088, Box 321</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MS0088, Contini-Volterra Photographic Archive, Box 321</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,20 +36,23 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh2003009288">Auction catalogs</term>
+                <term vocab="LCSH" refid="sh2003009288">Auction catalogs--Specimens</term>
+            </subject>
+            <subject>
+                <term vocab="LCNAF" refid="n 81107853">Sotheby &amp; Co. (London, England)--Catalogs</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Sotheby &amp; Co.  El Retracto Ecuestre Del Duque De Lerma De Pedro Pablo Rubens.  (London &amp; Bradford: Lund Humpries, 1962)</title>
+            <title>El Retrato Ecuestre del Duque de Lerma de Pedro Pablo Rubens</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300026068">auction catalogs</worktype>
+            <worktype vocab="AAT" refid="300026068">Auction catalogs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +62,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>MS0088-Sotheby-Rubens-BOX-321.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +73,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital reproduction of Sotheby &amp; Co.  El Retracto Ecuestre Del Duque De Lerma De Pedro Pablo Rubens.  (London &amp; Bradford: Lund Humpries, 1962)</title>
+            <title>[Digital Reproduction of El Retrato Ecuestre del Duque de Lerma de Pedro Pablo Rubens, View of Front Cover]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
