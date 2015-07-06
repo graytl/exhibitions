@@ -24,22 +24,23 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <refid>T. C. De Mosquera Papers, MS0838, box 1</refid>
+                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
+                <refid>MSS0838, Tomás Cipriano De Mosquera Papers, Box 1</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text/>
+                <text>These papers predate copyright law of 1923 and are in the public domain.</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh85098541">Passports</term>
+                <term vocab="LCSH" refid="sh85098541">Passports--Specimens</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>MS0838-SC-Mosquera-July_14_1865</title>
+            <title pref="true">[Passport Created for Tomás Cipriano De Mosquera]</title>
+            <title pref="false">Estados Unidos de Colombia</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid=" 300027392">Passports</worktype>
@@ -48,19 +49,19 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
-            <date type="alteration">
+            <date type="creation">
                 <earliestDate>2015-03-30</earliestDate>
                 <latestDate>2015-03-30</latestDate>
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0838-SC-Mosquera-July_14_1865,jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0838-SC-Mosquera-July_14_1865.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +70,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>MS0838-SC-Mosquera-July_14_1865</title>
+            <title>[Digital Reproduction of Passport Created for Tomás Cipriano De Mosquera]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

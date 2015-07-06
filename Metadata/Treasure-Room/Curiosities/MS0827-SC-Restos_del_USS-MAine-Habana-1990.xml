@@ -3,14 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Detroit Photographic Company</name>
-                <dates>
-                    <earliestDate></earliestDate>
-                    <latestDate></latestDate>
-                </dates>
+                <name type="corporate" vocab="local">Detroit Photographic Company</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -24,8 +21,8 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <refid>Howard Gottlieb and William H. Jackson Collection, MS827</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS0827, Howard Gottlieb and William H. Jackson Collection</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,20 +32,20 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="n99022534">Maine (Battleship No. 10)</term>
+                <term vocab="LCNAF" refid="n 99022534">Maine (Battleship No. 10)--Pictorial works</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>MS0827-SC-Restos_del_USS-MAine-Habana-1990</title>
+            <title>[USS Maine near Habana]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300041384">chromolithographs</worktype>
+            <worktype vocab="AAT" refid="300041384">Chromolithographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +55,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid>MS0827-SC-Restos_del_USS-MAine-Habana-1990.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>MS0827-SC-Restos_del_USS_Maine-Habana-1900.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +66,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>MS0827-SC-Restos_del_USS-MAine-Habana-1990</title>
+            <title>[Digital Reproduction of USS Maine near Habana]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
