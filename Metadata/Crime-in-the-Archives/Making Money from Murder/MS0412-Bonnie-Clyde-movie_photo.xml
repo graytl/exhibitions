@@ -3,14 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n85138180">Warner Bros. -  Seven Arts</name>
-                <dates>
-                    <earliestDate>1923</earliestDate>
-                    <latestDate>1967</latestDate>
-                </dates>
+                <name type="corporate" vocab="LCNAF" refid="n 85138180">Warner Bros.-Seven Arts</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -30,17 +27,7 @@
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>c. Warner Bros - Seven Arts (now Warner Bros Pictures., owned by Kinney National Company) see http://www.warnerbros.com/studio/services/clip-and-still-licensing 
-JULIE HEATH
-Vice President
-Clip &amp; Still Licensing Department
-Warner Bros. Entertainment, Inc.
-4000 Warner Boulevard
-Burbank, California 91522
-Phone: (818) 954-1853; Fax: (818) 954-3817;
-E-mail: clipandstilldept@warnerbros.com
-Recorded Information Line: (818) 954-2298
-                </text>
+                <text>c. Warner Bros - Seven Arts (now Warner Bros Pictures., owned by Kinney National Company) see http://www.warnerbros.com/studio/services/clip-and-still-licensing JULIE HEATH, Vice President, Clip &amp; Still Licensing Department, Warner Bros. Entertainment, Inc., 4000 Warner Boulevard, Burbank, California 91522, Phone: (818) 954-1853; Fax: (818) 954-3817; E-mail: clipandstilldept@warnerbros.com, Recorded Information Line: (818) 954-2298</text>
             </rights>
         </rightsSet>
         <subjectSet>
@@ -52,7 +39,7 @@ Recorded Information Line: (818) 954-2298
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Still from 'Bonnie and Clyde']</title>
+            <title>Bonnie and Clyde</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300134997">Film stills</worktype>
@@ -82,7 +69,7 @@ Recorded Information Line: (818) 954-2298
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of Still from 'Bonnie and Clyde']</title>
+            <title>[Digital Reproduction of Film Still, Bonnie and Clyde]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

@@ -3,6 +3,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
@@ -42,7 +43,7 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Compulsion film poster]</title>
+            <title>[Compulsion Film Poster]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300027221">Posters</worktype>
@@ -73,7 +74,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Compulsion film poster]</title>
+            <title>[Digital Reproduction of Compulsion Film Poster]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
