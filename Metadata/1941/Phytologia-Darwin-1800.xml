@@ -3,10 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="50037924 ">Darwin, Erasmus, 1731-1802</name>
+                <name type="personal" vocab="LCNAF" refid="n 50037924">Darwin, Erasmus, 1731-1802</name>
                 <dates>
                     <earliestDate>1731-12-12</earliestDate>
                     <latestDate>1802-04-18</latestDate>
@@ -20,12 +21,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Erasmus Darwin was a British physician, scientist, inventor and poet who originated the ideas of natural selection and photosynthesis. He published Zoonomia after 20 years of remaining silent due to public censure. His grandson Charles would further these ideas in On the Origin of Species.  Phytologia, a seminal book on plant science, detailed photosynthesis and identified elements essential plant nutrients. His final book traced the evolution of life from the microscopic to humankind.</description>
+            <description>Erasmus Darwin was a British physician, scientist, inventor and poet who originated the ideas of natural selection and photosynthesis. He published Zoonomia after 20 years of remaining silent due to public censure. His grandson Charles would further these ideas in On the Origin of Species. Phytologia, a seminal book on plant science, detailed photosynthesis and identified elements essential plant nutrients. His final book traced the evolution of life from the microscopic to humankind.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local" refid="">Vanderbilt University. Annex.</name>
-                <refid>SCIENCE/ 580 D22p</refid>
+                <name type="corporate" vocab="local">Sarah Shannon Stevenson Science &amp; Engineering Library</name>
+                <refid>Annex, 580 D22p</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,20 +36,23 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="85015976">Botany</term>
+                <term vocab="LCSH" refid="sh 85015976">Botany</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85002415">Agriculture</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Phytologia; or, ThePhilosophy of Agriculture and Gardening. With the Theory of Draining Morasses, and with an Improved Construction of the Drill Plough.</title>
+            <title>Phytologia: Or, the Philosophy of Agriculture and Gardening</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300028051">books</worktype>
+            <worktype vocab="AAT" refid="300028051">Books</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +62,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid/>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>Phytologia-Darwin-1800.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +73,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Phytologia-Darwin-1800.jpg</title>
+            <title>[Digital Reproduction of Phytologia: Or, the Philosophy of Agriculture and Gardening, View of Plate 1]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
