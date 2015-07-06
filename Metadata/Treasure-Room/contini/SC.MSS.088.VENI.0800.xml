@@ -3,14 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="local" refid="n82097632">Carpaccio, Vittore, 1455?-1525?</name>
-                <dates>
-                    <earliestDate>c. 1460</earliestDate>
-                    <latestDate>c. 1526</latestDate>
-                </dates>
+                <name type="personal" vocab="LCNAF" refid="n 82097632">Carpaccio, Vittore, 1455?-1525?</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -20,13 +17,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Formerly housed in the Kaiser Friedrich Museum, Berlin, this painting by Carpaccio depicts the Madonna and Child surrounded by saints Jerome and Catherine. The work represents an effort  of the artist to combine two earlier compositions by Bellini. Unfortunately, Carpaccio’s painting was destroyed in 1945 during WWII. Like several photographs in the Contini-Volterra Photographic Archive, this image is a unique record of the painting's existence.
-</description>
+            <description>Formerly housed in the Kaiser Friedrich Museum, Berlin, this painting by Carpaccio depicts the Madonna and Child surrounded by saints Jerome and Catherine. The work represents an effort  of the artist to combine two earlier compositions by Bellini. Unfortunately, Carpaccio’s painting was destroyed in 1945 during WWII. Like several photographs in the Contini-Volterra Photographic Archive, this image is a unique record of the painting's existence.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <refid>Contini-Volterra Photographic Archive, MS0088, Box 196</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MS0088, Contini-Volterra Photographic Archive, Box 196</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -36,20 +32,20 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh 85112607">Religious art</term>
+                <term vocab="LCSH" refid="sh 97000745">Religion in art</term>
             </subject>
         </subjectSet>
         <titleSet>
             <title>Virgin and Child with Saints Jerome and Catherine (Vittore Carpaccio)</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347"> black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -59,9 +55,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>SC.MSS.088.VENI.0800.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -70,7 +66,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Digital reproduction of Virgin and Child with Saints Jerome and Catherine (Vittore Carpaccio)</title>
+            <title>[Digital Reproduction of Virgin and Child with Saints Jerome and Catherine (Vittore Carpaccio)]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
