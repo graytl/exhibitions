@@ -3,14 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="nr2001005188">Tennessean</name>
-                <dates>
-                    <earliestDate>1907</earliestDate>
-                    <latestDate>present</latestDate>
-                </dates>
+                <name type="corporate" vocab="local">Tennessean</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -24,8 +21,8 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <refid>Alexander Papers, MSS734, photographs series</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS0734, Alexander Papers, Photographs series</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,20 +32,20 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="n81044263">. 	Alexander, Lamar, 1940-</term>
+                <term vocab="LCSH" refid="n81044263">Alexander, Lamar, 1940---Portraits</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>LA-Early_Swearing_In-BW001</title>
+            <title>Lamar Alexander Taking Oath of Office at Early Swearing In</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347"> 	black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +55,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>LA-Early_Swearing_In-BW001.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +66,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>LA-Early_Swearing_In-BW001</title>
+            <title>[Digital Reproduction of Lamar Alexander Taking Oath of Office at Early Swearing In]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
