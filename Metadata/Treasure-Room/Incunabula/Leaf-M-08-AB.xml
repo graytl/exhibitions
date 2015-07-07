@@ -3,14 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n79041716">Catholic Church</name>
-                <dates>
-                    <earliestDate></earliestDate>
-                    <latestDate>present</latestDate>
-                </dates>
+                <name type="corporate" vocab="LCNAF" refid="n 79041716">Catholic Church</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -24,31 +21,27 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
-                <refid>Sam Fleming Illuminated Medieval Manuscript and Early Priting Collection, MS640, Box 1, Fl. 8</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS0640, Sam Fleming Illuminated Medieval Manuscript and Early Printing Collection, Box 1, Fl. 8</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>waaay old</text>
+                <text>Predates 1923 copyright act</text>
             </rights>
         </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid=" 	sh85013576">Bible</term>
-            </subject>
-        </subjectSet>
         <titleSet>
-            <title>Leaf-M-08-AB</title>
+            <title>[Manuscript Latin Bible]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="RBGENR" refid="">Incunabula</worktype>
+            <worktype vocab="AAT" refid="300055021">Incunabula</worktype>
+            <worktype vocab="AAT" refid="300264513">Bibles</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +51,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>Leaf-M-08-AB.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +62,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Leaf-M-08-AB</title>
+            <title>[Digital Reproduction of Manuscript Latin Bible, Leaf MS M08]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

@@ -3,14 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Catholic Church</name>
-                <dates>
-                    <earliestDate></earliestDate>
-                    <latestDate>present</latestDate>
-                </dates>
+                <name type="corporate" vocab="LCNAF" refid="n 79041716">Catholic Church</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -20,35 +17,40 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Medieval Books of Hours act as windows on the daily lives of laypeople, revealing the extent to which religion structured their lives and hinting at the individual book owner’s devotional preferences.  A Book of Hours includes the Hours of the Virgin, prayers and readings on the Virgin’s mercy and our own sinfulness, at each canonical hour. A French woman had a hand in personalizing this Book of Hours, adding a French poem on the life of St. Margaret, the patron saint of pregnant women, to supplement the standard Latin prayers. </description>
+            <description>Medieval Books of Hours act as windows on the daily lives of laypeople, revealing the extent to which religion structured their lives and hinting at the individual book owner’s devotional preferences. A Book of Hours includes the Hours of the Virgin, prayers and readings on the Virgin’s mercy and our own sinfulness, at each canonical hour. A French woman had a hand in personalizing this Book of Hours, adding a French poem on the life of St. Margaret, the patron saint of pregnant women, to supplement the standard Latin prayers.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
                 <refid>Nettie Hale Rand Collection of Fine Bindings and Printing, BX2080 .C37 1480</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>it is really old</text>
+                <text>Predates copyright act of 1923.</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="sh85062530">Books of hours</term>
+                <term vocab="LCSH" refid="sh2009117404">Books of hours--Texts--Early works to 1800</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85021160">Catholic Church--Prayers and devotions</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>03-Book_of_Hours-1480-Rand</title>
+            <display>No title page or preliminaries; supplied title.</display>
+            <title pref="true">[Horae beatae Virginis Mariae ad usum Romanum]</title>
+            <title pref="false">Book of Hours</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="RBGENR" refid="">Books of Hours</worktype>
+            <worktype vocab="AAT" refid="">Books of hours</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +60,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
+            <location type="repository">
                 <refid>03-Book_of_Hours-1480-Rand.jpg</refid>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +71,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>03-Book_of_Hours-1480-Rand</title>
+            <title>[Digital Reproduction of Horae beatae Virginis Mariae ad usum Romanum, Detail of Illuminated Page]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
