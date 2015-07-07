@@ -7,11 +7,20 @@
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="79109333 ">Linné, Carl von, 1707-1778.</name>
+                <name type="personal" vocab="LCNAF" refid="n 79109333">Linné, Carl von, 1707-1778</name>
+                <role>Author</role>
                 <dates>
                     <earliestDate>1707-05-23</earliestDate>
                     <latestDate>1778-01-10</latestDate>
                 </dates>
+            </agent>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n 83007770">Gmelin, Johann Friedrich, 1748-1804</name>
+                <role>Editor</role>
+            </agent>
+            <agent>
+                <name type="personal" vocab="local">G.E. Beer</name>
+                <role>Printer</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -25,8 +34,8 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local" refid="">Vanderbilt University. Special Collections</name>
-                <refid>Sevier Collection/QH 43 .C53 1788</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>Sevier Collection, QH43 .C53 1788</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -36,20 +45,23 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="85014205">Biology--Classification</term>
+                <term vocab="LCSH" refid="sh 85014205">Biology--Classification</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85090225">Natural history--Classification</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Systema Naturae per Regna Tria Naturae, Secundum Classes, Ordines, Genera, Species, cum Characteribus, Differentiis, Synonymis, Locis</title>
+            <title>Systema Naturae per Regna Tria Naturae</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300028051">books</worktype>
+            <worktype vocab="AAT" refid="300028051">Books</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -59,9 +71,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid/>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>Systema_Naturae-Linne-1788.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -70,7 +82,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Systema_Naturae-Linne-1788.jpg</title>
+            <title>[Digital Reproduction of Systema Naturae per Regna Tria Naturae, Pages 14-15]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
