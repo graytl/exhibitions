@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
+    <work>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 82047800">Thomas A. Edison, Inc.</name>
+                <role/>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 85307591">National Phonograph Company</name>
+                <role/>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1903</earliestDate>
+                <latestDate>1903</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>Edison Record ad, showing cylinder and phonograph.</description>
+            <description/>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="local">Wikimedia Commons</name>
+                <refid>https://commons.wikimedia.org/wiki/File:EdisonRecords1903Ad.jpg</refid>
+            </location>
+            <location type="creation">
+                <name type="corporate" vocab="LCNAF" refid="n 81097261">CBS Records (Firm)</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicdomain">
+                <text>Ad dates to 1903, and is from WIkimedia Commons: (https://commons.wikimedia.org/wiki/File:EdisonRecords1903Ad.jpg)</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[Advertisement for The Edison Phonograph]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300193993">Advertisements</worktype>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-04-17</earliestDate>
+                <latestDate>2015-04-17</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>EdisonRecords1903Ad.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicdomain">
+                <text>This image is a derivative of another online surrogate found via Wikimedia Commons, where it lives in the public domain.</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>[Digital Reproduction of [Advertisement for The Edison Phonograph]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>
