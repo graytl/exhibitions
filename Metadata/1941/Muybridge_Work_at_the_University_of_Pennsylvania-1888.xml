@@ -6,11 +6,20 @@
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="79075151 ">Muybridge, Eadweard, 1830-1904.</name>
+                <name type="corporate" vocab="LCNAF" refid="">University of Pennsylvania</name>
+                <role>Publisher</role>
+            </agent>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="79075151">Muybridge, Eadweard, 1830-1904.</name>
+                <role>Photographer</role>
                 <dates>
                     <earliestDate>1830-04-09</earliestDate>
                     <latestDate>1904-05-08</latestDate>
                 </dates>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="">J. B. Lippincott company</name>
+                <role>Issuing body</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -24,8 +33,8 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local" refid="">Vanderbilt University. Science Library.</name>
-                <refid>SCIENCE/591.47 P41a</refid>
+                <name type="corporate" vocab="local">Sarah Shannon Stevenson Science &amp; Engineering Library</name>
+                <refid>Annex, 591.47 P41a</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -39,10 +48,10 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Animal Locomotion. The Muybridge Work at the University of Pennsylvania, the Method and the Result.</title>
+            <title>Animal Locomotion: the Muybridge Work at the University of Pennsylvania, the Method and the Result</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300028051">books</worktype>
+            <worktype vocab="AAT" refid="300028051">Books</worktype>
         </worktypeSet>
     </work>
     <image>
