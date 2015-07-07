@@ -3,10 +3,23 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="">University of Pennsylvania</name>
+                <name type="personal" vocab="LCNAF" refid="n 90682607">Marks, William Dennis, 1849-1914</name>
+                <role>Author</role>
+            </agent>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n 90682609">Allen, Harrison, 1841-1897</name>
+                <role>Author</role>
+            </agent>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n 90682610">Dercum, Francis X. (Francis Xavier), 1856-1931</name>
+                <role>Author</role>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 79065482">University of Pennsylvania</name>
                 <role>Publisher</role>
             </agent>
             <agent>
@@ -18,7 +31,7 @@
                 </dates>
             </agent>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="">J. B. Lippincott company</name>
+                <name type="corporate" vocab="LCNAF" refid="n 80037020">J.B. Lippincott Company</name>
                 <role>Issuing body</role>
             </agent>
         </agentSet>
@@ -29,7 +42,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>British photographer Edweard Muybridge pioneered work on animal locomotion using multiple cameras to capture motion in still photographs.  After success as a photographer of the American West, Muybridge was sponsored by the University of Pennsylvania in the 1880s, providing banks of cameras and staff to photograph people in his studio and animals at the Philadelphia Zoo.  Between 1883 and 1886, Muybridge made more than 100,000 images, from which these sketches originated.</description>
+            <description>British photographer Edweard Muybridge pioneered work on animal locomotion using multiple cameras to capture motion in still photographs. After success as a photographer of the American West, Muybridge was sponsored by the University of Pennsylvania in the 1880s, providing banks of cameras and staff to photograph people in his studio and animals at the Philadelphia Zoo. Between 1883 and 1886, Muybridge made more than 100,000 images, from which these sketches originated.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
@@ -44,7 +57,7 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="85005206">Animal locomotion</term>
+                <term vocab="LCSH" refid="sh 85005206">Animal locomotion</term>
             </subject>
         </subjectSet>
         <titleSet>
@@ -67,9 +80,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid/>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>Muybridge_Work_at_the_University_of_Pennsylvania-1888.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -78,7 +91,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Muybridge_Work_at_the_University_of_Pennsylvania-1888.jpg</title>
+            <title>[Digital Reproduction of Animal Locomotion: the Muybridge Work at the University of Pennsylvania, the Method and the Result, Image of Muybridge's Illustration of an Elephant Walking]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

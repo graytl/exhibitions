@@ -3,14 +3,18 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="500223252">Descartes, René (French philosopher, 1596-1650)</name>
+                <name type="personal" vocab="LCNAF" refid="n 79061201">Descartes, René, 1596-1650</name>
                 <dates>
                     <earliestDate>1596-03-31</earliestDate>
                     <latestDate>1650-02-11</latestDate>
                 </dates>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="no 96045881">Typographia Blaviani</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -24,8 +28,8 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="">Vanderbilt University. Special Collections</name>
-                <refid>Memorabilia Collection/B1863 1685</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>Memorabilia Collection, B1863 1685</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,20 +39,24 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="85101653">Physics</term>
+                <term vocab="LCSH" refid="sh2008109249">Physics--Early works to 1800</term>
+            </subject>
+            <subject>
+                <term vocab="LCSH" refid="sh 85118565">Science--Early works to 1800</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>"Pars Tertia," in Principia Philosophiæ. Ultima Editio cum Optima collata, Diligenter Recognita, &amp; Mendis Expurgata</title>
+            <title pref="true">Principia Philosophiæ</title>
+            <title pref="false">Principia Philosophiae</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300028051">books</worktype>
+            <worktype vocab="AAT" refid="300028051">Books</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +66,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid/>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>Principia_Philosophiae-1685-Descartes.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +77,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Principia_Philosophiae-1685-Descartes.jpg</title>
+            <title>[Digital Reproduction of Principia Philosophiæ, Detail of "Pars Tertia"]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
