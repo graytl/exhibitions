@@ -7,7 +7,12 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local">Fox, Lindsey</name>
+                <name type="personal" vocab="local">Fox, Lindsey</name>
+                <role>Creator of model</role>
+            </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 79135453">Nashville and Davidson County (Tenn.)</name>
+                <role>Creator of data</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -42,7 +47,8 @@
             <title>[Map Output of Digital Elevation Model (DEM) Used for 3D Print of the Cumberland]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+            <worktype vocab="AAT" refid="300263887">Models (representations)</worktype>
+            <worktype vocab="AAT" refid="300028459">Digital maps</worktype>
         </worktypeSet>
     </work>
     <image>
