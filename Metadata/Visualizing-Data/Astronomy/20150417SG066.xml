@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="94063816">Cooke, T., and Sons, York</name>
+                <dates>
+                    <earliestDate>1837</earliestDate>
+                    <latestDate>1922</latestDate>
+                </dates>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="publication">
+                <earliestDate>1875</earliestDate>
+                <latestDate>1875</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>An altazimuth is a telescope designed to measure the altitude and azimuth of a star in order to fix its position in the night sky.  The instrument is designed to move vertically to measure altitude (height), and to move horizontally to measure the azimuth (degrees horizontally from North).  This was one of the instruments purchased for the first observatory on campus.  Built by T. Cooke & Sons of York, England, the altazimuth instrument was designed to be portable and had its own carrying case.</description>
+        </descriptionSet>
+        <locationSet>
+            <location type="other">
+                <name type="" vocab="local" refid="">Dyer Observatory</name>
+                <refid></refid>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <text>Public domain</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCSH" refid="sh 85133444">Telescopes</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>Altazimuth</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300150833">telescopes</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>2015-04-17</earliestDate>
+                <latestDate>2015-04-17</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>20150417SG066.jpg</refid>
+                <name type="corporate" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <titleSet>
+            <title>Digital reproduction of Altazimuth.</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>
