@@ -3,7 +3,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITEd -->
+    <!-- HAS BEEN EDITED -->
     <work>
         <dateSet>
             <date type="creation">
@@ -14,9 +14,10 @@
         <descriptionSet>
             <description>University tradition describes this award as a contest for the most popular male student who represented “the ideal of young manhood.”  Elected by his peers, the Bachelor of Ugliness was first chosen on Founder’s Day in 1895. In 1898, writers at Phi Delta Theta magazine recalled the winner having the “strongest geographical faction”. Several Tennessee universities continue the tradition today.  More recent Vanderbilt Bachelors include John Edgerton and Perry Wallace.</description>
         </descriptionSet>
-        <location type="repository">
-            <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            <refid>MSS Collection 0159, Number 238</refid>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+                <refid>MSS Collection 0159, Number 238</refid>
             </location>
         </locationSet>
         <rightsSet>
