@@ -5,3 +5,9 @@ Anjelica Saulsberry, a senior at Vanderbilt University, created this 3D model of
 Anjelica Saulsberry. 3D Model of Central Library. 2015. 3D Model. Scholarly Communications, Vanderbilt University.
 
 Ed Warga. "Anjelica Saulsberry Builds a Model of the Central Library in Minecraft." 2015. Ink jet print. Scholarly Communications, Vanderbilt University.
+
+[General Library Building Under Construction]. 1941. Gelatin silver print (?). Special Collections, Vanderbilt University.
+
+[Architectural Rendering of the General Library Building]. 1939. Gelatin silver print (?). Special Collections, Vanderbilt University.
+
+
