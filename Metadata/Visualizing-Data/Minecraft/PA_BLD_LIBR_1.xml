@@ -42,6 +42,7 @@
             <title>[Architectural Rendering of the General Library Building]</title>
         </titleSet>
         <worktypeSet>
+            <worktype vocab="AAT" refid="300034787">Architectural drawings (visual works)</worktype>
             <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>

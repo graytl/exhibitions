@@ -6,9 +6,9 @@
     <!-- HAS BEEN EDITED -->
     <work>
         <dateSet>
-            <date type="">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+            <date type="creation">
+                <earliestDate>1920</earliestDate>
+                <latestDate>1954?</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
@@ -25,13 +25,8 @@
                 <text>Under copyright, but rights holder unknown. No identifying information on item.</text>
             </rights>
         </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="" refid=""></term>
-            </subject>
-        </subjectSet>
         <titleSet>
-            <title></title>
+            <title>Wire Recording</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300028680">Wire recordings</worktype>

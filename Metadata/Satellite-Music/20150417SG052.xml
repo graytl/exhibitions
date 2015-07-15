@@ -48,6 +48,12 @@
                 <role>Printer</role>
             </agent>
         </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1930</earliestDate>
+                <latestDate>1930</latestDate>
+            </date>
+        </dateSet>
         <descriptionSet>
             <description>While shellac and vinyl are commonly associated with sound recordings, other types of materials were sometimes used in their manufacture. This 78 rpm is made of cardboard. Designed to be played only once, cardboard recordings could be made cheaply and quickly and were often featured on cereal boxes.</description>
         </descriptionSet>
@@ -55,7 +61,7 @@
             <inscription>
                 <position>Inscribed on disc label</position>
                 <text type="text" xml:lang="en">Hit of the Week: What's the use: Fox Trot</text>
-                <text type="translation" xml:lang="es">Para que</text>
+                <text type="translation" xml:lang="es">Para que: Fox Trot</text>
             </inscription>
         </inscriptionSet>
         <locationSet>

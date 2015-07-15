@@ -17,6 +17,10 @@
                 <name type="corporate" vocab="LCNAF" refid="no2005104191">Ken Fuller's Famous Jazz Band</name>
                 <role>Performer</role>
             </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="">Edison</name>
+                <role>Publisher</role>
+            </agent>
         </agentSet>
             <dateSet>
                 <date type="creation">
@@ -31,9 +35,6 @@
             <location type="repository">
                 <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
                 <refid>Music Library, 78RPM MUS-63</refid>
-            </location>
-            <location type="creation">
-                <name type="corporate" vocab="LCNAF" refid="n 82047800">Thomas A. Edison, Inc.</name>
             </location>
         </locationSet>
         <subjectSet>
