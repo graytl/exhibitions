@@ -50,7 +50,7 @@
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid></refid>
+                <refid>graph-visualization-0.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
@@ -65,5 +65,5 @@
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
-    </image>   
+    </image>
 </vra>

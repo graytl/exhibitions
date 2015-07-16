@@ -3,7 +3,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
- 
+
     <work>
         <agentSet>
             <agent>
@@ -67,7 +67,7 @@ https://medschool.mc.vanderbilt.edu/biosci/bio_fac.php?id3=16975</text>
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid/>
+                <refid>Mosquito Heart Dept_of_Biological_Sciences.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
