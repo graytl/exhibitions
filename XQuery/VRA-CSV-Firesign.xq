@@ -1,10 +1,7 @@
 xquery version "3.0";
  
 declare namespace vra="http://www.vraweb.org/vracore4.htm";
-(: below function from http://www.xqueryfunctions.com/xq/functx_capitalize-first.html :)
-declare namespace functx = "http://www.functx.com";
-declare function functx:capitalize-first
-  ($arg as xs:string?) as xs:string? { concat(upper-case(substring($arg,1,1)), substring($arg,2)) };
+import module namespace functx = "http://www.functx.com" at "libraries/functx-1.0-nodoc-2007-01.xq";
 
 let $field_delimiter := "&#09;" (: delimiter for fields :)
 let $value_delimiter := ", " (: delimiter for values within a field, NOT the field delimiter :)
