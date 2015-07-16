@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
+    <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n 92055502">Golden, Billy, 1858-1926</name>
+                <role>Performer</role>
+            </agent>
+            <agent>
+                <name type="personal" vocab="LCNAF" refid="n 92078822">Marlowe, James, -1917</name>
+                <role>Performer</role>
+            </agent>
+            <agent>
+                <name type="corporate">Edison Records (Firm)</name>
+                <role>Publisher</role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>1916</earliestDate>
+                <latestDate>1916</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description>"Indestructible" Edison Blue Amberol Records were first released in 1912 and held over 4 minutes of content. This medium featured a type of celluloid containing the sound groove wrapped around a plaster of Paris core. This rather politically incorrect recording is a vaudeville number performed by Billy Golden (1858-1926) and James Marlowe (d. 1917).</description>
+            <description/>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
+                <refid>Music Library, XXXXXXXXXX</refid>
+            </location>
+            <location type="creation">
+                <name type="corporate">Edison Records (Firm)</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Edison Records 2943, 1916. The display of this physical object constitutes a fair use as detailed in the ACRL's Code of Best Practices in Fair Use for Academic and Research Libraries.</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCGFT" refid="gf2014026378">Humorous monologues</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title pref="true">A Love-sick Coon</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300028640">cylinders (sound recordings)</worktype>
+        </worktypeSet>
+    </work>
+    <image>
+        <agentSet>
+            <agent>
+                <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+                <role>Photographer</role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>XXXXXX</earliestDate>
+                <latestDate>XXXXXX</latestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="repository">
+                <refid>XXXXXXXXXXXXXXXX</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+            </location>
+        </locationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+            </rights>
+        </rightsSet>
+        <subjectSet>
+            <subject>
+                <term vocab="LCGFT" refid="gf2014026378">Humorous monologues</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title>[Digital Image of Edison Blue Amberol cylinder A Love-sick Coon]</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+        </worktypeSet>
+    </image>
+</vra>
