@@ -7,17 +7,16 @@
     <work>
         <dateSet>
             <date type="creation">
-                <earliestDate>1920</earliestDate>
-                <latestDate>1954?</latestDate>
+                <earliestDate>1950</earliestDate>
+                <latestDate>1955</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Wire recordings are analog magnetic recordings made on steel or stainless steel wire. They were a relatively short-lived medium, utilized primarily between 1946 and 1954, when magnetic tape became the preferred format.</description>
+            <description>Wire recordings are analog magnetic recordings made on steel or stainless steel wire. Although developed before 1900, they only enjoyed a relatively short period of wide popularity, utilized primarily between 1946 and 1954, until magnetic tape became the preferred format.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCNAF" refid="n 90727668">Middle Tennessee State University, Center for Popular Music</name>
-                <refid>Item on loan</refid>
+                <name type="corporate" vocab="LCNAF" refid="">Anne Potter Wilson Music Library</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -26,10 +25,10 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Wire Recording</title>
+            <title>Silvertone Recording Wire</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300028680">Wire recordings</worktype>
+            <worktype vocab="AAT" refid="300028680">wire recordings</worktype>
         </worktypeSet>
     </work>
     <image>
