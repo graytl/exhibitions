@@ -46,7 +46,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description/>
+            <description>This image is an example visualization from Vanderbilt's Filtergraph tool applied to NASA Kepler mission data. Each point represents a star in thedataset. The horizontal axis represents the amplitude of starlight "flicker" (or "hiss"), the vertical axis represents the overall amount of stellar light variation (or "loudness"), and the symbol size encodes the complexity of the stellar light signal (or "crackle"). Color encodes the stellar temperatures. Arrows are added annotations to guide the eye as to the temporal evolution of stars.</description>
         </descriptionSet>
         <locationSet>
             <location type="publication">
