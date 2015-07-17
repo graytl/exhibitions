@@ -3,7 +3,10 @@ xquery version "3.0";
 declare namespace vra="http://www.vraweb.org/vracore4.htm";
 import module namespace functx = "http://www.functx.com" at "libraries/functx-1.0-nodoc-2007-01.xq";
 
-let $head := "BASE_URI&#09;TITLE&#09;DATE&#09;FORMAT&#09;CONTRIBUTOR&#09;SUBJECT&#09;DESCRIPTION&#09;SOURCE&#09;RIGHTS&#09;FILE_PATH&#09;FILE_NAME&#09;TAGS"
+let $field_delimiter := "&#09;" (: delimiter for fields :)
+let $value_delimiter := "|" (: delimiter for values within a field, NOT the field delimiter :)
+let $imageShare := "http://libexh.library.vanderbilt.edu/impomeka/2015-exhibit/"
+let $head := fn:string-join(("BASE_URI", "TITLE", "DATE", "FORMAT", "CONTRIBUTOR", "SUBJECT", "DESCRIPTION", "SOURCE", "RIGHTS", "FILE_PATH", "FILE_NAME", "TAGS"), $field_delimiter)
 
 return
 ($head,
@@ -25,7 +28,7 @@ let $workTitle :=
     if (fn:empty($workTitlePath))
     then ("")
     else if ((count($workTitlePath)) > 1)
-    then (fn:string-join(($workTitlePath), "|"))
+    then (fn:string-join(($workTitlePath), $value_delimiter))
     else ($workTitlePath)
     
 (:Work Date -- Creation and Publication earliestDate as Date:)
@@ -35,7 +38,7 @@ let $date :=
     if (fn:empty($datePath))
     then ("")
     else if ((count($datePath)) > 1)
-    then (fn:string-join(($datePath), "|"))
+    then (fn:string-join(($datePath), $value_delimiter))
     else ($datePath)
     
 (:WorkAgents -- CONTRIBUTORS:)
@@ -45,7 +48,7 @@ let $workAgents :=
     if (fn:empty($workAgentsPath))
     then ("")
     else if ((count($workAgentsPath)) > 1)
-    then (fn:string-join(($workAgentsPath), "|"))
+    then (fn:string-join(($workAgentsPath), $value_delimiter))
     else ($workAgentsPath)
 
 (:WorkType -- FORMAT:)
@@ -55,7 +58,7 @@ let $workType :=
     if (fn:empty($workTypePath))
     then ("")
     else if ((count($workTypePath)) > 1)
-    then (fn:string-join(($workTypePath), "|"))
+    then (fn:string-join(($workTypePath), $value_delimiter))
     else ($workTypePath)
     
 (: Subject! :)
@@ -65,7 +68,7 @@ let $subject :=
     if (fn:empty($subjectPath))
     then ("")
     else if ((count($subjectPath)) > 1)
-    then (fn:string-join(($subjectPath), "|"))
+    then (fn:string-join(($subjectPath), $value_delimiter))
     else ($subjectPath)
     
 (:Work Description -- Line breaks replaced with --:)
@@ -76,7 +79,7 @@ let $workDescription :=
     if (fn:empty($workDescriptionPath))
     then ("")
     else if ((count($workDescriptionPath)) > 1)
-    then (fn:string-join(($workDescriptionPath), "|"))
+    then (fn:string-join(($workDescriptionPath), $value_delimiter))
     else ($workDescriptionPath)
     
 (:Work Source:)
@@ -86,7 +89,7 @@ let $source :=
     if (fn:empty($sourcePath))
     then ("")
     else if ((count($sourcePath)) > 1)
-    then (fn:string-join(($sourcePath), "|"))
+    then (fn:string-join(($sourcePath), $value_delimiter))
     else ($sourcePath)
 
 (:Work Rights -- Newlines replaced with " -- ":)
@@ -97,7 +100,7 @@ let $workRights :=
     if (fn:empty($workRightsPath))
     then ("")
     else if ((count($workRightsPath)) > 1)
-    then (fn:string-join(($workRightsPath), "|"))
+    then (fn:string-join(($workRightsPath), $value_delimiter))
     else ($workRightsPath)
        
     
@@ -115,28 +118,26 @@ let $imageTitle :=
     if (fn:empty($imageTitlePath))
     then ("")
     else if ((count($imageTitlePath)) > 1)
-    then (fn:string-join(($imageTitlePath), "|"))
+    then (fn:string-join(($imageTitlePath), $value_delimiter))
     else ($imageTitlePath)
     
     
 (:File Name and  Path (Image Location REFID):)
 let $fileNamePath := $individual/vra:image/vra:locationSet/vra:location/vra:refid/text()
 
-let $imageShare := "http://libexh.library.vanderbilt.edu/impomeka/2015-exhibit/"
-
 let $fileName :=
     if (fn:empty($fileNamePath))
     then ("")
     else if ((count($fileNamePath)) > 1)
-    then (fn:string-join(($fileNamePath), "|"))
+    then (fn:string-join(($fileNamePath), $value_delimiter))
     else ($fileNamePath)
 
 let $filePath :=
     if (fn:empty($fileNamePath))
     then ("")
     else if ((count($fileNamePath)) > 1)
-    then (fn:string-join(for $file in $fileNamePath return (string-join(($imageShare, $file), "")), "|"))
-    else (string-join(($imageShare, $fileNamePath), ""))
+    then (fn:string-join(for $file in $fileNamePath return (string-join(($imageShare, $file), "")), $value_delimiter))
+    else (fn:string-join(($imageShare, $fileNamePath), ""))
 
 (:Image Rights:)
 let $imageRightsPath := for $each in $individual//vra:image/vra:rightsSet/vra:rights/vra:text/text()
@@ -146,14 +147,14 @@ let $imageRights :=
     if (fn:empty($imageRightsPath))
     then ("")
     else if ((count($imageRightsPath)) > 1)
-    then (fn:string-join(($imageRightsPath), "|"))
+    then (fn:string-join(($imageRightsPath), $value_delimiter))
     else ($imageRightsPath)
     
 (:Rights:)
 let $rights := 
     if (functx:all-whitespace($workRights))
     then ($imageRights)
-    else (replace(fn:string-join(($workRights, $imageRights), "|"), functx:escape-for-regex(".."), "."))
+    else (replace(fn:string-join(($workRights, $imageRights), $value_delimiter), functx:escape-for-regex(".."), "."))
 
 (: TAGS: exhibit item categories/subcategories :)
  (: assumes the metadata directory structure is no more than 2 levels deep
@@ -168,10 +169,10 @@ let $subcategory :=
 let $tags := 
     if (functx:all-whitespace($subcategory))
     then ($category)
-    else concat($category, "|", $subcategory)
-let $tags := functx:replace-multi(concat($tags, "|", "2015 Exhibits"), ("-", "Satellite "), (" ", ""))
+    else concat($category ,$value_delimiter, $subcategory)
+let $tags := functx:replace-multi(concat($tags, $value_delimiter, "2015 Exhibits"), ("-", "Satellite "), (" ", ""))
 
-let $line := fn:string-join((fn:base-uri($individual),$workTitle, $date, $workType, $workAgents, $subject, $workDescription, $source, $rights, $filePath, $fileName, $tags), '&#09;')
+let $line := fn:string-join((fn:base-uri($individual),$workTitle, $date, $workType, $workAgents, $subject, $workDescription, $source, $rights, $filePath, $fileName, $tags), $field_delimiter)
 
 return
  $line)
