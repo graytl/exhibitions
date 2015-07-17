@@ -1,4 +1,4 @@
-## Firesign to VRA Core mapping + HowTo
+## Firesign to VRA Core mapping
 
 This mapping is intended to aid in the process of copying/pasting VRA Core data into Firesign for the 2015 exhibits.
 
