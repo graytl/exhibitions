@@ -11,7 +11,7 @@
                 <role>Performer</role>
             </agent>
             <agent>
-                <name type="corporate">Nugget Records (Firm)</name>
+                <name type="corporate" vocab="local">Nugget Records (Firm)</name>
                 <role>Publisher</role>
             </agent>
         </agentSet>
@@ -30,9 +30,6 @@
                 <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
                 <refid>Music Library, 45RPM MUS-1</refid>
             </location>
-            <location type="creation">
-                <name type="corporate">Nugget Records (Firm)</name>
-            </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
@@ -45,7 +42,7 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title pref="true">Today I Started Loving You Again ; California Bound</title>
+            <title>Today I Started Loving You Again ; California Bound</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300265800">45 rpm records</worktype>
