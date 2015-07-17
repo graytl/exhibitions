@@ -3,6 +3,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <dateSet>
             <date type="creation">
@@ -16,7 +17,7 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0332, Number 223</refid>
+                <refid>MSS 0332 Collection, Number 223</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -30,7 +31,7 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[James Kirkland]</title>
+            <title>[Portrait of James Kirkland]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300134769">Composite photographs</worktype>
@@ -60,7 +61,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of James Kirkland]</title>
+            <title>[Digital Reproduction of Portrait of James Kirkland]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

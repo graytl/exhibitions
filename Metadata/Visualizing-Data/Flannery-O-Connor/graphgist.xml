@@ -3,11 +3,12 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <dateSet>
             <date type="creation">
-                <earliestDate/>
-                <latestDate/>
+                <earliestDate>2015-03</earliestDate>
+                <latestDate>2015-03</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
@@ -50,7 +51,7 @@
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>graph-visualization-0.jpg</refid>
+                <refid>FC-gist.jpg</refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
@@ -65,5 +66,5 @@
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
         </worktypeSet>
-    </image>
+    </image>   
 </vra>
