@@ -10,8 +10,10 @@
                 <name type="personal" vocab="LCNAF">Narelle, Marie, 1870-1941</name>
                 <role>Performer</role>
             </agent>
-                <name type="corporate">Edison Records (Firm)</name>
+            <agent>
+                <name type="corporate" vocab="local">Edison Records (Firm)</name>
                 <role>Publisher</role>
+            </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
@@ -28,9 +30,6 @@
                 <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
                 <refid>Music Library, XXXXXXXXXX</refid>
             </location>
-            <location type="creation">
-                <name type="corporate">Edison Records (Firm)</name>
-            </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
@@ -43,10 +42,10 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title pref="true">Dear Little Shamrock</title>
+            <title>Dear Little Shamrock</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300028640">cylinders (sound recordings)</worktype>
+            <worktype vocab="AAT" refid="300028640">Cylinders (sound recordings)</worktype>
         </worktypeSet>
     </work>
     <image>
@@ -79,7 +78,7 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Digital Image of Edison Amberol cylinder Dear Little Shamrock]</title>
+            <title>[Digital Image of Edison Amberol Cylinder Dear Little Shamrock]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

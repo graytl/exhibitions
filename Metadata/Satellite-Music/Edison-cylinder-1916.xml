@@ -15,7 +15,7 @@
                 <role>Performer</role>
             </agent>
             <agent>
-                <name type="corporate">Edison Records (Firm)</name>
+                <name type="corporate" vocab="local">Edison Records (Firm)</name>
                 <role>Publisher</role>
             </agent>
         </agentSet>
@@ -49,10 +49,10 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title pref="true">A Love-sick Coon</title>
+            <title pref="true">A Love-Sick Coon</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300028640">cylinders (sound recordings)</worktype>
+            <worktype vocab="AAT" refid="300028640">Cylinders (sound recordings)</worktype>
         </worktypeSet>
     </work>
     <image>
@@ -85,7 +85,7 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Digital Image of Edison Blue Amberol cylinder A Love-sick Coon]</title>
+            <title>[Digital Image of Edison Blue Amberol Cylinder A Love-Sick Coon]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
