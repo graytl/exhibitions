@@ -30,7 +30,7 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University. Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
                 <refid/>
             </location>
         </locationSet>
@@ -41,7 +41,7 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="85120779">Shadow (Fictitious character)</term>
+                <term vocab="LCSH" refid="sh 85120779">Shadow (Fictitious character)</term>
             </subject>
         </subjectSet>
         <titleSet>

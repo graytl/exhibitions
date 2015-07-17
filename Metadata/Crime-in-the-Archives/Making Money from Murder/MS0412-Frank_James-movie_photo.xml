@@ -26,7 +26,7 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>Sevier Periodicals, AP 2.M87</refid>
+                <refid>MSS0412, James G. Stahlman Historical Autograph Collection</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -51,7 +51,6 @@
         <agentSet>
             <agent>
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <role></role>
             </agent>
         </agentSet>
         <dateSet>
