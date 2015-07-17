@@ -32,7 +32,7 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCNAF" refid="n 85015320">Hauptmann, Bruno Richard, 1899-1936--Pictorial works</term>
+                <term vocab="LCNAF" refid="n 85015320">Hauptmann, Bruno Richard, 1899-1936--Portraits</term>
             </subject>
         </subjectSet>
         <titleSet>
@@ -45,7 +45,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
                 <role></role>
             </agent>
         </agentSet>
@@ -58,7 +58,7 @@
         <locationSet>
             <location type="repository">
                 <refid>MS0412-C-Lindbergh-Hauptmann_photos.jpg</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>

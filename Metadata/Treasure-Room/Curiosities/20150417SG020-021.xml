@@ -6,17 +6,17 @@
     <work>
         <dateSet>
             <date type="creation">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
+                <earliestDate>unknown</earliestDate>
+                <latestDate>unknown</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description></description>
+            <description>Butterfly or insect collecting became popular during the Victorian age as a respectable hobby among the growing middle class. Scientific collecting of butterflies and other natural specimens had been a popular venture as natural history museums and universities maintained collections for study by specialists. Amateur collectors often mounted their collections for display as in this arrangement of butterflies.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid></refid>
+                <refid>Memorabilia Collection</refid>
             </location>
         </locationSet>
         <rightsSet>
