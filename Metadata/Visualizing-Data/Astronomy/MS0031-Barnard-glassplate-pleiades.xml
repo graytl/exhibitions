@@ -3,7 +3,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
@@ -13,7 +13,8 @@
                     <latestDate>1923</latestDate>
                 </dates>
             </agent>
-        </agentSet><dateSet>
+        </agentSet>
+        <dateSet>
             <date type="creation">
                 <earliestDate>1905</earliestDate>
                 <latestDate>1905</latestDate>
@@ -25,12 +26,12 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MS0031, Edward Emerson Barnard Papers, glass plates</refid>
+                <refid>MSS0031, Edward Emerson Barnard Papers, glass plates</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>Glass plate has a penciled date of 1890.  However, Barnard included this image in his "Atlas of Selected Regions of the Milky Way" which states this photo was taken at Mt. Wilson Observatory.  Mt Wilson Observatory page states Barnard did this work as a guest there in 1905.  The work has been republished within the last 5 years or so, so I don't know what the copyright status is of this particular image.</text>
+                <text>Glass plate has a penciled date of 1890. However, Barnard included this image in his "Atlas of Selected Regions of the Milky Way" which states this photo was taken at Mt. Wilson Observatory.  Mt Wilson Observatory page states Barnard did this work as a guest there in 1905.  The work has been republished within the last 5 years or so, so I don't know what the copyright status is of this particular image.</text>
             </rights>
         </rightsSet>
         <subjectSet>
