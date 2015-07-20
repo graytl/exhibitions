@@ -3,14 +3,14 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="no2014136467">Jonas G. King</name>
+                <name type="personal" vocab="LCNAF" refid="no2014136467">King, Jonas Glenn</name>
             </agent>
             <agent>
-                <name type="personal" vocab="LCNAF">Julián F. Hillyer</name>
+                <name type="personal" vocab="local">Hillyer, Julián F.</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -24,21 +24,13 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCNAF" refid="no 95060149 ">Vanderbilt University Deprartment of Biology</name>
-                <refid>Hillyer image,  Department of Biological Sciences and Institute for Global Health</refid>
+                <name type="corporate" vocab="LCNAF" refid="no 95060149">Vanderbilt University. Department of Biology</name>
+                <refid>Department of Biological Sciences and Institute for Global Health, Hillyer image</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>Permission pending from Dr. Hillyer, Department of Biological Sciences.  Dr. Julian F. Hillyer
-Associate Professor, Vanderbilt University
-Department of Biological Sciences and Institute for Global Health
-VU Station B, 35-1634
-Nashville, TN 37235-1634
-email: julian.hillyer@vanderbilt.edu
-phone: 615-343-2065
-www.vanderbilt.edu/hillyerlab/
-https://medschool.mc.vanderbilt.edu/biosci/bio_fac.php?id3=16975</text>
+                <text>Permission pending from Dr. Hillyer, Department of Biological Sciences.  Dr. Julian F. Hillyer, Associate Professor, Vanderbilt University, Department of Biological Sciences and Institute for Global Health, VU Station B, 35-1634, Nashville, TN 37235-1634; email: julian.hillyer@vanderbilt.edu; phone: 615-343-2065; www.vanderbilt.edu/hillyerlab; https://medschool.mc.vanderbilt.edu/biosci/bio_fac.php?id3=16975</text>
             </rights>
         </rightsSet>
         <subjectSet>
@@ -47,10 +39,10 @@ https://medschool.mc.vanderbilt.edu/biosci/bio_fac.php?id3=16975</text>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Heart of the Mosquito Anopheles Gambiae ]</title>
+            <title>[Heart of the Mosquito Anopheles Gambiae]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300127322">photomicrographs</worktype>
+            <worktype vocab="AAT" refid="300127322">Photomicrographs</worktype>
         </worktypeSet>
     </work>
     <image>
@@ -73,7 +65,7 @@ https://medschool.mc.vanderbilt.edu/biosci/bio_fac.php?id3=16975</text>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+                <text>Copyright maintained by Vanderbilt University Department of Biology</text>
             </rights>
         </rightsSet>
         <titleSet>
