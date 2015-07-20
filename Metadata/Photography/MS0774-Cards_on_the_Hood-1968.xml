@@ -26,7 +26,7 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0774, Image 094</refid>
+                <refid>MSS0774, Jack Corn Collection, Image 094</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -72,7 +72,7 @@
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+                <text>Copyright retained by Jack Corn.</text>
             </rights>
         </rightsSet>
         <titleSet>

@@ -3,6 +3,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
@@ -20,13 +21,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>After a methane gas and coal dust explosion May 24, 1965, Corn photographed rescue efforts and the disaster aftermath at Brimstone Mountain for The Tennessean. Five miners were killed, and the two-day rescue drew several hundred anxious spectators, family, and members of the press.  
-</description>
+            <description>After a methane gas and coal dust explosion May 24, 1965, Corn photographed rescue efforts and the disaster aftermath at Brimstone Mountain for The Tennessean. Five miners were killed, and the two-day rescue drew several hundred anxious spectators, family, and members of the press.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0774, Image 037</refid>
+                <refid>MSS0774, Jack Corn Collection, Image 037</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -66,7 +66,7 @@
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>Corn granted rights to Vanderbilt for 2012 exhibition of his work.</text>
+                <text>Copyright retained by Jack Corn.</text>
             </rights>
         </rightsSet>
         <titleSet>

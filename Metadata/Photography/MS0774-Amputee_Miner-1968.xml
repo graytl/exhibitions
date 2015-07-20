@@ -26,7 +26,7 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0774, Image053</refid>
+                <refid>MSS0774, Jack Corn Collection, Image 053</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,11 +69,11 @@
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
+                <text>Copyright retained by Jack Corn.</text>
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reprodcution of Ed Marlowe, Paralyzed from a Roof Fall in a Coal Mine]</title>
+            <title>[Digital Reproduction of Ed Marlowe, Paralyzed from a Roof Fall in a Coal Mine]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
