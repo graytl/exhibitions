@@ -31,7 +31,7 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0546, Photo Box 1</refid>
+                <refid>MSS0546, Bets Ramsey Collection, Photo Box 1</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -78,7 +78,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Typical gateway over a Street in the Imperial City, Peking, China]</title>
+            <title>[Digital Reproduction of Typical Gateway over a Street in the Imperial City, Peking, China]</title>
         </titleSet>
         <worktypeSet>
                    <worktype vocab="AAT" refid="300215302">Digital images</worktype>
