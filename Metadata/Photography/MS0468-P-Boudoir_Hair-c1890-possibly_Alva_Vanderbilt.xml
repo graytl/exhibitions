@@ -3,20 +3,21 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <dateSet>
             <date type="creation">
-                <earliestDate>unknown</earliestDate>
-                <latestDate>unknown</latestDate>
+                <earliestDate>1890</earliestDate>
+                <latestDate>1890?</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Seen with her long hair down and wearing a loose wrapper, this woman, possibly Alva Vanderbilt, stares directly at the viewer/photographer.  Is this room a boudoir?  Her clothing and pose suggest that this is a private, relaxed moment, as does the paper print.  </description>
+            <description>Seen with her long hair down and wearing a loose wrapper, this woman, possibly Alva Vanderbilt, stares directly at the viewer/photographer. Is this room a boudoir? Her clothing and pose suggest that this is a private, relaxed moment, as does the paper print.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MS0468</refid>
+                <refid>MSS0468, Harold Stirling Vanderbilt Papers</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -56,7 +57,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Alva Vanderbilt]</title>
+            <title>[Digital Reproduction of Boudoir Hair, Possibly Alva Vanderbilt]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
