@@ -30,7 +30,7 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local" refid="300028051">Vanderbilt University Divinity Library</name>
+                <name type="corporate" vocab="local">Vanderbilt Divinity Library</name>
                 <refid>Judaica Collection, BM660 .E37</refid>
             </location>
         </locationSet>

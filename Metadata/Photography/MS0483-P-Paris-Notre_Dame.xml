@@ -13,7 +13,7 @@
         <dateSet>
             <date type="creation">
                 <earliestDate>1861</earliestDate>
-                <latestDate>unknown</latestDate>
+                <latestDate>1861?</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
@@ -22,7 +22,7 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Library Special Collections</name>
-                <refid>MSS Collection 0483, Photo Box 2?</refid>
+                <refid>MSS0483, Curtis Howe Walker Papers, Photo Box 2</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -39,7 +39,7 @@
             <title>[Notre Dame de Paris]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300134977">Lantern Slides</worktype>
+            <worktype vocab="AAT" refid="300134977">Lantern slides</worktype>
         </worktypeSet>
     </work>
     <image>
