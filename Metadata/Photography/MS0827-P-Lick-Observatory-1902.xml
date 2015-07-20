@@ -3,6 +3,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
@@ -22,7 +23,6 @@
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
                 <refid>MSS Collection 0827, Folder 1</refid>
-                <refid>MSS Collection 0031, Box 43, Folder 09</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -34,15 +34,9 @@
             <subject>
                 <term vocab="LCNAF" refid="n 80146341">Lick Observatory--Pictorial works</term>
             </subject>
-            <subject>
-                <term vocab="LCNAF" refid="n 94063816">Barnard, Edward Emerson, 1857-1923--Portraits</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85133444">Telescopes--Pictorial works</term>
-            </subject>
         </subjectSet>
         <titleSet>
-            <title>[Barnard Leaning against Telescope at Lick Observatory, Mt. Hamilton, CA]</title>
+            <title>[View of Lick Observatory, Mt. Hamilton, CA]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300265036">Photochroms</worktype>
@@ -72,7 +66,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Barnard Leaning against Telescope at Lick Observatory, Mt. Hamilton, CA]</title>
+            <title>[Digital Reproduction of View of Lick Observatory, Mt. Hamilton, CA]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
