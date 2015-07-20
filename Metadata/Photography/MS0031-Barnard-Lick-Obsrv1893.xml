@@ -3,42 +3,43 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 88079917">Detroit Photographic Co.</name>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 50027955">William Henry Jackson</name>
+                <name type="personal" vocab="LCNAF" refid="n 94063816">Barnard, Edward Emerson, 1857-1923</name>
+                <dates>
+                    <earliestDate>1857-12-16</earliestDate>
+                    <latestDate>1923-02-06</latestDate>
+                </dates>
             </agent>
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>1893-12-06</earliestDate>
-                <latestDate>1893-12-06</latestDate>
+                <earliestDate>1893</earliestDate>
+                <latestDate>1893</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Barnard moved to California in 1887 to inaugurate the new observatory at Mount Hamilton near San Jose.  He discovered the first non-Galilean moon of Jupiter, Amalthea, in September 1892, over 275 years after Galileo's discoveries.  Observatory staff fought over access to the 36-inch telescope, making working conditions difficult. Barnard moved to Yerkes Observatory in Williams Bay, Wisconsin in 1895 with an astronomy appointment at the University of Chicago.   </description>
+            <description>Barnard moved to California in 1887 to work at the new observatory at Mount Hamilton near San Jose. He later discovered the first non-Galilean moon of Jupiter, Amalthea, in September 1892, over 275 years after Galileo's discoveries. Observatory staff fought over access to the 36-inch telescope, making working conditions difficult. Barnard moved to Yerkes Observatory in Williams Bay, Wisconsin in 1895 with an astronomy appointment at the Unversity of Chicago.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0827, Folder 1</refid>
-                <refid/>
+                <refid>MSS0031, Edward Emerson Barnard Papers, Box 43, Folder 05</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>Detroit Photographic Co. published this image in 1902.</text>
+                <text>Emerson died in 1923.</text>
             </rights>
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCNAF" refid="n 80146341">Lick Observatory--Pictorial works</term>
+                <term vocab="LCNAF" refid="n 94063816">Barnard, Edward Emerson, 1857-1923--Pictorial works</term>
             </subject>
             <subject>
-                <term vocab="LCNAF" refid="n 94063816">Barnard, Edward Emerson, 1857-1923--Portraits</term>
+                <term vocab="LCSH" refid="sh2006007022">Refracting telescopes--Pictorial works</term>
             </subject>
             <subject>
                 <term vocab="LCSH" refid="sh 85133444">Telescopes--Pictorial works</term>
@@ -48,7 +49,7 @@
             <title>[Barnard Leaning against Telescope at Lick Observatory, Mt. Hamilton, CA]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300265036">Photochroms</worktype>
+            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
         </worktypeSet>
     </work>
     <image>
@@ -58,9 +59,9 @@
             </agent>
         </agentSet>
         <dateSet>
-            <date type="repository">
-                <earliestDate>2015-03-11</earliestDate>
-                <latestDate>2015-03-11</latestDate>
+            <date type="creation">
+                <earliestDate>2015-03-20</earliestDate>
+                <latestDate>2015-03-20</latestDate>
             </date>
         </dateSet>
         <locationSet>
