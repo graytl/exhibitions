@@ -3,11 +3,12 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <dateSet>
             <date type="creation">
-                <earliestDate>unknown</earliestDate>
-                <latestDate>unknown</latestDate>
+                <earliestDate>1860</earliestDate>
+                <latestDate>1860?</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
@@ -16,7 +17,7 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MS0242, Box "PH Arch/ Kirk Fam" Folder "Kirkland and Henderson Relatives"</refid>
+                <refid>MSS0242, James Hampton Kirkland Papers, Box "PH Arch/ Kirk Fam" Folder "Kirkland and Henderson Relatives"</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -33,10 +34,10 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Grandpa Henderson in his Confederate Uniform]</title>
+            <title>[Grandpa Henderson in His Confederate Uniform]</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300127181">Daguerreotype</worktype>
+            <worktype vocab="AAT" refid="300127181">Daguerreotypes (photographs)</worktype>
         </worktypeSet>
     </work>
     <image>
@@ -63,7 +64,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Grandpa Henderson in his Confederate Uniform]</title>
+            <title>[Digital Reproduction of Grandpa Henderson in His Confederate Uniform]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

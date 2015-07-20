@@ -3,6 +3,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
@@ -21,7 +22,7 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>Ms0242, Box "PH arch/ Kirk Fam" F"Kirkland and Henderson Relatives"</refid>
+                <refid>MSS0242, James Hampton Kirkland Papers, Box "PH arch/ Kirk Fam" F"Kirkland and Henderson Relatives"</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -34,11 +35,11 @@
                 <term vocab="LCSH" refid="sh 85101240">Portrait photography--Specimens</term>
             </subject>
             <subject>
-                <term vocab="local">Henderson, William A.--Pictorial works</term>
+                <term vocab="local">Henderson, William A.--Portraits</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[William A. Henderson]</title>
+            <title>[Portrait of William A. Henderson]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300127115">Card photographs (photographs)</worktype>
@@ -68,7 +69,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of W. A. Henderson]</title>
+            <title>[Digital Reproduction of Portrait of William A. Henderson]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

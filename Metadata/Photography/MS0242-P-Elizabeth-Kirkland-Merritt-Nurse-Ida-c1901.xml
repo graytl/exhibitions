@@ -3,6 +3,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
@@ -25,12 +26,12 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>Mss0242, Box38, F11 "PH Arch/ Kirakland Family box, F "Kirkland and Henderson relatives"</refid>
+                <refid>MSS0242, James Hampton Kirkland Papers, Box 38, Folder 11 "Kirkland and Henderson Relatives"</refid>
             </location>
         </locationSet>
         <rightsSet>
             <rights type="publicDomain">
-                <text>Image made c. 1905 at Moore &amp; Stephenson studio, Atlanta.  Elizabeth Kirkland was born in 1898. One of the partners, B. Frank Moore is listed in Cleveland, OH in award notices in 1908 edition of Photo-Era Magazine, v.21, p.144.</text>
+                <text>Image made c. 1905 at Moore and Stephenson studio, Atlanta. Elizabeth Kirkland was born in 1898. One of the partners, B. Frank Moore is listed in Cleveland, OH in award notices in 1908 edition of Photo-Era Magazine, v.21, p.144.</text>
             </rights>
         </rightsSet>
         <subjectSet>
