@@ -3,13 +3,14 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!--HAS BEEN EDITED-->
     <work>
         <agentSet>
             <agent>
                 <name type="corporate" vocab="LCNAF" refid="n 88079917">Detroit Photographic Co.</name>
             </agent>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 50027955">William Henry Jackson</name>
+                <name type="personal" vocab="LCNAF" refid="n 50027955">Jackson, William Henry, 1843-1942</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -24,7 +25,7 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0827</refid>
+                <refid>MSS0827, Howard Gottlieb and William H. Jackson Collection</refid>
             </location>
         </locationSet>
         <rightsSet>

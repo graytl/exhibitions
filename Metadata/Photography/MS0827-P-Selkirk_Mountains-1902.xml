@@ -9,7 +9,7 @@
                 <name type="corporate" vocab="LCNAF" refid="n 88079917">Detroit Photographic Co.</name>
             </agent>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 50027955">William Henry Jackson</name>
+                <name type="personal" vocab="LCNAF" refid="n 50027955">Jackson, William Henry, 1843-1942</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -19,12 +19,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Crossing the Selkirk Mountain Range completed the transcontinental Canadian Pacific Railway in 1885, connecting remote British Columbia by land to the rest of newly-unified Canada. Ten years of reconnaissance surveys on foot and horseback preceded railway construction. Building the railway presented engineers with formidable challenges, like keeping the line clear. About 40 feet of snow fell on this rail line every winter it was in use. No trains ran for months in the first winter of operation. </description>
+            <description>Crossing the Selkirk Mountain Range completed the transcontinental Canadian Pacific Railway in 1885, connecting remote British Columbia by land to the rest of newly-unified Canada. Ten years of reconnaissance surveys on foot and horseback preceded railway construction. Building the railway presented engineers with formidable challenges, like keeping the line clear. About 40 feet of snow fell on this rail line every winter it was in use. No trains ran for months in the first winter of operation.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0827, Box?</refid>
+                <refid>MSS0827, Howard Gottlieb and William H. Jackson Collection</refid>
             </location>
         </locationSet>
         <rightsSet>
