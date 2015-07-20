@@ -26,7 +26,7 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0838, Tomas C. de Mosquera Papers, Box 1</refid>
+                <refid>MSS0838, Tomás Cipriano De Mosquera Papers, Box 1</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -65,7 +65,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Alis Colombianos Conciudadanos!]</title>
+            <title>[Digital Reproduction of Alis Colombianos Conciudadanos]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
