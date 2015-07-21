@@ -17,6 +17,7 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
+                <refid>Music Library</refid>
             </location>
         </locationSet>
         <rightsSet>

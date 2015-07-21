@@ -28,7 +28,7 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
-                <refid>Music Library, XXXXXXXXXX</refid>
+                <refid>Music Library</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -36,11 +36,6 @@
                 <text>Edison Records 4M-545, 1910. The display of this physical object constitutes a fair use as detailed in the ACRL's Code of Best Practices in Fair Use for Academic and Research Libraries.</text>
             </rights>
         </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCGFT" refid="gf2014027009">Popular music</term>
-            </subject>
-        </subjectSet>
         <titleSet>
             <title>Dear Little Shamrock</title>
         </titleSet>
@@ -63,7 +58,7 @@
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>XXXXXXXXXXXXXXXX</refid>
+                <refid></refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
@@ -72,11 +67,6 @@
                 <text>Copyright maintained by Vanderbilt University Special Collections</text>
             </rights>
         </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCGFT" refid="gf2014026378">Humorous monologues</term>
-            </subject>
-        </subjectSet>
         <titleSet>
             <title>[Digital Image of Edison Amberol Cylinder Dear Little Shamrock]</title>
         </titleSet>

@@ -8,11 +8,9 @@
         <agentSet>
             <agent>
                 <name type="corporate" vocab="LCNAF" refid="n 82047800">Thomas A. Edison, Inc.</name>
-                <role/>
             </agent>
             <agent>
                 <name type="corporate" vocab="LCNAF" refid="n 85307591">National Phonograph Company</name>
-                <role/>
             </agent>
         </agentSet>
         <dateSet>
@@ -28,7 +26,7 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Wikimedia Commons</name>
-                <refid>https://commons.wikimedia.org/wiki/File:EdisonRecords1903Ad.jpg</refid>
+                <refid>Online resource, available via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:EdisonRecords1903Ad.jpg</refid>
             </location>
             <location type="creation">
                 <name type="corporate" vocab="LCNAF" refid="n 81097261">CBS Records (Firm)</name>

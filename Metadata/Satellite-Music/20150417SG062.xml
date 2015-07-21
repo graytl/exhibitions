@@ -39,9 +39,6 @@
                 <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
                 <refid>Music Library, CD MUS-16791</refid>
             </location>
-            <location type="creation">
-                <name type="corporate" vocab="LCNAF" refid="n 88612146">Capitol Records, Inc.</name>
-            </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">

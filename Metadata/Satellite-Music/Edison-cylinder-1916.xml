@@ -32,7 +32,7 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
-                <refid>Music Library, XXXXXXXXXX</refid>
+                <refid>Music Library</refid>
             </location>
             <location type="creation">
                 <name type="corporate">Edison Records (Firm)</name>
@@ -70,7 +70,7 @@
         </dateSet>
         <locationSet>
             <location type="repository">
-                <refid>XXXXXXXXXXXXXXXX</refid>
+                <refid></refid>
                 <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>

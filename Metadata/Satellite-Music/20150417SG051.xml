@@ -27,7 +27,7 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="LCNAF" refid="n 90727668">Middle Tennessee State University, Center for Popular Music</name>
-                <refid>Item on loan</refid>
+                <refid>Item on loan from Middle Tennessee State University, Center for Popular Music</refid>
             </location>
             <location type="creation">
                 <name type="corporate" vocab="LCNAF" refid="n 85307591">National Phonograph Company</name>
