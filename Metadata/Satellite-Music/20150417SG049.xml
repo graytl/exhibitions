@@ -16,7 +16,7 @@
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="LCNAF" refid="">Anne Potter Wilson Music Library</name>
+                <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -28,7 +28,7 @@
             <title>Silvertone Recording Wire</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300028680">wire recordings</worktype>
+            <worktype vocab="AAT" refid="300028680">Wire recordings</worktype>
         </worktypeSet>
     </work>
     <image>
