@@ -5,11 +5,6 @@
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
    <!-- HAS BEEN EDITED -->
     <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF">Unknown</name>
-            </agent>
-        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>1917-08-01</earliestDate>
