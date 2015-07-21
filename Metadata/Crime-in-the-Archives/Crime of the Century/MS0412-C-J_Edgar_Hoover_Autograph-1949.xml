@@ -21,7 +21,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Illustrator Paul Frehm worked with reporter Damon Runyon to cover the Lindbergh trial for the New York Daily Mirror, a William Randoph Hurst newspaper publication. Frehm’s illustration of J. Edgar Hoover, who led the Bureau of Investigation’s efforts to find the kidnapper, portrays the director in 1949. Hoover's dogged success in the case raised his own profile and helped to bring the Federal Kidnapping Act to Congress, allowing federal authorities jurisdiction in cases crossing state lines.</description>
+            <description>Illustrator Paul Frehm worked with reporter Damon Runyon to cover the Lindbergh trial for the New York Daily Mirror, a William Randoph Hearst newspaper publication. Frehm’s illustration of J. Edgar Hoover, who led the Bureau of Investigation’s efforts to find the kidnapper, portrays the director in 1949. Hoover's dogged success in the case raised his own profile and helped to bring the Federal Kidnapping Act to Congress, allowing federal authorities jurisdiction in cases crossing state lines.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
@@ -44,14 +44,12 @@
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300041383">Color lithographs</worktype>
-            <worktype vocab="AAT" refid="300015589">Courtroom illustrations</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
                 <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
-                <role></role>
             </agent>
         </agentSet>
         <dateSet>

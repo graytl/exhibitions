@@ -23,8 +23,8 @@
         </agentSet>
         <dateSet>
             <date type="creation">
-                <earliestDate>1927-05-20</earliestDate>
-                <latestDate>1927-05-31</latestDate>
+                <earliestDate>1927</earliestDate>
+                <latestDate>1927</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
@@ -53,7 +53,7 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Pilot Charles Lindbergh Poses Alongside His Famous Plane 'The Spirit of St. Louis']</title>
+            <title>[Pilot Charles Lindbergh Poses alongside His Famous Plane 'The Spirit of St. Louis']</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300134989">News photographs</worktype>
@@ -85,7 +85,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Pilot Charles Lindbergh Poses Alongside His Famous Plane 'The Spirit of St. Louis']</title>
+            <title>[Digital Reproduction of Pilot Charles Lindbergh Poses alongside His Famous Plane 'The Spirit of St. Louis']</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

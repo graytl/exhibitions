@@ -22,7 +22,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Western fiction got its starts in the penny dreadfuls and dime novels of the Civil War era. The "Hop Along Cassidy" stories were first published in 1904 and Zane Grey's "Riders of the Purple Sage" was released in 1912. The genre peaked in 1960.  "Frank James and His Brother Jesse" tells the story of Jesse's murder in a sympathetic tone and follows brother Frank's efforts at revenge and eventual surrender and conversion.</description>
+            <description>Western fiction got its starts in the penny dreadfuls and dime novels of the Civil War era. The Hopalong Cassidy stories were first published in 1904 and Zane Grey's Riders of the Purple Sage was released in 1912. The genre peaked in 1960. Frank James and His Brother Jesse tells the story of Jesse's murder in a sympathetic tone and follows brother Frank's efforts at revenge and eventual surrender and religious conversion.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
@@ -44,7 +44,7 @@
             <title>Frank James and His Brother Jesse: The Daring Border Bandits</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300343403">Children's books</worktype>
+            <worktype vocab="AAT" refid="300343403">Book</worktype>
         </worktypeSet>
     </work>
     <image>
