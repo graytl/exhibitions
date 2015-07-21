@@ -32,11 +32,11 @@
         <locationSet>
             <location type="other">
                 <name type="corporate" vocab="LCNAF" refid="n 91011423">Hubble Space Telescope (Spacecraft)</name>
-                <refid>http://www.spacetelescope.org/images/opo0613c/</refid>
+                <refid>Online resource, available via: http://www.spacetelescope.org/images/opo0613c/</refid>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="other">
+            <rights type="undetermined">
                 <text>ESA/Hubble images, videos and web texts are released under the Creative Commons Attribution 3.0 Unported license and may on a non-exclusive basis be reproduced without fee provided they are clearly and visibly credited. Detailed conditions here: http://www.spacetelescope.org/copyright/</text>
             </rights>
         </rightsSet>

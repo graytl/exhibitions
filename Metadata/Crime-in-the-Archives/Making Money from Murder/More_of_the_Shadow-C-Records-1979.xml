@@ -7,16 +7,13 @@
     <work>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="2003097848">Murray Hill Radio Theatre</name>
+                <name type="corporate" vocab="LCNAF" refid="no2003097848">Murray Hill Radio Theatre</name>
             </agent>
             <agent>
                 <name type="corporate" vocab="local">Outlet Book Company, Inc.</name>
             </agent>
             <agent>
-                <name type="corporate" vocab="LCNAF" refid="96015813 ">Random House Audio Publishing</name>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="local">Murray Hill Music</name>
+                <name type="corporate" vocab="LCNAF" refid="no 96015813">Random House Audio Publishing</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -31,11 +28,11 @@
         <locationSet>
             <location type="repository">
                 <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid/>
+                <refid>Vanderbilt University Special Collections</refid>
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="other">
+            <rights type="undetermined">
                 <text>Company is defunct with no forwarding information. Using small amount of material for transformative use; no negative effect on market.</text>
             </rights>
         </rightsSet>
