@@ -46,7 +46,6 @@
         </subjectSet>
         <titleSet>
             <title pref="true">Friendship: An Essay</title>
-            <title pref="false">Essay on Friendship</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300028051">Books</worktype>

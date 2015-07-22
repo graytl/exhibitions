@@ -12,7 +12,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>This rare and historically important album contains objects, mostly locks of hair, belonging to members of the Bourbon royal family of France assembled during the era of the Restoration (1814-30).  Snippets of hair, here treated almost as holy relics, were the most common objectified form of sentimental remembrance in nineteenth-century Europe. The objects were collected by Madame de Clérambault, lady-in-waiting to the duchess of Berry, daughter-in-law of King Charles X (reigned 1824-30).  </description>
+            <description>This rare and historically important album contains objects, mostly locks of hair, belonging to members of the Bourbon royal family of France assembled during the era of the Restoration (1814-30). Snippets of hair, here treated almost as holy relics, were the most common objectified form of sentimental remembrance in nineteenth-century Europe. The objects were collected by Madame de Clérambault, lady-in-waiting to the Duchess of Berry, daughter-in-law of King Charles X (reigned 1824-30).</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
@@ -34,7 +34,7 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Un Souvenir de la Famille Bourbon: Comprenant, des Doubles de Cheveux des Personnes Suivantes</title>
+            <title>Un Souvenir de la Famille Bourbon</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300250795">Relics</worktype>
@@ -66,7 +66,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Un Souvenir de la Famille Bourbon: Comprenant, des Doubles de Cheveux des Personnes Suivantes, View of Opened Book]</title>
+            <title>[Digital Reproduction of Un Souvenir de la Famille Bourbon, View of Opened Book]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
@@ -96,7 +96,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Un Souvenir de la Famille Bourbon: Comprenant, des Doubles de Cheveux des Personnes Suivantes, View of Closed Book atop Slipcover]</title>
+            <title>[Digital Reproduction of Un Souvenir de la Famille Bourbon, View of Closed Book atop Slipcover]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

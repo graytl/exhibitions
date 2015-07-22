@@ -30,11 +30,11 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>The influence of place has played a large role in the work of artist Claire Van Vliet, who moved to rural Vermont in 1966 and founded Janus Press. Here, Van Vliet allows the viewer to create their own “landscape” by combining unbound die–cut colored Navaho paper and acetate. Artist’s books often push at the boundaries of what we call a book in their structure, materials and purpose. In Earth and Sky, Van Vliet asks the viewer to rethink their definition of the form.</description>
+            <description>The influence of place has played a large role in the work of artist Claire Van Vliet, who moved to rural Vermont in 1966 and founded Janus Press. Here, Van Vliet allows viewers to create their own “landscape” by combining unbound die–cut colored Navajo paper and acetate. Artists' books often push at the boundaries of what we call a book in their structure, materials and purpose. In Earth and Sky, Van Vliet asks viewers to rethink their definition of the form.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
                 <refid>Sevier Collection, NK8553.5 .V35 A68 1973</refid>
             </location>
         </locationSet>
@@ -49,7 +49,7 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Sky and earth: Variable Landscape</title>
+            <title>Sky and Earth: Variable Landscape</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300123016">Artists' books (books)</worktype>
@@ -79,7 +79,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Sky and earth: Variable Landscape, Inside View of Portfolio with Contents Fanned Out]</title>
+            <title>[Digital Reproduction of Sky and Earth: Variable Landscape, Inside View of Portfolio with Contents Fanned Out]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
