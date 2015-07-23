@@ -8,10 +8,6 @@
         <agentSet>
             <agent>
                 <name type="corporate" vocab="local">Moore &amp; Stephenson</name>
-                <dates>
-                    <earliestDate>unknown</earliestDate>
-                    <latestDate>1908</latestDate>
-                </dates>
             </agent>
         </agentSet>
         <dateSet>
@@ -21,7 +17,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>American parents around 1900 faced issues familiar to parents today, including balancing their children’s needs with their own.  While we do not know much about Elizabeth's caretaker Ida, we can see the affectionate gesture of the little girl.  Elizabeth, the only child of James Kirkland, was born in 1898. In 1919, she graduated from Wellesley College. She married Benjamin D. Meritt soon after; the couple lived in New Jersey where Meritt taught at Princeton’s Institute for Advanced Study.</description>
+            <description>American parents around 1900 faced issues familiar to parents today, including balancing their children’s needs with their own.  While we do not know much about Elizabeth's caretaker Ida, we can see the affectionate gesture of the little girl. Elizabeth, the only child of James Kirkland, was born in 1898. In 1919, she graduated from Wellesley College. She married Benjamin D. Meritt soon after; the couple lived in New Jersey where Meritt taught at Princeton’s Institute for Advanced Study.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
@@ -43,7 +39,7 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Elizabeth Kirkland Merritt with her Nurse, Ida]</title>
+            <title>[Elizabeth Kirkland Merritt with Her Nurse, Ida]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300127115">Card photographs (photographs)</worktype>
@@ -73,7 +69,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Elizabeth Kirkland Merritt with her Nurse, Ida]</title>
+            <title>[Digital Reproduction of Elizabeth Kirkland Merritt with Her Nurse, Ida]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

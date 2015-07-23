@@ -57,7 +57,7 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Encyclopédie, ou Dictionnaire Raisonné des Sciences, des Arts et des Métiers</title>
+            <title>Encyclopédie, ou Dictionnaire Raisonné des Sciences</title>
            </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300129439">Encyclopedias</worktype>
@@ -87,7 +87,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Encyclopédie, ou Dictionnaire Raisonné des Sciences, des Arts et des Métiers, "Systême Figuré des Connoissances Humaines"]</title>
+            <title>[Digital Reproduction of Encyclopédie, ou Dictionnaire Raisonné des Sciences, "Systême Figuré des Connoissances Humaines"]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
