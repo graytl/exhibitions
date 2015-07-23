@@ -22,7 +22,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>The Bird’s Head manuscript, the earliest surviving illustrated Ashkenazi Haggadah, is named for the figures drawn with bird’s heads on human forms. These composite creatures are most probably griffins. Many scholars believe the use of imaginary creatures is a concession to a rabbinic prohibition against Jewish image making. The conical “Jewish hat,” worn by adult males, was mandatory attire for German Jews in the Middle Ages.</description>
+            <description>The Bird’s Head manuscript, the earliest surviving illustrated Ashkenazi Haggada, is named for the figures drawn with birds' heads on human forms. These composite creatures are most probably griffins. Many scholars believe the use of imaginary creatures is a concession to a rabbinic prohibition against Jewish image making. The conical "Jewish hat” worn by adult males was mandatory attire for German Jews in the Middle Ages.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
@@ -47,7 +47,7 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title pref="true" xml:lang="en">The Birds Head Haggada of the Bezalel National Art Museum in Jerusalem</title>
+            <title pref="true" xml:lang="en">The Bird's Head Haggada of the Bezalel National Art Museum in Jerusalem</title>
             <title pref="false" xml:lang="he">Hagadat rashe ha-tsiporim shel Bet ha-Nekhot ha-Le’umi le-’Omanut Betsal’el, Yerushalayim</title>
         </titleSet>
         <worktypeSet>
@@ -78,7 +78,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of The Birds Head Haggada of the Bezalel National Art Museum in Jerusalem, Facsimile]</title>
+            <title>[Digital Reproduction of The Bird's Head Haggada of the Bezalel National Art Museum in Jerusalem, Facsimile]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

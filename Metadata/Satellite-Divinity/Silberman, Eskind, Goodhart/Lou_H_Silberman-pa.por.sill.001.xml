@@ -5,6 +5,12 @@
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
     <!-- HAS BEEN EDITED -->
     <work>
+        <agentSet>
+            <agent>
+                <name type="personal" vocab="local">Fabry, Walden S.</name>
+                <role>Photographer</role>
+            </agent>
+        </agentSet>
         <dateSet>
             <date type="creation">
                 <earliestDate>1970</earliestDate>
@@ -12,7 +18,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Professor Silberman taught at Vanderbilt for 28 years, from 1952 through 1980, and was named Hillel Professor of Jewish Literature in 1955. He was chair of the Undergraduate Department of Religious Studies from 1970 to 1976. Besides launching the Graduate Department of Religion and the Undergraduate Department of Religious Studies, Silberman was dedicated to strengthening the Judaica Collection during his long tenure at Vanderbilt.</description>
+            <description>Professor Lou H. Silberman taught at Vanderbilt for 28 years, from 1952 through 1980, and was named Hillel Professor of Jewish Literature in 1955. He was chair of the undergraduate department of religious studies from 1970 to 1976. Besides launching the graduate department of religion and the undergraduate department of religious studies, Silberman was dedicated to strengthening the Judaica Collection during his long tenure at Vanderbilt.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
@@ -21,8 +27,8 @@
             </location>
         </locationSet>
         <rightsSet>
-            <rights type="undetermined">
-                <text>Unknown.</text>
+            <rights type="copyrighted">
+                <text>Copyright reserved by the Country Music Hall of Fame.</text>
             </rights>
         </rightsSet>
         <subjectSet>
@@ -31,7 +37,7 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title>[Portrait of Lou H.Silberman]</title>
+            <title>[Portrait of Lou H. Silberman]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
@@ -40,7 +46,7 @@
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="local">Vanderbilt Univeristy Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>

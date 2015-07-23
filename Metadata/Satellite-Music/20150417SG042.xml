@@ -26,7 +26,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Recording companies also issued “special editions” or “collector’s editions,” often just in time for the holidays. This item features a 3-D pop-up manger scene inside the cover of a Christmas album.</description>
+            <description>Recording companies issued “special editions” or “collector’s editions,” often just in time for the holidays. This item features a 3-D pop-up manger scene inside the cover of a Christmas album.</description>
             <description/>
         </descriptionSet>
         <locationSet>
@@ -53,7 +53,7 @@
             <title pref="false">Ronco Presents: A Christmas Gift</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300201034">Pop-up books</worktype>
+            <worktype vocab="AAT" refid="300265802">Long-playing records</worktype>
         </worktypeSet>
     </work>
     <image>

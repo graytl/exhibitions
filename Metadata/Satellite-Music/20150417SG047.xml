@@ -66,9 +66,6 @@
                 <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
                 <refid>Music Library, CD MUS-5789</refid>
             </location>
-            <location type="creation">
-                <name type="corporate" vocab="LCNAF" refid="n 95016751">Blue Note (Firm)</name>
-            </location>
         </locationSet>
         <rightsSet>
             <rights type="copyrighted">       

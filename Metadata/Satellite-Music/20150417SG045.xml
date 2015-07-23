@@ -34,7 +34,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>This album cover is a representative example of cover art for classical music produced during the 1970s. The cover is by Saul Lambert, and it is based on a detail of Kupelwieser's famours painting, "Party Game of the Schubertiads.</description>
+            <description>This album cover is a representative example of cover art for classical music produced during the 1970s. The cover is by Saul Lambert, and it is based on a detail of Kupelwieser's famous painting, "Party Game of the Schubertiads."</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
@@ -53,7 +53,7 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Schubert: The Complete Piano Sonatas, Volume 4, Four Sonatas (1825-1826)</title>
+            <title>Schubert: The Complete Piano Sonatas</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300247936">Record covers</worktype>
@@ -85,7 +85,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Schubert: The Complete Piano Sonatas, Volume 4, Four Sonatas (1825-1826), Album Cover]</title>
+            <title>[Digital Reproduction of Schubert: The Complete Piano Sonatas, Album Cover]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

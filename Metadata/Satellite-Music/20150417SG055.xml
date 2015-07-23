@@ -29,7 +29,7 @@
                 </date>
             </dateSet>
         <descriptionSet>
-            <description>This is an analog recording marketed the Edison Diamond Disc. The disc rotates at 80 rpm, reflecting non-standardized recording practices common in the early 20th century.</description>
+            <description>This is an analog recording marketed as the Edison Diamond Disc. The disc rotates at 80 rpm, reflecting non-standardized recording practices common in the early 20th century.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
@@ -49,7 +49,7 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title pref="true">Sand dunes: One-Step</title>
+            <title pref="true">Sand Dunes: One-Step</title>
             <title pref="false">I'm Sorry I Made You Cry: Jazz Fox Trot</title>
         </titleSet>
         <worktypeSet>
@@ -81,7 +81,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital Reproduction of Sand dunes: One-Step; I'm Sorry I Made You Cry: Jazz Fox Trot]</title>
+            <title>[Digital Reproduction of Sand Dunes: One-Step; I'm Sorry I Made You Cry: Jazz Fox Trot]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
