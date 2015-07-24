@@ -3,6 +3,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
@@ -29,7 +30,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>This is a facsimile of the copy of Sidereus Nuncius by Galileo, originally written in 1610. In it Galileo published his discovery of four "Medicean Stars" (now known as the Galilean Moons of Jupiter). It also has Galileo's drawings of the moon, previously thought to be perfect and smooth, but now seen to have mountains and plains. Galileo was not the first person to look through a telescope, but he was the first to point one towards the heavens and report on he saw.</description>
+            <description>This is a facsimile of the copy of Sidereus Nuncius by Galileo, originally written in 1610. In it, Galileo published his discovery of four "Medicean Stars" (now known as the Galilean Moons of Jupiter). It also has Galileo's drawings of the moon, previously thought to be perfect and smooth, but now seen to have mountains and plains. Galileo was not the first person to look through a telescope, but he was the first to point one toward the heavens and report on he saw.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
