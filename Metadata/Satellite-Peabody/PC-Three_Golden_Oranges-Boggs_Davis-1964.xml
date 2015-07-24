@@ -3,6 +3,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
@@ -26,6 +27,10 @@
                     <latestDate>1974</latestDate>
                 </dates>
             </agent>
+            <agent>
+                <name type="corporate" vocab="LCNAF" refid="n 2005060106">David McKay Company</name>
+                <role>Publisher</role>
+            </agent>
         </agentSet>
         <dateSet>
             <date type="publication">
@@ -34,7 +39,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>A collection of Spanish folktales, this book was first published during the Spanish Civil War.   The illustrations in this book depict the Spanish characters in traditional garb, such as the mantilla worn by the woman on the far right.</description>
+            <description>A collection of Spanish folktales, this book was first published during the Spanish Civil War. The illustrations in this book depict the Spanish characters in traditional garb, such as the mantilla worn by the woman on the far right.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
@@ -48,13 +53,8 @@
                     ©1964 Renewed by Ralph Steele Boggs &amp; Perley B. Davis</text>
             </rights>
         </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="" refid=""></term>
-            </subject>
-        </subjectSet>
         <titleSet>
-            <title>Three Golden Oranges : and other Spanish folk tales</title>
+            <title>Three Golden Oranges : and Other Spanish Folk Tales</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300028051">Books</worktype>
@@ -84,7 +84,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>[Digital reproduction of Three Golden Oranges--Page 89]</title>
+            <title>[Digital reproduction of Three Golden Oranges, Page 89]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>

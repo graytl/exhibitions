@@ -16,7 +16,7 @@
                 </dates>
             </agent>
             <agent>
-                <name vocab="LCNAF" refid="no2011095558">Margaret K. McElderry Books (Firm)</name>
+                <name type="corporate" vocab="LCNAF" refid="no2011095558">Margaret K. McElderry Books (Firm)</name>
                 <role>Publisher</role>
             </agent>
         </agentSet>

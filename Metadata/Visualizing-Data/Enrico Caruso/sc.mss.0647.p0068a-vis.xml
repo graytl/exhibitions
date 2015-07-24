@@ -10,11 +10,14 @@
                 <name type="personal" vocab="LCNAF" refid="n 50034771">Caruso, Enrico, 1873-1921</name>
                 <role>Sender</role>
             </agent>
+            <agent>
+                <name type="corporate" vocab="local">Rose Company</name>
+            </agent>
         </agentSet>
         <dateSet>
             <date>
-                <earliestDate>1903</earliestDate>
-                <latestDate>1903</latestDate>
+                <earliestDate>1907</earliestDate>
+                <latestDate>1907</latestDate>
             </date>
         </dateSet>
         <descriptionSet>

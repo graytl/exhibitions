@@ -15,7 +15,7 @@
             </agent>
         </agentSet>
         <dateSet>
-            <date type="">
+            <date type="creation">
                 <earliestDate>1952</earliestDate>
                 <latestDate>1952</latestDate>
             </date>
