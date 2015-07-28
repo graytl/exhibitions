@@ -8,10 +8,15 @@
         <agentSet>
             <agent>
                 <name type="personal" vocab="LCNAF" refid="n 80051862">Humboldt, Alexander von, 1769-1859</name>
+                <role>Author</role>
                 <dates>
                     <earliestDate>1769</earliestDate>
                     <latestDate>1859</latestDate>
                 </dates>
+            </agent>
+            <agent>
+                <name type="personal" vocab="local">Renouard, Chez Antoine-Augustin</name>
+                <role>Printer</role>
             </agent>
         </agentSet>
         <dateSet>
