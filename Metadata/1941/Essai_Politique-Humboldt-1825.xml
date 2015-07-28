@@ -3,10 +3,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+    <!-- HAS BEEN EDITED -->
     <work>
         <agentSet>
             <agent>
-                <name type="personal" vocab="LCNAF" refid="80051862">Humboldt, Alexander von, 1769-1859.</name>
+                <name type="personal" vocab="LCNAF" refid="n 80051862">Humboldt, Alexander von, 1769-1859</name>
                 <dates>
                     <earliestDate>1769</earliestDate>
                     <latestDate>1859</latestDate>
@@ -20,12 +21,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description>Friedrich Wilhelm Heinrich Alexander von Humboldt was a Prussian naturalsit and geographer who explored areas of Latin America  between 1799 and 1804 under the recommendation of the King of Spain. His research led to his hypothesis that lands bordering the Atlantic Ocean were once joinded.  Here, Humboldt delinates the longitude and lattitudes of Mexican villages, research which led to new discoveries in the origins of atmospheric disturbances.</description>
+            <description>Friedrich Wilhelm Heinrich Alexander von Humboldt was a Prussian naturalist and geographer who explored areas of Latin America between 1799 and 1804 under the recommendation of the King of Spain. His research led to his hypothesis that lands bordering the Atlantic Ocean were once joined. Here, Humboldt delineates the longitude and lattitudes of Mexican villages, research which led to new discoveries in the origins of atmospheric disturbances.</description>
         </descriptionSet>
         <locationSet>
             <location type="repository">
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Library</name>
-                <refid>917.2 H91e</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Library</name>
+                <refid>Annex, 917.2 H91e2, Volume 1</refid>
             </location>
         </locationSet>
         <rightsSet>
@@ -35,20 +36,21 @@
         </rightsSet>
         <subjectSet>
             <subject>
-                <term vocab="LCSH" refid="85118684">Scientific expeditions</term>
+                <term vocab="LCSH" refid="sh 85118684">Scientific expeditions</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title>Tableau des Positions Géographiques du Royaume de la Novelle-Espagne, Déterminées par des Observations Astronomiques</title>
+            <title pref="true">Political Essay on the Kingdom of New Spain</title>
+            <title pref="false">Essai Politique sur le Royaume de la Nouvelle-Espagne</title>
         </titleSet>
         <worktypeSet>
-            <worktype vocab="AAT" refid="300028051">books</worktype>
+            <worktype vocab="AAT" refid="300028051">Books</worktype>
         </worktypeSet>
     </work>
     <image>
         <agentSet>
             <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
+                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
             </agent>
         </agentSet>
         <dateSet>
@@ -58,9 +60,9 @@
             </date>
         </dateSet>
         <locationSet>
-            <location type="other">
-                <refid/>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
+            <location type="repository">
+                <refid>Essai_Politique-Humboldt-1825.jpg</refid>
+                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
             </location>
         </locationSet>
         <rightsSet>
@@ -69,7 +71,7 @@
             </rights>
         </rightsSet>
         <titleSet>
-            <title>Essai_Politique-Humboldt-1825.jpg</title>
+            <title>[Digital Reproduction of "Tableau des Positions Géographiques du Royaume de la Novelle-Espagne" from Political Essay on the Kingdom of New Spain]</title>
         </titleSet>
         <worktypeSet>
             <worktype vocab="AAT" refid="300215302">Digital images</worktype>
