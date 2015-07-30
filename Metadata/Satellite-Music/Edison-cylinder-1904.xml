@@ -1,76 +1,73 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 90608750">Len Spencer, 1867-1914</name>
-                <role>Performer</role>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="local">Edison Records (Firm)</name>
-                <role>Publisher</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1904</earliestDate>
-                <latestDate>1904</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>The Edison Gold Moulded Record was first publicly released in 1902, held 2-3 minutes of content, and featured an improved, long-lasting black wax that could withstand hundreds of plays. This particular recording from January 1904 features an accompanied humorous monologue by Len Spencer (1867-1914), much of whose humor was based on a his use of a stereotypical German dialect.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
-                <refid>Music Library</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>8693 Edison Records, 1904. The display of this physical object constitutes a fair use as detailed in the ACRL's Code of Best Practices in Fair Use for Academic and Research Libraries.</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>What I Heard at the Vaudeville</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300028640">Cylinders (sound recordings)</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
-                <role>Photographer</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate></earliestDate>
-                <latestDate></latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid></refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Image of Edison Wax Cylinder: What I Heard at the Vaudeville]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 90608750">Len Spencer, 1867-1914</name>
+        <role>Performer</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="local">Edison Records (Firm)</name>
+        <role>Publisher</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1904</earliestDate>
+        <latestDate>1904</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>The Edison Gold Moulded Record was first publicly released in 1902, held 2-3 minutes of content, and featured an improved, long-lasting black wax that could withstand hundreds of plays. This particular recording from January 1904 features an accompanied humorous monologue by Len Spencer (1867-1914), much of whose humor was based on a his use of a stereotypical German dialect.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
+        <refid>Music Library</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>8693 Edison Records, 1904. The display of this physical object constitutes a fair use as detailed in the ACRL's Code of Best Practices in Fair Use for Academic and Research Libraries.</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>What I Heard at the Vaudeville</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028640">Cylinders (sound recordings)</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+        <role>Photographer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate/>
+        <latestDate/>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid/>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Image of Edison Wax Cylinder: What I Heard at the Vaudeville]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

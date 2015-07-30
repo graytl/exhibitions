@@ -1,81 +1,78 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 79027469">United States. Army. Corps of Engineers. Nashville District</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1937-01-26</earliestDate>
-                <latestDate>1937-01-26</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>The Cumberland River flooded again in January of 1937, a record flood year for the Cumberland, Mississippi and Tennessee Rivers that has been described as the worst disaster in American history to that date. Snow, sleet and over 21 inches of freezing rain in January caused flood waters to inundate areas that had never before seen floods. Governor Gordon Browning called out the National Guard who worked in tandem with the Red Cross to house and feed displaced residents at the height of the Depression. This view overlooks portions of 7th and 8th Avenue North.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="other">
-                <name type="corporate" vocab="local">United States. Army Corps of Engineers. Nashville District. Library</name>
-                <refid>Item on loan from the United States Army Corps of Engineers Nashville District Library</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>United States Army Corp of Engineers Nashville District</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85049168">Floods--Tennessee--Nashville--Pictorial works</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85034781">Cumberland River (Ky. and Tenn.)--Pictorial works</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85114409">Rivers--Tennessee--Pictorial works</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[1937 Flood: A Look at 7th and 8th Avenues North]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">United States. Army. Corps of Engineers. Nashville District. Library</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-25</earliestDate>
-                <latestDate>2015-03-25</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>13037.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Permission to use but rights retained by United States Army Corp of Engineers Nashville District Library</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of 1937 Flood: A Look at 7th and 8th Avenues North]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 79027469">United States. Army. Corps of Engineers. Nashville District</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1937-01-26</earliestDate>
+        <latestDate>1937-01-26</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>The Cumberland River flooded again in January of 1937, a record flood year for the Cumberland, Mississippi and Tennessee Rivers that has been described as the worst disaster in American history to that date. Snow, sleet and over 21 inches of freezing rain in January caused flood waters to inundate areas that had never before seen floods. Governor Gordon Browning called out the National Guard who worked in tandem with the Red Cross to house and feed displaced residents at the height of the Depression. This view overlooks portions of 7th and 8th Avenue North.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="other">
+        <name type="corporate" vocab="local">United States. Army Corps of Engineers. Nashville District. Library</name>
+        <refid>Item on loan from the United States Army Corps of Engineers Nashville District Library</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>United States Army Corp of Engineers Nashville District</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85049168">Floods--Tennessee--Nashville--Pictorial works</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85034781">Cumberland River (Ky. and Tenn.)--Pictorial works</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85114409">Rivers--Tennessee--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[1937 Flood: A Look at 7th and 8th Avenues North]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">United States. Army. Corps of Engineers. Nashville District. Library</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-25</earliestDate>
+        <latestDate>2015-03-25</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>13037.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of 1937 Flood: A Look at 7th and 8th Avenues North]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

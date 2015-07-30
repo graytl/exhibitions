@@ -1,153 +1,150 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="no 92007018">Thomas, Peter (Peter R.)</name>
-                <role>Book artist</role>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="no 92007019">Thomas, Donna (Donna Sue)</name>
-                <role>Illustrator</role>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="no 99003322">Peter &amp; Donna Thomas (Firm)</name>
-                <role>Publisher</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>2010</earliestDate>
-                <latestDate>2010</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Over the centuries, a variety of materials have been used to create books and documents. Here, artists Peter and Donna Thomas examine some of the types of paper-like materials that have been used, including amate (Mexican bark paper), birch bark, parchment (treated animal skins), papyrus (plant-based paper originating in Egypt), tapa (bark cloth from the Pacific islands), Tyvek (polyethylene fiber paper) and even a wasp nest. Part historical reference and part artists' book, the accordion style letterpress volume features tipped in samples of the materials on handmade paper.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>Sevier Collection, TS 1124 .T465 2010</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Peter Thomas. Fair use argument for inclusion in exhibit - only using image of front cover.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85008302">Artists' books</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="">Paper substitutes</term>
-            </subject>            
-            <subject>
-                <term vocab="LCSH" refid="">Papermaking</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Not Paper</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300123016">Artists' books (books)</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
-                <role>Photographer</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-04-17</earliestDate>
-                <latestDate>2015-04-17</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>20150417SG022.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Not Paper, View From Top of Front Cover and Slipcase]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
-                <role>Photographer</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-04-17</earliestDate>
-                <latestDate>2015-04-17</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>20150417SG023.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Not Paper, Angled View of Open Accordion Pages from Above]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
-                <role>Photographer</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-04-17</earliestDate>
-                <latestDate>2015-04-17</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>20150417SG024.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Not Paper, View from Front of Open Pages, Displaying Page on Papyrus]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="no 92007018">Thomas, Peter (Peter R.)</name>
+        <role>Book artist</role>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="no 92007019">Thomas, Donna (Donna Sue)</name>
+        <role>Illustrator</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="no 99003322">Peter &amp; Donna Thomas (Firm)</name>
+        <role>Publisher</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>2010</earliestDate>
+        <latestDate>2010</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Over the centuries, a variety of materials have been used to create books and documents. Here, artists Peter and Donna Thomas examine some of the types of paper-like materials that have been used, including amate (Mexican bark paper), birch bark, parchment (treated animal skins), papyrus (plant-based paper originating in Egypt), tapa (bark cloth from the Pacific islands), Tyvek (polyethylene fiber paper) and even a wasp nest. Part historical reference and part artists' book, the accordion style letterpress volume features tipped in samples of the materials on handmade paper.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Sevier Collection, TS 1124 .T465 2010</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright maintained by Peter Thomas. Fair use argument for inclusion in exhibit - only using image of front cover.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85008302">Artists' books</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="">Paper substitutes</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="">Papermaking</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Not Paper</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300123016">Artists' books (books)</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+        <role>Photographer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-17</earliestDate>
+        <latestDate>2015-04-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>20150417SG022.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ACRL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Not Paper, View From Top of Front Cover and Slipcase]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+        <role>Photographer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-17</earliestDate>
+        <latestDate>2015-04-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>20150417SG023.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ACRL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Not Paper, Angled View of Open Accordion Pages from Above]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+        <role>Photographer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-17</earliestDate>
+        <latestDate>2015-04-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>20150417SG024.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ACRL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Not Paper, View from Front of Open Pages, Displaying Page on Papyrus]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

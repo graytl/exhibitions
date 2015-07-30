@@ -1,97 +1,94 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>unknown</earliestDate>
-                <latestDate>unknown</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>There is some dispute about early telescopes, but they were probably invented in the early 17th century. Galileo built one in 1609 and was the first to point a telescope at the skies. In the beginning they were cumbersome, but soon nautical instrument makers, who were already providing mariners with navigation instruments, began making telescopes—“spyglasses”—for sailors. We do not know the provenance of this instrument, but it is part of the Garland Collection of Scientific Instruments.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="LCNAF" refid="nr 95028464">Arthur J. Dyer Observatory</name>
-                <refid>Item on loan from the Arthur J. Dyer Observatory</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>The telescope is in the Garland Collection of Instruments from the Dyer Observatory.</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>Telescope</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300150833">Telescopes</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
-                <role>Photographer</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-04-17</earliestDate>
-                <latestDate>2015-04-17</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>20150417SG005.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Telescope, View from Side]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
-                <role>Photographer</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-04-17</earliestDate>
-                <latestDate>2015-04-17</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>20150417SG006.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Telescope, Detail of Lens]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>unknown</earliestDate>
+        <latestDate>unknown</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>There is some dispute about early telescopes, but they were probably invented in the early 17th century. Galileo built one in 1609 and was the first to point a telescope at the skies. In the beginning they were cumbersome, but soon nautical instrument makers, who were already providing mariners with navigation instruments, began making telescopes—“spyglasses”—for sailors. We do not know the provenance of this instrument, but it is part of the Garland Collection of Scientific Instruments.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="LCNAF" refid="nr 95028464">Arthur J. Dyer Observatory</name>
+        <refid>Item on loan from the Arthur J. Dyer Observatory</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>The telescope is in the Garland Collection of Instruments from the Dyer Observatory.</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>Telescope</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300150833">Telescopes</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+        <role>Photographer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-17</earliestDate>
+        <latestDate>2015-04-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>20150417SG005.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Telescope, View from Side]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+        <role>Photographer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-17</earliestDate>
+        <latestDate>2015-04-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>20150417SG006.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Telescope, Detail of Lens]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

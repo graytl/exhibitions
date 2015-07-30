@@ -1,79 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="local">Saulsberry, Anjelica</name>
-                <role>Photographer</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-05-14</earliestDate>
-                <latestDate>2015-05-14</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Anjelica Saulsberry VU '15 constructed a model of the Vanderbilt University Central Library in Minecraft as a part of her 2015 Library Dean's Fellowship. This screen shot displays a side-view of the Central Library within the Minecraft game environment.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>Vanderbilt University Special Collections</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 2012000023">Minecraft (Game)--Pictorial works</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85143202">Video games--Pictorial works</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Profile of the Vanderbilt University Central Library as Recreated in Minecraft</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="repository">
-                <earliestDate>2015-05-14</earliestDate>
-                <latestDate>2015-05-14</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>IMG_5239.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Profile of Vanderbilt University Library as Recreated in Minecraft]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="local">Saulsberry, Anjelica</name>
+        <role>Photographer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-05-14</earliestDate>
+        <latestDate>2015-05-14</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Anjelica Saulsberry VU '15 constructed a model of the Vanderbilt University Central Library in Minecraft as a part of her 2015 Library Dean's Fellowship. This screen shot displays a side-view of the Central Library within the Minecraft game environment.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Vanderbilt University Special Collections</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright Vanderbilt University Special Collections</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 2012000023">Minecraft (Game)--Pictorial works</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85143202">Video games--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Profile of the Vanderbilt University Central Library as Recreated in Minecraft</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="repository">
+        <earliestDate>2015-05-14</earliestDate>
+        <latestDate>2015-05-14</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>IMG_5239.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Profile of Vanderbilt University Library as Recreated in Minecraft]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

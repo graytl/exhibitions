@@ -1,79 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name vocab="LCNAF" refid="n 79099281" type="corporate">United States. Army. Signal Corps</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1919-01-21</earliestDate>
-                <latestDate>1919-01-21</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Few nurses were identified in the Army Signal Corps photographs of nursing units. The Vanderbilt Unit included doctors and local nurses from Davidson County. Head Nurse Catherine Sinnot had worked for St. Thomas Hospital and was awarded the Distinguished Service Medal for her "splendid leadership, tireless energy, and unselfish devotion."  In 1918, Nashville’s Confederate veterans raised $887 to send small Christmas gifts of French money to 31 privates and 16 nurses, perhaps Sinnot and her colleagues shown here.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
-                <refid>Vanderbilt History Files: Series 2, Folder 8, Image 3</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Photo part of series made December,1918 and later by US Army Signal Corps.  Published by US Government Printing Office in 1919 as Catalogue of Official A.E.F. Photographs, United States. War Dept. General Staff [Issue 903 of Document (United States. War Dept.) 
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name vocab="LCNAF" refid="n 79099281" type="corporate">United States. Army. Signal Corps</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1919-01-21</earliestDate>
+        <latestDate>1919-01-21</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Few nurses were identified in the Army Signal Corps photographs of nursing units. The Vanderbilt Unit included doctors and local nurses from Davidson County. Head Nurse Catherine Sinnot had worked for St. Thomas Hospital and was awarded the Distinguished Service Medal for her "splendid leadership, tireless energy, and unselfish devotion."  In 1918, Nashville’s Confederate veterans raised $887 to send small Christmas gifts of French money to 31 privates and 16 nurses, perhaps Sinnot and her colleagues shown here.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
+        <refid>Vanderbilt History Files: Series 2, Folder 8, Image 3</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Photo part of series made December,1918 and later by US Army Signal Corps.  Published by US Government Printing Office in 1919 as Catalogue of Official A.E.F. Photographs, United States. War Dept. General Staff [Issue 903 of Document (United States. War Dept.) 
 Author: United States. War Dept. General Staff Contributor: United States. Army. Signal Corps part of Army Expeditionary Force.] US ASC 46428, Page 505.  Creation dates from USASC 1919 Catalog index.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh2008113826">World War, 1914-1918--Hospitals--Pictorial works</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85093349">Nurses--1910-1920--Pictorial works</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Nurses with the Vanderbilt Hospital in France]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-20</earliestDate>
-                <latestDate>2015-03-20</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Eskind_VUMC-WW1-Nurses-1918.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Nurses with the Vanderbilt Hospital in France]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh2008113826">World War, 1914-1918--Hospitals--Pictorial works</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85093349">Nurses--1910-1920--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Nurses with the Vanderbilt Hospital in France]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-20</earliestDate>
+        <latestDate>2015-03-20</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Eskind_VUMC-WW1-Nurses-1918.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Nurses with the Vanderbilt Hospital in France]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

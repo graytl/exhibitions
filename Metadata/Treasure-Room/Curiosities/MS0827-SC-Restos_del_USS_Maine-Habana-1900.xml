@@ -1,75 +1,72 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 88079917">Detroit Photographic Co.</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>1900</earliestDate>
-                <latestDate>1900</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>A Chromolithographic image of the USS Maine as it sat in Havana, Cuba harbor after it was sank. "Restos del U.S.S. Maine Habana."</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0827, Howard Gottlieb and William H. Jackson Collection</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Published in 1900.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCNAF" refid="n 99022534">Maine (Battleship No. 10)--Pictorial works</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[USS Maine near Habana]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300041384">Chromolithographs</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2915-03-17</earliestDate>
-                <latestDate>2015-03-17</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0827-SC-Restos_del_USS_Maine-Habana-1900.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of USS Maine near Habana]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 88079917">Detroit Photographic Co.</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1900</earliestDate>
+        <latestDate>1900</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>A Chromolithographic image of the USS Maine as it sat in Havana, Cuba harbor after it was sank. "Restos del U.S.S. Maine Habana."</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0827, Howard Gottlieb and William H. Jackson Collection</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Published in 1900.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 99022534">Maine (Battleship No. 10)--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[USS Maine near Habana]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300041384">Chromolithographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2915-03-17</earliestDate>
+        <latestDate>2015-03-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0827-SC-Restos_del_USS_Maine-Habana-1900.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of USS Maine near Habana]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

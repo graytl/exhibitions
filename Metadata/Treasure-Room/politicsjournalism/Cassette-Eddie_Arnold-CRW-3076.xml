@@ -1,88 +1,85 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 88106788">Hurst, Jack</name>
-                <role>Interviewer</role>
-                <dates>
-                    <earliestDate>1918-05-15</earliestDate>
-                    <latestDate>2008-05-08</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 2002068534">Arnold, Eddy, 1918-2008</name>
-                <role>Interviewee</role>
-                <dates>
-                    <earliestDate>1918</earliestDate>
-                    <latestDate>2008</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1977-03-16</earliestDate>
-                <latestDate>1977-03-16</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Jack Hurst interviewed country music star Eddy Arnold (1918-2008) in 1977. Arnold is known as the progenitor of what is called “The Nashville Sound” in country music. This tape is one of the hundreds of audio cassettes that comprise the Jack Hurst Collection. These tapes tap into the heart of country music and reveal the stories, fears, aspirations and successes of many of the greatest musicians country music has produced.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0360, Jack Hurst Collection</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="undetermined">
-                <text>Eddy Arnold passed away, need to ask Jack for permission probably</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCNAF" refid="n 2002068534">Arnold, Eddy, 1918-2008</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Interview of Eddy Arnold By Jack Hurst]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300028661">Audiocassettes</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-05-07</earliestDate>
-                <latestDate>2015-05-07</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Cassette-Eddie_Arnold-CRW-3076.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Image of Cassette Tape, Interview of Eddy Arnold By Jack Hurst]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 88106788">Hurst, Jack</name>
+        <role>Interviewer</role>
+        <dates>
+          <earliestDate>1918-05-15</earliestDate>
+          <latestDate>2008-05-08</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 2002068534">Arnold, Eddy, 1918-2008</name>
+        <role>Interviewee</role>
+        <dates>
+          <earliestDate>1918</earliestDate>
+          <latestDate>2008</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1977-03-16</earliestDate>
+        <latestDate>1977-03-16</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Jack Hurst interviewed country music star Eddy Arnold (1918-2008) in 1977. Arnold is known as the progenitor of what is called “The Nashville Sound” in country music. This tape is one of the hundreds of audio cassettes that comprise the Jack Hurst Collection. These tapes tap into the heart of country music and reveal the stories, fears, aspirations and successes of many of the greatest musicians country music has produced.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0360, Jack Hurst Collection</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="undetermined">
+        <text>Eddy Arnold passed away, need to ask Jack for permission probably</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 2002068534">Arnold, Eddy, 1918-2008</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Interview of Eddy Arnold By Jack Hurst]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028661">Audiocassettes</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-05-07</earliestDate>
+        <latestDate>2015-05-07</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Cassette-Eddie_Arnold-CRW-3076.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Image of Cassette Tape, Interview of Eddy Arnold By Jack Hurst]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

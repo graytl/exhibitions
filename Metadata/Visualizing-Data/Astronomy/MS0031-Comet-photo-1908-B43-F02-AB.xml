@@ -1,70 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1908-11-16</earliestDate>
-                <latestDate>1908-11-16</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>On September 2, 1908, astronomer Daniel Morehouse - studying and photographing comets with Edward Emerson Barnard at Yerkes Observatory - discovered a comet near Cassiopeia. Close observation of the comet by Barnard led to speculation that the tails of comets could be affected by solar weather. This image of Comet Morehouse was taken with the Bruce 10-inch telescope at Yerkes Observatory on November 16, 1908.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0031, Edward Emerson Barnard Papers, Box 43, Folder 2</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Photo taken November 16, 1908 at Yerkes Observatory.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85087248">Morehouse comet</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Comet 1908c (Morehouse)</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-05-06</earliestDate>
-                <latestDate>2015-05-06</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0031-Comet-photo-1908-B43-F02-AB.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Comet 1908c (Morehouse)]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1908-11-16</earliestDate>
+        <latestDate>1908-11-16</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>On September 2, 1908, astronomer Daniel Morehouse - studying and photographing comets with Edward Emerson Barnard at Yerkes Observatory - discovered a comet near Cassiopeia. Close observation of the comet by Barnard led to speculation that the tails of comets could be affected by solar weather. This image of Comet Morehouse was taken with the Bruce 10-inch telescope at Yerkes Observatory on November 16, 1908.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0031, Edward Emerson Barnard Papers, Box 43, Folder 2</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Photo taken November 16, 1908 at Yerkes Observatory.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85087248">Morehouse comet</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Comet 1908c (Morehouse)</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-05-06</earliestDate>
+        <latestDate>2015-05-06</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0031-Comet-photo-1908-B43-F02-AB.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Comet 1908c (Morehouse)]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

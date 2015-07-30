@@ -1,109 +1,106 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 83120193">Kimhi, David, approximately 1160-approximately 1235</name>
-                <dates>
-                    <earliestDate>1160</earliestDate>
-                    <latestDate>1235?</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>1545</earliestDate>
-                <latestDate>1545</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>David Kimhi (approximately 1160–1235) was a grammarian and exegete of Narbonne, Provence. Sefer ha-shorashim is the lexicon of a two-part philological treatise. His chief contribution in grammar lies in the arrangement of the material and the popularization of the division of the vowels into five long and five short, the treatment of the nifal as the passive of the kal, and the recognition of the dagesh lene.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>Memorabilia Collection, PJ 4563 .K5 1545</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>It was published in 1547.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 89002513">Hebrew language--Dictionaries--Early works to 1800</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Sefer ha-shorashim</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300028051">Books</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-09</earliestDate>
-                <latestDate>2015-03-09</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>PJ4563_K5-1545-Sefer_ha-shora-shim-01.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Sefer ha-shorashim, Title Page]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-09</earliestDate>
-                <latestDate>2015-03-09</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>PJ4563_K5-1545-Sefer_ha-shora-shim-02.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Sefer ha-shorashim, Page 3]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 83120193">Kimhi, David, approximately 1160-approximately 1235</name>
+        <dates>
+          <earliestDate>1160</earliestDate>
+          <latestDate>1235?</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1545</earliestDate>
+        <latestDate>1545</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>David Kimhi (approximately 1160–1235) was a grammarian and exegete of Narbonne, Provence. Sefer ha-shorashim is the lexicon of a two-part philological treatise. His chief contribution in grammar lies in the arrangement of the material and the popularization of the division of the vowels into five long and five short, the treatment of the nifal as the passive of the kal, and the recognition of the dagesh lene.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Memorabilia Collection, PJ 4563 .K5 1545</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>It was published in 1547.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 89002513">Hebrew language--Dictionaries--Early works to 1800</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Sefer ha-shorashim</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028051">Books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-09</earliestDate>
+        <latestDate>2015-03-09</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>PJ4563_K5-1545-Sefer_ha-shora-shim-01.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Sefer ha-shorashim, Title Page]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-09</earliestDate>
+        <latestDate>2015-03-09</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>PJ4563_K5-1545-Sefer_ha-shora-shim-02.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Sefer ha-shorashim, Page 3]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

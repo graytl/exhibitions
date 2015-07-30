@@ -1,96 +1,93 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 79081610">Diderot, Denis, 1713-1784</name>
-                <role>Typographer</role>
-                <dates>
-                    <earliestDate>1713</earliestDate>
-                    <latestDate>1784</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 50059010">Alembert, Jean Le Rond d', 1717-1783</name>
-                <role>Editor</role>
-                <dates>
-                    <earliestDate>1717-11-16</earliestDate>
-                    <latestDate>1783-10-29</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 50054657">Imprimerie nationale (France)</name>
-                <role>Publisher</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1751</earliestDate>
-                <latestDate>1751</latestDate>
-            </date>
-            <date type="publication">
-                <earliestDate>1950</earliestDate>
-                <latestDate>1950</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Denis Diderot, a key figure in the advancement of Enlightenment philosophy, envisioned the project of the Encyclopedie with his collaborator Jean D’Alembert. The prospectus was accompanied by a diagram of the “Map of Human Knowledge” which Diderot described as "the Genealogical Tree of All the Arts and Sciences." The Systême figuré groups all learning under memory (history), reason (philosophy) or imagination (poetry). God, as the source of knowledge, is conspicuously absent.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="LCNAF" refid="n 80042428">W.T. Bandy Center for Baudelaire Studies</name>
-                <refid>W.T. Bandy Center for Baudelaire Studies, Morris Wachs Collection, AE25 .E555 1751a</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Published 1950; Facsimilie reproduction, Paris: Imprimerie Nationale; Atelier du Livre d'Art et de l'Estampe, Rue des Frères Beaumont, 59128 Flers en Escrébieux, Tél : 03 27 93 70 70, Fax : 03 27 93 70 13, contact@imprimerienationale.fr</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85043011">Encyclopedias and dictionaries, French--Specimens</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Encyclopédie, ou Dictionnaire Raisonné des Sciences</title>
-           </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300129439">Encyclopedias</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-30</earliestDate>
-                <latestDate>2015-03-30</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Encyclopedie_Prospectus-Diderot-1751.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Encyclopédie, ou Dictionnaire Raisonné des Sciences, "Systême Figuré des Connoissances Humaines"]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
-    </vra>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 79081610">Diderot, Denis, 1713-1784</name>
+        <role>Typographer</role>
+        <dates>
+          <earliestDate>1713</earliestDate>
+          <latestDate>1784</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 50059010">Alembert, Jean Le Rond d', 1717-1783</name>
+        <role>Editor</role>
+        <dates>
+          <earliestDate>1717-11-16</earliestDate>
+          <latestDate>1783-10-29</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 50054657">Imprimerie nationale (France)</name>
+        <role>Publisher</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1751</earliestDate>
+        <latestDate>1751</latestDate>
+      </date>
+      <date type="publication">
+        <earliestDate>1950</earliestDate>
+        <latestDate>1950</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Denis Diderot, a key figure in the advancement of Enlightenment philosophy, envisioned the project of the Encyclopedie with his collaborator Jean D’Alembert. The prospectus was accompanied by a diagram of the “Map of Human Knowledge” which Diderot described as "the Genealogical Tree of All the Arts and Sciences." The Systême figuré groups all learning under memory (history), reason (philosophy) or imagination (poetry). God, as the source of knowledge, is conspicuously absent.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="LCNAF" refid="n 80042428">W.T. Bandy Center for Baudelaire Studies</name>
+        <refid>W.T. Bandy Center for Baudelaire Studies, Morris Wachs Collection, AE25 .E555 1751a</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Published 1950; Facsimilie reproduction, Paris: Imprimerie Nationale; Atelier du Livre d'Art et de l'Estampe, Rue des Frères Beaumont, 59128 Flers en Escrébieux, Tél : 03 27 93 70 70, Fax : 03 27 93 70 13, contact@imprimerienationale.fr</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85043011">Encyclopedias and dictionaries, French--Specimens</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Encyclopédie, ou Dictionnaire Raisonné des Sciences</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300129439">Encyclopedias</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-30</earliestDate>
+        <latestDate>2015-03-30</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Encyclopedie_Prospectus-Diderot-1751.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Encyclopédie, ou Dictionnaire Raisonné des Sciences, "Systême Figuré des Connoissances Humaines"]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

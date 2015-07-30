@@ -1,91 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 79003254">Galilei, Galileo, 1564-1642</name>
-                <role>Author</role>
-                <dates>
-                    <earliestDate>1564</earliestDate>
-                    <latestDate>1642</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="local">Archival Facsimiles, Ltd.</name>
-                <role>Publisher</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1610</earliestDate>
-                <latestDate>1610</latestDate>
-            </date>
-            <date type="publication">
-                <earliestDate>1987</earliestDate>
-                <latestDate>1987</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>This is a facsimile of the copy of Sidereus Nuncius by Galileo, originally written in 1610. In it, Galileo published his discovery of four "Medicean Stars" (now known as the Galilean Moons of Jupiter). It also has Galileo's drawings of the moon, previously thought to be perfect and smooth, but now seen to have mountains and plains. Galileo was not the first person to look through a telescope, but he was the first to point one toward the heavens and report on he saw.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>Sevier Collection, QB41 .G178 1610a</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="undetermined">
-                <text>This is a facsimilie of the copy of Sidereus nuncius by Galileo from 1610. It was published by Alburg [Norfolk] : Archival Facsimiles Ltd., 1987. The Corporate Author is listed as the British Library.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 94005240">Jupiter (Planet)--Satellites</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 92001341">Astronomy, Renaissance</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Sidereus Nuncius: a Reproduction of the Copy in the British Library</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300028051">Books</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-30</earliestDate>
-                <latestDate>2015-03-30</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>DV-Sidereus_Nuncius-Galileo-1610(1987).jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Sidereus Nuncius: a Reproduction of the Copy in the British Library]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 79003254">Galilei, Galileo, 1564-1642</name>
+        <role>Author</role>
+        <dates>
+          <earliestDate>1564</earliestDate>
+          <latestDate>1642</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="local">Archival Facsimiles, Ltd.</name>
+        <role>Publisher</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1610</earliestDate>
+        <latestDate>1610</latestDate>
+      </date>
+      <date type="publication">
+        <earliestDate>1987</earliestDate>
+        <latestDate>1987</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>This is a facsimile of the copy of Sidereus Nuncius by Galileo, originally written in 1610. In it, Galileo published his discovery of four "Medicean Stars" (now known as the Galilean Moons of Jupiter). It also has Galileo's drawings of the moon, previously thought to be perfect and smooth, but now seen to have mountains and plains. Galileo was not the first person to look through a telescope, but he was the first to point one toward the heavens and report on he saw.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Sevier Collection, QB41 .G178 1610a</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="undetermined">
+        <text>This is a facsimilie of the copy of Sidereus nuncius by Galileo from 1610. It was published by Alburg [Norfolk] : Archival Facsimiles Ltd., 1987. The Corporate Author is listed as the British Library.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 94005240">Jupiter (Planet)--Satellites</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 92001341">Astronomy, Renaissance</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Sidereus Nuncius: a Reproduction of the Copy in the British Library</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028051">Books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-30</earliestDate>
+        <latestDate>2015-03-30</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>DV-Sidereus_Nuncius-Galileo-1610(1987).jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Sidereus Nuncius: a Reproduction of the Copy in the British Library]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

@@ -1,101 +1,98 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 50007704">Bernstein, Leonard, 1918-1990</name>
-                <role>Conductor</role>
-            <dates>
-                <earliestDate>1918-08-25</earliestDate>
-                <latestDate>1990-10-14</latestDate>
-            </dates>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 79089419">Copland, Aaron, 1900-1990</name>
-                <role>Composer</role>
-                <dates>
-                    <earliestDate>1900-11-14</earliestDate>
-                    <latestDate>1990-12-02</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 81139912">New York Philharmonic</name>
-                <role>Performer</role>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 92049888">Columbia Records, Inc.</name>
-                <role>Publisher</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1970</earliestDate>
-                <latestDate>1970</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>First used for commercial recordings by Bing Crosby, reel-to-reel tape became the preferred recording medium for artists across all genres of music. The analog magnetic recording remained dominant until the development of digital audio technology</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
-                <refid>Music Library, Annex, LP MUS-B 256</refid>
-            </location>
-            <location type="creation">
-                <name type="corporate" vocab="LCNAF" refid="n 92049888">Columbia Records, Inc.</name> 
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>MQ 559 Columbia Records (New York, NY), n.d. (recorded works are all still under copyright).The display of this physical object constitutes a fair use as detailed in the ACRL's Code of Best Practices in Fair Use for Academic and Research Libraries.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85095326">Orchestral music</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title pref="true">Bernstein Conducts Copland</title>
-            <title pref="false">Inscape: Connotations, for Orchestra</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300374971">Tape reels</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
-                <role>Photographer</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-04-17</earliestDate>
-                <latestDate>2015-04-17</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>20150417SG046.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Bernstein Conducts Copland]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 50007704">Bernstein, Leonard, 1918-1990</name>
+        <role>Conductor</role>
+        <dates>
+          <earliestDate>1918-08-25</earliestDate>
+          <latestDate>1990-10-14</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 79089419">Copland, Aaron, 1900-1990</name>
+        <role>Composer</role>
+        <dates>
+          <earliestDate>1900-11-14</earliestDate>
+          <latestDate>1990-12-02</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 81139912">New York Philharmonic</name>
+        <role>Performer</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 92049888">Columbia Records, Inc.</name>
+        <role>Publisher</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1970</earliestDate>
+        <latestDate>1970</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>First used for commercial recordings by Bing Crosby, reel-to-reel tape became the preferred recording medium for artists across all genres of music. The analog magnetic recording remained dominant until the development of digital audio technology</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
+        <refid>Music Library, Annex, LP MUS-B 256</refid>
+      </location>
+      <location type="creation">
+        <name type="corporate" vocab="LCNAF" refid="n 92049888">Columbia Records, Inc.</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>MQ 559 Columbia Records (New York, NY), n.d. (recorded works are all still under copyright).The display of this physical object constitutes a fair use as detailed in the ACRL's Code of Best Practices in Fair Use for Academic and Research Libraries.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85095326">Orchestral music</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title pref="true">Bernstein Conducts Copland</title>
+      <title pref="false">Inscape: Connotations, for Orchestra</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300374971">Tape reels</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+        <role>Photographer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-17</earliestDate>
+        <latestDate>2015-04-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>20150417SG046.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ACRL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Bernstein Conducts Copland]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

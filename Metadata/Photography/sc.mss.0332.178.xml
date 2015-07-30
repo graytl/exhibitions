@@ -1,65 +1,62 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>unknown</earliestDate>
-                <latestDate>unknown</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Composite images like this one were an early form of Photoshop.  Chancellor Kirkland is flanked by Registrar Mary W. Haggard, and Academic Bursar J.E. Hart.   Medical Department Bursar A.E. Godwin completes the group.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0332, Edward East Barthell Collection, Number 178</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Image created c. 1898; part of Barthell Collection and may date to c. 1905 when E.E. Barthell was president of the Vanderbilt Alumni Association.</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Vanderbilt University Adminstration]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300134769">Composite photographs</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-20</earliestDate>
-                <latestDate>2015-03-20</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>sc.mss.0332.178.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Vanderbilt University Administration]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>unknown</earliestDate>
+        <latestDate>unknown</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Composite images like this one were an early form of Photoshop.  Chancellor Kirkland is flanked by Registrar Mary W. Haggard, and Academic Bursar J.E. Hart.   Medical Department Bursar A.E. Godwin completes the group.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0332, Edward East Barthell Collection, Number 178</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Image created c. 1898; part of Barthell Collection and may date to c. 1905 when E.E. Barthell was president of the Vanderbilt Alumni Association.</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Vanderbilt University Adminstration]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300134769">Composite photographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-20</earliestDate>
+        <latestDate>2015-03-20</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>sc.mss.0332.178.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Vanderbilt University Administration]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

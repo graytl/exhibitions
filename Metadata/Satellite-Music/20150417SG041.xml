@@ -1,77 +1,74 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 84040978">Apple Computer, Inc.</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2007</earliestDate>
-                <latestDate>2007</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>The Apple iPod marked a new commercial revolution for the music industry. Giving users the ability to legally download thousands of songs in a single device, Apple offered a legal way forward for digital music.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="other">
-                <name type="corporate" vocab="local">Private Collection</name>
-                <refid>Item on loan from a private collection</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">             
-                <text>Patented by Apple, Inc., 1 Infinite Loop, Cupertino, CA, 95014. The display of a single image of this item constitutes a fair use as detailed in the ACRL's Code of Best Practices in Fair Use for Academic and Research Libraries.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh2004002275">iPod (Digital music player)--Specimens</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>iPod Classic</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300265816">MP3 players</worktype>
-            <worktype vocab="AAT" refid="300265815">Digital music players</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
-                <role>Photographer</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-04-17</earliestDate>
-                <latestDate>2015-04-17</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>20150417SG041.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Image of iPod Classic, View of Front]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 84040978">Apple Computer, Inc.</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2007</earliestDate>
+        <latestDate>2007</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>The Apple iPod marked a new commercial revolution for the music industry. Giving users the ability to legally download thousands of songs in a single device, Apple offered a legal way forward for digital music.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="other">
+        <name type="corporate" vocab="local">Private Collection</name>
+        <refid>Item on loan from a private collection</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Patented by Apple, Inc., 1 Infinite Loop, Cupertino, CA, 95014. The display of a single image of this item constitutes a fair use as detailed in the ACRL's Code of Best Practices in Fair Use for Academic and Research Libraries.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh2004002275">iPod (Digital music player)--Specimens</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>iPod Classic</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300265816">MP3 players</worktype>
+      <worktype vocab="AAT" refid="300265815">Digital music players</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+        <role>Photographer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-17</earliestDate>
+        <latestDate>2015-04-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>20150417SG041.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Image of iPod Classic, View of Front]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

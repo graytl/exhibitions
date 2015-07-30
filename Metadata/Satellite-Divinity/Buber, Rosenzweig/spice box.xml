@@ -1,71 +1,68 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1830</earliestDate>
-                <latestDate>1839?</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Spice containers are used during the Havdalah ceremony, which marks the closing of the Shabbat and other holidays. The spices (in Hebrew, besamim) are stored in a dedicated container. Their smell should be sweet. Traditionally the spices include cloves, myrtle and bay leaves. This spice box was made in sterling silver in Paris, France.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="other">
-                <name type="corporate" vocab="local">Congregation Micah (Brentwood, Tn.)</name>
-                <refid>Item on loan</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="undetermined">
-                <text>This is a 3D artifact without a clear rightsholder.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 86001949">Spice boxes--Specimens</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[B’Samin-Spice Box from Paris, France]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300198947">Spice boxes</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
-                <role>Photographer</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-04-17</earliestDate>
-                <latestDate>2015-04-17</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="other">
-                <refid>Spice Box.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of B’Samin-Spice Box from Paris, France, View from Top]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1830</earliestDate>
+        <latestDate>1839?</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Spice containers are used during the Havdalah ceremony, which marks the closing of the Shabbat and other holidays. The spices (in Hebrew, besamim) are stored in a dedicated container. Their smell should be sweet. Traditionally the spices include cloves, myrtle and bay leaves. This spice box was made in sterling silver in Paris, France.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="other">
+        <name type="corporate" vocab="local">Congregation Micah (Brentwood, Tn.)</name>
+        <refid>Item on loan</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="undetermined">
+        <text>This is a 3D artifact without a clear rightsholder.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 86001949">Spice boxes--Specimens</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[B’Samin-Spice Box from Paris, France]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300198947">Spice boxes</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+        <role>Photographer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-17</earliestDate>
+        <latestDate>2015-04-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="other">
+        <refid>Spice Box.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of B’Samin-Spice Box from Paris, France, View from Top]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

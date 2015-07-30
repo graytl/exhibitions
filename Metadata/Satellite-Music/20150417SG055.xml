@@ -1,90 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra-strict.xsd">
-    <work id="w_28" source="Core 4 Sample Database (VCat)" refid="28">
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="nr98029157">All-Star Trio</name>
-                <role>Performer</role>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 78029020">Gay, Byron</name>
-                <role>Performer</role>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="no2005104191">Ken Fuller's Famous Jazz Band</name>
-                <role>Performer</role>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="">Edison</name>
-                <role>Publisher</role>
-            </agent>
-        </agentSet>
-            <dateSet>
-                <date type="creation">
-                    <earliestDate>1919</earliestDate>
-                    <latestDate>1919</latestDate>
-                </date>
-            </dateSet>
-        <descriptionSet>
-            <description>This is an analog recording marketed as the Edison Diamond Disc. The disc rotates at 80 rpm, reflecting non-standardized recording practices common in the early 20th century.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
-                <refid>Music Library, 78RPM MUS-63</refid>
-            </location>
-        </locationSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 90002676">Jazz--To 1921</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85051129">Foxtrots</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 87003300">Popular music--1911-1920</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title pref="true">Sand Dunes: One-Step</title>
-            <title pref="false">I'm Sorry I Made You Cry: Jazz Fox Trot</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300028633">Sound recordings</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
-                <role>Photographer</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-04-17</earliestDate>
-                <latestDate>2015-04-17</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>20150417SG055.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Sand Dunes: One-Step; I'm Sorry I Made You Cry: Jazz Fox Trot]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra-strict.xsd">
+  <work id="w_28" source="Core 4 Sample Database (VCat)" refid="28">
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="nr98029157">All-Star Trio</name>
+        <role>Performer</role>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 78029020">Gay, Byron</name>
+        <role>Performer</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="no2005104191">Ken Fuller's Famous Jazz Band</name>
+        <role>Performer</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="">Edison</name>
+        <role>Publisher</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1919</earliestDate>
+        <latestDate>1919</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>This is an analog recording marketed as the Edison Diamond Disc. The disc rotates at 80 rpm, reflecting non-standardized recording practices common in the early 20th century.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
+        <refid>Music Library, 78RPM MUS-63</refid>
+      </location>
+    </locationSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 90002676">Jazz--To 1921</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85051129">Foxtrots</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 87003300">Popular music--1911-1920</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title pref="true">Sand Dunes: One-Step</title>
+      <title pref="false">I'm Sorry I Made You Cry: Jazz Fox Trot</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028633">Sound recordings</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+        <role>Photographer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-17</earliestDate>
+        <latestDate>2015-04-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>20150417SG055.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ACRL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Sand Dunes: One-Step; I'm Sorry I Made You Cry: Jazz Fox Trot]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

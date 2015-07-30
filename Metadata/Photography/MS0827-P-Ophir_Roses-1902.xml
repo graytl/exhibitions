@@ -1,78 +1,75 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 88079917">Detroit Photographic Co.</name>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 50027955">Jackson, William Henry, 1843-1942</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1902</earliestDate>
-                <latestDate>1902</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Like postcards, photochrom prints appealed to consumers as souvenirs of landscapes, tourist attractions, and idealized locales. Carmelita Garden in Pasadena showcased plants from around the world, all seen thriving in Southern California’s mild weather. Started as an agricultural town, Pasadena became famous for its Tournament of Roses Parade begun in 1890 and held every year on New Year’s Day.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0827, Howard Gottlieb and William H. Jackson Collection</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Image made in 1902.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85115447">Roses--Varieties--Pictorial works</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Gold of Ophir Roses Carmelita, Pasadena, California]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300265036">Photochroms</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-11</earliestDate>
-                <latestDate>2015-03-11</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0827-P-Ophir_Roses-1902.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Gold of Ophir Roses Carmelita, Pasadena, California]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 88079917">Detroit Photographic Co.</name>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 50027955">Jackson, William Henry, 1843-1942</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1902</earliestDate>
+        <latestDate>1902</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Like postcards, photochrom prints appealed to consumers as souvenirs of landscapes, tourist attractions, and idealized locales. Carmelita Garden in Pasadena showcased plants from around the world, all seen thriving in Southern California’s mild weather. Started as an agricultural town, Pasadena became famous for its Tournament of Roses Parade begun in 1890 and held every year on New Year’s Day.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0827, Howard Gottlieb and William H. Jackson Collection</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Image made in 1902.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85115447">Roses--Varieties--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Gold of Ophir Roses Carmelita, Pasadena, California]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300265036">Photochroms</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-11</earliestDate>
+        <latestDate>2015-03-11</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0827-P-Ophir_Roses-1902.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Gold of Ophir Roses Carmelita, Pasadena, California]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

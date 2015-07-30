@@ -1,86 +1,83 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 85188904">Underwood &amp; Underwood</name>
-                <dates>
-                    <earliestDate>1882</earliestDate>
-                    <latestDate>1921</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 88283087">Ricalton, James</name>
-                <dates>
-                    <earliestDate>1844</earliestDate>
-                    <latestDate>1929</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1901</earliestDate>
-                <latestDate>1901</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>James Ricalton wrote of being the first westerner inside the Imperial City. He described the palace as “empty of nearly all portable articles” after the looting by Allied troops and missionaries. Ricalton wanted armchair travelers to experience "the very same feelings [in Peking]" as he had. He described two states of reality viewers would experience; the reality of the physical world and an altered state of consciousness or "soul life."</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0546, Bets Ramsey Collection, Photo Box 1</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>created in 1900 after Boxer Rebellion. published 1901.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85024100 ">China--History--Boxer Rebellion, 1899-1901--Pictorial works</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Springless, Seatless Coach--Coal Hill, in Imperial City]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300127197">Stereographs</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-11</earliestDate>
-                <latestDate>2015-03-11</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0546-P-85-Coach-1901.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Springless, Seatless Coach--Coal Hill, in Imperial City]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 85188904">Underwood &amp; Underwood</name>
+        <dates>
+          <earliestDate>1882</earliestDate>
+          <latestDate>1921</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 88283087">Ricalton, James</name>
+        <dates>
+          <earliestDate>1844</earliestDate>
+          <latestDate>1929</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1901</earliestDate>
+        <latestDate>1901</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>James Ricalton wrote of being the first westerner inside the Imperial City. He described the palace as “empty of nearly all portable articles” after the looting by Allied troops and missionaries. Ricalton wanted armchair travelers to experience "the very same feelings [in Peking]" as he had. He described two states of reality viewers would experience; the reality of the physical world and an altered state of consciousness or "soul life."</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0546, Bets Ramsey Collection, Photo Box 1</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>created in 1900 after Boxer Rebellion. published 1901.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85024100 ">China--History--Boxer Rebellion, 1899-1901--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Springless, Seatless Coach--Coal Hill, in Imperial City]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300127197">Stereographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-11</earliestDate>
+        <latestDate>2015-03-11</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0546-P-85-Coach-1901.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Springless, Seatless Coach--Coal Hill, in Imperial City]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

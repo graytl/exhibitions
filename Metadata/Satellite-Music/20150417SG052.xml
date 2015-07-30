@@ -1,120 +1,117 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra-strict.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 81097891">Jones, Isham, 1894-1956</name>
-                <role>Composer</role>
-                <role>Performer</role>
-                <dates>
-                    <earliestDate>1894</earliestDate>
-                    <latestDate>1956</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="no 95057874">Newman, Charles, 1901-1978</name>
-                <role>Composer</role>
-                <dates>
-                    <earliestDate>1901</earliestDate>
-                    <latestDate>1978</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="no 97061451">Spitalny, Phil, 1890-1970</name>
-                <role>Performer</role>
-                <dates>
-                    <earliestDate>1890</earliestDate>
-                    <latestDate>1970</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="no2011046075">Coty, Bill</name>
-                <role>Performer</role>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="no2005051190">Phil Spitalny's Music</name>
-                <role>Performer</role>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 2005036871">Hit of the Week (Sound recording label)</name>
-                <role>Publisher</role>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="nb2007012479">Durium (Record company)</name>
-                <role>Printer</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1930</earliestDate>
-                <latestDate>1930</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>While shellac and vinyl are commonly associated with sound recordings, other types of materials were sometimes used in their manufacture. This 78 rpm is made of cardboard. Designed to be played only once, cardboard recordings could be made cheaply and quickly and were often featured on cereal boxes.</description>
-        </descriptionSet>
-        <inscriptionSet>
-            <inscription>
-                <position>Inscribed on disc label</position>
-                <text type="text" xml:lang="en">Hit of the Week: What's the use: Fox Trot</text>
-                <text type="translation" xml:lang="es">Para que: Fox Trot</text>
-            </inscription>
-        </inscriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
-                <refid>Music Library, 78RPM MUS-83</refid>
-            </location>
-        </locationSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 87003302">Popular music, 1921-1930</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85051129">Foxtrots</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Hit of the Week: What's the Use: Fox Trot</title>
-        </titleSet>
-        <worktypeSet>
-            <display>78 rpm records</display>
-            <worktype vocab="AAT" refid="300265790">78 rpm records</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
-                <role>Photographer</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-04-17</earliestDate>
-                <latestDate>2015-04-17</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>20150417SG052.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Hit of the Week: What's the Use: Fox Trot, View of Front of Record]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra-strict.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 81097891">Jones, Isham, 1894-1956</name>
+        <role>Composer</role>
+        <role>Performer</role>
+        <dates>
+          <earliestDate>1894</earliestDate>
+          <latestDate>1956</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="no 95057874">Newman, Charles, 1901-1978</name>
+        <role>Composer</role>
+        <dates>
+          <earliestDate>1901</earliestDate>
+          <latestDate>1978</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="no 97061451">Spitalny, Phil, 1890-1970</name>
+        <role>Performer</role>
+        <dates>
+          <earliestDate>1890</earliestDate>
+          <latestDate>1970</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="no2011046075">Coty, Bill</name>
+        <role>Performer</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="no2005051190">Phil Spitalny's Music</name>
+        <role>Performer</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 2005036871">Hit of the Week (Sound recording label)</name>
+        <role>Publisher</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="nb2007012479">Durium (Record company)</name>
+        <role>Printer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1930</earliestDate>
+        <latestDate>1930</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>While shellac and vinyl are commonly associated with sound recordings, other types of materials were sometimes used in their manufacture. This 78 rpm is made of cardboard. Designed to be played only once, cardboard recordings could be made cheaply and quickly and were often featured on cereal boxes.</description>
+    </descriptionSet>
+    <inscriptionSet>
+      <inscription>
+        <position>Inscribed on disc label</position>
+        <text type="text" xml:lang="en">Hit of the Week: What's the use: Fox Trot</text>
+        <text type="translation" xml:lang="es">Para que: Fox Trot</text>
+      </inscription>
+    </inscriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
+        <refid>Music Library, 78RPM MUS-83</refid>
+      </location>
+    </locationSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 87003302">Popular music, 1921-1930</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85051129">Foxtrots</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Hit of the Week: What's the Use: Fox Trot</title>
+    </titleSet>
+    <worktypeSet>
+      <display>78 rpm records</display>
+      <worktype vocab="AAT" refid="300265790">78 rpm records</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+        <role>Photographer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-17</earliestDate>
+        <latestDate>2015-04-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>20150417SG052.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ACRL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Hit of the Week: What's the Use: Fox Trot, View of Front of Record]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

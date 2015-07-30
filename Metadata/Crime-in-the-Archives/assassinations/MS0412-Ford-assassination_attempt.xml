@@ -1,79 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Colorano Covers</name>
-                <dates>
-                    <earliestDate>1958</earliestDate>
-                    <latestDate>present</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>1975-09-05</earliestDate>
-                <latestDate>1975-09-05</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>This Colorano “Silk” Cachet First Day Cover memorializes the assassination attempt by Lynette “Squeaky” Fromme (1948- ) to shoot President Gerald Ford (1913-2006) as he crossed a park in front of the California State Capitol at Sacramento, California, on September 5, 1975. First Day Covers have become popular ways to commemorate events and people and are highly collectible.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0412, James G. Stahlman Historical Autograph Collection, Lynette Fromme</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Does not infringe on them</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh2009005615">Presidents--Assassination attempts--United States</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>President Gerald Fold Assassination Attempt</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300195405">First day covers</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-17</earliestDate>
-                <latestDate>2015-03-17</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0412-Ford-assassination_attempt.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of President Gerald Fold Assassination Attempt]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Colorano Covers</name>
+        <dates>
+          <earliestDate>1958</earliestDate>
+          <latestDate>present</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1975-09-05</earliestDate>
+        <latestDate>1975-09-05</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>This Colorano “Silk” Cachet First Day Cover memorializes the assassination attempt by Lynette “Squeaky” Fromme (1948- ) to shoot President Gerald Ford (1913-2006) as he crossed a park in front of the California State Capitol at Sacramento, California, on September 5, 1975. First Day Covers have become popular ways to commemorate events and people and are highly collectible.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0412, James G. Stahlman Historical Autograph Collection, Lynette Fromme</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Does not infringe on them</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh2009005615">Presidents--Assassination attempts--United States</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>President Gerald Fold Assassination Attempt</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300195405">First day covers</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-17</earliestDate>
+        <latestDate>2015-03-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0412-Ford-assassination_attempt.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of President Gerald Fold Assassination Attempt]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

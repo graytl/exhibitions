@@ -1,90 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 50028929">Hooke, Robert, 1635-1703</name>
-                <role>Author</role>
-                <dates>
-                    <earliestDate>1635-07-28</earliestDate>
-                    <latestDate>1703-03-03</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="nr 94029365">Allestry, James, -1670</name>
-                <role>Issuing body</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>1667</earliestDate>
-                <latestDate>1667</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>The optical microscope first appeared in the 1590s, but the use of microscopes for research did not gain acceptance until the 1660s. It was then that English natural philosopher Robert Hooke began an extended set of experiments with the microscope on plants, insects and combustion and respiration. The large plates in his Micrographia, created with the support of architect Christopher Wren, confirmed the value of the microscope for discovering natural worlds previously invisible to the human eye.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>Sevier Oversize Collection, QH271 .H8</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>published 1667</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 92003375">Microscopes</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 92003369">Microscopy</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85090231">Natural history--Pre-Linnean works</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Micrographia: or, Some Physiological Descriptions of Minute Bodies Made by Magnifying Glasses</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300028051">Books</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-30</earliestDate>
-                <latestDate>2015-03-30</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Micrographia-Hooke-1667.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Micrographia: or, Some Physiological Descriptions of Minute Bodies Made by Magnifying Glasses, Page Illustrated with Scientific Instruments]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 50028929">Hooke, Robert, 1635-1703</name>
+        <role>Author</role>
+        <dates>
+          <earliestDate>1635-07-28</earliestDate>
+          <latestDate>1703-03-03</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="nr 94029365">Allestry, James, -1670</name>
+        <role>Issuing body</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1667</earliestDate>
+        <latestDate>1667</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>The optical microscope first appeared in the 1590s, but the use of microscopes for research did not gain acceptance until the 1660s. It was then that English natural philosopher Robert Hooke began an extended set of experiments with the microscope on plants, insects and combustion and respiration. The large plates in his Micrographia, created with the support of architect Christopher Wren, confirmed the value of the microscope for discovering natural worlds previously invisible to the human eye.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Sevier Oversize Collection, QH271 .H8</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>published 1667</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 92003375">Microscopes</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 92003369">Microscopy</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85090231">Natural history--Pre-Linnean works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Micrographia: or, Some Physiological Descriptions of Minute Bodies Made by Magnifying Glasses</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028051">Books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-30</earliestDate>
+        <latestDate>2015-03-30</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Micrographia-Hooke-1667.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Micrographia: or, Some Physiological Descriptions of Minute Bodies Made by Magnifying Glasses, Page Illustrated with Scientific Instruments]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

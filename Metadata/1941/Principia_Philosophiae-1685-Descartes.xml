@@ -1,86 +1,83 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 79061201">Descartes, René, 1596-1650</name>
-                <dates>
-                    <earliestDate>1596-03-31</earliestDate>
-                    <latestDate>1650-02-11</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="no 96045881">Typographia Blaviani</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>1685</earliestDate>
-                <latestDate>1685</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>French philosopher, mathematician and writer René Descartes has been called the father of modern philosophy. His Principia Philosophiae, first published in 1644, put forth the theory that the universe operated as a continuously running machine which God had set in motion. The universe, which has no vacuum, was composed of a 'subtle matter' he named 'tourbillons,' which swirled in vortices like whirlpools and actually moved the planets by contact.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>Memorabilia Collection, B1863 1685</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>published in 1685</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh2008109249">Physics--Early works to 1800</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85118565">Science--Early works to 1800</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title pref="true">Principia Philosophiæ</title>
-            <title pref="false">Principia Philosophiae</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300028051">Books</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-30</earliestDate>
-                <latestDate>2015-03-30</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Principia_Philosophiae-1685-Descartes.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Principia Philosophiæ, Detail of "Pars Tertia"]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 79061201">Descartes, René, 1596-1650</name>
+        <dates>
+          <earliestDate>1596-03-31</earliestDate>
+          <latestDate>1650-02-11</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="no 96045881">Typographia Blaviani</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1685</earliestDate>
+        <latestDate>1685</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>French philosopher, mathematician and writer René Descartes has been called the father of modern philosophy. His Principia Philosophiae, first published in 1644, put forth the theory that the universe operated as a continuously running machine which God had set in motion. The universe, which has no vacuum, was composed of a 'subtle matter' he named 'tourbillons,' which swirled in vortices like whirlpools and actually moved the planets by contact.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Memorabilia Collection, B1863 1685</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>published in 1685</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh2008109249">Physics--Early works to 1800</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85118565">Science--Early works to 1800</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title pref="true">Principia Philosophiæ</title>
+      <title pref="false">Principia Philosophiae</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028051">Books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-30</earliestDate>
+        <latestDate>2015-03-30</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Principia_Philosophiae-1685-Descartes.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Principia Philosophiæ, Detail of "Pars Tertia"]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

@@ -1,65 +1,62 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1915</earliestDate>
-                <latestDate>1915</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Loventhal was a Nashville insurance executive and member of the Vanderbilt Board of Trust for 22 years. In 1944, the Joint University Libraries acquired a memorial fund from his family and friends to establish a collection of Jewish books in his honor, with specially commissioned bookplates designed by artist Robert Gregory Gifford. </description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Archives</name>
-                <refid>RG935, Deceased Alumni Record Group, Vanderbilt University Archives, Box 2660, Folder 35</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="undetermined">
-                <text>Unknown.</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Portrait of Lee J. Loventhal]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-04</earliestDate>
-                <latestDate>2015-03-04</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>RG935B2660F35-Lee_Loventhal_portrait.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Portrait of Lee J. Loventhal]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1915</earliestDate>
+        <latestDate>1915</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Loventhal was a Nashville insurance executive and member of the Vanderbilt Board of Trust for 22 years. In 1944, the Joint University Libraries acquired a memorial fund from his family and friends to establish a collection of Jewish books in his honor, with specially commissioned bookplates designed by artist Robert Gregory Gifford.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Archives</name>
+        <refid>RG935, Deceased Alumni Record Group, Vanderbilt University Archives, Box 2660, Folder 35</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="undetermined">
+        <text>Unknown.</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Portrait of Lee J. Loventhal]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-04</earliestDate>
+        <latestDate>2015-03-04</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>RG935B2660F35-Lee_Loventhal_portrait.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Portrait of Lee J. Loventhal]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

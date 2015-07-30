@@ -1,79 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 81114174">Hubble, Edwin, 1889-1953</name>
-                <dates>
-                    <earliestDate>1889</earliestDate>
-                    <latestDate>1953</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1920-02-16</earliestDate>
-                <latestDate>1920-02-16</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>In the 1920s, astronomer Edwin Hubble corresponded with astronomer Edwin Emerson Barnard to seek his expert advice on stellar photography. This photograph of the spiral galaxy NGC 3596 in the constellation Leo was taken by Hubble on February 16, 1920, using the 60” refractor telescope at the Mount Wilson Observatory in California. He sent it in a letter to Barnard in June 1920 to illustrate his contention that nebulae were in fact galaxies, rather than clouds of dust and gas.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0031, Edward Emerson Barnard Papers, Box 18, Hubble</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Pre-1923 letter, should be public domain. The Huntington Library owns a collection of Edwin Hubble Papers. Staff there may be able to refer us to existing literary executors, if any: manuscripts@huntington.org.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 88000937">Spiral galaxies</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Spiral Galaxy NGC 3596</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-05-04</earliestDate>
-                <latestDate>2015-05-04</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0031-PhotoNGC3596-B18-F-Hubble1920.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Spiral Galaxy NGC 3596]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 81114174">Hubble, Edwin, 1889-1953</name>
+        <dates>
+          <earliestDate>1889</earliestDate>
+          <latestDate>1953</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1920-02-16</earliestDate>
+        <latestDate>1920-02-16</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>In the 1920s, astronomer Edwin Hubble corresponded with astronomer Edwin Emerson Barnard to seek his expert advice on stellar photography. This photograph of the spiral galaxy NGC 3596 in the constellation Leo was taken by Hubble on February 16, 1920, using the 60” refractor telescope at the Mount Wilson Observatory in California. He sent it in a letter to Barnard in June 1920 to illustrate his contention that nebulae were in fact galaxies, rather than clouds of dust and gas.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0031, Edward Emerson Barnard Papers, Box 18, Hubble</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Pre-1923 letter, should be public domain. The Huntington Library owns a collection of Edwin Hubble Papers. Staff there may be able to refer us to existing literary executors, if any: manuscripts@huntington.org.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 88000937">Spiral galaxies</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Spiral Galaxy NGC 3596</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-05-04</earliestDate>
+        <latestDate>2015-05-04</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0031-PhotoNGC3596-B18-F-Hubble1920.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ACRL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Spiral Galaxy NGC 3596]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

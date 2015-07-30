@@ -1,85 +1,82 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 78085476">Emerson, Ralph Waldo, 1803-1882</name>
-                <role>Author</role>
-                <dates>
-                    <earliestDate>1803-05-25</earliestDate>
-                    <latestDate>1882-04-27</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="nr 94036784">Sangorski &amp; Sutcliffe</name>
-                <role>Publisher</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>1901</earliestDate>
-                <latestDate>1912</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Sangorski &amp; Sutcliffe is a prestigious bookbinding firm established by Francis Sangorski (1875-1912) and George Sutcliffe (1878-1943) in London in 1901. Considered to be one of the most important bookbinding companies of the 20th century, they are particularly famous for their jeweled bindings that often used real gold and precious stones in their book covers. This poem by Ralph Waldo Emerson has been turned into an elaborately illuminated manuscript, written on parchment in black and red ink.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>Nettie Hale Rand Collection of Fine Bindings and Printing, BJ1533 .F8 E5 1901z</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Publication predates 1923 Copyright Act.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85051992">Friendship</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title pref="true">Friendship: An Essay</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300028051">Books</worktype>
-            <worktype vocab="AAT" refid=" 300311789">Fine press books</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-05-05</earliestDate>
-                <latestDate>2015-05-05</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>RFB-Friendship-1901z-000.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Friendship: An Essay, View of Front and Back Covers and Two Pages of Illuminated Texts]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 78085476">Emerson, Ralph Waldo, 1803-1882</name>
+        <role>Author</role>
+        <dates>
+          <earliestDate>1803-05-25</earliestDate>
+          <latestDate>1882-04-27</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="nr 94036784">Sangorski &amp; Sutcliffe</name>
+        <role>Publisher</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1901</earliestDate>
+        <latestDate>1912</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Sangorski &amp; Sutcliffe is a prestigious bookbinding firm established by Francis Sangorski (1875-1912) and George Sutcliffe (1878-1943) in London in 1901. Considered to be one of the most important bookbinding companies of the 20th century, they are particularly famous for their jeweled bindings that often used real gold and precious stones in their book covers. This poem by Ralph Waldo Emerson has been turned into an elaborately illuminated manuscript, written on parchment in black and red ink.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Nettie Hale Rand Collection of Fine Bindings and Printing, BJ1533 .F8 E5 1901z</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Publication predates 1923 Copyright Act.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85051992">Friendship</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title pref="true">Friendship: An Essay</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028051">Books</worktype>
+      <worktype vocab="AAT" refid=" 300311789">Fine press books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-05-05</earliestDate>
+        <latestDate>2015-05-05</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>RFB-Friendship-1901z-000.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Friendship: An Essay, View of Front and Back Covers and Two Pages of Illuminated Texts]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

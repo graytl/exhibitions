@@ -1,77 +1,74 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 88079917">Detroit Photographic Co.</name>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 50027955">Jackson, William Henry, 1843-1942</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1902</earliestDate>
-                <latestDate>1902</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Crossing the Selkirk Mountain Range completed the transcontinental Canadian Pacific Railway in 1885, connecting remote British Columbia by land to the rest of newly-unified Canada. Ten years of reconnaissance surveys on foot and horseback preceded railway construction. Building the railway presented engineers with formidable challenges, like keeping the line clear. About 40 feet of snow fell on this rail line every winter it was in use. No trains ran for months in the first winter of operation.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0827, Howard Gottlieb and William H. Jackson Collection</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Image made in 1902.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 87002111">Selkirk Range--Pictorial works</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Mt. Fox and Mt. Dawson, Selkirk Mountains Alberta Canada]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300265036">Photochroms</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-11</earliestDate>
-                <latestDate>2015-03-11</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0827-P-Selkirk_Mountains-1902.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Mt. Fox and Mt. Dawson, Selkirk Mountains Alberta Canada]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 88079917">Detroit Photographic Co.</name>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 50027955">Jackson, William Henry, 1843-1942</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1902</earliestDate>
+        <latestDate>1902</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Crossing the Selkirk Mountain Range completed the transcontinental Canadian Pacific Railway in 1885, connecting remote British Columbia by land to the rest of newly-unified Canada. Ten years of reconnaissance surveys on foot and horseback preceded railway construction. Building the railway presented engineers with formidable challenges, like keeping the line clear. About 40 feet of snow fell on this rail line every winter it was in use. No trains ran for months in the first winter of operation.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0827, Howard Gottlieb and William H. Jackson Collection</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Image made in 1902.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 87002111">Selkirk Range--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Mt. Fox and Mt. Dawson, Selkirk Mountains Alberta Canada]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300265036">Photochroms</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-11</earliestDate>
+        <latestDate>2015-03-11</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0827-P-Selkirk_Mountains-1902.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Mt. Fox and Mt. Dawson, Selkirk Mountains Alberta Canada]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

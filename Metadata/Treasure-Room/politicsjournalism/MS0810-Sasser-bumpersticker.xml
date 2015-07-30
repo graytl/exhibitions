@@ -1,78 +1,75 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Allied Printing Company</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1994</earliestDate>
-                <latestDate>1994</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>In his bid for a fourth term in the Senate, Democrat James R. Sasser (1936- ) ran for re-election in 1994 against the Republican candidate Bill Frist (1952- ). In one of the largest upsets in the November 1994  general elections, Frist defeated Sasser by approximately 14 percentage points. Soon after this unexpected defeat, President Bill Clinton nominated Sasser as the United States Ambassador to China.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0810, Sasser Papers, Memorabilia</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="undetermined">
-                <text>probably not copyrighted by Sasser Committee</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh85019201">Campaign paraphenalia--Specimens</term>
-            </subject>
-            <subject>
-                <term vocab="LCNAF" refid="n 80000585">Sasser, James R.</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Jim Sasser of Tennessee</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300207384">Bumper stickers</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-05-06</earliestDate>
-                <latestDate>2015-05-06</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0810-Sasser-bumpersticker.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Bumper Sticker, Jim Sasser of Tennessee]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Allied Printing Company</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1994</earliestDate>
+        <latestDate>1994</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>In his bid for a fourth term in the Senate, Democrat James R. Sasser (1936- ) ran for re-election in 1994 against the Republican candidate Bill Frist (1952- ). In one of the largest upsets in the November 1994  general elections, Frist defeated Sasser by approximately 14 percentage points. Soon after this unexpected defeat, President Bill Clinton nominated Sasser as the United States Ambassador to China.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0810, Sasser Papers, Memorabilia</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="undetermined">
+        <text>probably not copyrighted by Sasser Committee</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh85019201">Campaign paraphenalia--Specimens</term>
+      </subject>
+      <subject>
+        <term vocab="LCNAF" refid="n 80000585">Sasser, James R.</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Jim Sasser of Tennessee</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300207384">Bumper stickers</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-05-06</earliestDate>
+        <latestDate>2015-05-06</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0810-Sasser-bumpersticker.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Bumper Sticker, Jim Sasser of Tennessee]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

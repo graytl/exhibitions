@@ -1,70 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 85101688">Hough, Joseph C.</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1993-11-19</earliestDate>
-                <latestDate>1993-11-19</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>A letter, dated November 16, 1993, from Joseph Hough to Raymond and Arlene Zimmerman, invited them to a small gathering on December 20 for lunch and a walk through the “Star of David” exhibit. The exhibit was organized to highlight acquisitions purchased with a gift from the Raymond Zimmerman Family Foundation.  </description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Archives</name>
-                <refid>RG530, Divinity Library Archives</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Work for hire, Vanderbilt University</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Letter to Raymond Zimmerman]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300026879">Letters (correspondence)</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-04</earliestDate>
-                <latestDate>2015-03-04</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Judaica-Hough-Zimmerman-Nov_19_1993.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Letter to Raymond Zimmerman]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 85101688">Hough, Joseph C.</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1993-11-19</earliestDate>
+        <latestDate>1993-11-19</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>A letter, dated November 16, 1993, from Joseph Hough to Raymond and Arlene Zimmerman, invited them to a small gathering on December 20 for lunch and a walk through the “Star of David” exhibit. The exhibit was organized to highlight acquisitions purchased with a gift from the Raymond Zimmerman Family Foundation.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Archives</name>
+        <refid>RG530, Divinity Library Archives</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Work for hire, Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Letter to Raymond Zimmerman]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300026879">Letters (correspondence)</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-04</earliestDate>
+        <latestDate>2015-03-04</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Judaica-Hough-Zimmerman-Nov_19_1993.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Letter to Raymond Zimmerman]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

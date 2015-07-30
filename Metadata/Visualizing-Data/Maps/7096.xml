@@ -1,84 +1,81 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 79027469">United States. Army. Corps of Engineers. Nashville District</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1932-09-17</earliestDate>
-                <latestDate>1932-09-17</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>This map shows dredging around Shelley Island on the Cumberland River, looking upstream on September 17, 1932. Dredging is the proccess of removing or excavating material from the bed of a river. Dredging is typically done to ensure that the navigability of the river is maintained.</description>
-        </descriptionSet>
-                <locationSet>
-            <location type="other">
-                <name type="corporate" vocab="local">United States. Army. Corps of Engineers. Nashville District. Library</name>
-                <refid>Item on loan</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>United States Army Corp of Engineers Nashville District</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85039493">Dredging--Pictorial works</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85049168">Floods--Tennessee--Nashville--Pictorial works</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85034781">Cumberland River (Ky. and Tenn.)--Pictorial works</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85114409">Rivers--Tennessee--Pictorial works</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Dredging, Shelley Island - Cumberland River]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">United States. Army. Corps of Engineers. Nashville District. Library</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-25</earliestDate>
-                <latestDate>2015-03-25</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>7096.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Permission to use but credit must be given to the United States Army Corp of Engineers Nashville District Library.</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Dredging, Shelley Island - Cumberland River]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 79027469">United States. Army. Corps of Engineers. Nashville District</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1932-09-17</earliestDate>
+        <latestDate>1932-09-17</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>This map shows dredging around Shelley Island on the Cumberland River, looking upstream on September 17, 1932. Dredging is the proccess of removing or excavating material from the bed of a river. Dredging is typically done to ensure that the navigability of the river is maintained.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="other">
+        <name type="corporate" vocab="local">United States. Army. Corps of Engineers. Nashville District. Library</name>
+        <refid>Item on loan</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>United States Army Corp of Engineers Nashville District</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85039493">Dredging--Pictorial works</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85049168">Floods--Tennessee--Nashville--Pictorial works</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85034781">Cumberland River (Ky. and Tenn.)--Pictorial works</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85114409">Rivers--Tennessee--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Dredging, Shelley Island - Cumberland River]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">United States. Army. Corps of Engineers. Nashville District. Library</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-25</earliestDate>
+        <latestDate>2015-03-25</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>7096.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Dredging, Shelley Island - Cumberland River]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

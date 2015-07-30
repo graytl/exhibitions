@@ -1,73 +1,70 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1918</earliestDate>
-                <latestDate>1918</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Many soldiers in the American Expeditionary Forces took their cameras to war. The unknown photographer was likely part of the Vanderbilt Unit serving at Camp Hospital 28. Despite the Army Signal Corps’ sales of souvenir photographs of units and AEF infrastructure, personal images like this one showed a more informal side of daily life in France. The other two photographs titled by the photographer, perhaps as a joke, are “Lt. Kennon’s Moustache and Lesser Objects” and “Representing Various Scholarly Attitudes.” </description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
-                <refid>Vanderbilt History Files: Series 2, Folder 8, Image 8</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Photo taken c.1918 in France. No known photographer. </text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85148271">World War, 1914-1918--France--Pictorial works</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 89000505">Horse-drawn vehicles--France--Pictorial works</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Rapid Transit in France</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-20</earliestDate>
-                <latestDate>2015-03-20</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Eskind_VUMC-Transit_in_France-1918.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Rapid Transit in France]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1918</earliestDate>
+        <latestDate>1918</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Many soldiers in the American Expeditionary Forces took their cameras to war. The unknown photographer was likely part of the Vanderbilt Unit serving at Camp Hospital 28. Despite the Army Signal Corps’ sales of souvenir photographs of units and AEF infrastructure, personal images like this one showed a more informal side of daily life in France. The other two photographs titled by the photographer, perhaps as a joke, are “Lt. Kennon’s Moustache and Lesser Objects” and “Representing Various Scholarly Attitudes.”</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
+        <refid>Vanderbilt History Files: Series 2, Folder 8, Image 8</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Photo taken c.1918 in France. No known photographer.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85148271">World War, 1914-1918--France--Pictorial works</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 89000505">Horse-drawn vehicles--France--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Rapid Transit in France</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-20</earliestDate>
+        <latestDate>2015-03-20</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Eskind_VUMC-Transit_in_France-1918.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Rapid Transit in France]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

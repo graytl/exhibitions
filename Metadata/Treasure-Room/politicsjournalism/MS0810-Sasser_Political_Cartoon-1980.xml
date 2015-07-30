@@ -1,79 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 97041148">Alley, Rick, 1963-</name>
-                <role>Cartoonist</role>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="local">Memphis Commercial Appeal</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>1980</earliestDate>
-                <latestDate>1980</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>James R. Sasser (1936- ) served three terms as a United States Senator from Tennessee (1977-1995) and was the chairman of the Senate Budget Committee. From 1996 to 1999 he served as the United States Ambassador to China. In this political cartoon by the Memphis Commercial Appeal artist Rick Alley, Sasser is shown bringing in some muscle to assist the Office of Management and Budget in their work in creating the budget for the United States.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt Univesrity Special Collections</name>
-                <refid>MSS0810, Sasser Papers, Memorabilia-framed</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Rick Alley is dead but this was in the Commercial Appeal, not sure of date other than 1980?</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="n 80000585">Sasser, James R.</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Willowby, I’d Like for you to Meet ‘Thumbs’ … Your New Assistant!]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300123224">Political cartoons</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-05-06</earliestDate>
-                <latestDate>2015-05-06</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0810-Sasser_Political_Cartoon-1980.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Political Cartoon, Willowby, I’d Like for you to Meet ‘Thumbs’ … Your New Assistant!]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 97041148">Alley, Rick, 1963-</name>
+        <role>Cartoonist</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="local">Memphis Commercial Appeal</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1980</earliestDate>
+        <latestDate>1980</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>James R. Sasser (1936- ) served three terms as a United States Senator from Tennessee (1977-1995) and was the chairman of the Senate Budget Committee. From 1996 to 1999 he served as the United States Ambassador to China. In this political cartoon by the Memphis Commercial Appeal artist Rick Alley, Sasser is shown bringing in some muscle to assist the Office of Management and Budget in their work in creating the budget for the United States.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt Univesrity Special Collections</name>
+        <refid>MSS0810, Sasser Papers, Memorabilia-framed</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Rick Alley is dead but this was in the Commercial Appeal, not sure of date other than 1980?</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="n 80000585">Sasser, James R.</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Willowby, I’d Like for you to Meet ‘Thumbs’ … Your New Assistant!]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300123224">Political cartoons</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-05-06</earliestDate>
+        <latestDate>2015-05-06</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0810-Sasser_Political_Cartoon-1980.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>unknown</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Political Cartoon, Willowby, I’d Like for you to Meet ‘Thumbs’ … Your New Assistant!]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

@@ -1,86 +1,83 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="local">Barnes, Frederic Wood, 1943-</name>
-                <role>Author</role>
-                <dates>
-                    <earliestDate>1943-02-01</earliestDate>
-                    <latestDate>present</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>1975-09-06</earliestDate>
-                <latestDate>1975-09-06</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>News of the September 5, 1975, assassination attempt on President Gerald Ford’s (1913-2006) life struck a chord deep in the American psyche as it had only been twelve years since the assassination of President John F. Kennedy by Lee Harvey Oswald. Lynette “Squeaky” Fromme was the first woman to attempt an assassination of an American president. Interestingly, only seventeen days later, while leaving a hotel in San Fransisco, California, another attempt was made on Ford’s life by Sara Jane Moore, who actually fired off a round at the president.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0412, James G. Stahlman Historical Autograph Collection, Lynette Fromme</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Ceased publication in 1981</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 94002318">Presidents--Assassination attempts--Periodicals</term>
-            </subject>
-            <subject>
-                <term vocab="LCNAF" refid="n 79022087">Ford, Gerald R., 1913-2006--Periodicals</term>
-            </subject>
-            <subject>
-                <term vocab="LCNAF" refid="n 96123727">Fromme, Lynette Alice, 1948---Periodicals</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>The Washington Star, Page A-4</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300026656">Newspapers</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-16</earliestDate>
-                <latestDate>2015-03-16</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0412-C-Washington_Star-Sept_6_1975-Lynette_Fromme.02.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of The Washington Star, Page A-4]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="local">Barnes, Frederic Wood, 1943-</name>
+        <role>Author</role>
+        <dates>
+          <earliestDate>1943-02-01</earliestDate>
+          <latestDate>present</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1975-09-06</earliestDate>
+        <latestDate>1975-09-06</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>News of the September 5, 1975, assassination attempt on President Gerald Ford’s (1913-2006) life struck a chord deep in the American psyche as it had only been twelve years since the assassination of President John F. Kennedy by Lee Harvey Oswald. Lynette “Squeaky” Fromme was the first woman to attempt an assassination of an American president. Interestingly, only seventeen days later, while leaving a hotel in San Fransisco, California, another attempt was made on Ford’s life by Sara Jane Moore, who actually fired off a round at the president.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0412, James G. Stahlman Historical Autograph Collection, Lynette Fromme</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Ceased publication in 1981</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 94002318">Presidents--Assassination attempts--Periodicals</term>
+      </subject>
+      <subject>
+        <term vocab="LCNAF" refid="n 79022087">Ford, Gerald R., 1913-2006--Periodicals</term>
+      </subject>
+      <subject>
+        <term vocab="LCNAF" refid="n 96123727">Fromme, Lynette Alice, 1948---Periodicals</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>The Washington Star, Page A-4</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300026656">Newspapers</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-16</earliestDate>
+        <latestDate>2015-03-16</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0412-C-Washington_Star-Sept_6_1975-Lynette_Fromme.02.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ACRL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of The Washington Star, Page A-4]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

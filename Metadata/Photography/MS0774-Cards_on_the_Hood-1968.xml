@@ -1,85 +1,82 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="no2007089559">Corn, Jack, 1929-</name>
-                <dates>
-                    <earliestDate>1929-01-14</earliestDate>
-                    <latestDate>present</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1973</earliestDate>
-                <latestDate>1973</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>The miners’ 1972 strike against Duke Power Company over working conditions, wages, and labor practices inspired the award-winning documentary "Harlan County, USA." The miners struck to join United Workers of America, hoping to improve their jobs and lives. Their wives’ support proved critical to sustaining the strike over thirteen months. Corn’s images for The Tennessean humanized the miners.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0774, Jack Corn Collection, Image 094</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh2008114203">Appalachian Region--Economic conditions--Pictoral works</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85020245">Card games--Pictorial works</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 90004763">Playing cards--Pictorial works</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Striking Miners Play Cards on the Picket Line at Brookside Mine, near Harlan, KY]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-20</earliestDate>
-                <latestDate>2015-03-20</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0774-Cards_on_the_Hood-1968.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright retained by Jack Corn.</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Striking Miners Play Cards on the Picket Line at Brookside Mine, near Harlan, KY]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="no2007089559">Corn, Jack, 1929-</name>
+        <dates>
+          <earliestDate>1929-01-14</earliestDate>
+          <latestDate>present</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1973</earliestDate>
+        <latestDate>1973</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>The miners’ 1972 strike against Duke Power Company over working conditions, wages, and labor practices inspired the award-winning documentary "Harlan County, USA." The miners struck to join United Workers of America, hoping to improve their jobs and lives. Their wives’ support proved critical to sustaining the strike over thirteen months. Corn’s images for The Tennessean humanized the miners.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0774, Jack Corn Collection, Image 094</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright Vanderbilt University Special Collections</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh2008114203">Appalachian Region--Economic conditions--Pictoral works</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85020245">Card games--Pictorial works</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 90004763">Playing cards--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Striking Miners Play Cards on the Picket Line at Brookside Mine, near Harlan, KY]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-20</earliestDate>
+        <latestDate>2015-03-20</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0774-Cards_on_the_Hood-1968.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Striking Miners Play Cards on the Picket Line at Brookside Mine, near Harlan, KY]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

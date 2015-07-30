@@ -1,81 +1,78 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Nashville Aeronautic Corporation</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1926-12-30</earliestDate>
-                <latestDate>1926-12-30</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>The Cumberland River experienced a major flood event after Christmas of 1926 and into 1927. This photograph shows the inundated Tennessee Electric Power Company (TEPCO) Substation on Lebanon Pike. Before the establishment of the Tennessee Valley Authority in 1933,  small private utility concerns like TEPCO were established to generate hydroelectric power as subsidiaries of the Commonweath and Southern. Presidential candidate Wendell Wilkie was president of the C &amp; S and majority holder of most of the private power companies in the Tennessee Valley. TEPCO and 17 other companies sued to prevent TVA from buying up the smaller companies. When the Supreme Court dismissed the case (Tennessee Electric Power Co. v. TVA) in 1939,TVA purchased C &amp; S.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>George Peabody Collection, Photograph 09</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Nashville Aeronautic Corporation (later became USACE - Nashville District).</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85049168">Floods--Tennessee--Nashville--Pictorial works</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85034781">Cumberland River (Ky. and Tenn.)--Pictorial works</term>
-            </subject>
-            <subject>
-                <term vocab="LCNAF" refid="n 2008164233">Tennessee Electric Power Company--Pictorial works</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[The 1927 Flood: A Look at the Tennessee Electric Power Company Sub-Station]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">United States. Army Corps of Engineers. Nashville District. Library</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-11</earliestDate>
-                <latestDate>2015-03-11</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Peabody-DV-Nashville_Flood-1926-No_9.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of The 1927 Flood: A Look at the Tennessee Electric Power Company Sub-Station]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Nashville Aeronautic Corporation</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1926-12-30</earliestDate>
+        <latestDate>1926-12-30</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>The Cumberland River experienced a major flood event after Christmas of 1926 and into 1927. This photograph shows the inundated Tennessee Electric Power Company (TEPCO) Substation on Lebanon Pike. Before the establishment of the Tennessee Valley Authority in 1933,  small private utility concerns like TEPCO were established to generate hydroelectric power as subsidiaries of the Commonweath and Southern. Presidential candidate Wendell Wilkie was president of the C &amp; S and majority holder of most of the private power companies in the Tennessee Valley. TEPCO and 17 other companies sued to prevent TVA from buying up the smaller companies. When the Supreme Court dismissed the case (Tennessee Electric Power Co. v. TVA) in 1939,TVA purchased C &amp; S.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>George Peabody Collection, Photograph 09</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Nashville Aeronautic Corporation (later became USACE - Nashville District).</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85049168">Floods--Tennessee--Nashville--Pictorial works</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85034781">Cumberland River (Ky. and Tenn.)--Pictorial works</term>
+      </subject>
+      <subject>
+        <term vocab="LCNAF" refid="n 2008164233">Tennessee Electric Power Company--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[The 1927 Flood: A Look at the Tennessee Electric Power Company Sub-Station]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">United States. Army Corps of Engineers. Nashville District. Library</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-11</earliestDate>
+        <latestDate>2015-03-11</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Peabody-DV-Nashville_Flood-1926-No_9.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of The 1927 Flood: A Look at the Tennessee Electric Power Company Sub-Station]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

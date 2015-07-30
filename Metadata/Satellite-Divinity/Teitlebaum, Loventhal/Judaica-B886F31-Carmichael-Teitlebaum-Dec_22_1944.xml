@@ -1,80 +1,77 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="nr2001032039">Carmichael, Oliver C. (Oliver Cromwell), 1891-1966</name>
-                <role>Author</role>
-                <dates>
-                    <earliestDate>1891</earliestDate>
-                    <latestDate>1966</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1944-12-22</earliestDate>
-                <latestDate>1944-12-22</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Chancellor Oliver C. Carmichael saw the absence of any center of Jewish learning in the Southeast and the need for a library to ground a better understanding and appreciation of Judaism. In a thank-you letter on December 22, 1944, he expressed his gratitude to Mrs. Teitlebaum's $6,000 donation to the library and wished her a pleasant Christmas.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Archives</name>
-                <refid>RG 530, Divinity Library Archives, Box 886, Folder 31</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="undetermined">
-                <text>Work for hire, Vanderbilt University</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="local">Teitlebaum, Sarah--Correspondence</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Letter to Mrs. Sarah Lowenstein Teitlebaum]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="">Letters (correspondence)</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local" refid="300026879">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-04</earliestDate>
-                <latestDate>2015-03-04</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Judaica-B886F31-Carmichael-Teitlebaum-Dec_22_1944.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Letter to Mrs. Sarah Lowenstein Teitlebaum]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="nr2001032039">Carmichael, Oliver C. (Oliver Cromwell), 1891-1966</name>
+        <role>Author</role>
+        <dates>
+          <earliestDate>1891</earliestDate>
+          <latestDate>1966</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1944-12-22</earliestDate>
+        <latestDate>1944-12-22</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Chancellor Oliver C. Carmichael saw the absence of any center of Jewish learning in the Southeast and the need for a library to ground a better understanding and appreciation of Judaism. In a thank-you letter on December 22, 1944, he expressed his gratitude to Mrs. Teitlebaum's $6,000 donation to the library and wished her a pleasant Christmas.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Archives</name>
+        <refid>RG 530, Divinity Library Archives, Box 886, Folder 31</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="undetermined">
+        <text>Work for hire, Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="local">Teitlebaum, Sarah--Correspondence</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Letter to Mrs. Sarah Lowenstein Teitlebaum]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="">Letters (correspondence)</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local" refid="300026879">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-04</earliestDate>
+        <latestDate>2015-03-04</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Judaica-B886F31-Carmichael-Teitlebaum-Dec_22_1944.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Letter to Mrs. Sarah Lowenstein Teitlebaum]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

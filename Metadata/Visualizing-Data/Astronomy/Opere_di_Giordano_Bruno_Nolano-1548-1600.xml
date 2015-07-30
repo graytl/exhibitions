@@ -1,84 +1,81 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 79090025">Bruno, Giordano, 1548-1600</name>
-                <role>Author</role>
-                <dates>
-                    <earliestDate>1548</earliestDate>
-                    <latestDate>1600</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 82163119">Weidmannsche Verlagsbuchhandlung</name>
-                <role>Publisher</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>1830</earliestDate>
-                <latestDate>1830</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Giordano Bruno was born in 1548 in Italy. He was a Dominican friar, a philosopher, astronomer and mathematician. The most notable of his theories were those of an infinite universe and a multiplicity of worlds, in which he rejected the traditional geocentric model and even went beyond the Copernican heliocentric theory. Bruno was burned at the stake in February 1600 for his unorthodox ideas and refusal to renounce them. This book is a collection of his writings.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Library</name>
-                <refid>Central Library Annex, 195 B898 v.1-2 </refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>This book was published in 1830.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85009003">Astronomy</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Opere di Giordano Bruno Nolano</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300028051">Books</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-04-27</earliestDate>
-                <latestDate>2015-04-27</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Opere_di_Giordano_Bruno_Nolano-1548-1600-p182.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Opere di Giordano Bruno Nolano, Page 182, Detail of Ptolemaeus and Copernicus Illustration]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 79090025">Bruno, Giordano, 1548-1600</name>
+        <role>Author</role>
+        <dates>
+          <earliestDate>1548</earliestDate>
+          <latestDate>1600</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 82163119">Weidmannsche Verlagsbuchhandlung</name>
+        <role>Publisher</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1830</earliestDate>
+        <latestDate>1830</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Giordano Bruno was born in 1548 in Italy. He was a Dominican friar, a philosopher, astronomer and mathematician. The most notable of his theories were those of an infinite universe and a multiplicity of worlds, in which he rejected the traditional geocentric model and even went beyond the Copernican heliocentric theory. Bruno was burned at the stake in February 1600 for his unorthodox ideas and refusal to renounce them. This book is a collection of his writings.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Library</name>
+        <refid>Central Library Annex, 195 B898 v.1-2</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>This book was published in 1830.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85009003">Astronomy</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Opere di Giordano Bruno Nolano</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028051">Books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-27</earliestDate>
+        <latestDate>2015-04-27</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Opere_di_Giordano_Bruno_Nolano-1548-1600-p182.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Opere di Giordano Bruno Nolano, Page 182, Detail of Ptolemaeus and Copernicus Illustration]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

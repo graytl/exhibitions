@@ -1,79 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 80051891">Philo, of Alexandria</name>
-                <dates>
-                    <earliestDate>-0019</earliestDate>
-                    <latestDate>0050?</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>1614</earliestDate>
-                <latestDate>1614</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Philo’s writings reflect Jewish life and experiences outside Judea in the first few decades of the Common Era. In this treatise on the life of Moses, Philo retells the biblical narrative with significant omissions and additions and a focus on the inner minds of his characters. Philo’s premise is that the Mosaic law rests on reason. He presents Moses as a philosopher-king, a lawgiver, a high priest and a prophet.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>Memorabilia Collection, B689 .A2 H6</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>It was published in 1614.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85013769">Bible. Old Testament--Criticism, interpretation, etc.</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Opera Philonis Iudaei Exegetica in libros Mosis</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300028051">Books</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-09</earliestDate>
-                <latestDate>2015-03-09</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Goodhart-Philonis_Ivdaei-Opera_Exegetica_In-1613-Title_Page.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Opera Philonis Ludaei Exegetica in libros Mosis, Title Page]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
-    </vra>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 80051891">Philo, of Alexandria</name>
+        <dates>
+          <earliestDate>-0019</earliestDate>
+          <latestDate>0050?</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1614</earliestDate>
+        <latestDate>1614</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Philo’s writings reflect Jewish life and experiences outside Judea in the first few decades of the Common Era. In this treatise on the life of Moses, Philo retells the biblical narrative with significant omissions and additions and a focus on the inner minds of his characters. Philo’s premise is that the Mosaic law rests on reason. He presents Moses as a philosopher-king, a lawgiver, a high priest and a prophet.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Memorabilia Collection, B689 .A2 H6</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>It was published in 1614.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85013769">Bible. Old Testament--Criticism, interpretation, etc.</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Opera Philonis Iudaei Exegetica in libros Mosis</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028051">Books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-09</earliestDate>
+        <latestDate>2015-03-09</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Goodhart-Philonis_Ivdaei-Opera_Exegetica_In-1613-Title_Page.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Opera Philonis Ludaei Exegetica in libros Mosis, Title Page]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

@@ -1,85 +1,82 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 94063816">Barnard, Edward Emerson, 1857-1923</name>
-                <dates>
-                    <earliestDate>1857</earliestDate>
-                    <latestDate>1923</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1905</earliestDate>
-                <latestDate>1905</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>The Pleiades star cluster is located in the constellation Taurus.  Also known as the Seven Sisters or M45, this group of stars is most visible in November when they can be seen from dusk until dawn.  The name probably derives from the Ancient Greek “plein” meaning “to sail” and was an important navigation marker for ancient sea navigation.  The earliest recorded observation of this stellar object is likely the Nebra Sky Disk, a Bronze Age artifact created around 1600 B.C.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0031, Edward Emerson Barnard Papers, glass plates</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Glass plate has a penciled date of 1890. However, Barnard included this image in his "Atlas of Selected Regions of the Milky Way" which states this photo was taken at Mt. Wilson Observatory.  Mt Wilson Observatory page states Barnard did this work as a guest there in 1905.  The work has been republished within the last 5 years or so, so I don't know what the copyright status is of this particular image.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCNAF" refid="n 94063816">Barnard, Edward Emerson, 1857-1923</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="n 82051171">Mount Wilson Observatory</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85103468">Pleiades</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Region of the Pleiades</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-07-15</earliestDate>
-                <latestDate>2015-07-15</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0031-Barnard-glassplate-pleiades.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>Digital Reproduction of Region of the Pleiades</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 94063816">Barnard, Edward Emerson, 1857-1923</name>
+        <dates>
+          <earliestDate>1857</earliestDate>
+          <latestDate>1923</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1905</earliestDate>
+        <latestDate>1905</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>The Pleiades star cluster is located in the constellation Taurus.  Also known as the Seven Sisters or M45, this group of stars is most visible in November when they can be seen from dusk until dawn.  The name probably derives from the Ancient Greek “plein” meaning “to sail” and was an important navigation marker for ancient sea navigation.  The earliest recorded observation of this stellar object is likely the Nebra Sky Disk, a Bronze Age artifact created around 1600 B.C.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0031, Edward Emerson Barnard Papers, glass plates</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Glass plate has a penciled date of 1890. However, Barnard included this image in his "Atlas of Selected Regions of the Milky Way" which states this photo was taken at Mt. Wilson Observatory.  Mt Wilson Observatory page states Barnard did this work as a guest there in 1905.  The work has been republished within the last 5 years or so, so I don't know what the copyright status is of this particular image.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 94063816">Barnard, Edward Emerson, 1857-1923</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="n 82051171">Mount Wilson Observatory</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85103468">Pleiades</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Region of the Pleiades</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-07-15</earliestDate>
+        <latestDate>2015-07-15</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0031-Barnard-glassplate-pleiades.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>Digital Reproduction of Region of the Pleiades</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

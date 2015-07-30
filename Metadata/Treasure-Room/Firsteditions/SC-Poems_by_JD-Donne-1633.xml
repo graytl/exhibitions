@@ -1,84 +1,81 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <agentSet>
-            <agent>
-                <name pref="true" type="personal" vocab="LCNAF" refid="n 79069876">Donne, John, 1572-1631</name>
-                <role>Author</role>
-                <dates>
-                    <earliestDate>1572</earliestDate>
-                    <latestDate>1631</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="nr 98025318">Marriott, John, active 1616-1657</name>
-                <role>Sponsor</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>1633</earliestDate>
-                <latestDate>1633</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>This 1633 edition of Poems, with Elegies on the Author's Death (also known as Poems by J.D.) is the first collected volume of John Donne’s poetry and the most authentic of all the early editions of his works. Donne (1572-1631) was an Oxford University-educated cleric, poet and lawyer who is considered among the pre-eminent poets of the metaphysical style.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>Nettie Hale Rand Collection of Fine Bindings and Printing, PR2245 .A1 1633</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>This volume predates the 1923 Copyright Act and is in the public domain.</text>
-            </rights>
-        </rightsSet>
-        <stateEditionSet>
-            <stateEdition>
-                <description>1st edition</description>
-            </stateEdition>
-        </stateEditionSet>
-        <titleSet>
-            <title>Poems, with Elegies on the Author's Death</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300028051">Books</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-19</earliestDate>
-                <latestDate>2015-03-19</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>SC-Poems_by_JD-Donne-1633.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Poems, with Elegies on the Author's Death, View of Title Page]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name pref="true" type="personal" vocab="LCNAF" refid="n 79069876">Donne, John, 1572-1631</name>
+        <role>Author</role>
+        <dates>
+          <earliestDate>1572</earliestDate>
+          <latestDate>1631</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="nr 98025318">Marriott, John, active 1616-1657</name>
+        <role>Sponsor</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1633</earliestDate>
+        <latestDate>1633</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>This 1633 edition of Poems, with Elegies on the Author's Death (also known as Poems by J.D.) is the first collected volume of John Donne’s poetry and the most authentic of all the early editions of his works. Donne (1572-1631) was an Oxford University-educated cleric, poet and lawyer who is considered among the pre-eminent poets of the metaphysical style.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Nettie Hale Rand Collection of Fine Bindings and Printing, PR2245 .A1 1633</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>This volume predates the 1923 Copyright Act and is in the public domain.</text>
+      </rights>
+    </rightsSet>
+    <stateEditionSet>
+      <stateEdition>
+        <description>1st edition</description>
+      </stateEdition>
+    </stateEditionSet>
+    <titleSet>
+      <title>Poems, with Elegies on the Author's Death</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028051">Books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-19</earliestDate>
+        <latestDate>2015-03-19</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>SC-Poems_by_JD-Donne-1633.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Poems, with Elegies on the Author's Death, View of Title Page]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

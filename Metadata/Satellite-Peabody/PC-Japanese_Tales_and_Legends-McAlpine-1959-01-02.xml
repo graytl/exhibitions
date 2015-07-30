@@ -1,130 +1,127 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 2002032520">McAlpine, Helen</name>
-                <role>Author</role>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 2002032521">McAlpine, William</name>
-                <role>Author</role>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 50048843">Kiddell-Monroe, Joan</name>
-                <role>Illustrator</role>
-                <dates>
-                    <earliestDate>1908</earliestDate>
-                    <latestDate>1972</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="" vocab="local">Henry Z. Walck</name>
-                <role>Publisher</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>1959</earliestDate>
-                <latestDate>1959</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Joan Kiddell-Monroe's beautiful illustrations accompany a collection of Japanese folktales compiled and translated by Helen and William McAlpine for Oxford University Press. Kiddell-Monroe's illustrations emulate the style and technique of traditional Japanese art.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Peabody Library</name>
-                <refid>Peabody Library, PZ8.1 .M12 Jap 1959</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>©1959 Helen and William McAlpine</text>
-            </rights>
-        </rightsSet>
-        <stateEditionSet>
-            <stateEdition type="edition">
-                <name>1st Edition</name>
-            </stateEdition>
-        </stateEditionSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh2008112442">Tales--Japan</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh2008106887">Legends--Japan</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Japanese Tales and Legends</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300343403">Children's books</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-16</earliestDate>
-                <latestDate>2015-03-16</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>PC-Japanese_Tales_and_Legends-McAlpine-1959-01.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Japanese Tales and Legends, Insert Page 74]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-16</earliestDate>
-                <latestDate>2015-03-16</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>PC-Japanese_Tales_and_Legends-McAlpine-1959-02.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Japanese Tales and Legends, Insert Page 104]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 2002032520">McAlpine, Helen</name>
+        <role>Author</role>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 2002032521">McAlpine, William</name>
+        <role>Author</role>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 50048843">Kiddell-Monroe, Joan</name>
+        <role>Illustrator</role>
+        <dates>
+          <earliestDate>1908</earliestDate>
+          <latestDate>1972</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="" vocab="local">Henry Z. Walck</name>
+        <role>Publisher</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1959</earliestDate>
+        <latestDate>1959</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Joan Kiddell-Monroe's beautiful illustrations accompany a collection of Japanese folktales compiled and translated by Helen and William McAlpine for Oxford University Press. Kiddell-Monroe's illustrations emulate the style and technique of traditional Japanese art.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Peabody Library</name>
+        <refid>Peabody Library, PZ8.1 .M12 Jap 1959</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>©1959 Helen and William McAlpine</text>
+      </rights>
+    </rightsSet>
+    <stateEditionSet>
+      <stateEdition type="edition">
+        <name>1st Edition</name>
+      </stateEdition>
+    </stateEditionSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh2008112442">Tales--Japan</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh2008106887">Legends--Japan</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Japanese Tales and Legends</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300343403">Children's books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-16</earliestDate>
+        <latestDate>2015-03-16</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>PC-Japanese_Tales_and_Legends-McAlpine-1959-01.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ACRL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Japanese Tales and Legends, Insert Page 74]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-16</earliestDate>
+        <latestDate>2015-03-16</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>PC-Japanese_Tales_and_Legends-McAlpine-1959-02.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ACRL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Japanese Tales and Legends, Insert Page 104]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

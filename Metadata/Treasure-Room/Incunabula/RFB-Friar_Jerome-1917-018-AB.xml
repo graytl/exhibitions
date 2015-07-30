@@ -1,110 +1,107 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 50037325">Aldrich, Thomas Bailey, 1836-1907</name>
-                <role>Author</role>
-                <dates>
-                    <earliestDate>1836-11-11</earliestDate>
-                    <latestDate>1907-03-19</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="nr 97005323">Sangorski, Alberto, 1862-1932</name>
-                <role>Binder</role>
-                <role>Illustrator</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1881</earliestDate>
-                <latestDate>1917</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Alberto Sangorski was older brother to Francis Sangorski, one of the founding members of the noted bookbinding firm, Sangorski &amp; Sutcliffe. Alberto was especially accomplished in calligraphy and illumination and he often worked with his brother in the bookbinding firm. This one of a kind book is a beautiful example of Alberto’s work, taking Thomas Bailey Aldrich’s 1881 poem, “Friar Jerome’s Beautiful Book: A.D. 1200” and illustrating it richly using gold to highlight the text and images.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>Nettie Hale Rand Collection of Fine Bindings and Printing, PS1024 .F7 1917</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>published before 1923</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>Friar Jerome's Beautiful Book</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300311789">Fine press books</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-05-05</earliestDate>
-                <latestDate>2015-05-05</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>RFB-Friar_Jerome-1917-001.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Friar Jerome's Beautiful Book, View of Front Cover]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-05-05</earliestDate>
-                <latestDate>2015-05-05</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>RFB-Friar_Jerome-1917-018-AB.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Friar Jerome's Beautiful Book, View of Title Page and Frontispiece]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 50037325">Aldrich, Thomas Bailey, 1836-1907</name>
+        <role>Author</role>
+        <dates>
+          <earliestDate>1836-11-11</earliestDate>
+          <latestDate>1907-03-19</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="nr 97005323">Sangorski, Alberto, 1862-1932</name>
+        <role>Binder</role>
+        <role>Illustrator</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1881</earliestDate>
+        <latestDate>1917</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Alberto Sangorski was older brother to Francis Sangorski, one of the founding members of the noted bookbinding firm, Sangorski &amp; Sutcliffe. Alberto was especially accomplished in calligraphy and illumination and he often worked with his brother in the bookbinding firm. This one of a kind book is a beautiful example of Alberto’s work, taking Thomas Bailey Aldrich’s 1881 poem, “Friar Jerome’s Beautiful Book: A.D. 1200” and illustrating it richly using gold to highlight the text and images.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Nettie Hale Rand Collection of Fine Bindings and Printing, PS1024 .F7 1917</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>published before 1923</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>Friar Jerome's Beautiful Book</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300311789">Fine press books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-05-05</earliestDate>
+        <latestDate>2015-05-05</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>RFB-Friar_Jerome-1917-001.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Friar Jerome's Beautiful Book, View of Front Cover]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-05-05</earliestDate>
+        <latestDate>2015-05-05</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>RFB-Friar_Jerome-1917-018-AB.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Friar Jerome's Beautiful Book, View of Title Page and Frontispiece]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

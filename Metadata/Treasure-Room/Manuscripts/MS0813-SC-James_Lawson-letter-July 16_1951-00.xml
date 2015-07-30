@@ -1,85 +1,82 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="no 99063179">Lawson, James M., 1928-</name>
-                <dates>
-                    <earliestDate>1928-09-28</earliestDate>
-                    <latestDate>present</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1951-07-16</earliestDate>
-                <latestDate>1951-07-16</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>James M. Lawson, Jr. (1928- ) is a Methodist minister, activist and academic. During the escalation of the Korean Conflict, he declared himself a conscientious objector and refused to report for the draft in 1951. He served fourteen months in prison after refusing to take either a student or ministerial deferment. After his sentence was completed he left for India to study the principles of nonviolent resistance developed by Mohandas Gandhi.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0813, Carol Hamilton Scott/James M. Lawson Collection, Box 1, Folder-7-1951</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Presumably by Lawson himself.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh85031233">Conscientious objectors</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85092373">Nonviolence</term>
-            </subject>
-            <subject>
-                <term vocab="LCNAF" refid="n 79041626">Gandhi, Mahatma, 1869-1948--Political and social views</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Letter to Carolyn Hamilton]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300026879">Letters (correspondence)</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-04-28</earliestDate>
-                <latestDate>2015-04-28</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0813-SC-James_Lawson-letter-July 16_1951-00.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Letter to Carolyn Hamilton]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="no 99063179">Lawson, James M., 1928-</name>
+        <dates>
+          <earliestDate>1928-09-28</earliestDate>
+          <latestDate>present</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1951-07-16</earliestDate>
+        <latestDate>1951-07-16</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>James M. Lawson, Jr. (1928- ) is a Methodist minister, activist and academic. During the escalation of the Korean Conflict, he declared himself a conscientious objector and refused to report for the draft in 1951. He served fourteen months in prison after refusing to take either a student or ministerial deferment. After his sentence was completed he left for India to study the principles of nonviolent resistance developed by Mohandas Gandhi.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0813, Carol Hamilton Scott/James M. Lawson Collection, Box 1, Folder-7-1951</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Presumably by Lawson himself.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh85031233">Conscientious objectors</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85092373">Nonviolence</term>
+      </subject>
+      <subject>
+        <term vocab="LCNAF" refid="n 79041626">Gandhi, Mahatma, 1869-1948--Political and social views</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Letter to Carolyn Hamilton]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300026879">Letters (correspondence)</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-28</earliestDate>
+        <latestDate>2015-04-28</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0813-SC-James_Lawson-letter-July 16_1951-00.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Letter to Carolyn Hamilton]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

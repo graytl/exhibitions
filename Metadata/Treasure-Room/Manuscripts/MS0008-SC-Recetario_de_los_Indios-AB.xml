@@ -1,94 +1,91 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 98065076">Pérez, Juan Pío, 1798-1859</name>
-                <role>Transcriber</role>
-                <dates>
-                    <earliestDate>1798</earliestDate>
-                    <latestDate>1859</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n  82128931">Carrillo y Ancona, Crescencio, 1837-1897</name>
-                <role>Transcriber</role>
-                <dates>
-                    <earliestDate>1837</earliestDate>
-                    <latestDate>1897</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1800</earliestDate>
-                <latestDate>1899?</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>This early manuscript serves as a manual for the treatment of a wide variety of ailments. Here, for example is a remedy for an earache (dolor de oído). The suggested mixtures often involve the use of herbs and body parts of a remarkable selection of creatures. Cures are provided in Mayan and Spanish.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0008, Maya Medical Manuscripts</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>its from the 1800s and i think is out of copyright</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 99004056">Mayas--Medicine</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="">Indians of Mexico--Medicine</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title pref="true">[Maya Medical Manuscripts Transcribed in the Nineteenth Century]</title>
-            <title pref="false">Cuaderno de Teabo</title>
-            <title pref="false">Recetario de los Indios</title>
-            <title pref="false">Copia de un cuaderno que se haya en poder</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300028051">Books</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015--3-30</earliestDate>
-                <latestDate>2015-03-30</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0008-SC-Recetario_de_los_Indios-AB.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Maya Medical Manuscripts Transcribed in the Nineteenth Century]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 98065076">Pérez, Juan Pío, 1798-1859</name>
+        <role>Transcriber</role>
+        <dates>
+          <earliestDate>1798</earliestDate>
+          <latestDate>1859</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n  82128931">Carrillo y Ancona, Crescencio, 1837-1897</name>
+        <role>Transcriber</role>
+        <dates>
+          <earliestDate>1837</earliestDate>
+          <latestDate>1897</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1800</earliestDate>
+        <latestDate>1899?</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>This early manuscript serves as a manual for the treatment of a wide variety of ailments. Here, for example is a remedy for an earache (dolor de oído). The suggested mixtures often involve the use of herbs and body parts of a remarkable selection of creatures. Cures are provided in Mayan and Spanish.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0008, Maya Medical Manuscripts</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>its from the 1800s and i think is out of copyright</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 99004056">Mayas--Medicine</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="">Indians of Mexico--Medicine</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title pref="true">[Maya Medical Manuscripts Transcribed in the Nineteenth Century]</title>
+      <title pref="false">Cuaderno de Teabo</title>
+      <title pref="false">Recetario de los Indios</title>
+      <title pref="false">Copia de un cuaderno que se haya en poder</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028051">Books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015--3-30</earliestDate>
+        <latestDate>2015-03-30</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0008-SC-Recetario_de_los_Indios-AB.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Maya Medical Manuscripts Transcribed in the Nineteenth Century]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

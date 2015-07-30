@@ -1,90 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 82144585">Rosenzweig, Franz, 1886-1929</name>
-                <role>Author</role>
-                <dates>
-                    <earliestDate>1886</earliestDate>
-                    <latestDate>1929</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="no2004057777">J. Kauffmann Antiquariat</name>
-                <role>Publisher</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>1921</earliestDate>
-                <latestDate>1921</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Der Stern der Erlösung (The Star of Redemption) is Rosenzweig’s major philosophical work. The first draft was written in the trenches and in a military hospital while serving in the German Army during W.W.I. In this work, he describes the relationships among God, humanity, and the world as they are connected by creation, revelation and redemption. In Rosenzweig’s scheme, revelation arises not in metaphysics, but in the here and now of daily religious practice.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>Nahum N. Glatzer Collection, BM565 .R6 1921</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Published in 1921, prior to 1923 copyright act on books. Also, only the front cover is on display.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85070835">Judaism</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85033169">Cosmology</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85112554">Religion--Philosophy</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Der Stern der Erlösung</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300028051">Books</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2014-03-06</earliestDate>
-                <latestDate>2014-03-06</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Rosenzweig-Stern_Erlosung-1921_FULL.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Der Stern der Erlösung, Front Cover]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
-    </vra>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 82144585">Rosenzweig, Franz, 1886-1929</name>
+        <role>Author</role>
+        <dates>
+          <earliestDate>1886</earliestDate>
+          <latestDate>1929</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="no2004057777">J. Kauffmann Antiquariat</name>
+        <role>Publisher</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1921</earliestDate>
+        <latestDate>1921</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Der Stern der Erlösung (The Star of Redemption) is Rosenzweig’s major philosophical work. The first draft was written in the trenches and in a military hospital while serving in the German Army during W.W.I. In this work, he describes the relationships among God, humanity, and the world as they are connected by creation, revelation and redemption. In Rosenzweig’s scheme, revelation arises not in metaphysics, but in the here and now of daily religious practice.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Nahum N. Glatzer Collection, BM565 .R6 1921</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Published in 1921, prior to 1923 copyright act on books. Also, only the front cover is on display.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85070835">Judaism</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85033169">Cosmology</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85112554">Religion--Philosophy</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Der Stern der Erlösung</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028051">Books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2014-03-06</earliestDate>
+        <latestDate>2014-03-06</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Rosenzweig-Stern_Erlosung-1921_FULL.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Der Stern der Erlösung, Front Cover]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

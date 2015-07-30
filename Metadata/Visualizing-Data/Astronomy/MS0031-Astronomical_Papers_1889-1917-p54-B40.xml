@@ -1,79 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 94063816">Barnard, Edward Emerson, 1857-1923</name>
-                <dates>
-                    <earliestDate>1857</earliestDate>
-                    <latestDate>1923</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>1892-11</earliestDate>
-                <latestDate>1892-11</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Edward Emerson Barnard’s discovery of the fifth satellite of Jupiter in 1892 set off a firestorm of accolades in the press and in astronomy circles. It was the first planetary satellite discovery since Asaph Hall had discovered the moons of Mars in 1877 and the last satellite discovery by direct observation. Henceforth, astronomers would rely on photography to detect new solar bodies.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="other">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0031, Edward Emerson Barnard Papers, Box 40</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Publication of article is pre-1923, placing it in the public domain.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCNAF" refid="n 94063816">Barnard, Edward Emerson, 1857-1923</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Discovery of the Fifith Moon of Jupiter</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300048715">Articles</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-05-04</earliestDate>
-                <latestDate>2015-05-04</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0031-Astronomical_Papers_1889-1917-p54-B40.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Discovery of the Fifith Moon of Jupiter, Pages 54-55]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 94063816">Barnard, Edward Emerson, 1857-1923</name>
+        <dates>
+          <earliestDate>1857</earliestDate>
+          <latestDate>1923</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1892-11</earliestDate>
+        <latestDate>1892-11</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Edward Emerson Barnard’s discovery of the fifth satellite of Jupiter in 1892 set off a firestorm of accolades in the press and in astronomy circles. It was the first planetary satellite discovery since Asaph Hall had discovered the moons of Mars in 1877 and the last satellite discovery by direct observation. Henceforth, astronomers would rely on photography to detect new solar bodies.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="other">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0031, Edward Emerson Barnard Papers, Box 40</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Publication of article is pre-1923, placing it in the public domain.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 94063816">Barnard, Edward Emerson, 1857-1923</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Discovery of the Fifith Moon of Jupiter</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300048715">Articles</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-05-04</earliestDate>
+        <latestDate>2015-05-04</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0031-Astronomical_Papers_1889-1917-p54-B40.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Discovery of the Fifith Moon of Jupiter, Pages 54-55]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

@@ -1,75 +1,72 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 79105937">George C. Marshall Space Flight Center</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1993-10-21</earliestDate>
-                <latestDate>1993-10-21</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>From the moon landing to the International Space Station, scientists at the Marshall Space Flight Center have been at the forefront of research and development of space transport systems and related technologies.  Their Saturn rockets were crucial to the 1969 moon landing.  They helped develop the space shuttle transport system and built the Hubble Space Telescope.  This illustration depicts a few of their accomplishments in space exploration. </description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0701, C. Rick Chappell Papers, Box 1, Folder 19</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Marshall Space Flight Center, Ref # MSFC 93-0026 / http://www.nasa.gov/centers/marshall/about/contact.html, NASA Marshall Space Flight Center, Redstone Arsenal, Huntsville, AL 35812</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85096159">Outer space--Exploration</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>MSFC Space Science Heritage</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300134769">Composite photographs</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-04-29</earliestDate>
-                <latestDate>2015-04-29</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0701-DV-MSFC_Space_Science_Heritage.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of MSFC Space Science Heritage]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 79105937">George C. Marshall Space Flight Center</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1993-10-21</earliestDate>
+        <latestDate>1993-10-21</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>From the moon landing to the International Space Station, scientists at the Marshall Space Flight Center have been at the forefront of research and development of space transport systems and related technologies.  Their Saturn rockets were crucial to the 1969 moon landing.  They helped develop the space shuttle transport system and built the Hubble Space Telescope.  This illustration depicts a few of their accomplishments in space exploration.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0701, C. Rick Chappell Papers, Box 1, Folder 19</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Marshall Space Flight Center, Ref # MSFC 93-0026 / http://www.nasa.gov/centers/marshall/about/contact.html, NASA Marshall Space Flight Center, Redstone Arsenal, Huntsville, AL 35812</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85096159">Outer space--Exploration</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>MSFC Space Science Heritage</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300134769">Composite photographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-29</earliestDate>
+        <latestDate>2015-04-29</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0701-DV-MSFC_Space_Science_Heritage.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of MSFC Space Science Heritage]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

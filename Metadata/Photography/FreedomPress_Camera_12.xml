@@ -1,76 +1,73 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 80070839">Nikon, inc.</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1960</earliestDate>
-                <latestDate>1980?</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Jack Corn described his work as dependent on lighting conditions: “No matter how much talent a professional photographer has, one keeper, i.e. a good photograph, per one roll of film is a good harvest.” He made these images from 1956 to 1979 in Appalachian towns while staff photographer for The Nashville Tennessean newspaper and for the Documerica project, photographing environmental damage in coal fields. Corn was photojournalist in residence at Western Kentucky University from 1977 to 1984.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0774, Jack Corn Collection</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Corn granted rights to Vanderbilt for the 2012 exhibition.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term refid="sh 85091943" vocab="LCSH">Nikon camera--Specimens</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Jack Corn's Nikon Camera]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300022638">35 mm camera</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <role>Scanner</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2014-03</earliestDate>
-                <latestDate>2014-03</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>FreedomPress_Camera_12.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Image of Jack Corn's Nikon Camera]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 80070839">Nikon, inc.</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1960</earliestDate>
+        <latestDate>1980?</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Jack Corn described his work as dependent on lighting conditions: “No matter how much talent a professional photographer has, one keeper, i.e. a good photograph, per one roll of film is a good harvest.” He made these images from 1956 to 1979 in Appalachian towns while staff photographer for The Nashville Tennessean newspaper and for the Documerica project, photographing environmental damage in coal fields. Corn was photojournalist in residence at Western Kentucky University from 1977 to 1984.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0774, Jack Corn Collection</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Corn granted rights to Vanderbilt for the 2012 exhibition.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term refid="sh 85091943" vocab="LCSH">Nikon camera--Specimens</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Jack Corn's Nikon Camera]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300022638">35 mm camera</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <role>Scanner</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2014-03</earliestDate>
+        <latestDate>2014-03</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>FreedomPress_Camera_12.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Image of Jack Corn's Nikon Camera]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

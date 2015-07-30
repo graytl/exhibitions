@@ -1,79 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 86858994">Kirkwood, Daniel, 1814-1895</name>
-                <dates>
-                    <earliestDate>1814</earliestDate>
-                    <latestDate>1895</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1892-12-08</earliestDate>
-                <latestDate>1892-12-08</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Daniel Kirkwood was an American mathematician who used mathematics to derive theories based on the work of astronomers. He was the first to suggest that meteor showers were composed of debris from comets. He also developed a theory known as Kirkwood’s Gap. This theory asserts that the gaps in the main asteroid belt between Jupiter and Mars were caused by the heavier gravitational pull of Jupiter. He alludes to the theory in this letter, stating there are additional Jovian satellites yet to be discovered.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0031, Edward Emerson Barnard Papers, Box 20</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Pre-1923 letter should place it in the public domain</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85071063">Jupiter (Planet)</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Daniel Kirkwood to Barnard]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300026879">Letters (correspondence)</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-05-07</earliestDate>
-                <latestDate>2015-05-07</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0031-To_Barnard-B20-F-Kirkwood-Dec1892.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Daniel Kirkwood to Barnard]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 86858994">Kirkwood, Daniel, 1814-1895</name>
+        <dates>
+          <earliestDate>1814</earliestDate>
+          <latestDate>1895</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1892-12-08</earliestDate>
+        <latestDate>1892-12-08</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Daniel Kirkwood was an American mathematician who used mathematics to derive theories based on the work of astronomers. He was the first to suggest that meteor showers were composed of debris from comets. He also developed a theory known as Kirkwood’s Gap. This theory asserts that the gaps in the main asteroid belt between Jupiter and Mars were caused by the heavier gravitational pull of Jupiter. He alludes to the theory in this letter, stating there are additional Jovian satellites yet to be discovered.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0031, Edward Emerson Barnard Papers, Box 20</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Pre-1923 letter should place it in the public domain</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85071063">Jupiter (Planet)</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Daniel Kirkwood to Barnard]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300026879">Letters (correspondence)</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-05-07</earliestDate>
+        <latestDate>2015-05-07</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0031-To_Barnard-B20-F-Kirkwood-Dec1892.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Daniel Kirkwood to Barnard]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

@@ -1,73 +1,70 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1935</earliestDate>
-                <latestDate>1935?</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>After her marriage in 1933 to Harold S. Vanderbilt (“Mike” to friends and family), Gertie sailed as one of the few women allowed on board racing J-class yachts in the 1930s. Aboard Rainbow in 1937, the couple successfully defended the America’s Cup for the second time, with Gertie acting as timekeeper, observer, and afterguard and Mike as skipper. They remained avid sailors and were inducted into the America’s Cup Hall of Fame in 1993.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0468, Harold Stirling Vanderbilt Papers</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="undetermined">
-                <text>image date unknown, but appears to be c. 1935 based on clothing. The couple had no children.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="local">Vanderbilt, Gertrude Conaway--Portraits</term>
-            </subject>
-            <subject>
-                <term vocab="local">Vanderbilt, Harold Stirling--Portraits</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Harold Stirling Vanderbilt and Gertrude Conaway Vanderbilt]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-18</earliestDate>
-                <latestDate>2015-03-18</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0468-P-Harold_Stirling_and_Gertrude_Conaway_Vanderbilt-c.1935.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Harold Stirling vanderbilt and Gertrude Conaway Vanderbilt]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1935</earliestDate>
+        <latestDate>1935?</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>After her marriage in 1933 to Harold S. Vanderbilt (“Mike” to friends and family), Gertie sailed as one of the few women allowed on board racing J-class yachts in the 1930s. Aboard Rainbow in 1937, the couple successfully defended the America’s Cup for the second time, with Gertie acting as timekeeper, observer, and afterguard and Mike as skipper. They remained avid sailors and were inducted into the America’s Cup Hall of Fame in 1993.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0468, Harold Stirling Vanderbilt Papers</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="undetermined">
+        <text>image date unknown, but appears to be c. 1935 based on clothing. The couple had no children.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="local">Vanderbilt, Gertrude Conaway--Portraits</term>
+      </subject>
+      <subject>
+        <term vocab="local">Vanderbilt, Harold Stirling--Portraits</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Harold Stirling Vanderbilt and Gertrude Conaway Vanderbilt]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-18</earliestDate>
+        <latestDate>2015-03-18</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0468-P-Harold_Stirling_and_Gertrude_Conaway_Vanderbilt-c.1935.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Harold Stirling vanderbilt and Gertrude Conaway Vanderbilt]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

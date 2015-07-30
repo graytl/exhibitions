@@ -1,66 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1970</earliestDate>
-                <latestDate>1979?</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Mary and Harry Zimmerman were the founders of Service Merchandise retail stores, which evolved from a single store in Pulaski, Tennessee, in 1934 into the nation’s largest catalog showrooms in the 1960’s. Harry Zimmerman received the B'nai B'rith National Jewelry Industry Man of the Year Award in 1974. The Vanderbilt Judaica Collection was named in their honor after a generous gift from their son.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Archives</name>
-                <refid>RG530, Divinity Library Archives</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="undetermined">
-                <text>The portrait was donated by Raymond Zimmerman and is hung in the Zimmerman Judaica Room.</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Portrait of Mary and Harry Zimmerman]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300128359">Color photographs</worktype>
-            <worktype vocab="AAT" refid="300140969">Commercial portraiture</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collecions</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-16</earliestDate>
-                <latestDate>2015-03-16</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Judaica-Zimmerman_portrait.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Portrait of Mary and Harry Zimmerman]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1970</earliestDate>
+        <latestDate>1979?</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Mary and Harry Zimmerman were the founders of Service Merchandise retail stores, which evolved from a single store in Pulaski, Tennessee, in 1934 into the nation’s largest catalog showrooms in the 1960’s. Harry Zimmerman received the B'nai B'rith National Jewelry Industry Man of the Year Award in 1974. The Vanderbilt Judaica Collection was named in their honor after a generous gift from their son.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Archives</name>
+        <refid>RG530, Divinity Library Archives</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="undetermined">
+        <text>The portrait was donated by Raymond Zimmerman and is hung in the Zimmerman Judaica Room.</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Portrait of Mary and Harry Zimmerman]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300128359">Color photographs</worktype>
+      <worktype vocab="AAT" refid="300140969">Commercial portraiture</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collecions</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-16</earliestDate>
+        <latestDate>2015-03-16</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Judaica-Zimmerman_portrait.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ACRL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Portrait of Mary and Harry Zimmerman]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

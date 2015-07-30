@@ -1,70 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03</earliestDate>
-                <latestDate>2015-03</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>In addition to her formidable talent as a writer of fiction, O’Connor devoted much of her too-short life to writing letters; she wrote to friends and acquaintances all over the country, about an array of topics. This graph depicts a digital network graph of O’Connor’s correspondence, coded not only by date and correspondent, but also by content area. Using the graphing software Neo4j, this graph illustrates 374 letters written by and to O’Connor.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="other">
-                <name type="corporate" vocab="local">Neo4j Graph Gist Website</name>
-                <refid>http://gist.neo4j.org/?2d0c49d816987ba58c5b</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh2001001035">Computational linguistics--Network analysis</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Graph Depicting Network Analysis of Correspondence of Flannery O'Connor</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300027020">Graphs</worktype>
-        </worktypeSet>
-    </work>
-      <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-04-28</earliestDate>
-                <latestDate>2015-04-28</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>FC-gist.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Graph Depicting Network Analysis of Correspondence of Flannery O'Connor]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>   
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03</earliestDate>
+        <latestDate>2015-03</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>In addition to her formidable talent as a writer of fiction, O’Connor devoted much of her too-short life to writing letters; she wrote to friends and acquaintances all over the country, about an array of topics. This graph depicts a digital network graph of O’Connor’s correspondence, coded not only by date and correspondent, but also by content area. Using the graphing software Neo4j, this graph illustrates 374 letters written by and to O’Connor.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="other">
+        <name type="corporate" vocab="local">Neo4j Graph Gist Website</name>
+        <refid>http://gist.neo4j.org/?2d0c49d816987ba58c5b</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright Vanderbilt University Special Collections</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh2001001035">Computational linguistics--Network analysis</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Graph Depicting Network Analysis of Correspondence of Flannery O'Connor</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300027020">Graphs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-28</earliestDate>
+        <latestDate>2015-04-28</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>FC-gist.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Graph Depicting Network Analysis of Correspondence of Flannery O'Connor]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

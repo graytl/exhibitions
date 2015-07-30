@@ -1,91 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 79109333">Linné, Carl von, 1707-1778</name>
-                <role>Author</role>
-                <dates>
-                    <earliestDate>1707-05-23</earliestDate>
-                    <latestDate>1778-01-10</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 83007770">Gmelin, Johann Friedrich, 1748-1804</name>
-                <role>Editor</role>
-            </agent>
-            <agent>
-                <name type="personal" vocab="local">G.E. Beer</name>
-                <role>Printer</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>1788</earliestDate>
-                <latestDate>1788</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Swedish naturalist Carl Linnaeus identified the three kingdoms of nature (stones, plants and animals) in his Systema Naturae (1735). Each kingdom was subdivided into classes, orders, genera, species, and varieties. Linnaeus identified six classes of animals, including mammalia, a term he coined that referred to animals that suckled. For Linnaeus, the naming and classifying of living beings was the key to all knowledge, especially the knowledge of God's plan for the world.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>Sevier Collection, QH43 .C53 1788</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>published before 1923</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85014205">Biology--Classification</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85090225">Natural history--Classification</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Systema Naturae per Regna Tria Naturae</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300028051">Books</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-30</earliestDate>
-                <latestDate>2015-03-30</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Systema_Naturae-Linne-1788.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Systema Naturae per Regna Tria Naturae, Pages 14-15]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 79109333">Linné, Carl von, 1707-1778</name>
+        <role>Author</role>
+        <dates>
+          <earliestDate>1707-05-23</earliestDate>
+          <latestDate>1778-01-10</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 83007770">Gmelin, Johann Friedrich, 1748-1804</name>
+        <role>Editor</role>
+      </agent>
+      <agent>
+        <name type="personal" vocab="local">G.E. Beer</name>
+        <role>Printer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1788</earliestDate>
+        <latestDate>1788</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Swedish naturalist Carl Linnaeus identified the three kingdoms of nature (stones, plants and animals) in his Systema Naturae (1735). Each kingdom was subdivided into classes, orders, genera, species, and varieties. Linnaeus identified six classes of animals, including mammalia, a term he coined that referred to animals that suckled. For Linnaeus, the naming and classifying of living beings was the key to all knowledge, especially the knowledge of God's plan for the world.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Sevier Collection, QH43 .C53 1788</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>published before 1923</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85014205">Biology--Classification</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85090225">Natural history--Classification</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Systema Naturae per Regna Tria Naturae</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028051">Books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-30</earliestDate>
+        <latestDate>2015-03-30</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Systema_Naturae-Linne-1788.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Systema Naturae per Regna Tria Naturae, Pages 14-15]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

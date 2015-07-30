@@ -1,79 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="no 98090423">Kuhlman, A. F. (Augustus Frederick), 1889-1986</name>
-                <dates>
-                    <earliestDate>1889</earliestDate>
-                    <latestDate>1986</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1944-12-25</earliestDate>
-                <latestDate>1944-12-25</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Dr. Kuhlman wrote this letter, dated December 25, 1944, to Mrs. Sarah Lowenstein Teitltebaum, thanking her for a generous donation in memory of her husband, Henry Teitlebaum. Her gift funded the purchase of Dr. Ismar Elbogen’s collection.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Archives</name>
-                <refid>RG530, Divinity Library Archives, Box 886, Folder 31</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Work for hire, Vanderbilt University</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="local">Tietlebaum, Sara Lowenstein--Correspondences</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Letter to Mrs. Sara Lowenstein Teitlebaum]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300026879">Letters (correspondence)</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-04</earliestDate>
-                <latestDate>2015-03-04</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Judaica-B886F31-Kuhlman-Teitlebaum.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Letter to Mrs. Sara Lowenstein Teitlebaum]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="no 98090423">Kuhlman, A. F. (Augustus Frederick), 1889-1986</name>
+        <dates>
+          <earliestDate>1889</earliestDate>
+          <latestDate>1986</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1944-12-25</earliestDate>
+        <latestDate>1944-12-25</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Dr. Kuhlman wrote this letter, dated December 25, 1944, to Mrs. Sarah Lowenstein Teitltebaum, thanking her for a generous donation in memory of her husband, Henry Teitlebaum. Her gift funded the purchase of Dr. Ismar Elbogen’s collection.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Archives</name>
+        <refid>RG530, Divinity Library Archives, Box 886, Folder 31</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Work for hire, Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="local">Tietlebaum, Sara Lowenstein--Correspondences</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Letter to Mrs. Sara Lowenstein Teitlebaum]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300026879">Letters (correspondence)</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-04</earliestDate>
+        <latestDate>2015-03-04</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Judaica-B886F31-Kuhlman-Teitlebaum.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Letter to Mrs. Sara Lowenstein Teitlebaum]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

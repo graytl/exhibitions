@@ -1,73 +1,70 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>1982</earliestDate>
-                <latestDate>1983</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Lamar Alexander won the 1978 Tennessee gubernatorial election over incumbent Ray Blanton by a wide margin. This button was part of Alexander’s re-election bid in 1982.  Referencing his trademark red and black plaid shirt and his walk across the state, this button was one of thousands distributed during the campaign. Alexander won re-election handily and served until January 1987.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0734, Alexander Papers, Memorabilia</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="undetermined">
-                <text>Phrase may be copyrighted by Alexander Committee</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh85041555">Political campaigns</term>
-            </subject>
-            <subject>
-                <term vocab="LCNAF" refid="n 81044263">Alexander, Lamar, 1940-</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>I’m Going the Extra Mile</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300207332">Buttons (information artifacts)</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-05-06</earliestDate>
-                <latestDate>2015-05-06</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0734_Alexander-button-Mile.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Image of Campaign Button, I’m Going the Extra Mile]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1982</earliestDate>
+        <latestDate>1983</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Lamar Alexander won the 1978 Tennessee gubernatorial election over incumbent Ray Blanton by a wide margin. This button was part of Alexander’s re-election bid in 1982.  Referencing his trademark red and black plaid shirt and his walk across the state, this button was one of thousands distributed during the campaign. Alexander won re-election handily and served until January 1987.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0734, Alexander Papers, Memorabilia</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="undetermined">
+        <text>Phrase may be copyrighted by Alexander Committee</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh85041555">Political campaigns</term>
+      </subject>
+      <subject>
+        <term vocab="LCNAF" refid="n 81044263">Alexander, Lamar, 1940-</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>I’m Going the Extra Mile</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300207332">Buttons (information artifacts)</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-05-06</earliestDate>
+        <latestDate>2015-05-06</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0734_Alexander-button-Mile.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ACRL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Image of Campaign Button, I’m Going the Extra Mile]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

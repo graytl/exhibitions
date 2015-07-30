@@ -1,81 +1,78 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 88079713">Coyle, Randolph</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1834-04-26</earliestDate>
-                <latestDate>1834-04-26</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>This map, drawn by Randolph Coyle, was made to accompany a report on the improvement of the Cumberland River for the navigation of it by steamboats in obedience to a resolution of Congress date April 26, 1834. Before the development of steamboats, flatboats were used to bring goods from Nashville to New Orleans via the Cumberland River. By 1819, the General Jackson steamboat had sailed the Cumberland River to Nashville. During the "Steamboat Age" (1811-1830)  steamboats were relied on to transport pork, tobacco, whiskey, cotton and passengers downriver. Railroads would replace steamer commerce in the 1860s as the dominant mode of transportation.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0274, Robert A. McGaw Collection</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicdomain">
-                <text>Copyright 1834 - now in public domain.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85049168">Floods--Tennessee--Nashville--Pictorial works</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85034781">Cumberland River (Ky. and Tenn.)--Pictorial works</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85114409">Rivers--Tennessee--Pictorial works</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Map of the Cumberland River from the Falls of Nashville</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300028233">Historical maps</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015</earliestDate>
-                <latestDate>2015</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0274-DV-McGaw_Map-April_26_1834.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Map of the Cumberland River from the Falls of Nashville]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 88079713">Coyle, Randolph</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1834-04-26</earliestDate>
+        <latestDate>1834-04-26</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>This map, drawn by Randolph Coyle, was made to accompany a report on the improvement of the Cumberland River for the navigation of it by steamboats in obedience to a resolution of Congress date April 26, 1834. Before the development of steamboats, flatboats were used to bring goods from Nashville to New Orleans via the Cumberland River. By 1819, the General Jackson steamboat had sailed the Cumberland River to Nashville. During the "Steamboat Age" (1811-1830)  steamboats were relied on to transport pork, tobacco, whiskey, cotton and passengers downriver. Railroads would replace steamer commerce in the 1860s as the dominant mode of transportation.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0274, Robert A. McGaw Collection</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Copyright 1834 - now in public domain.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85049168">Floods--Tennessee--Nashville--Pictorial works</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85034781">Cumberland River (Ky. and Tenn.)--Pictorial works</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85114409">Rivers--Tennessee--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Map of the Cumberland River from the Falls of Nashville</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028233">Historical maps</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015</earliestDate>
+        <latestDate>2015</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0274-DV-McGaw_Map-April_26_1834.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Map of the Cumberland River from the Falls of Nashville]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

@@ -1,78 +1,75 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 98077443">Marr, Johnny, 1961-</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>1990</earliestDate>
-                <latestDate>1990</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>In the 1970s, self-published magazines called "zines" became an important voice for alternative or marginalized media. With the rise of punk culture, zines became means for communication in such areas as queer and Riot Grrl movements. John Marr's "Murder Can Be Fun" series, which ran for over 20 years, looked at strange and unusual crimes through the lens of anti-establishment culture. Web browsers and the demise of independent book and record stores led to online zine publication.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>Sevier Periodicals, AP 2.M87</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Courtesy of John Marr</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85088613">Murder--History--Periodicals</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh2008113210">Violent crimes--History--Periodicals</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>The Art of Murder</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="300252980">Fanzines</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-17</earliestDate>
-                <latestDate>2015-03-17</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Murder_Can_Be_Fun-no.12-J_Marr-1990.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of 'The Art of Murder,' Zine Cover]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 98077443">Marr, Johnny, 1961-</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1990</earliestDate>
+        <latestDate>1990</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>In the 1970s, self-published magazines called "zines" became an important voice for alternative or marginalized media. With the rise of punk culture, zines became means for communication in such areas as queer and Riot Grrl movements. John Marr's "Murder Can Be Fun" series, which ran for over 20 years, looked at strange and unusual crimes through the lens of anti-establishment culture. Web browsers and the demise of independent book and record stores led to online zine publication.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Sevier Periodicals, AP 2.M87</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Courtesy of John Marr</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85088613">Murder--History--Periodicals</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh2008113210">Violent crimes--History--Periodicals</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>The Art of Murder</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="300252980">Fanzines</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-17</earliestDate>
+        <latestDate>2015-03-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Murder_Can_Be_Fun-no.12-J_Marr-1990.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of 'The Art of Murder,' Zine Cover]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

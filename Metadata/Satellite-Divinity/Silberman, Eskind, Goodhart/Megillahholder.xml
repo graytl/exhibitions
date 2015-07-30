@@ -1,66 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1990</earliestDate>
-                <latestDate>1990?</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>This Megillah silver case was crafted in Israel. It has a removable lid, can hold a large parchment scroll and is decorated with interesting embossed decorations as well as Hebrew text in a traditional font.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="other">
-                <name type="corporate" vocab="local">Congregation Micah (Brentwood, Tn.)</name>
-                <refid>Item on loan</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="other">
-                <text>This is a 3D artifact.</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Megillah Holder from Israel]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300257080">Judaica</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
-                <role>Photographer</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-04-17</earliestDate>
-                <latestDate>2015-04-17</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Megillahholder.JPG</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Megillah Holder from Israel]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
- </vra>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1990</earliestDate>
+        <latestDate>1990?</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>This Megillah silver case was crafted in Israel. It has a removable lid, can hold a large parchment scroll and is decorated with interesting embossed decorations as well as Hebrew text in a traditional font.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="other">
+        <name type="corporate" vocab="local">Congregation Micah (Brentwood, Tn.)</name>
+        <refid>Item on loan</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="other">
+        <text>This is a 3D artifact.</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Megillah Holder from Israel]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300257080">Judaica</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+        <role>Photographer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-17</earliestDate>
+        <latestDate>2015-04-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Megillahholder.JPG</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Megillah Holder from Israel]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

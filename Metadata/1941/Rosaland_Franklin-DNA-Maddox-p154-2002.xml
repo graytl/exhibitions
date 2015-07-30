@@ -1,90 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?>
- <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 50043627">Maddox, Brenda</name>
-                <role>Author</role>
-                <dates>
-                    <earliestDate>1932-02-24</earliestDate>
-                    <latestDate>present</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 90719451">HarperCollins (Firm)</name>
-                <role>Publisher</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>2002</earliestDate>
-                <latestDate>2002</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Deoxyribonucleic acid (DNA) is a molecule that encodes the genetic instructions used in the development and functioning of all known living organisms and many viruses. Most DNA forms two strands that wrap around each other to form a double helix. James Watson and Francis Crick were awarded a Nobel Prize for their proposed design of the double helix in 1953, based on the photography of Rosalind Franklin and Raymond Gosling.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Sarah Shannon Stevenson Science &amp; Engineering Library</name>
-                <refid>Science and Engineering Library, QP26 .F68 M334 2002</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>copyrighted HarperCollins; claiming fair use on grounds of amount, transformative use, affect on market and importance to presentation</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85037008">DNA--Research--History</term>
-            </subject>
-            <subject>
-                <term vocab="LCNAF" refid="n 2001016339">Franklin, Rosalind, 1920-1958</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85147649">Women molecular biologists--Great Britain--Biography</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Rosalind Franklin: The Dark Lady of DNA</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300028051">Books</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-04-13</earliestDate>
-                <latestDate>2015-04-13</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Rosaland_Franklin-DNA-Maddox-p154-2002.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Rosalind Franklin: The Dark Lady of DNA, Page 154: "DNA 'A' and 'B' Forms"]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 50043627">Maddox, Brenda</name>
+        <role>Author</role>
+        <dates>
+          <earliestDate>1932-02-24</earliestDate>
+          <latestDate>present</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 90719451">HarperCollins (Firm)</name>
+        <role>Publisher</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>2002</earliestDate>
+        <latestDate>2002</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Deoxyribonucleic acid (DNA) is a molecule that encodes the genetic instructions used in the development and functioning of all known living organisms and many viruses. Most DNA forms two strands that wrap around each other to form a double helix. James Watson and Francis Crick were awarded a Nobel Prize for their proposed design of the double helix in 1953, based on the photography of Rosalind Franklin and Raymond Gosling.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Sarah Shannon Stevenson Science &amp; Engineering Library</name>
+        <refid>Science and Engineering Library, QP26 .F68 M334 2002</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>copyrighted HarperCollins; claiming fair use on grounds of amount, transformative use, affect on market and importance to presentation</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85037008">DNA--Research--History</term>
+      </subject>
+      <subject>
+        <term vocab="LCNAF" refid="n 2001016339">Franklin, Rosalind, 1920-1958</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85147649">Women molecular biologists--Great Britain--Biography</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Rosalind Franklin: The Dark Lady of DNA</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028051">Books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-13</earliestDate>
+        <latestDate>2015-04-13</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Rosaland_Franklin-DNA-Maddox-p154-2002.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ACRL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Rosalind Franklin: The Dark Lady of DNA, Page 154: "DNA 'A' and 'B' Forms"]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

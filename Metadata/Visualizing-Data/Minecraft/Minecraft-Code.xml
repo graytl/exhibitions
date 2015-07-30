@@ -1,80 +1,77 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 2011010026">Anderson, Clifford B.</name>
-                <role>Photographer</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-05-18</earliestDate>
-                <latestDate>2015-05-18</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Clifford Anderson adapted this Java code from source code provided by Andy Hunt in his Learn to Program with Minecraft Plugins (2nd edition): Create Flaming Cows in Java Using CanaryMod (Pragmatic Press, 2014). When executed in Minecraft, this code creates the walls of a castle-like structure.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>Vanderbilt University Special Collections</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Original source code, copyright Andy Hunt, Pragmatic Press. The modifications are copyright of Vanderbilt University.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 2012000023">Minecraft (Game)--Pictorial works</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85143202">Video games--Pictorial works</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Source Code of a Minecraft / CanaryMod Plugin</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-            <worktype vocab="AAT" refid="300266012">Computer languages and codes</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="repository">
-                <earliestDate>2015-05-18</earliestDate>
-                <latestDate>2015-05-18</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Minecraft-Code.png</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>The photograph of this work is copyright of Vanderbilt University. The source code depicted is derivative of Andy Hunt's source code in Learn to Program with Minecraft Plugins (2nd edition): Create Flaming Cows in Java Using CanaryMod (Pragmatic Press, 2014)</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Image of Source Code of a Minecraft / CanaryMod Plugin]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 2011010026">Anderson, Clifford B.</name>
+        <role>Photographer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-05-18</earliestDate>
+        <latestDate>2015-05-18</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Clifford Anderson adapted this Java code from source code provided by Andy Hunt in his Learn to Program with Minecraft Plugins (2nd edition): Create Flaming Cows in Java Using CanaryMod (Pragmatic Press, 2014). When executed in Minecraft, this code creates the walls of a castle-like structure.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Vanderbilt University Special Collections</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Original source code, copyright Andy Hunt, Pragmatic Press. The modifications are copyright of Vanderbilt University.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 2012000023">Minecraft (Game)--Pictorial works</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85143202">Video games--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Source Code of a Minecraft / CanaryMod Plugin</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+      <worktype vocab="AAT" refid="300266012">Computer languages and codes</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="repository">
+        <earliestDate>2015-05-18</earliestDate>
+        <latestDate>2015-05-18</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Minecraft-Code.png</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ACRL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Image of Source Code of a Minecraft / CanaryMod Plugin]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

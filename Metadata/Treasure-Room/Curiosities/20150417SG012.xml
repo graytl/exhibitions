@@ -1,66 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>-0599</earliestDate>
-                <latestDate>-0599</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>This agate Mesopotamian signature seal of two lions attacking a deer was created about 600 B.C.E. It has a hole drilled through its length so that it could be worn on a string or pin. These types of seals are often engraved with a design so that when they were rolled out on clay they would leave a back-to-front impression of the design in relief. They were used as an administrative tool, a form of signature, as well as jewelry and as magical amulets.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0412, James G. Stahlman Historical Autograph Collection</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>This Mesopotamian seal dates back to the 6th century BCE and is not under any copyright.</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Mesopotamian Signature Seal]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300028877">Seals (artifacts)</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
-                <role>Photographer</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-04-17</earliestDate>
-                <latestDate>2015-04-17</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>20150417SG012.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Mesopotamian Signature Seal]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>-0599</earliestDate>
+        <latestDate>-0599</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>This agate Mesopotamian signature seal of two lions attacking a deer was created about 600 B.C.E. It has a hole drilled through its length so that it could be worn on a string or pin. These types of seals are often engraved with a design so that when they were rolled out on clay they would leave a back-to-front impression of the design in relief. They were used as an administrative tool, a form of signature, as well as jewelry and as magical amulets.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0412, James G. Stahlman Historical Autograph Collection</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>This Mesopotamian seal dates back to the 6th century BCE and is not under any copyright.</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Mesopotamian Signature Seal]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028877">Seals (artifacts)</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+        <role>Photographer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-17</earliestDate>
+        <latestDate>2015-04-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>20150417SG012.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Mesopotamian Signature Seal]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

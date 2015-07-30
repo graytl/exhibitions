@@ -1,78 +1,75 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 88079917">Detroit Photographic Co.</name>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 50027955">Jackson, William Henry, 1843-1942</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1898</earliestDate>
-                <latestDate>1898</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Completed in 1695, Fort Marion (now Castillo de San Marcos) is the oldest surviving masonry fort in the continental U.S. Engineer Ignazio Daza followed standards for building defensive structures that would withstand cannon projectiles and maximize cannon mounts to repel attackers. The bastion was built to defend St. Augustine against British attack. The coquina shell walls did not splinter into projectiles under cannon fire and when mixed with aggregate, absorbed cannon balls.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0827, Howard Gottlieb and William H. Jackson Collection</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Image made in 1898.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85020695">Castillo de San Marcos (Saint Augustine, Fla.)--Pictorial works</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Ft. Marion-St. Augustine &amp; Harbor, FL]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300265036">Photochroms</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-11</earliestDate>
-                <latestDate>2015-03-11</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0827-P-St_Augustine-1898.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Ft. Marion-St. Augustine &amp; Harbor, FL]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 88079917">Detroit Photographic Co.</name>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 50027955">Jackson, William Henry, 1843-1942</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1898</earliestDate>
+        <latestDate>1898</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Completed in 1695, Fort Marion (now Castillo de San Marcos) is the oldest surviving masonry fort in the continental U.S. Engineer Ignazio Daza followed standards for building defensive structures that would withstand cannon projectiles and maximize cannon mounts to repel attackers. The bastion was built to defend St. Augustine against British attack. The coquina shell walls did not splinter into projectiles under cannon fire and when mixed with aggregate, absorbed cannon balls.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0827, Howard Gottlieb and William H. Jackson Collection</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Image made in 1898.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85020695">Castillo de San Marcos (Saint Augustine, Fla.)--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Ft. Marion-St. Augustine &amp; Harbor, FL]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300265036">Photochroms</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-11</earliestDate>
+        <latestDate>2015-03-11</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0827-P-St_Augustine-1898.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Ft. Marion-St. Augustine &amp; Harbor, FL]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

@@ -1,73 +1,70 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1860</earliestDate>
-                <latestDate>1860?</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>William Henderson served the Confederate States of America as aid-de-camp on staff of Brigadier-General Leadbetter and later Major-General Heth. Wounded at Petersburg, he was captured and spent four months a prisoner in Washington and upstate New York. He rejoined his former regiment in the ranks and surrendered at Appomattox. A successful attorney in Knoxville, Henderson’s portrait from the 1890s is also shown in this exhibition.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0242, James Hampton Kirkland Papers, Box "PH Arch/ Kirk Fam" Folder "Kirkland and Henderson Relatives"</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Image made c. 1860 by unknown photographer.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85124554">Soldiers--Confederate States of America--Portraits</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85101240">Portrait photography--Specimens</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Grandpa Henderson in His Confederate Uniform]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300127181">Daguerreotypes (photographs)</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-18</earliestDate>
-                <latestDate>2015-03-18</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0242-P-Grandpa_Henderson-Confederate_Uniform-c1860.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Grandpa Henderson in His Confederate Uniform]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1860</earliestDate>
+        <latestDate>1860?</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>William Henderson served the Confederate States of America as aid-de-camp on staff of Brigadier-General Leadbetter and later Major-General Heth. Wounded at Petersburg, he was captured and spent four months a prisoner in Washington and upstate New York. He rejoined his former regiment in the ranks and surrendered at Appomattox. A successful attorney in Knoxville, Henderson’s portrait from the 1890s is also shown in this exhibition.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0242, James Hampton Kirkland Papers, Box "PH Arch/ Kirk Fam" Folder "Kirkland and Henderson Relatives"</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Image made c. 1860 by unknown photographer.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85124554">Soldiers--Confederate States of America--Portraits</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85101240">Portrait photography--Specimens</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Grandpa Henderson in His Confederate Uniform]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300127181">Daguerreotypes (photographs)</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-18</earliestDate>
+        <latestDate>2015-03-18</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0242-P-Grandpa_Henderson-Confederate_Uniform-c1860.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Grandpa Henderson in His Confederate Uniform]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

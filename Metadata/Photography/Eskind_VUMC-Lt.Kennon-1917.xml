@@ -1,70 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1918</earliestDate>
-                <latestDate>1919</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Dr. William G. Kennon specialized in surgery of the eye, ear, nose and throat. Vanderbilt and other medical schools recruited doctors and nurses to assist the American Expeditionary Force in France after the U.S. joined the war in 1917. One of 12 doctors from Vanderbilt, Kennon worked with Nashville-area nurses and enlisted men at Vanderbilt Hospital Unit S in Nevers, Central France. In contrast to the formal portraits, this image shows the photographer’s sense of humor.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
-                <refid>Vanderbilt History Files: Series 2, Folder 8, Image 10</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Photo taken c.1918 in France. No known photographer.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh2008113826">World War, 1914-1918--Hospitals--Pictorial works</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Lt. Kennon's Moustache and Lesser Objects</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-20</earliestDate>
-                <latestDate>2015-03-20</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Eskind_VUMC-Lt.Kennon-1917.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Lt. Kennon's Moustache and Lesser Objects]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1918</earliestDate>
+        <latestDate>1919</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Dr. William G. Kennon specialized in surgery of the eye, ear, nose and throat. Vanderbilt and other medical schools recruited doctors and nurses to assist the American Expeditionary Force in France after the U.S. joined the war in 1917. One of 12 doctors from Vanderbilt, Kennon worked with Nashville-area nurses and enlisted men at Vanderbilt Hospital Unit S in Nevers, Central France. In contrast to the formal portraits, this image shows the photographer’s sense of humor.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
+        <refid>Vanderbilt History Files: Series 2, Folder 8, Image 10</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Photo taken c.1918 in France. No known photographer.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh2008113826">World War, 1914-1918--Hospitals--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Lt. Kennon's Moustache and Lesser Objects</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-20</earliestDate>
+        <latestDate>2015-03-20</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Eskind_VUMC-Lt.Kennon-1917.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Lt. Kennon's Moustache and Lesser Objects]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

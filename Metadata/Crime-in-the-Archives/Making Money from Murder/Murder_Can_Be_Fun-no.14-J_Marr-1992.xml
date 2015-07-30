@@ -1,84 +1,81 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 98077443">Marr, Johnny, 1961-</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>1992</earliestDate>
-                <latestDate>1992</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Issue number 14 of John Marr's "Murder Can Be Fun" zine tells the story of "going postal," looking at the history of shootings in post offices and how the postal workers were usually the victims of the crime, rather than the perpetrators. The issue also examines the history of riots in the U.S. and looks at other odd stories, including the great Nashville Train Wreck of 1918.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>Sevier Periodicals, AP 2.M87</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Courtesy of John Marr</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCNAF" refid="n 80013137">United States Postal Service--Officials and employees--Crimes against--Periodicals</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh2008109893">Postal service--United States--Employees--Periodicals</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh2008108076">Murder--United States--History--Periodicals</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85143536">Violent crimes--Periodicals</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Please Mr. Postman Don't Shoot</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="300252980">Fanzines</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-17</earliestDate>
-                <latestDate>2015-03-17</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Murder_Can_Be_Fun-no.14-J_Marr-1992.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of 'Please Mr. Postman Don't Shoot,' Zine Cover]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 98077443">Marr, Johnny, 1961-</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1992</earliestDate>
+        <latestDate>1992</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Issue number 14 of John Marr's "Murder Can Be Fun" zine tells the story of "going postal," looking at the history of shootings in post offices and how the postal workers were usually the victims of the crime, rather than the perpetrators. The issue also examines the history of riots in the U.S. and looks at other odd stories, including the great Nashville Train Wreck of 1918.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Sevier Periodicals, AP 2.M87</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Courtesy of John Marr</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 80013137">United States Postal Service--Officials and employees--Crimes against--Periodicals</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh2008109893">Postal service--United States--Employees--Periodicals</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh2008108076">Murder--United States--History--Periodicals</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85143536">Violent crimes--Periodicals</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Please Mr. Postman Don't Shoot</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="300252980">Fanzines</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-17</earliestDate>
+        <latestDate>2015-03-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Murder_Can_Be_Fun-no.14-J_Marr-1992.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of 'Please Mr. Postman Don't Shoot,' Zine Cover]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

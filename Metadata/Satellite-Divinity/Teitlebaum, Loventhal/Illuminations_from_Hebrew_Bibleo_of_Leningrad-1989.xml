@@ -1,77 +1,74 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>1989</earliestDate>
-                <latestDate>1989</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>This portfolio consists of facsimiles from the illuminated Bibles in the Firkovitch Collection at the Leningrad Public Library. There are 27 plates from the original edition published in 1905 and 25 additional plates added for the 1989 edition. The most original innovation to be found in these Bibles is the use of micrography (minute script) to outline decoration.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt Divinity Library</name>
-                <refid>Judaica Collection, ND2935 .O764 1989 Plates</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>It is under fair use. Only one facsimile is on display.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85064367">Jewish illumination of books and manuscripts</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="n 79054379">Bible. Old Testament--Illustrations</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH">Manuscripts, Hebrew--Russia Federation--Saint Petersburg--Facsimiles</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title pref="true" xml:lang="en">Illuminations from Hebrew Bibles of Leningrad</title>
-            <title pref="false" xml:lang="he">Iyure Tanakh °Ivriyim mi-Leningrad</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300028051">Books</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-04-02</earliestDate>
-                <latestDate>2015-04-02</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Illuminations_from_Hebrew_Bibleo_of_Leningrad-1989.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Illuminations from Hebrew Bibles of Leningrad, View of one Plate]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1989</earliestDate>
+        <latestDate>1989</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>This portfolio consists of facsimiles from the illuminated Bibles in the Firkovitch Collection at the Leningrad Public Library. There are 27 plates from the original edition published in 1905 and 25 additional plates added for the 1989 edition. The most original innovation to be found in these Bibles is the use of micrography (minute script) to outline decoration.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt Divinity Library</name>
+        <refid>Judaica Collection, ND2935 .O764 1989 Plates</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>It is under fair use. Only one facsimile is on display.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85064367">Jewish illumination of books and manuscripts</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="n 79054379">Bible. Old Testament--Illustrations</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH">Manuscripts, Hebrew--Russia Federation--Saint Petersburg--Facsimiles</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title pref="true" xml:lang="en">Illuminations from Hebrew Bibles of Leningrad</title>
+      <title pref="false" xml:lang="he">Iyure Tanakh °Ivriyim mi-Leningrad</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028051">Books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-02</earliestDate>
+        <latestDate>2015-04-02</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Illuminations_from_Hebrew_Bibleo_of_Leningrad-1989.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ACRL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Illuminations from Hebrew Bibles of Leningrad, View of one Plate]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

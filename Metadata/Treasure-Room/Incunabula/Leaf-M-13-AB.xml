@@ -1,71 +1,68 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 79041716">Catholic Church</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1290</earliestDate>
-                <latestDate>1300</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>This leaf from a Bible made in Paris in the mid 13th century has the end of the Prologue to the Old Testament Book of Isaiah and the beginning of the Book of Isaiah itself. The initial V for the opening words of the book, “Visio Isaiae” (“The vision of Isaiah. . .”), introduces the prophet’s long and impassioned rebuke to the people of Israel for their sins. The small scene inside the initial V, however, shows his martyrdom. He kneels, eyes closed, leaning in resignation against a column as his tormentor saws through his skull. This horrific event is not told in the Book of Isaiah, and is only obliquely referred to in the New Testament. It worked its way from legendary stories of the prophets into the scholarship of the University of Paris, and was taken up by Parisian illuminators in the 13th century, who had to provide thousands of uniform textbooks, chiefly The Bible, to the university community. Because students came from throughout Europe to study theology there, the books they bought in Paris and brought to their lectures and annotated in microscopic, abbreviated script (still visible in the margins of this leaf) had an enormous impact on the design of Bibles. The typical Parisian student Bible is a small, almost pocket-sized book written in two columns, in a minute script on very thin vellum, so that the entire text fits in one volume. These books include not just the Bible text itself, but a number of aids to make the volume easier for students to use and more appealing visually. As we see on this leaf, there is a brief biographical introduction added as a prologue to help the student understand the author of each book of the Bible, a small picture inside the initial to characterize the author, and wedge-shaped guides written in red ink (rubrics) to indicate the start and end of each section.  Features like the larger initials that signal the start of a section and running headers to help students find a particular book (this leaf has “Y-” for the beginning of the prophet’s name and the facing leaf would have supplied the “-SIAS”), were so useful that they are still used in modern book design.  This leaf is small, but it represents one of the most important developments in the history of the Bible as a book.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0640, Sam Fleming Illuminated Medieval Manuscript and Early Printing Collection, Box 1, Folder 13</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Predates 1923 Copyright Act</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Manuscript Latin Bible, Leaf 13]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300055021">Incunabula</worktype>
-            <worktype vocab="AAT" refid="300264513">Bibles</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-05-11</earliestDate>
-                <latestDate>2015-05-11</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Leaf-M-13-AB.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Manuscript Latin Bible, Leaf MS M13]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 79041716">Catholic Church</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1290</earliestDate>
+        <latestDate>1300</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>This leaf from a Bible made in Paris in the mid 13th century has the end of the Prologue to the Old Testament Book of Isaiah and the beginning of the Book of Isaiah itself. The initial V for the opening words of the book, “Visio Isaiae” (“The vision of Isaiah. . .”), introduces the prophet’s long and impassioned rebuke to the people of Israel for their sins. The small scene inside the initial V, however, shows his martyrdom. He kneels, eyes closed, leaning in resignation against a column as his tormentor saws through his skull. This horrific event is not told in the Book of Isaiah, and is only obliquely referred to in the New Testament. It worked its way from legendary stories of the prophets into the scholarship of the University of Paris, and was taken up by Parisian illuminators in the 13th century, who had to provide thousands of uniform textbooks, chiefly The Bible, to the university community. Because students came from throughout Europe to study theology there, the books they bought in Paris and brought to their lectures and annotated in microscopic, abbreviated script (still visible in the margins of this leaf) had an enormous impact on the design of Bibles. The typical Parisian student Bible is a small, almost pocket-sized book written in two columns, in a minute script on very thin vellum, so that the entire text fits in one volume. These books include not just the Bible text itself, but a number of aids to make the volume easier for students to use and more appealing visually. As we see on this leaf, there is a brief biographical introduction added as a prologue to help the student understand the author of each book of the Bible, a small picture inside the initial to characterize the author, and wedge-shaped guides written in red ink (rubrics) to indicate the start and end of each section.  Features like the larger initials that signal the start of a section and running headers to help students find a particular book (this leaf has “Y-” for the beginning of the prophet’s name and the facing leaf would have supplied the “-SIAS”), were so useful that they are still used in modern book design.  This leaf is small, but it represents one of the most important developments in the history of the Bible as a book.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0640, Sam Fleming Illuminated Medieval Manuscript and Early Printing Collection, Box 1, Folder 13</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Predates 1923 Copyright Act</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Manuscript Latin Bible, Leaf 13]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300055021">Incunabula</worktype>
+      <worktype vocab="AAT" refid="300264513">Bibles</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-05-11</earliestDate>
+        <latestDate>2015-05-11</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Leaf-M-13-AB.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Manuscript Latin Bible, Leaf MS M13]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

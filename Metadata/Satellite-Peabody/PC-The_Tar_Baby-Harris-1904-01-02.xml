@@ -1,139 +1,136 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 7912368">Harris, Joel Chandler, 1848-1908</name>
-                <role>Author</role>
-                <dates>
-                    <earliestDate>1848</earliestDate>
-                    <latestDate>1908</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 83187145">Kemble, E. W. (Edward Windsor), 1861-1933</name>
-                <role>Illustrator</role>
-                <dates>
-                    <earliestDate>1861</earliestDate>
-                    <latestDate>1933</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 79132179">Frost, A. B. (Arthur Burdett), 1851-1928</name>
-                <role>Illustrator</role>
-                <dates>
-                    <earliestDate>1851</earliestDate>
-                    <latestDate>1928</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 81038527">D. Appleton and Company</name>
-                <role>Publisher</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>1904</earliestDate>
-                <latestDate>1904</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Although considered two of the most iconic figures in American literature, Tar Baby and Uncle Remus are also two of the most controversial.  These characters originate in African American folklore, documented by Joel Chandler Harris in the post-Civil War Era.  While controversial, these stories are a vital part of early American culture.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="other" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>Southern Civilization Collection, PS1807 .T3 1904</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>©1904  D. Appleton &amp; Co.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh2007101143">Animals--Juvenile poetry</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh2009121330">Conduct of life--Juvenile poetry</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh2007100211">African Americans--Juvenile poetry</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85102824">Plantation life--Juvenile poetry</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>The Tar-Baby, and Other Rhymes of Uncle Remus</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300343403">Children's books</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-16</earliestDate>
-                <latestDate>2015-03-16</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>PC-The_Tar_Baby-Harris-1904-01.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital reproduction of The Tar baby, and Other Rhymes of Uncle Remus, Frontispiece]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-16</earliestDate>
-                <latestDate>2015-03-16</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>PC-The_Tar_Baby-Harris-1904-02.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of The Tar Baby, and Other Rhymes of Uncle Remus, Insert Page 100]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 7912368">Harris, Joel Chandler, 1848-1908</name>
+        <role>Author</role>
+        <dates>
+          <earliestDate>1848</earliestDate>
+          <latestDate>1908</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 83187145">Kemble, E. W. (Edward Windsor), 1861-1933</name>
+        <role>Illustrator</role>
+        <dates>
+          <earliestDate>1861</earliestDate>
+          <latestDate>1933</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 79132179">Frost, A. B. (Arthur Burdett), 1851-1928</name>
+        <role>Illustrator</role>
+        <dates>
+          <earliestDate>1851</earliestDate>
+          <latestDate>1928</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 81038527">D. Appleton and Company</name>
+        <role>Publisher</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1904</earliestDate>
+        <latestDate>1904</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Although considered two of the most iconic figures in American literature, Tar Baby and Uncle Remus are also two of the most controversial.  These characters originate in African American folklore, documented by Joel Chandler Harris in the post-Civil War Era.  While controversial, these stories are a vital part of early American culture.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="other" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Southern Civilization Collection, PS1807 .T3 1904</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>©1904  D. Appleton &amp; Co.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh2007101143">Animals--Juvenile poetry</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh2009121330">Conduct of life--Juvenile poetry</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh2007100211">African Americans--Juvenile poetry</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85102824">Plantation life--Juvenile poetry</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>The Tar-Baby, and Other Rhymes of Uncle Remus</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300343403">Children's books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-16</earliestDate>
+        <latestDate>2015-03-16</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>PC-The_Tar_Baby-Harris-1904-01.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital reproduction of The Tar baby, and Other Rhymes of Uncle Remus, Frontispiece]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-16</earliestDate>
+        <latestDate>2015-03-16</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>PC-The_Tar_Baby-Harris-1904-02.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of The Tar Baby, and Other Rhymes of Uncle Remus, Insert Page 100]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

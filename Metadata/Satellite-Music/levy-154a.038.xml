@@ -1,79 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="no 99039641">Abrahams, Maurice</name>
-                <role>Publisher</role>
-                <role>Composer</role>
-                <role/>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 81046661">Clarke, Grant</name>
-                <role>Lyricist</role>
-                <role/>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1914</earliestDate>
-                <latestDate>1914</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Sheet music for song "They Start the Victrola (and go dancing around the floor)" written by Grant Clarke and composed by Maurice Abrahams in 1914.</description>
-            <description/>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Johns Hopkins University. Sheridan Libraries Special Collections</name>
-                <refid>Item borrowed from: Johns Hopkins University. Sheridan Libraries Special Collections, Lester S. Levy Sheet Music Collection, Box 154, Item 38</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicdomain">
-                <text>Sheet music dates to 1914 and is made available freely by Johns Hopkins University via: http://levysheetmusic.mse.jhu.edu/catalog/levy:154a.038</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>They Start the Victrola (And Go Dancing Around the Floor)</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300026430">Sheet music</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-07-07</earliestDate>
-                <latestDate>2015-07-07</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>levy-154a.038.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicdomain">
-                <text>This image is a derivative of another online surrogate found via Johns Hopkins University Sheridan Libraries, where it lives in the public domain.</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of They Start the Victrola (And Go Dancing Around the Floor), Front Cover of Sheet Music]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="no 99039641">Abrahams, Maurice</name>
+        <role>Publisher</role>
+        <role>Composer</role>
+        <role/>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 81046661">Clarke, Grant</name>
+        <role>Lyricist</role>
+        <role/>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1914</earliestDate>
+        <latestDate>1914</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Sheet music for song "They Start the Victrola (and go dancing around the floor)" written by Grant Clarke and composed by Maurice Abrahams in 1914.</description>
+      <description/>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Johns Hopkins University. Sheridan Libraries Special Collections</name>
+        <refid>Item borrowed from: Johns Hopkins University. Sheridan Libraries Special Collections, Lester S. Levy Sheet Music Collection, Box 154, Item 38</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Sheet music dates to 1914 and is made available freely by Johns Hopkins University via: http://levysheetmusic.mse.jhu.edu/catalog/levy:154a.038</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>They Start the Victrola (And Go Dancing Around the Floor)</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300026430">Sheet music</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-07-07</earliestDate>
+        <latestDate>2015-07-07</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>levy-154a.038.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of They Start the Victrola (And Go Dancing Around the Floor), Front Cover of Sheet Music]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

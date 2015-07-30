@@ -1,76 +1,73 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <dateSet>
-            <date>
-                <earliestDate>1900</earliestDate>
-                <latestDate>1900</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Antonio Pini-Corsi, an operatic baritone then singing with the Metropolitan Opera, sent this postcard to his tenor friend in 1900. The card shows the Masonic Temple in Chicago, with a hand drawn musical score along the bottom. This "travel and landmark" postcard shows how senders personalized these mass-produced objects. Over one billion postcards were sold annually between 1900 and 1915, the height of the postcard craze.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0647, Francis Robinson Collection of Music, Theatre and Dance, Postcard 0238</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Created in 1900.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCNAF" refid="n 50034771">Caruso, Enrico, 1873-1921--Correspondence</term>
-            </subject>
-            <subject>
-                <term vocab="LCNAF" refid="no 97020887">Pini-Corsi, Antonio, 1858-1918--Correspondence</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="n 2012031846">Masonic Temple Theatre (Organization : Chicago, Ill.)--Pictorial works</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Masonic Temple]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300026819">Picture postcards</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-11</earliestDate>
-                <latestDate>2015-03-11</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>sc.mss.0647.p0238-A-vis.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Masonic Temple, View of Recto]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <dateSet>
+      <date>
+        <earliestDate>1900</earliestDate>
+        <latestDate>1900</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Antonio Pini-Corsi, an operatic baritone then singing with the Metropolitan Opera, sent this postcard to his tenor friend in 1900. The card shows the Masonic Temple in Chicago, with a hand drawn musical score along the bottom. This "travel and landmark" postcard shows how senders personalized these mass-produced objects. Over one billion postcards were sold annually between 1900 and 1915, the height of the postcard craze.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0647, Francis Robinson Collection of Music, Theatre and Dance, Postcard 0238</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Created in 1900.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 50034771">Caruso, Enrico, 1873-1921--Correspondence</term>
+      </subject>
+      <subject>
+        <term vocab="LCNAF" refid="no 97020887">Pini-Corsi, Antonio, 1858-1918--Correspondence</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="n 2012031846">Masonic Temple Theatre (Organization : Chicago, Ill.)--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Masonic Temple]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300026819">Picture postcards</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-11</earliestDate>
+        <latestDate>2015-03-11</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>sc.mss.0647.p0238-A-vis.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Masonic Temple, View of Recto]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

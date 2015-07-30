@@ -1,77 +1,74 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="nr 95013746">Barker, Robert, -1645</name>
-                <role>Publisher</role>
-                <dates>
-                    <earliestDate>unknown</earliestDate>
-                    <latestDate>1645</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>1613</earliestDate>
-                <latestDate>1613</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Commissioned by King James I in 1604 for the Church of England, this is the third translation of the Christian Bible into English. Robert Barker, the King's Printer, first published the book in 1611; this edition contains printing errors that were eventually eliminated in a later edition of 1613. This folio depicts the offspring of Adam and Eve as a tree form, with text, "As by one man’s disobedience many were made sinners, so by the obedience of one shall many also be made righteous."</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>Memorabilia Collection, BS185 1613 .L6</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>published in 1613</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title pref="true">The Holy Bible</title>
-            <title pref="false">Great She Bible</title>
-            <title pref="false">Judas Bible</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300264513">Bibles</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-30</earliestDate>
-                <latestDate>2015-03-30</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>The_Holy_Bible-1613.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of The Holy Bible, Detail of Illustration "The Genealogy of Adam and Eve"]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="nr 95013746">Barker, Robert, -1645</name>
+        <role>Publisher</role>
+        <dates>
+          <earliestDate>unknown</earliestDate>
+          <latestDate>1645</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1613</earliestDate>
+        <latestDate>1613</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Commissioned by King James I in 1604 for the Church of England, this is the third translation of the Christian Bible into English. Robert Barker, the King's Printer, first published the book in 1611; this edition contains printing errors that were eventually eliminated in a later edition of 1613. This folio depicts the offspring of Adam and Eve as a tree form, with text, "As by one man’s disobedience many were made sinners, so by the obedience of one shall many also be made righteous."</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Memorabilia Collection, BS185 1613 .L6</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>published in 1613</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title pref="true">The Holy Bible</title>
+      <title pref="false">Great She Bible</title>
+      <title pref="false">Judas Bible</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300264513">Bibles</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-30</earliestDate>
+        <latestDate>2015-03-30</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>The_Holy_Bible-1613.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of The Holy Bible, Detail of Illustration "The Genealogy of Adam and Eve"]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

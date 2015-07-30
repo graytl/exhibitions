@@ -1,202 +1,199 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 79085084">Shahn, Ben, 1898-1969</name>
-                <role>Artist</role>
-                <dates>
-                    <earliestDate>1898</earliestDate>
-                    <latestDate>1969</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 80004154">Roth, Cecil, 1899-1970</name>
-                <role>Translator</role>
-                <role>Writer of introduction</role>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 82150970">Trianon Press</name>
-                <role>Publisher</role>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 00011190">Benney, Gerald, 1930-2008</name>
-                <role>Silversmith</role>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="no2014093193">Fawcus, Arnold, 1917-1979</name>
-                <role>Book designer</role>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="nr 95007526">Atelier Mourlot</name>
-                <role>Lithographer</role>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="no 00093506">Stephen Austin and Sons</name>
-                <role>Typesetter</role>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="nr 99029441">Spottiswoode, Ballantyne &amp; Co.</name>
-                <role>Typesetter</role>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="no2014094639">Imprimerie La Ruche</name>
-                <role>Printer</role>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="no2014094567">Adine (Firm)</name>
-                <role>Binder</role>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="no2014094678">Thierry (Firm)</name>
-                <role>Serigrapher</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>1966</earliestDate>
-                <latestDate>1966</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Artist Ben Shahn was part of the Social Realism movement originating around 1930. It was during this period that he created many of the originals for the Hagadah shel Pesah, drawing on the movement’s themes of defense of the innocent, the persecuted and the oppressed. Shahn collected the drawings and watercolors together in 1965 to a form this limited edition portfolio.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>Memorabilia Collection, BM674.443 .R68 1966</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright 1966, Trianon Press (Paris). It is under fair use. Three plates are on display.</text>
-            </rights>
-        </rightsSet>
-        <stateEditionSet>
-            <stateEdition>
-                <description>1st edition</description>
-            </stateEdition>
-        </stateEditionSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh2008105468">Haggadot--Texts</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85058256">Haggadot--Illustrations</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 98001895">Seder--Liturgy--Texts</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85070856">Judaism--Liturgy--Texts</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 97000218">Passover in art</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85008302">Artists' books</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title pref="true" xml:lang="he">Hagadah Shel Pesaḥ</title>
-            <title pref="false" xml:lang="en">Haggadah for Passover</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="">Books</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-04</earliestDate>
-                <latestDate>2015-03-04</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>BM674_633_R68-1966-Haggadah_for_Passover-02.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Hagadah shel Pesah, Illustration of Menorah]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-04</earliestDate>
-                <latestDate>2015-03-04</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>BM674_633_R68-1966-Haggadah_for_Passover-04-page_8.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Hagadah shel Pesah, Poem, Page 8]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-04</earliestDate>
-                <latestDate>2015-03-04</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>BM674_633_R68-1966-Haggadah_for_Passover-01-Reckoning_of_the_Miracles.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Hagadah Shel Pesah, View of Illustration 'Reckoning of the Miracles']</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 79085084">Shahn, Ben, 1898-1969</name>
+        <role>Artist</role>
+        <dates>
+          <earliestDate>1898</earliestDate>
+          <latestDate>1969</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 80004154">Roth, Cecil, 1899-1970</name>
+        <role>Translator</role>
+        <role>Writer of introduction</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 82150970">Trianon Press</name>
+        <role>Publisher</role>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 00011190">Benney, Gerald, 1930-2008</name>
+        <role>Silversmith</role>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="no2014093193">Fawcus, Arnold, 1917-1979</name>
+        <role>Book designer</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="nr 95007526">Atelier Mourlot</name>
+        <role>Lithographer</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="no 00093506">Stephen Austin and Sons</name>
+        <role>Typesetter</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="nr 99029441">Spottiswoode, Ballantyne &amp; Co.</name>
+        <role>Typesetter</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="no2014094639">Imprimerie La Ruche</name>
+        <role>Printer</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="no2014094567">Adine (Firm)</name>
+        <role>Binder</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="no2014094678">Thierry (Firm)</name>
+        <role>Serigrapher</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1966</earliestDate>
+        <latestDate>1966</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Artist Ben Shahn was part of the Social Realism movement originating around 1930. It was during this period that he created many of the originals for the Hagadah shel Pesah, drawing on the movement’s themes of defense of the innocent, the persecuted and the oppressed. Shahn collected the drawings and watercolors together in 1965 to a form this limited edition portfolio.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Memorabilia Collection, BM674.443 .R68 1966</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright 1966, Trianon Press (Paris). It is under fair use. Three plates are on display.</text>
+      </rights>
+    </rightsSet>
+    <stateEditionSet>
+      <stateEdition>
+        <description>1st edition</description>
+      </stateEdition>
+    </stateEditionSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh2008105468">Haggadot--Texts</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85058256">Haggadot--Illustrations</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 98001895">Seder--Liturgy--Texts</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85070856">Judaism--Liturgy--Texts</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 97000218">Passover in art</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85008302">Artists' books</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title pref="true" xml:lang="he">Hagadah Shel Pesaḥ</title>
+      <title pref="false" xml:lang="en">Haggadah for Passover</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="">Books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-04</earliestDate>
+        <latestDate>2015-03-04</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>BM674_633_R68-1966-Haggadah_for_Passover-02.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>unknown</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Hagadah shel Pesah, Illustration of Menorah]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-04</earliestDate>
+        <latestDate>2015-03-04</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>BM674_633_R68-1966-Haggadah_for_Passover-04-page_8.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>unknown</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Hagadah shel Pesah, Poem, Page 8]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-04</earliestDate>
+        <latestDate>2015-03-04</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>BM674_633_R68-1966-Haggadah_for_Passover-01-Reckoning_of_the_Miracles.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>unknown</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Hagadah Shel Pesah, View of Illustration 'Reckoning of the Miracles']</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

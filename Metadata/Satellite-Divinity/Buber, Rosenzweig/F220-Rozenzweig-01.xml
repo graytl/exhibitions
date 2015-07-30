@@ -1,70 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1910</earliestDate>
-                <latestDate>1919?</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>The tallit (prayer shawl) is a portable spiritual home in which one can wrap oneself. According to Jewish tradition, a Jewish male is buried in his tallit with the corners cut off. The cut-off corner fringes signify that the tallit can no longer be used for prayer by this person. This tallit accompanied Franz Rosenzweig for three decades until the day he died.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>Nahum N. Glatzer Collection, Box 6, Folder 20</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="other">
-                <text>This is a 3D artifact.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCNAF" refid="n 82144585">Rosenzweig, Franz, 1886-1929</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Franz Rosenzweig's Tallit]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300217658">Tallitim</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-04-01</earliestDate>
-                <latestDate>2015-04-01</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>F220-Rozenzweig-01.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Franz Rosenzweig's Tallit, View of Cut Corner]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1910</earliestDate>
+        <latestDate>1919?</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>The tallit (prayer shawl) is a portable spiritual home in which one can wrap oneself. According to Jewish tradition, a Jewish male is buried in his tallit with the corners cut off. The cut-off corner fringes signify that the tallit can no longer be used for prayer by this person. This tallit accompanied Franz Rosenzweig for three decades until the day he died.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Nahum N. Glatzer Collection, Box 6, Folder 20</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="other">
+        <text>This is a 3D artifact.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 82144585">Rosenzweig, Franz, 1886-1929</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Franz Rosenzweig's Tallit]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300217658">Tallitim</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-01</earliestDate>
+        <latestDate>2015-04-01</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>F220-Rozenzweig-01.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Franz Rosenzweig's Tallit, View of Cut Corner]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

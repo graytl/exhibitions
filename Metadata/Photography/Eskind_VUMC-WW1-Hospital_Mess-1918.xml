@@ -1,76 +1,73 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 79099281">United States. Army. Signal Corps</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1918-12-28</earliestDate>
-                <latestDate>1918-12-28</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>The American Expeditionary Forces depended upon regular train service and hospitals were positioned near major railroad junctions. Nevers, 150 miles south of Paris, was a central supply depot for matériel, veterinary hospitals and hospitals. Officers at front table include left to right: Dr. Witt, Unknown, Dr. Dixon, Dr. McKinney and Dr. McCabe. One officer recalled “We had over 17,000 shattered bones to mend, over 3,500 arms and legs to amputate and 20 times that many to save.” </description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
-                <refid>Vanderbilt History Files: Series 2, Folder 8, Image 16</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Photo part of series made December, 1918 by US Army Signal Corps.  Published by US Government Printing Office in 1919 as Catalogue of Official A.E.F. Photographs, United States. War Dept. General Staff [Issue 903 of Document (United States. War Dept.) 
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 79099281">United States. Army. Signal Corps</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1918-12-28</earliestDate>
+        <latestDate>1918-12-28</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>The American Expeditionary Forces depended upon regular train service and hospitals were positioned near major railroad junctions. Nevers, 150 miles south of Paris, was a central supply depot for matériel, veterinary hospitals and hospitals. Officers at front table include left to right: Dr. Witt, Unknown, Dr. Dixon, Dr. McKinney and Dr. McCabe. One officer recalled “We had over 17,000 shattered bones to mend, over 3,500 arms and legs to amputate and 20 times that many to save.”</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
+        <refid>Vanderbilt History Files: Series 2, Folder 8, Image 16</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Photo part of series made December, 1918 by US Army Signal Corps.  Published by US Government Printing Office in 1919 as Catalogue of Official A.E.F. Photographs, United States. War Dept. General Staff [Issue 903 of Document (United States. War Dept.) 
 Author: United States. War Dept. General Staff Contributor: United States. Army. Signal Corps part of Army Expeditionary Force.] US ASC 45874, page 494.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh2008113826">World War, 1914-1918--Hospitals--Pictorial works</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Officers' and Nurses' Mess, Camp Hospital 28, Nevers, France 1918]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015</earliestDate>
-                <latestDate>2015</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Eskind_VUMC-WW1-Hospital_Mess-1918.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Officers' and Nurses' Mess, Camp Hospital 28, Nevers, France 1918]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh2008113826">World War, 1914-1918--Hospitals--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Officers' and Nurses' Mess, Camp Hospital 28, Nevers, France 1918]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015</earliestDate>
+        <latestDate>2015</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Eskind_VUMC-WW1-Hospital_Mess-1918.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Officers' and Nurses' Mess, Camp Hospital 28, Nevers, France 1918]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

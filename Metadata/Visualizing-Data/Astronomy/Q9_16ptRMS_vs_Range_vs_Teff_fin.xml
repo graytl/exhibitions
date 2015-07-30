@@ -1,110 +1,107 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="no2014048298">Bastien, Fabienne Anne</name>
-                <role>Author</role>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="no2015068048">Stassun, Keivan G.</name>
-                <role>Author</role>
-            </agent>
-            <agent>
-                <name type="personal" vocab="local">Basri, Gibor</name>
-                <role>Author</role>
-            </agent>
-            <agent>
-                <name type="personal" vocab="local">Pepper, Joshua</name>
-                <role>Author</role>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="local">Kepler Input Catalog</name>
-                <role>Data Repository</role>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 85149801">Macmillan Publishers</name>
-                <role>Publisher</role>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 78087581">United States. National Aeronautics and Space Administration</name>
-                <role>Creator of data</role>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 50079617">European Space Agency</name>
-                <role>Creator of data</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2013-08-22</earliestDate>
-                <latestDate>2013-08-22</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>This image is an example visualization from Vanderbilt's Filtergraph tool applied to NASA Kepler mission data. Each point represents a star in thedataset. The horizontal axis represents the amplitude of starlight "flicker" (or "hiss"), the vertical axis represents the overall amount of stellar light variation (or "loudness"), and the symbol size encodes the complexity of the stellar light signal (or "crackle"). Color encodes the stellar temperatures. Arrows are added annotations to guide the eye as to the temporal evolution of stars.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="other">
-                <name type="corporate" vocab="local">Nature.com</name>
-                <refid>Online resource, available via: http://www.nature.com/nature/journal/v500/n7463/full/nature12419.html</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright 2013. Nature Magazine, Issue 500 (August, 2013), Pages 427-430 (copyright MacMillan Publishers). Rights retained by authors: Fabienne A. Bastien, Keivan G. Stassun, Gibor Basri &amp; Joshua Pepper. Can be viewed at: http://www.nature.com/nature/journal/v500/n7463/full/nature12419.html</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85009032">Astrophysics</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85127415">Stars</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>An Observational Correlation between Stellar Brightness Variations and Surface Gravity</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300048715">Articles</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="no2014048298">Bastien, Fabienne Anne</name>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="no2015068048">Stassun, Keivan G.</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2013-08-22</earliestDate>
-                <latestDate>2013-08-22</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Q9_16ptRMS_vs_Range_vs_Teff_fin.jpg</refid>
-                <name type="corporate" vocab="LCNAF" refid="n 79081473">Vanderbilt University</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by the authors, including Dr. Fabienne Anne Bastien and Dr. Keivan G. Stassun, as published by Nature.com. Permission granted to use as a part of the Vanderbilt University Library exhibition in 2015.</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Figure 1: Simple Measures of Brightness Variations Reveal a Fundamental ‘Flicker Sequence’ of Stellar Evolution]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="no2014048298">Bastien, Fabienne Anne</name>
+        <role>Author</role>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="no2015068048">Stassun, Keivan G.</name>
+        <role>Author</role>
+      </agent>
+      <agent>
+        <name type="personal" vocab="local">Basri, Gibor</name>
+        <role>Author</role>
+      </agent>
+      <agent>
+        <name type="personal" vocab="local">Pepper, Joshua</name>
+        <role>Author</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="local">Kepler Input Catalog</name>
+        <role>Data Repository</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 85149801">Macmillan Publishers</name>
+        <role>Publisher</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 78087581">United States. National Aeronautics and Space Administration</name>
+        <role>Creator of data</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 50079617">European Space Agency</name>
+        <role>Creator of data</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2013-08-22</earliestDate>
+        <latestDate>2013-08-22</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>This image is an example visualization from Vanderbilt's Filtergraph tool applied to NASA Kepler mission data. Each point represents a star in thedataset. The horizontal axis represents the amplitude of starlight "flicker" (or "hiss"), the vertical axis represents the overall amount of stellar light variation (or "loudness"), and the symbol size encodes the complexity of the stellar light signal (or "crackle"). Color encodes the stellar temperatures. Arrows are added annotations to guide the eye as to the temporal evolution of stars.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="other">
+        <name type="corporate" vocab="local">Nature.com</name>
+        <refid>Online resource, available via: http://www.nature.com/nature/journal/v500/n7463/full/nature12419.html</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright 2013. Nature Magazine, Issue 500 (August, 2013), Pages 427-430 (copyright MacMillan Publishers). Rights retained by authors: Fabienne A. Bastien, Keivan G. Stassun, Gibor Basri &amp; Joshua Pepper. Can be viewed at: http://www.nature.com/nature/journal/v500/n7463/full/nature12419.html</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85009032">Astrophysics</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85127415">Stars</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>An Observational Correlation between Stellar Brightness Variations and Surface Gravity</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300048715">Articles</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="no2014048298">Bastien, Fabienne Anne</name>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="no2015068048">Stassun, Keivan G.</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2013-08-22</earliestDate>
+        <latestDate>2013-08-22</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Q9_16ptRMS_vs_Range_vs_Teff_fin.jpg</refid>
+        <name type="corporate" vocab="LCNAF" refid="n 79081473">Vanderbilt University</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ACRL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Figure 1: Simple Measures of Brightness Variations Reveal a Fundamental ‘Flicker Sequence’ of Stellar Evolution]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

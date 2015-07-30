@@ -1,66 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1950</earliestDate>
-                <latestDate>1955</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Wire recordings are analog magnetic recordings made on steel or stainless steel wire. Although developed before 1900, they only enjoyed a relatively short period of wide popularity, utilized primarily between 1946 and 1954, until magnetic tape became the preferred format.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
-                <refid>Music Library</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">              
-                <text>Under copyright, but rights holder unknown. No identifying information on item.</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Silvertone Recording Wire]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300028680">Wire recordings</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
-                <role>Photographer</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-04-17</earliestDate>
-                <latestDate>2015-04-17</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>20150417SG049.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Wire Recording]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1950</earliestDate>
+        <latestDate>1955</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Wire recordings are analog magnetic recordings made on steel or stainless steel wire. Although developed before 1900, they only enjoyed a relatively short period of wide popularity, utilized primarily between 1946 and 1954, until magnetic tape became the preferred format.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
+        <refid>Music Library</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Under copyright, but rights holder unknown. No identifying information on item.</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Silvertone Recording Wire]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028680">Wire recordings</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+        <role>Photographer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-17</earliestDate>
+        <latestDate>2015-04-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>20150417SG049.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Wire Recording]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

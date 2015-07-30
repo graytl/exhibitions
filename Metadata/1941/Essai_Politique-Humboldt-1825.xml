@@ -1,85 +1,82 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 80051862">Humboldt, Alexander von, 1769-1859</name>
-                <role>Author</role>
-                <dates>
-                    <earliestDate>1769</earliestDate>
-                    <latestDate>1859</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="personal" vocab="local">Renouard, Chez Antoine-Augustin</name>
-                <role>Printer</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>1825</earliestDate>
-                <latestDate>1825</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Friedrich Wilhelm Heinrich Alexander von Humboldt was a Prussian naturalist and geographer who explored areas of Latin America between 1799 and 1804 under the recommendation of the King of Spain. His research led to his hypothesis that lands bordering the Atlantic Ocean were once joined. Here, Humboldt delineates the longitude and latitudes of Mexican villages, research which led to new discoveries in the origins of atmospheric disturbances.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Library</name>
-                <refid>Annex, 917.2 H91e2, Volume 1</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text/>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85118684">Scientific expeditions</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title pref="true">Political Essay on the Kingdom of New Spain</title>
-            <title pref="false">Essai Politique sur le Royaume de la Nouvelle-Espagne</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300028051">Books</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-30</earliestDate>
-                <latestDate>2015-03-30</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Essai_Politique-Humboldt-1825.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of "Tableau des Positions Géographiques du Royaume de la Novelle-Espagne" from Political Essay on the Kingdom of New Spain]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 80051862">Humboldt, Alexander von, 1769-1859</name>
+        <role>Author</role>
+        <dates>
+          <earliestDate>1769</earliestDate>
+          <latestDate>1859</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="personal" vocab="local">Renouard, Chez Antoine-Augustin</name>
+        <role>Printer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1825</earliestDate>
+        <latestDate>1825</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Friedrich Wilhelm Heinrich Alexander von Humboldt was a Prussian naturalist and geographer who explored areas of Latin America between 1799 and 1804 under the recommendation of the King of Spain. His research led to his hypothesis that lands bordering the Atlantic Ocean were once joined. Here, Humboldt delineates the longitude and latitudes of Mexican villages, research which led to new discoveries in the origins of atmospheric disturbances.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Library</name>
+        <refid>Annex, 917.2 H91e2, Volume 1</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text/>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85118684">Scientific expeditions</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title pref="true">Political Essay on the Kingdom of New Spain</title>
+      <title pref="false">Essai Politique sur le Royaume de la Nouvelle-Espagne</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028051">Books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-30</earliestDate>
+        <latestDate>2015-03-30</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Essai_Politique-Humboldt-1825.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of "Tableau des Positions Géographiques du Royaume de la Novelle-Espagne" from Political Essay on the Kingdom of New Spain]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

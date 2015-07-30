@@ -1,79 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="no 95036096">Seigenthaler, John, 1927-2014</name>
-                <dates>
-                    <earliestDate>1927-07-27</earliestDate>
-                    <latestDate>2014-07-11</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1990</earliestDate>
-                <latestDate>2010</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>A Memo from John Seigenthaler to Ben Cantrell and William Farmer about Jimmy Hoffa. 54 pages in all.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0829, John Seigenthaler Papers, Box 66</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Likely copyrighted.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="n 50031280">Hoffa, James R. (James Riddle), 1913-</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Memorandum to Ben Cantrell and William Farmer Regarding Jimmy Hoffa]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300026906">Memorandums</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-30</earliestDate>
-                <latestDate>2015-03-30</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0829-SC-John_Siegnthaler-Memo-01.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Memorandum to Ben Cantrell and William Farmer Regarding Jimmy Hoffa]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="no 95036096">Seigenthaler, John, 1927-2014</name>
+        <dates>
+          <earliestDate>1927-07-27</earliestDate>
+          <latestDate>2014-07-11</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1990</earliestDate>
+        <latestDate>2010</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>A Memo from John Seigenthaler to Ben Cantrell and William Farmer about Jimmy Hoffa. 54 pages in all.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0829, John Seigenthaler Papers, Box 66</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Likely copyrighted.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="n 50031280">Hoffa, James R. (James Riddle), 1913-</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Memorandum to Ben Cantrell and William Farmer Regarding Jimmy Hoffa]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300026906">Memorandums</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-30</earliestDate>
+        <latestDate>2015-03-30</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0829-SC-John_Siegnthaler-Memo-01.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ACRL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Memorandum to Ben Cantrell and William Farmer Regarding Jimmy Hoffa]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

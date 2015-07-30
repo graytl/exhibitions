@@ -1,79 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="no2015031425">Frehm, Paul, 1938-1978</name>
-                <dates>
-                    <earliestDate>1938</earliestDate>
-                    <latestDate>1978</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1949</earliestDate>
-                <latestDate>1949</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Illustrator Paul Frehm worked with reporter Damon Runyon to cover the Lindbergh trial for the New York Daily Mirror, a William Randoph Hearst newspaper publication. Frehm’s illustration of J. Edgar Hoover, who led the Bureau of Investigation’s efforts to find the kidnapper, portrays the director in 1949. Hoover's dogged success in the case raised his own profile and helped to bring the Federal Kidnapping Act to Congress, allowing federal authorities jurisdiction in cases crossing state lines.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0412, James G. Stahlman Historical Autograph Collection, Hoover, J. Edgar folder</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Signed in the plate by Paul Frehm, but no copyright notice in CCC.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCNAF" refid="n 79077374">Hoover, J. Edgar (John Edgar), 1895-1972</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Portrait of J. Edgar Hoover]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300041383">Color lithographs</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-11</earliestDate>
-                <latestDate>2015-03-11</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0412-C-J_Edgar_Hoover_Autograph-1949.jpg</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Portrait of J. Edgar Hoover]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="no2015031425">Frehm, Paul, 1938-1978</name>
+        <dates>
+          <earliestDate>1938</earliestDate>
+          <latestDate>1978</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1949</earliestDate>
+        <latestDate>1949</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Illustrator Paul Frehm worked with reporter Damon Runyon to cover the Lindbergh trial for the New York Daily Mirror, a William Randoph Hearst newspaper publication. Frehm’s illustration of J. Edgar Hoover, who led the Bureau of Investigation’s efforts to find the kidnapper, portrays the director in 1949. Hoover's dogged success in the case raised his own profile and helped to bring the Federal Kidnapping Act to Congress, allowing federal authorities jurisdiction in cases crossing state lines.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0412, James G. Stahlman Historical Autograph Collection, Hoover, J. Edgar folder</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Signed in the plate by Paul Frehm, but no copyright notice in CCC.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 79077374">Hoover, J. Edgar (John Edgar), 1895-1972</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Portrait of J. Edgar Hoover]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300041383">Color lithographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-11</earliestDate>
+        <latestDate>2015-03-11</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0412-C-J_Edgar_Hoover_Autograph-1949.jpg</refid>
+        <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Portrait of J. Edgar Hoover]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

@@ -1,70 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1897</earliestDate>
-                <latestDate>1897</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>The six-month Tennessee Centennial attracted over one-and-a-half-million tourists to see the “Athens of the South.” Despite extensive railway promotion, attendance was low due to an outbreak of Yellow Fever across the Gulf States. Like San Francisco's Palace of Fine Arts, Nashville's Parthenon was recreated in the 1920s, becoming a landmark.  Souvenirs like these circulated widely in the United States after expositions in Philadelphia (1876) and Chicago (1893).</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0123, William Lofland Dudley Papers, Box 166</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Image dates to 1897.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="no 98125557">Tennessee Centennial and International Exposition (1897 : Nashville, Tenn.)--Pictorial works</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Tennessee Centennial and International Exposition Postcard Main Entrance Gate]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300192703">Photographic postcards</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-20</earliestDate>
-                <latestDate>2015-03-20</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>sc.mss.0123.166.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Tennessee Centennial and International Exposition Postcard Main Entrance Gate]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1897</earliestDate>
+        <latestDate>1897</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>The six-month Tennessee Centennial attracted over one-and-a-half-million tourists to see the “Athens of the South.” Despite extensive railway promotion, attendance was low due to an outbreak of Yellow Fever across the Gulf States. Like San Francisco's Palace of Fine Arts, Nashville's Parthenon was recreated in the 1920s, becoming a landmark.  Souvenirs like these circulated widely in the United States after expositions in Philadelphia (1876) and Chicago (1893).</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0123, William Lofland Dudley Papers, Box 166</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Image dates to 1897.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="no 98125557">Tennessee Centennial and International Exposition (1897 : Nashville, Tenn.)--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Tennessee Centennial and International Exposition Postcard Main Entrance Gate]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300192703">Photographic postcards</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-20</earliestDate>
+        <latestDate>2015-03-20</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>sc.mss.0123.166.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Tennessee Centennial and International Exposition Postcard Main Entrance Gate]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

@@ -1,86 +1,83 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="no2002116282">Douglas, Byrd, 1894-</name>
-                <role>Author</role>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="local">Nashville Book Company</name>
-                <role>Publisher</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1961</earliestDate>
-                <latestDate>1961</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Judge Byrd Douglas (1894-1965) authored Steamboatin' on the Cumberland, a history of the Cumberland River. The book is a comprehesive exploration of the 516 miles of the river in Tennessee and Kentucky and contains the names of more than 1200 steamboats which ran supplies and passengers down the river primarily during the Steamboat Age (1811-1830).  While the railroad supplanted steamboats in the 1860s in commercial transportation, a revival of the boats in the 1970s has spawned  a new industry for recreational use.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>Southern Civilization Collection, F442.2 .D6</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright 1961 - Nashville Book Company. But only using image of Front Cover - fair use argment.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85034781">Cumberland River (Ky. and Tenn.)--History</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85114245">River steamers--Cumberland River (Ky. and Tenn.)--History</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85127732">Steamboats--Tennessee--Nashville--History</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Steamboatin' on the Cumberland</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300028051">Books</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-05-18</earliestDate>
-                <latestDate>2015-05-18</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Steamboating_On_The_Cumberland-B_Douglas.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Steamboatin' on the Cumberland, Front Cover]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="no2002116282">Douglas, Byrd, 1894-</name>
+        <role>Author</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="local">Nashville Book Company</name>
+        <role>Publisher</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1961</earliestDate>
+        <latestDate>1961</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Judge Byrd Douglas (1894-1965) authored Steamboatin' on the Cumberland, a history of the Cumberland River. The book is a comprehesive exploration of the 516 miles of the river in Tennessee and Kentucky and contains the names of more than 1200 steamboats which ran supplies and passengers down the river primarily during the Steamboat Age (1811-1830).  While the railroad supplanted steamboats in the 1860s in commercial transportation, a revival of the boats in the 1970s has spawned  a new industry for recreational use.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Southern Civilization Collection, F442.2 .D6</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright 1961 - Nashville Book Company. But only using image of Front Cover - fair use argment.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85034781">Cumberland River (Ky. and Tenn.)--History</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85114245">River steamers--Cumberland River (Ky. and Tenn.)--History</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85127732">Steamboats--Tennessee--Nashville--History</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Steamboatin' on the Cumberland</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028051">Books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-05-18</earliestDate>
+        <latestDate>2015-05-18</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Steamboating_On_The_Cumberland-B_Douglas.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ACRL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Steamboatin' on the Cumberland, Front Cover]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

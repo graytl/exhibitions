@@ -1,76 +1,73 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>1883</earliestDate>
-                <latestDate>1883</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Frank James (1843-1915) lived in Nashville from 1877 to 1881 and went by the alias Ben J. Woodson. At one point, he resided at 814 Fatherland Street in what is now called East Nashville. While living in and around the city, Frank worked as a teamster, joined the Methodist Church and had a son with his wife, Annie. Frank lived as a humble citizen for a few years before his brother Jesse convinced him to return to the life of banditry. By the time he left Tennessee to return to Missouri, the legend of the James Brothers was well known.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="other" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0412, James G. Stahlman Historical Autograph Collection, Frank James folder</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Book was published in 1883.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCNAF" refid="n 50028710">James, Frank, 1844-1915</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>The Eclectic Elementary Geography</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300026384">Textbooks</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-04-13</earliestDate>
-                <latestDate>2015-04-13</latestDate>
-            </date>
-        </dateSet>
-        <inscriptionSet>
-            <notes>Inscribed by Frank James inside front cover</notes>
-            <inscription>
-                <text>Frank James</text>
-            </inscription>
-        </inscriptionSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0412-C-Frank_James-1883-01-AB.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of The Eclectic Elementary Geography</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1883</earliestDate>
+        <latestDate>1883</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Frank James (1843-1915) lived in Nashville from 1877 to 1881 and went by the alias Ben J. Woodson. At one point, he resided at 814 Fatherland Street in what is now called East Nashville. While living in and around the city, Frank worked as a teamster, joined the Methodist Church and had a son with his wife, Annie. Frank lived as a humble citizen for a few years before his brother Jesse convinced him to return to the life of banditry. By the time he left Tennessee to return to Missouri, the legend of the James Brothers was well known.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="other" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0412, James G. Stahlman Historical Autograph Collection, Frank James folder</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Book was published in 1883.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 50028710">James, Frank, 1844-1915</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>The Eclectic Elementary Geography</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300026384">Textbooks</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-13</earliestDate>
+        <latestDate>2015-04-13</latestDate>
+      </date>
+    </dateSet>
+    <inscriptionSet>
+      <notes>Inscribed by Frank James inside front cover</notes>
+      <inscription>
+        <text>Frank James</text>
+      </inscription>
+    </inscriptionSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0412-C-Frank_James-1883-01-AB.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of The Eclectic Elementary Geography</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

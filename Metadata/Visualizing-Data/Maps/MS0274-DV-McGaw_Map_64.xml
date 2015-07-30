@@ -1,86 +1,83 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 85368716">Keenan, William, approximately 1810-</name>
-                <role>Engraver</role>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="nr2001040570">Walker &amp; James</name>
-                <role>Publisher</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1853</earliestDate>
-                <latestDate>1853</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>This map, published by Walker and James and engraved by William Keenan,was taken from J.G.M Ramsey's Annals of Tennessee. It shows the state east of the Tennessee River, including the "Army Route," Robertson's Route" and the "Great Indian War Path." The subject of this map is the Cumberland and Franklin as it was represented in 1784, when Ramsey's map originated. Of special interest to this exhibit, notice the way the Cumberland River is drawn. The river starts to look more like current day depictions as the years progress.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0274, Robert A. McGaw Collection</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicdomain">
-                <text>Published by Walker and James (1853). But in the public domain b/c of 19th century date.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85034781">Cumberland River (Ky. and Tenn.)--Maps</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="n 80060571">Franklin (Tenn.)--Maps</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85114409">Rivers--Tennessee--Maps</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Map of Cumberland and Franklin</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300028233">Historical maps</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-11</earliestDate>
-                <latestDate>2015-03-11</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0274-DV-McGAW_Map_64.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Map of Cumberland and Franklin]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 85368716">Keenan, William, approximately 1810-</name>
+        <role>Engraver</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="nr2001040570">Walker &amp; James</name>
+        <role>Publisher</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1853</earliestDate>
+        <latestDate>1853</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>This map, published by Walker and James and engraved by William Keenan,was taken from J.G.M Ramsey's Annals of Tennessee. It shows the state east of the Tennessee River, including the "Army Route," Robertson's Route" and the "Great Indian War Path." The subject of this map is the Cumberland and Franklin as it was represented in 1784, when Ramsey's map originated. Of special interest to this exhibit, notice the way the Cumberland River is drawn. The river starts to look more like current day depictions as the years progress.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0274, Robert A. McGaw Collection</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Published by Walker and James (1853). But in the public domain b/c of 19th century date.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85034781">Cumberland River (Ky. and Tenn.)--Maps</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="n 80060571">Franklin (Tenn.)--Maps</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85114409">Rivers--Tennessee--Maps</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Map of Cumberland and Franklin</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028233">Historical maps</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-11</earliestDate>
+        <latestDate>2015-03-11</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0274-DV-McGAW_Map_64.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Map of Cumberland and Franklin]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

@@ -1,103 +1,100 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n2001094016">Brown, Monica, 1969-</name>
-                <role>Author</role>
-                <dates>
-                    <earliestDate>1969</earliestDate>
-                    <latestDate>present</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n2011029799">Palacios, Sara</name>
-                <role>Illustrator</role>
-                <dates>
-                    <earliestDate>2011</earliestDate>
-                    <latestDate>present</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 2002028106">Domínguez, Adriana</name>
-                <role>Translator</role>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="local">Children's Book Press</name>
-                <role>Publisher</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>2011</earliestDate>
-                <latestDate>2011</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Marisol McDonald is no ordinary girl. She has brown skin, red hair, and is a soccer-playing pirate- princess. As a biracial child with a diverse group of friends, Marisol is truly a modern day American kid.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Peabody Library</name>
-                <refid>Peabody Library, PZ73 .B68564 2011</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>©2011 Monica Brown; ©2011 Sara Palacios Illustrations</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85065690">Individuality in children--Fiction</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh2008105644">Hispanic Americans--Fiction</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh2008110346">Racially mixed people--Fiction</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title pref="true" >Marisol McDonald Doesn't Match</title>
-            <title pref="false">Marisol McDonald No Combina</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300343403">Children's books</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-16</earliestDate>
-                <latestDate>2015-03-16</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>PC-Marisol_McDonald_Doesn't_Match-Brown-2011.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Marisol McDonald Doesn't Match, Pages 8-9]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n2001094016">Brown, Monica, 1969-</name>
+        <role>Author</role>
+        <dates>
+          <earliestDate>1969</earliestDate>
+          <latestDate>present</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n2011029799">Palacios, Sara</name>
+        <role>Illustrator</role>
+        <dates>
+          <earliestDate>2011</earliestDate>
+          <latestDate>present</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 2002028106">Domínguez, Adriana</name>
+        <role>Translator</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="local">Children's Book Press</name>
+        <role>Publisher</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>2011</earliestDate>
+        <latestDate>2011</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Marisol McDonald is no ordinary girl. She has brown skin, red hair, and is a soccer-playing pirate- princess. As a biracial child with a diverse group of friends, Marisol is truly a modern day American kid.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Peabody Library</name>
+        <refid>Peabody Library, PZ73 .B68564 2011</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>©2011 Monica Brown; ©2011 Sara Palacios Illustrations</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85065690">Individuality in children--Fiction</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh2008105644">Hispanic Americans--Fiction</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh2008110346">Racially mixed people--Fiction</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title pref="true">Marisol McDonald Doesn't Match</title>
+      <title pref="false">Marisol McDonald No Combina</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300343403">Children's books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-16</earliestDate>
+        <latestDate>2015-03-16</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>PC-Marisol_McDonald_Doesn't_Match-Brown-2011.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ACRL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Marisol McDonald Doesn't Match, Pages 8-9]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

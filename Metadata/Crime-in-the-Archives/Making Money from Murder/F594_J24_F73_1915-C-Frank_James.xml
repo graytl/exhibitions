@@ -1,80 +1,77 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="no2005015212">James, Edgar</name>
-                <role>Author</role>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="no 96059950">I. &amp; M. Ottenheimer Publishers</name>
-                <role>Publisher</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>1915</earliestDate>
-                <latestDate>1915</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Western fiction got its starts in the penny dreadfuls and dime novels of the Civil War era. The Hopalong Cassidy stories were first published in 1904 and Zane Grey's Riders of the Purple Sage was released in 1912. The genre peaked in 1960. Frank James and His Brother Jesse tells the story of Jesse's murder in a sympathetic tone and follows brother Frank's efforts at revenge and eventual surrender and religious conversion.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>Sevier Collection, F594 .J24 F73 1915 </refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Published in 1915</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCNAF" refid="n 50028710">James, Frank, 1844-1915</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Frank James and His Brother Jesse: The Daring Border Bandits</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300343403">Book</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-11</earliestDate>
-                <latestDate>2015-03-11</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>F594_J24_F73_1915-C-Frank_James.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Frank James and His Brother Jesse: The Daring Border Bandits, Front Cover]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="no2005015212">James, Edgar</name>
+        <role>Author</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="no 96059950">I. &amp; M. Ottenheimer Publishers</name>
+        <role>Publisher</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1915</earliestDate>
+        <latestDate>1915</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Western fiction got its starts in the penny dreadfuls and dime novels of the Civil War era. The Hopalong Cassidy stories were first published in 1904 and Zane Grey's Riders of the Purple Sage was released in 1912. The genre peaked in 1960. Frank James and His Brother Jesse tells the story of Jesse's murder in a sympathetic tone and follows brother Frank's efforts at revenge and eventual surrender and religious conversion.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Sevier Collection, F594 .J24 F73 1915</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Published in 1915</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 50028710">James, Frank, 1844-1915</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Frank James and His Brother Jesse: The Daring Border Bandits</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300343403">Book</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-11</earliestDate>
+        <latestDate>2015-03-11</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>F594_J24_F73_1915-C-Frank_James.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Frank James and His Brother Jesse: The Daring Border Bandits, Front Cover]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

@@ -1,99 +1,96 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 87126919">Levine, Ellen</name>
-                <dates>
-                    <earliestDate>1939</earliestDate>
-                    <latestDate>2012</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 98108301">Nelson, Kadir</name>
-                <dates>
-                    <earliestDate>1974</earliestDate>
-                    <latestDate>present</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="no2005078346">Scholastic Press</name>
-                <role>Publisher</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>2007</earliestDate>
-                <latestDate>2007</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>The depiction of slavery in children's literature evolved throughout the 20th century. In Henry's Freedom Box, Henry, a southern slave, enlists the help of a White abolitionist, Dr. Smith, to help him reach freedom in the North.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="other" vocab="local">Peabody Library</name>
-                <refid>Peabody Library, PZ7 .L57833 Hen 2007</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>©2007 Ellen Levine; ©2007 Kadir Nelson Illustrations</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCNAF" refid="n 2014029210">Brown, Henry Box, 1815 or 1816---Fiction</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh2008111718">Slavery--Fiction</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh2007100196">African Americans--Fiction</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh2010117325">Underground Railroad--Fiction</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Henry's Freedom Box</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300343403">Children's books</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-16</earliestDate>
-                <latestDate>2015-03-16</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>PC-Henry's_Freedom_Box-Levine_Nelson-2007.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Henry's Freedom Box, Pages 23-24]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 87126919">Levine, Ellen</name>
+        <dates>
+          <earliestDate>1939</earliestDate>
+          <latestDate>2012</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 98108301">Nelson, Kadir</name>
+        <dates>
+          <earliestDate>1974</earliestDate>
+          <latestDate>present</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="no2005078346">Scholastic Press</name>
+        <role>Publisher</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>2007</earliestDate>
+        <latestDate>2007</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>The depiction of slavery in children's literature evolved throughout the 20th century. In Henry's Freedom Box, Henry, a southern slave, enlists the help of a White abolitionist, Dr. Smith, to help him reach freedom in the North.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="other" vocab="local">Peabody Library</name>
+        <refid>Peabody Library, PZ7 .L57833 Hen 2007</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>©2007 Ellen Levine; ©2007 Kadir Nelson Illustrations</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 2014029210">Brown, Henry Box, 1815 or 1816---Fiction</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh2008111718">Slavery--Fiction</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh2007100196">African Americans--Fiction</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh2010117325">Underground Railroad--Fiction</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Henry's Freedom Box</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300343403">Children's books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-16</earliestDate>
+        <latestDate>2015-03-16</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>PC-Henry's_Freedom_Box-Levine_Nelson-2007.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ACRL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Henry's Freedom Box, Pages 23-24]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

@@ -1,79 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!--HAS BEEN EDITED-->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 2012015636">San Francisco Call Co.</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>1924-08-24</earliestDate>
-                <latestDate>1924-08-24</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>The headline for the August 28, 1924, edition of The San Francisco Call refers to the thrill killers Nathan Leopold and Richard Loeb's trial for the horrific murder of Bobby Franks. Newspapers across the country followed the court case, filling their pages with gruesome facts about the abduction and murder.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS0412, James G. Stahlman Historical Autograph Collection, Richard Loeb File</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright owned by San Francicso Examiner</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCNAF" refid="n 50049890">Leopold, Nathan Freudenthal, 1904-1971</term>
-            </subject>
-            <subject>
-                <term vocab="LCNAF" refid="n 50048217">Loeb, Richard A., 1905-1936</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Leopold and Loeb Case Headline]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300026657">Periodicals</worktype>
-            <worktype vocab="AAT" refid="300026656">Newspapers</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-07-13</earliestDate>
-                <latestDate>2015-07-13</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>The_San_Fransisco_Call-Aug_28_1924.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Leopold and Loeb Case Headline, front page]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 2012015636">San Francisco Call Co.</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1924-08-24</earliestDate>
+        <latestDate>1924-08-24</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>The headline for the August 28, 1924, edition of The San Francisco Call refers to the thrill killers Nathan Leopold and Richard Loeb's trial for the horrific murder of Bobby Franks. Newspapers across the country followed the court case, filling their pages with gruesome facts about the abduction and murder.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0412, James G. Stahlman Historical Autograph Collection, Richard Loeb File</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright owned by San Francicso Examiner</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 50049890">Leopold, Nathan Freudenthal, 1904-1971</term>
+      </subject>
+      <subject>
+        <term vocab="LCNAF" refid="n 50048217">Loeb, Richard A., 1905-1936</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Leopold and Loeb Case Headline]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300026657">Periodicals</worktype>
+      <worktype vocab="AAT" refid="300026656">Newspapers</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-07-13</earliestDate>
+        <latestDate>2015-07-13</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>The_San_Fransisco_Call-Aug_28_1924.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ACRL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Leopold and Loeb Case Headline, front page]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>
