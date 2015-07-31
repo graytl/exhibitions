@@ -4,40 +4,41 @@
   <work>
     <agentSet>
       <agent>
-        <name type="personal" vocab="LCNAF" refid="n 85142129">Cheney, Brainard, 1900-1990</name>
+        <name type="personal" vocab="LCNAF" refid="n 79119229 ">O'Connor, Flannery</name>
+        <role>Author</role>
         <dates>
-          <earliestDate>1900-06-03</earliestDate>
-          <latestDate>1990-01-15</latestDate>
+          <earliestDate>1925-03-25</earliestDate>
+          <latestDate>1964-08-03</latestDate>
         </dates>
       </agent>
     </agentSet>
     <dateSet>
       <date type="creation">
-        <earliestDate>1953-22-03</earliestDate>
-        <latestDate>1953-22-03</latestDate>
+        <earliestDate>1953-02-08</earliestDate>
+        <latestDate>1953-02-08</latestDate>
       </date>
     </dateSet>
     <descriptionSet>
-      <description>This letter is in response to O’Connor’s introductory letter on February 8, 1953. Writing from his home in Smyrna, Tennessee, Cheney takes this opportunity to sympathize with O’Connor’s bad reviews; his own writing has received its share of negative reactions! Here, Cheney opens the door on another interesting facet of their relationship: Catholicism and conversion. Over the course of their correspondence, they will spend many letters discussing theology and their favorite theologians.</description>
+      <description>Following Brainard Cheney’s review of Wise Blood, Cheney and O’Connor began a correspondence that was to last until her death in 1964. In their first letter, O’Connor indicates her respect for Cheney’s review, and introduces herself. She responds to several of the notes in his review, and paves the way for their burgeoning professional relationship. The collection of letters between O’Connor and Cheney are housed in Special Collections at the Vanderbilt University Library.</description>
     </descriptionSet>
     <locationSet>
       <location type="repository">
         <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-        <refid>MS0004, Brainard Bartwell Cheney and Frances Neel Cheney Papers, Box 03, Folder 18</refid>
+        <refid>MS0004, Brainard and Frances Neel Cheney Papers, Box 14, Folder 12</refid>
       </location>
     </locationSet>
     <rightsSet>
       <rights type="copyrighted">
-        <text>Copyright Vanderbilt University Special Collections</text>
+        <text>Emory contact has not responded. Consider copyrighted/fair use and transformative display</text>
       </rights>
     </rightsSet>
     <subjectSet>
       <subject>
-        <term vocab="LCNAF" refid="n 79119229">O'Connor, Flannery--Correspondence</term>
+        <term vocab="LCNAF" refid="n 85142129">Cheney, Brainard, 1900-1990--Correspondence</term>
       </subject>
     </subjectSet>
     <titleSet>
-      <title>[First Letter from Brainard Cheney to Flannery O'Connor]</title>
+      <title>[First Letter from Flannery O’Connor to Brainard Cheney]</title>
     </titleSet>
     <worktypeSet>
       <worktype vocab="AAT" refid="300026879">Letters (correspondence)</worktype>
@@ -57,17 +58,17 @@
     </dateSet>
     <locationSet>
       <location type="repository">
-        <refid>MS0004-OConnor_letter-B03-F18.jpg</refid>
+        <refid>MS0004-Cheney_letter-1953-B14-F12.jpg</refid>
         <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
       </location>
     </locationSet>
     <rightsSet>
-      <rights type="copyrighted">
-        <text>Copyright; licensed to Vanderbilt University</text>
+      <rights type="other">
+        <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
       </rights>
     </rightsSet>
     <titleSet>
-      <title>[Digital Reproduction of First Letter from Brainard Cheney to Flannery O'Connor]</title>
+      <title>[Digital Reproduction of First letter from Flannery O’Connor to Brainard Cheney]</title>
     </titleSet>
     <worktypeSet>
       <worktype vocab="AAT" refid="300215302">Digital images</worktype>
