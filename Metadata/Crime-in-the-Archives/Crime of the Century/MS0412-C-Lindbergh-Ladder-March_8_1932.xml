@@ -18,12 +18,8 @@
       </location>
     </locationSet>
     <rightsSet>
-      <rights type="undetermined">
-        <text>no photographer or news service noted on object; similar photo found in ProQuest Historical Newspapers notes Acme Photo; not found in Corbis, which purchased Acme, nor LOC, which owns a number of items; Not found in NJ Lindbergh collection (http://www.nj.gov/state/archives/slcsp001.html), not in AP database--no copyright notice listed on object.  Contact CORBIS
-902 Broadway
-New York, NY 10010
-telephone (800) 260-0444
-web site: http://www.corbisimages.com</text>
+      <rights type="copyrighted">
+        <text>no photographer or news service noted on object; similar photo found in ProQuest Historical Newspapers notes Acme Photo; not found in Corbis, which purchased Acme, nor LOC, which owns a number of items; Not found in NJ Lindbergh collection (http://www.nj.gov/state/archives/slcsp001.html), not in AP database--no copyright notice listed on object.  Contact CORBIS, 902 Broadway, New York, NY 10010; telephone (800) 260-0444; web site: http://www.corbisimages.com</text>
       </rights>
     </rightsSet>
     <subjectSet>
@@ -57,8 +53,8 @@ web site: http://www.corbisimages.com</text>
       </location>
     </locationSet>
     <rightsSet>
-      <rights type="copyrighted">
-        <text>unknown</text>
+      <rights type="other">
+        <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
       </rights>
     </rightsSet>
     <titleSet>
