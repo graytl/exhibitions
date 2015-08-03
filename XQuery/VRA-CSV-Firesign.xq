@@ -6,7 +6,7 @@ import module namespace functx = "http://www.functx.com" at "libraries/functx-1.
 let $field_delimiter := "&#09;" (: delimiter for fields :)
 let $value_delimiter := ", " (: delimiter for values within a field, NOT the field delimiter :)
 
-let $head := string-join(("Exhibit Category", "Exhibit Subcategory (if applicable)", "Image Filename", "XML Filename", "Artist Name", "Active Dates", "Publication Date", "Creation Date", "Format", "Donor", "Location", "Description"), $field_delimiter)
+let $head := string-join(("Exhibit Category", "Exhibit Subcategory (if applicable)", "Image Filename", "XML Filename", "Artist Name", "Active Dates", "Publication Date", "Creation Date", "Format", "Donor", "Location", "Rights", "Description"), $field_delimiter)
 
 return
 ($head,
@@ -39,7 +39,6 @@ let $imagefilename :=
 
 (: artist_name => work > titleSet > title :)
 let $workTitlePath := $individual/vra:work/vra:titleSet/vra:title/text()
-
 let $workTitle :=
     if (fn:empty($workTitlePath))
     then ("")
@@ -49,7 +48,6 @@ let $workTitle :=
     
 (: active_dates => work > agentSet > agent > name (repeatable) :)
 let $workAgentsPath := $individual/vra:work/vra:agentSet/vra:agent/vra:name/text()
-
 let $workAgents :=
     if (fn:empty($workAgentsPath))
     then ("")
@@ -92,7 +90,6 @@ let $cdate := concat($cdate,$cdateL)
 
 (: format => work > worktypeSet > worktype :)
 let $workTypePath := $individual/vra:work/vra:worktypeSet/vra:worktype/text()
-
 let $workType :=
     if (fn:empty($workTypePath))
     then ("")
@@ -102,7 +99,6 @@ let $workType :=
     
 (: donor => work > locationSet > location > refid :)
 let $donorPath := $individual//vra:work//vra:location[@type="repository"]/vra:refid/text()
-
 let $donor :=
     if (fn:empty($donorPath))
     then ("")
@@ -110,16 +106,21 @@ let $donor :=
     then (fn:string-join(($donorPath), $value_delimiter))
     else ($donorPath)   
    
-    
 (: location => work > locationSet > location[@type="repository"] > name :)
 let $locationPath := $individual//vra:work//vra:location[@type="repository"]/vra:name/text()
-
 let $location :=
     if (fn:empty($locationPath))
     then ("")
     else if ((count($locationPath)) > 1)
     then (fn:string-join(($locationPath), $value_delimiter))
     else ($locationPath)    
+
+(: image rights => image > rightsSet > rights > text :)
+let $imageRightsPath := $individual//vra:image/vra:rightsSet/vra:rights/vra:text/text()
+let $imageRights :=
+    if (fn:empty($imageRightsPath))
+    then ("")
+    else ($imageRightsPath[1])
     
 (: description => work > descriptionSet > description -- Line breaks replaced with --:)
 let $workDescriptionPath := for $each in $individual/vra:work/vra:descriptionSet//vra:description/text()
@@ -132,7 +133,7 @@ let $workDescription :=
     then (fn:string-join(($workDescriptionPath), $value_delimiter))
     else ($workDescriptionPath)
 
-let $line := fn:string-join(($category, $subcategory, $imagefilename, $xmlfilename, $workTitle, $workAgents, $pdate, $cdate, $workType, $donor, $location, $workDescription), $field_delimiter)
+let $line := fn:string-join(($category, $subcategory, $imagefilename, $xmlfilename, $workTitle, $workAgents, $pdate, $cdate, $workType, $donor, $location, $imageRights, $workDescription), $field_delimiter)
 
 return
  $line)
