@@ -18,8 +18,7 @@ for $individual in $records
   Date
   Agents
   Type
-  Description
-  Rights:)
+  Description :)
 
 (:Work Title:)
 let $workTitlePath := $individual/vra:work/vra:titleSet/vra:title/text()
@@ -91,17 +90,6 @@ let $source :=
     else if ((count($sourcePath)) > 1)
     then (fn:string-join(($sourcePath), $value_delimiter))
     else ($sourcePath)
-
-(:Work Rights -- Newlines replaced with " -- ":)
-let $workRightsPath := for $each in $individual/vra:work/vra:rightsSet/vra:rights/vra:text/text()
-return concat("Work: ", replace(functx:capitalize-first($each), "&#10;", " -- "))
-
-let $workRights :=
-    if (fn:empty($workRightsPath))
-    then ("")
-    else if ((count($workRightsPath)) > 1)
-    then (fn:string-join(($workRightsPath), $value_delimiter))
-    else ($workRightsPath)
        
     
 (:IMAGE DATA:
@@ -139,22 +127,16 @@ let $filePath :=
     then (fn:string-join(for $file in $fileNamePath return (string-join(($imageShare, $file), "")), $value_delimiter))
     else (fn:string-join(($imageShare, $fileNamePath), ""))
 
+
 (:Image Rights:)
 let $imageRightsPath := for $each in $individual//vra:image/vra:rightsSet/vra:rights/vra:text/text()
-return concat("Image: ", replace(functx:capitalize-first($each), "&#10;", " -- "))
+return replace(functx:capitalize-first($each), "&#10;", " -- ")
 
 let $imageRights :=
     if (fn:empty($imageRightsPath))
     then ("")
-    else if ((count($imageRightsPath)) > 1)
-    then (fn:string-join(($imageRightsPath), $value_delimiter))
-    else ($imageRightsPath)
-    
-(:Rights:)
-let $rights := 
-    if (functx:all-whitespace($workRights))
-    then ($imageRights)
-    else (replace(fn:string-join(($workRights, $imageRights), $value_delimiter), functx:escape-for-regex(".."), "."))
+    else ($imageRightsPath[1])
+
 
 (: TAGS: exhibit item categories/subcategories :)
  (: assumes the metadata directory structure is no more than 2 levels deep
@@ -172,7 +154,7 @@ let $tags :=
     else concat($category ,$value_delimiter, $subcategory)
 let $tags := functx:replace-multi(concat($tags, $value_delimiter, "2015 Exhibits"), ("-", "Satellite "), (" ", ""))
 
-let $line := fn:string-join((fn:base-uri($individual),$workTitle, $date, $workType, $workAgents, $subject, $workDescription, $source, $rights, $filePath, $fileName, $tags), $field_delimiter)
+let $line := fn:string-join((fn:base-uri($individual),$workTitle, $date, $workType, $workAgents, $subject, $workDescription, $source, $imageRights, $filePath, $fileName, $tags), $field_delimiter)
 
 return
  $line)
