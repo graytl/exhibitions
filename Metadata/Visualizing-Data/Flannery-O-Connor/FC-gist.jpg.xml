@@ -14,7 +14,7 @@
     <locationSet>
       <location type="other">
         <name type="corporate" vocab="local">Neo4j Graph Gist Website</name>
-        <refid>http://gist.neo4j.org/?2d0c49d816987ba58c5b</refid>
+        <refid>Online resource, available via: http://gist.neo4j.org/?2d0c49d816987ba58c5b</refid>
       </location>
     </locationSet>
     <rightsSet>

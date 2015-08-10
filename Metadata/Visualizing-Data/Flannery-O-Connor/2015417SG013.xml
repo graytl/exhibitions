@@ -14,7 +14,7 @@
     <locationSet>
       <location type="other">
         <name>Private Collection</name>
-        <refid>Item on loan</refid>
+        <refid>Item on loan from a private collection</refid>
       </location>
     </locationSet>
     <rightsSet>
