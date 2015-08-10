@@ -18,7 +18,7 @@
       <description>Downtown Nashville is shown in the catastophic Cumberland River flood of 2010. While the river has flooded several times over the course of our recorded history, the most recent flood, in May  2010, damaged over $2 billion of private property and caused the death of 26 people.</description>
     </descriptionSet>
     <locationSet>
-      <location>
+      <location type="other">
         <name type="corporate" vocab="local">Flickr Commons</name>
         <refid>Online Resource, available via: https://www.flickr.com/photos/10183075@N04/4574679644</refid>
       </location>

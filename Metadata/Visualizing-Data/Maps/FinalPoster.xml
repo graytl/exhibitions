@@ -18,7 +18,7 @@
       <description>This is a GIS analysis of transit density from Nashville to settlements in the U.S., Indian and Spanish territories - based on Joseph Purcell's map of 1794. It was created as part of a dean's fellows project using historical maps from Special Collections.</description>
     </descriptionSet>
     <locationSet>
-      <location type="other">
+      <location type="repository">
         <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
         <refid>Vanderbilt University Special Collections</refid>
       </location>
