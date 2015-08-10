@@ -17,7 +17,7 @@
 | coverage | -- |
 | identifier | -- |
 | date | date/earliestDate |
-| source | location[@type="repository"]/refid |
+| source | location/refid |
 
 | OMEKA | VRA |
 | ----- | --- |
