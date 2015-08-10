@@ -82,7 +82,7 @@ let $workDescription :=
     else ($workDescriptionPath)
     
 (:Work Source:)
-let $sourcePath := $individual//vra:work//vra:location[@type="repository"]/vra:refid/text()
+let $sourcePath := $individual//vra:work//vra:location/vra:refid/text()
 
 let $source :=
     if (fn:empty($sourcePath))

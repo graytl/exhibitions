@@ -29,7 +29,7 @@ let $xmlfilename :=
     else ($file_path[4])
 
 (: image filename :)
-let $imagefilenamePath := $individual/vra:image/vra:locationSet/vra:location[@type="repository"]/vra:refid/text()
+let $imagefilenamePath := $individual/vra:image/vra:locationSet/vra:location/vra:refid/text()
 let $imagefilename :=
     if (fn:empty($imagefilenamePath))
     then ("")
@@ -98,7 +98,7 @@ let $workType :=
     else (functx:capitalize-first($workTypePath))
     
 (: donor => work > locationSet > location > refid :)
-let $donorPath := $individual//vra:work//vra:location[@type="repository"]/vra:refid/text()
+let $donorPath := $individual//vra:work//vra:location/vra:refid/text()
 let $donor :=
     if (fn:empty($donorPath))
     then ("")
@@ -106,8 +106,8 @@ let $donor :=
     then (fn:string-join(($donorPath), $value_delimiter))
     else ($donorPath)   
    
-(: location => work > locationSet > location[@type="repository"] > name :)
-let $locationPath := $individual//vra:work//vra:location[@type="repository"]/vra:name/text()
+(: location => work > locationSet > location > name :)
+let $locationPath := $individual//vra:work//vra:location/vra:name/text()
 let $location :=
     if (fn:empty($locationPath))
     then ("")
