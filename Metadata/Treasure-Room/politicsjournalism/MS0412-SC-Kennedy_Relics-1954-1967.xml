@@ -27,13 +27,13 @@
       </location>
     </locationSet>
     <rightsSet>
-      <rights type="publicDomain">
+      <rights type="publicdomain">
         <text>Letter and cloth are public domain. JFK Library also says first day cover is public domain.</text>
       </rights>
     </rightsSet>
     <subjectSet>
       <subject>
-        <term vocab="LCSH" refid="n 79055297">Kennedy, John F. (John Fitzgerald), 1917-1963</term>
+        <term vocab="LCNAF" refid="n 79055297">Kennedy, John F. (John Fitzgerald), 1917-1963</term>
       </subject>
     </subjectSet>
     <titleSet>
@@ -62,7 +62,7 @@
       </location>
     </locationSet>
     <rightsSet>
-      <rights type="copyrighted">
+      <rights type="publicdomain">
         <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
       </rights>
     </rightsSet>
