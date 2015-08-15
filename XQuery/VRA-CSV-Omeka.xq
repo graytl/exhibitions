@@ -3,10 +3,12 @@ xquery version "3.0";
 declare namespace vra="http://www.vraweb.org/vracore4.htm";
 import module namespace functx = "http://www.functx.com" at "libraries/functx-1.0-nodoc-2007-01.xq";
 
-let $field_delimiter := "&#09;" (: delimiter for fields :)
+let $field_delimiter := "&#09;" (: delimiter for fields -- tab :)
+(: let $field_delimiter := ","  :)(: delimiter for fields -- comma :)
 let $value_delimiter := "|" (: delimiter for values within a field, NOT the field delimiter :)
 let $imageShare := "http://libexh.library.vanderbilt.edu/impomeka/2015-exhibit/"
-let $head := fn:string-join(("BASE_URI", "TITLE", "DATE", "FORMAT", "CONTRIBUTOR", "SUBJECT", "DESCRIPTION", "SOURCE", "RIGHTS", "FILE_PATH", "FILE_NAME", "TAGS"), $field_delimiter)
+(: let $head := fn:string-join(("BASE_URI", "Title", "Date", "Format", "Contributor", "Subject", "Description", "Source", "Rights", "FILE_PATH", "FILE_NAME", "TAGS"), $field_delimiter) :)
+let $head := fn:string-join(("BASE_URI", "Title", "Date", "Format", "Contributor", "Subject", "Description", "Source", "Rights", "FILE_PATH", "TAGS"), $field_delimiter)
 
 return
 ($head,
@@ -30,15 +32,33 @@ let $workTitle :=
     then (fn:string-join(($workTitlePath), $value_delimiter))
     else ($workTitlePath)
     
-(:Work Date -- Creation and Publication earliestDate as Date:)
-let $datePath := $individual/vra:work/vra:dateSet/vra:date/vra:earliestDate/text()
+(:Work Date -- Creation and Publication earliestDate, individually labelled :)
+let $datePathC := $individual/vra:work/vra:dateSet/vra:date[@type="creation"]/vra:earliestDate/text()
 
-let $date :=
-    if (fn:empty($datePath))
+let $dateC :=
+    if (fn:empty($datePathC))
     then ("")
-    else if ((count($datePath)) > 1)
-    then (fn:string-join(($datePath), $value_delimiter))
-    else ($datePath)
+    else if ((count($datePathC)) > 1)
+    then (fn:string-join(concat("Creation: ", $datePathC), $value_delimiter))
+    else (concat("Creation: ", $datePathC))
+    
+let $datePathP := $individual/vra:work/vra:dateSet/vra:date[@type="publication"]/vra:earliestDate/text()
+
+let $dateP :=
+    if (fn:empty($datePathP))
+    then ("")
+    else if ((count($datePathP)) > 1)
+    then (fn:string-join(concat("Publication: ", $datePathP), $value_delimiter))
+    else (concat("Publication: ", $datePathP))
+    
+let $date :=
+    if (functx:all-whitespace($dateC) and functx:all-whitespace($dateP))
+    then ("")
+    else if (functx:all-whitespace($dateC) and not(functx:all-whitespace($dateP)))
+    then ($dateP)
+    else if (not(functx:all-whitespace($dateC)) and functx:all-whitespace($dateP))
+    then ($dateC)
+    else (fn:string-join(($dateC, $dateP), $value_delimiter))
     
 (:WorkAgents -- CONTRIBUTORS:)
 let $workAgentsPath := $individual/vra:work/vra:agentSet/vra:agent/vra:name/text()
@@ -151,10 +171,11 @@ let $subcategory :=
 let $tags := 
     if (functx:all-whitespace($subcategory))
     then ($category)
-    else concat($category ,$value_delimiter, $subcategory)
+    else concat($category, $value_delimiter, $subcategory)
 let $tags := functx:replace-multi(concat($tags, $value_delimiter, "2015 Exhibits"), ("-", "Satellite "), (" ", ""))
 
-let $line := fn:string-join((fn:base-uri($individual),$workTitle, $date, $workType, $workAgents, $subject, $workDescription, $source, $imageRights, $filePath, $fileName, $tags), $field_delimiter)
+(: let $line := fn:string-join((fn:base-uri($individual),$workTitle, $date, $workType, $workAgents, $subject, $workDescription, $source, $imageRights, $filePath, $fileName, $tags), $field_delimiter) :)
+let $line := fn:string-join((fn:base-uri($individual), $workTitle, $date, $workType, $workAgents, $subject, $workDescription, $source, $imageRights, $filePath, $tags), $field_delimiter)
 
 return
  $line)
