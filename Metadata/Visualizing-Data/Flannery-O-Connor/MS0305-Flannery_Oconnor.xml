@@ -55,7 +55,7 @@
     <locationSet>
       <location type="repository">
         <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-        <refid>MS305-Flannery_Oconnor-001.jpg</refid>
+        <refid>MS0305-Flannery_Oconnor-001.jpg</refid>
       </location>
     </locationSet>
     <rightsSet>
@@ -84,7 +84,7 @@
     </dateSet>
     <locationSet>
       <location type="repository">
-        <refid>MS305-Flannery_Oconnor-002.jpg</refid>
+        <refid>MS0305-Flannery_Oconnor-002.jpg</refid>
         <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
       </location>
     </locationSet>
@@ -114,7 +114,7 @@
     </dateSet>
     <locationSet>
       <location type="repository">
-        <refid>MS305-Flannery_Oconnor-003.jpg</refid>
+        <refid>MS0305-Flannery_Oconnor-003.jpg</refid>
         <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
       </location>
     </locationSet>
@@ -144,7 +144,7 @@
     </dateSet>
     <locationSet>
       <location type="repository">
-        <refid>MS305-Flannery_Oconnor-004.jpg</refid>
+        <refid>MS0305-Flannery_Oconnor-004.jpg</refid>
         <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
       </location>
     </locationSet>
@@ -174,7 +174,7 @@
     </dateSet>
     <locationSet>
       <location type="repository">
-        <refid>MS305-Flannery_Oconnor-005.jpg</refid>
+        <refid>MS0305-Flannery_Oconnor-005.jpg</refid>
         <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
       </location>
     </locationSet>
