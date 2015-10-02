@@ -42,4 +42,5 @@
    * Use the Save As option (*not* Save) to save the file as **xlsx**. If you simply hit Save, the diacritics will be lost.
    * Use the xlsx file to your heart's content. **Make any changes to the spreadsheet content in the original XML files.**
 
+4. If you need to export back to a delimited file (such as for import into Omeka), you will have to use a different spreadsheet program, such as Google Drive or LibreOffice, for this conversion. **If you try to save as CSV or the like in Excel, diacritics will be lost.** I have found it easiest to load the csv or the xlsx from Step 3 above into Google Drive and do all necessary editing there, which has the bonus of being easily collaborative with our coworkers who might also need to help with this task.
 
