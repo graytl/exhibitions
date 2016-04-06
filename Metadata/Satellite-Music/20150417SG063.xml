@@ -1,0 +1,84 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="nb2012006431">Reagan, Kevin</name>
+        <role>Author</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="no2004003050">Taschen (Firm)</name>
+        <role>Publisher</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>2011</earliestDate>
+        <latestDate>2011</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Entire books are dedicated to the art of the album cover. Perhaps the greatest influence on the modern album cover was the work of Alex Steinweiss, whose colorful graphics played a major role in the marketing of Columbia Record Company’s new long-playing record format.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
+        <refid>Music Library, Stacks, NC1883.3 .S74 R43 2011</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright maintained by Taschen (Cologne, Germany). The display of this physical object constitutes a fair use as detailed in the ACRL's Code of Best Practices in Fair Use for Academic and Research Libraries.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="no 00089843">Steinweiss, Alex, 1917-2011</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85125392">Sound recordings--Album covers--Catalogs</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh2009126060">Graphic arts--United States--History--20th century</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Alex Steinweiss: The Inventor of the Modern Album Cover</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028051">Books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+        <role>Photographer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-17</earliestDate>
+        <latestDate>2015-04-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>20150417SG063.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Alex Steinweiss: The Inventor of the Modern Album Cover, Front Cover]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

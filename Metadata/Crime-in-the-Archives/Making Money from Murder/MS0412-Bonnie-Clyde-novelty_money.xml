@@ -1,83 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">American Art Classics</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>unknown</earliestDate>
-                <latestDate>present</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Bonnie Parker and Clyde Barrow pose on this novelty $100,000 bill, replacing the image of President Woodrow Wilson that adorned the few $100,000 bank notes that were actually printed by the Federal Reserve System. The couple's photographs are drawn from candid shots discovered by police in April 1933. In fact, high denomination bills over $100 have not been printed since 1946 and have been withdrawn from circulation by the Federal Reserve since 1969.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>James G. Stahlman Autograph Collection, Barrow, Clyde folder</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>c. ICI AAC
-American Art Classics, Inc.
-1627 Wildwood Rd
-Clearwater, FL 33756 USA
-Phone: 727-683-7400, Fax: 775-582-3971
-E-Mail: americanartclassics@gmail.com</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCNAF" refid="79065767">Barrow, Clyde, 1904-1934--Pictorial works</term>
-            </subject>
-            <subject>
-                <term vocab="LCNAF" refid="79065766">Parker, Bonnie, 1910-1934--Pictorial works</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Bonnie &amp; Clyde $100,000 Novelty Bill]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300266123">Novelties</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <role/>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-17</earliestDate>
-                <latestDate>2015-03-17</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0412-Bonnie-Clyde-novelty_money.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital reproduction of Bonnie &amp; Clyde $100,000 Novelty Bill]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">American Art Classics</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1940</earliestDate>
+        <latestDate>1970?</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Bonnie Parker and Clyde Barrow pose on this novelty $100,000 bill, replacing the image of President Woodrow Wilson that adorned the few $100,000 bank notes that were actually printed by the Federal Reserve System. The couple's photographs are drawn from candid shots discovered by police in April 1933. In fact, high denomination bills over $100 have not been printed since 1946 and have been withdrawn from circulation by the Federal Reserve since 1969.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0412, James G. Stahlman Historical Autograph Collection, Barrow, Clyde folder</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Courtesy of American Art Classics</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="79065767">Barrow, Clyde, 1904-1934--Pictorial works</term>
+      </subject>
+      <subject>
+        <term vocab="LCNAF" refid="79065766">Parker, Bonnie, 1910-1934--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Bonnie &amp; Clyde $100,000 Novelty Bill]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300266123">Novelties</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <role/>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-17</earliestDate>
+        <latestDate>2015-03-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0412-Bonnie-Clyde-novelty_money.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University courtesy of American Art Classics</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital reproduction of Bonnie &amp; Clyde $100,000 Novelty Bill]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

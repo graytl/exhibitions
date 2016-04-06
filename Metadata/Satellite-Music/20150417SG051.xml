@@ -1,0 +1,81 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="no 99004899">Edison Concert Band</name>
+        <role>Performer</role>
+      </agent>
+      <agent>
+        <name vocab="LCNAF" refid="n 85307591">National Phonograph Company</name>
+        <role>Publisher</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1907</earliestDate>
+        <latestDate>1907</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Developed in 1902, the Edison Gold Moulded Cylinder was a significant advancement in recording technology. Rather than relying on inconsistent dubbing techniques, this technique created a metal mold from the original recording. A blank brown cylinder was inserted and heated, resulting in precise reproduction.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="LCNAF" refid="n 90727668">Middle Tennessee State University, Center for Popular Music</name>
+        <refid>Item on loan from Middle Tennessee State University, Center for Popular Music</refid>
+      </location>
+      <location type="creation">
+        <name type="corporate" vocab="LCNAF" refid="n 85307591">National Phonograph Company</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Issued in 1907 by the National Phonograph Company. This item is now in the public domain, and no longer restricted by U.S. Copyright Law.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85101059">Cylinder recordings--Specimens</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Ballet Music from Faust, Part 2</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300265798">Cylinder phonographs (phonographs)</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+        <role>Photographer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-17</earliestDate>
+        <latestDate>2015-04-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>20150417SG051.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Ballet Music from Faust, Part 2, View of Cylinder Recording in Case]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

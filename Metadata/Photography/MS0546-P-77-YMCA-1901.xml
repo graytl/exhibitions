@@ -1,86 +1,83 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 85188904">Underwood &amp; Underwood</name>
-                <dates>
-                    <earliestDate>1882</earliestDate>
-                    <latestDate>1921</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 88283087">Ricalton, James</name>
-                <dates>
-                    <earliestDate>1844</earliestDate>
-                    <latestDate>1929</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1900</earliestDate>
-                <latestDate>1900</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>James Ricalton photographed sites, survivors, and daily life in October 1900 in Peking after the Rebellion for Underwood &amp; Underwood. Troops posted in Peking found distractions at the Y with games, coffee, lunch, and books. The YMCA provided similar services to occupying American troops Manila during the Spanish-American War. Ricalton intended his 100 images to make the viewer feel "quite at home among the streets" of Peking.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0546, Box</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>created in 1900 after Boxer Rebellion.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85024100">China--History--Boxer Rebellion, 1899-1901--Pictorial works</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[YMCA Rooms for Allies, Peking, China]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300127197">Stereographs</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-11</earliestDate>
-                <latestDate>2015-03-11</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0546-P-77-YMCA-1901.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of YMCA Rooms for Allies, Peking, China]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 85188904">Underwood &amp; Underwood</name>
+        <dates>
+          <earliestDate>1882</earliestDate>
+          <latestDate>1921</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 88283087">Ricalton, James</name>
+        <dates>
+          <earliestDate>1844</earliestDate>
+          <latestDate>1929</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1901</earliestDate>
+        <latestDate>1901</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>James Ricalton photographed sites, survivors, and daily life in October 1900 in Peking after the rebellion for Underwood &amp; Underwood. Troops posted in Peking found distractions at the YMCA with games, coffee, lunch, and books. The Y provided similar services to occupying American troops in Manila during the Spanish-American War. Ricalton intended his 100 images to make the viewer feel "quite at home among the streets" of Peking.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0546, Bets Ramsey Collection</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>created in 1900 after Boxer Rebellion.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85024100">China--History--Boxer Rebellion, 1899-1901--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[YMCA Rooms for Allies, Peking, China]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300127197">Stereographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-11</earliestDate>
+        <latestDate>2015-03-11</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0546-P-77-YMCA-1901.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of YMCA Rooms for Allies, Peking, China]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

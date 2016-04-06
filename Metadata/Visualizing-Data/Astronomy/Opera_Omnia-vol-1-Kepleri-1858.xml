@@ -1,0 +1,93 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 50044770">Kepler, Johannes, 1571-1630</name>
+        <role>Author</role>
+        <dates>
+          <earliestDate>1571</earliestDate>
+          <latestDate>1630</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="personal" vocab="local">Frisch, Christian, 1807-1881</name>
+        <role>Editor</role>
+        <dates>
+          <earliestDate>1807</earliestDate>
+          <latestDate>1881</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="no 00043884">Heyder &amp; Zimmer</name>
+        <role>Publisher</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1858</earliestDate>
+        <latestDate>1858</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Johannes Kepler (1571-1630) was a German mathematician and astronomer. A key figure in the 17th century scientific revolution, he is best known for his laws of planetary motion. This is a collection of his writings.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Sarah Shannon Stevenson Science &amp; Engineering Library</name>
+        <refid>Annex, 520.8 K38</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>This book was published in 1858.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85009003">Astronomy</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85025406">Chronology</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title pref="true">Joannis Kepleri Astronomi Opera Omnia</title>
+      <title pref="false">Opera Omnia</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028051">Books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-30</earliestDate>
+        <latestDate>2015-04-30</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Opera_Omnia-vol-1-Kepleri-1858.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Joannis Kepleri Astronomi Opera Omnia, Detail of Satellite Illustration]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

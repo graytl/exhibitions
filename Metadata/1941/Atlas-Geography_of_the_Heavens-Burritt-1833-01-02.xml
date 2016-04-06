@@ -1,0 +1,117 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 87814084">Burritt, Elijah H. (Elijah Hinsdale), 1794-1838</name>
+        <dates>
+          <earliestDate>1794-04-20</earliestDate>
+          <latestDate>1838-01-03</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1833</earliestDate>
+        <latestDate>1833</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>The 18th and 19th century saw an exponential growth in the number of identified stars due to technological improvements. From ancient times until around 1600, the number of identified stars remained at around 1000. But by 1800, scientists had identified over 100,000 stars. American mathematician and astronomer Elijah Burritt published his atlas as a poor man's substitute for a celestial globe. Designed for teaching astronomy, the atlas illustrated stars visible to the naked eye.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Sevier Oversize Collection, QB65 .B87 1833</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>published before 1923</text>
+      </rights>
+    </rightsSet>
+    <stateEditionSet>
+      <stateEdition>
+        <description>2nd edition</description>
+      </stateEdition>
+    </stateEditionSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85127417">Stars--Atlases</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85009004">Astronomy--Charts, diagrams, etc.</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85008887">Astrographic catalog and chart</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Atlas Designed to Illustrate the Geography of the Heavens</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028164">Astronomical charts</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-13</earliestDate>
+        <latestDate>2015-04-13</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Atlas-Geography_of_the_Heavens-Burritt-1833-01.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Atlas Designed to Illustrate the Geography of the Heavens, View of Front Cover]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-13</earliestDate>
+        <latestDate>2015-04-13</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Atlas-Geography_of_the_Heavens-Burritt-1833-02.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Atlas Designed to Illustrate the Geography of the Heavens, View of Celestial Map]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

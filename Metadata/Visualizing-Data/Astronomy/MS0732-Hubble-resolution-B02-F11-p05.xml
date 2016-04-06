@@ -1,0 +1,72 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 79105937">George C. Marshall Space Flight Center</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1986</earliestDate>
+        <latestDate>1986</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Space based telescopes revolutionized the study of astronomy. The first such telescope, the Hubble Space Telescope, dramatically improved the image resolution of land based telescopes. This image shows a land based telescope photo of Jupiter (black and white inset image) and the same image produced by Hubble.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0732, Robert O'Dell Papers, Box 2, Folder 11</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Image is from p. 5 of brochure "Designing an Observatory for Maintenance in Orbit: The Hubble Space Telescope Experience," Space Telescope Project Office, Marshall Space Flight Center.  Illustration credits list this image as provided by the California Institute of Technology.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85071063">Jupiter (Planet)</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Hubble Space Telescope Image of Jupiter, from within 'Designing an Observatory for Maintenance in Orbit The Hubble Space Telescope Experience'</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300248280">Brochures</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-05-04</earliestDate>
+        <latestDate>2015-05-04</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0732-Hubble-resolution-B02-F11-p05.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Designing an Observatory for Maintenance in Orbit The Hubble Space Telescope Experience, Page 5]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

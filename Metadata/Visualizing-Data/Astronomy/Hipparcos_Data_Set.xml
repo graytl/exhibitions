@@ -1,0 +1,81 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 88217104">Hipparcos (Artificial satellite)</name>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 50079617">European Space Agency</name>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 78087581">United States. National Aeronautics and Space Administration</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1989-08</earliestDate>
+        <latestDate>1993-03</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Shown here is an example visualization from Vanderbilt's Filtergraph tool applied to Hipparcos spacecraft data. Depicted is a so-called Hertzsprung-Russel diagram showing the relationships between stellar temperatures, luminosities, and sizes, and how these evolve with time.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="LCNAF" refid="n 80044740">Goddard Space Flight Center</name>
+        <refid>Raw data available via online catalog; also available via European Space Agency website.</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="undetermined">
+        <text>Copyright Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 88217104">Hipparcos (Artificial satellite)</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85127420">Stars--Charts, diagrams, etc.</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Hipparcos Data Set]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300027020">Graphs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="no2014048388">Burger, Dan (Dan Michael)</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2013-10</earliestDate>
+        <latestDate>2013-10</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="other">
+        <refid>Hipparcos_Data_Set.jpg</refid>
+        <name type="corporate" vocab="LCNAF" refid="n 79081473">Vanderbilt University</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Hipparcos Data Set as Graph Visualization]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

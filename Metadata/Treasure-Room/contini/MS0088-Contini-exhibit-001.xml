@@ -1,0 +1,62 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1969-10-01</earliestDate>
+        <latestDate>1969-10-31</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>In 1969, History of Art Professor Hamilton Hazelhurst was contacted by the Samuel H. Kress Foundation about the availability of an extensive photograph collection of European art objects spanning nine centuries. In October 1969, the Contini-Volterra Photographic Archive arrived at Vanderbilt. This photograph shows a scene from the opening exhibit with photographs on view in the central display case, and the original leather bound boxes on metal bookcases in the background.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0088, Contini-Volterra Photographic Archive, Donor File</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright maintained by Vanderbilt University Special Collections</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Photograph from Cohen Exhibit]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300128359">Color photographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-14</earliestDate>
+        <latestDate>2015-04-14</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0088-Contini-exhibit-001.jpg</refid>
+        <name type="corporate" vocab="local">Contini-Volterra Photographic Archive</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Photograph from Cohen Exhibit]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

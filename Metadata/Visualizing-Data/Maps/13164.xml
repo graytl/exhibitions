@@ -1,0 +1,75 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 79027469">United States. Army. Corps of Engineers. Nashville District</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1937-02-01</earliestDate>
+        <latestDate>1937-02-01</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>The Cumberland River flooded again in January of 1937. This view overlooks mile 161 on the Cumberland River, near Gravelotte, T.N., within the town of present-day Ashland City (approximately 16 miles northwest of Nashville). The Lock 1 lower river gage read 56.6' on this day. The view is looking upstream from the bluff on right bank. Note the railroad tracks at left: many of the railroads could not serve the disaster due to bridge damage.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="other">
+        <name type="corporate" vocab="local">United States. Army. Corps of Engineers. Nashville District. Library</name>
+        <refid>Item on loan from the United States Army Corps of Engineers, Nashville District, Library</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>United States Army Corps of Engineers Nashville District</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85049168">Floods--Tennessee--Pictorial works</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85034781">Cumberland River (Ky. and Tenn.)--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[The 1937 Flood: A Look at Gravelotte, TN]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">United States. Army. Corps of Engineers. Nashville District. Library</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-25</earliestDate>
+        <latestDate>2015-03-26</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>13164.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of the 1937 Flood: A Look at Gravelotte, TN]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

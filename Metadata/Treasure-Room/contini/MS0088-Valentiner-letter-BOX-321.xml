@@ -1,0 +1,76 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 79132431">Valentiner, Wilhelm Reinhold, 1880-1958</name>
+        <dates>
+          <earliestDate>1880</earliestDate>
+          <latestDate>1958</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1948-07-11</earliestDate>
+        <latestDate>1948-07-11</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>In this 1948 letter, art critic and historian Wilhelm Reinhold Valentiner describes a painting depicted in one of the Contini photographs and attributes the work to Rembrandt van Rijn. This kind of correspondence was valuable to scholars as they grew in their understanding of the artwork and artists represented in collection. With the help of connoisseurs such as Valentiner, scholars working on the project were able to better differentiate original masterpieces from copies of the same work.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0088, Contini-Volterra Photographic Archive, Box 321</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Unknown.  Valentiner's last position was Director of the North Carolina Museum of Art in Raleigh (1955-1958).</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 79142935">Rembrandt Harmenszoon van Rijn, 1606-1669</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Letter from Valentiner]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300026879">Letters (correspondence)</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-07-01</earliestDate>
+        <latestDate>2015-07-01</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0088-Valentiner-letter-BOX-321.jpg</refid>
+        <name type="corporate" vocab="local">Contini-Volterra Photographic Archive</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Letter from Valentiner]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

@@ -1,0 +1,70 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1880</earliestDate>
+        <latestDate>1892?</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>The first four satellites of Jupiter were discovered by Galileo in 1610. Edward Emerson Barnard discovered the fifth shortly after midnight on September 9, 1892. Fifth in order of discovery and third in distance from the planet, Amalthea was the last satellite to be discovered by direct observation through a telescope. After 1892, astronomers relied on photography to identify new satellites. Pictured here is the Lick Observatory's 36-inch refractor telescope used by Barnard to detect Amalthea.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0031, Edward Emerson Barnard Papers, Box 22</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>The image is undated but is likely pre-1923.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85071063">Jupiter (Planet)</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh2006007022">Refracting telescopes--Specimens</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[36-inch Refractor Telescope]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-05-04</earliestDate>
+        <latestDate>2015-05-04</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0031-Telescope-B43-Barnard.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of 36-inch Refractor Telescope]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

@@ -1,0 +1,119 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 50007194">Benn, 1905-1989</name>
+        <role>Artist</role>
+        <dates>
+          <earliestDate>1905</earliestDate>
+          <latestDate>1989</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="">Schilli, Henri, 1906-1975</name>
+        <role>Translator</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="local">Lefort</name>
+        <role>Publisher</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1960</earliestDate>
+        <latestDate>1960</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>During the Nazi occupation of Paris, the artist Benn was sheltered by various Christian families. While in hiding, he made simple line drawings of biblical verses until he was captured and interred in the Beanne le Rolande camp. After the war, he expanded his drawings into paintings and produced the 62 plates in this portfolio.  Gift of Professor Jack M. Sasson, the Mary Jane Werthan Professor of Judaica and Biblical Studies.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Memorabilia Collection, ND553 .B514 A45 1960</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright 1960, Lefort (Chantenay-Malabry, Seine). Fair use to use only select images of book.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="">Bible. Old Testament--Illustrations</term>
+      </subject>
+      <subject>
+        <term vocab="LCNAF" refid="">Bible. Psalms--Illustrations.</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title pref="true">62 Psaumes et Versets de la Bible</title>
+      <title pref="false">Soixante-Deux Psaumes et Versets de la Bible</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028051">Books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-04</earliestDate>
+        <latestDate>2015-03-04</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>ND533_B514_A45-1960-62_Psaumes-01.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of 62 Psaumes et Versets de la Bible, Illustration of Man and Boy Pointing at Figure in Sky]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-04</earliestDate>
+        <latestDate>2015-03-04</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>ND533_B514_A45-1960-62_Psaumes-06.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of 62 Psaumes et Versets de la Bible, Illustration of Ladder Reaching to Heaven]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

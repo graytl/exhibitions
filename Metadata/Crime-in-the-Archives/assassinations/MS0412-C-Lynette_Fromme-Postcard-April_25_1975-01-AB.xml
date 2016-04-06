@@ -1,79 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n96123727">Fromme, Lynette Alice, 1948-</name>
-                <dates>
-                    <earliestDate>1948-10-22</earliestDate>
-                    <latestDate>present</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1975-04-25</earliestDate>
-                <latestDate>1975-04-25</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>As a protégé and longtime follower of Charles Manson, Lynette “Squeaky” Fromme acted as spokesman for the ‘Family” carrying the message of Manson to the media.  After his arrest and 1971 conviction for the Tate/LaBianca murders Fromme continued to represent Manson and deliver messages from him to his followers and keep his name alive in the press. She was trying to write a history of the “Manson Family” using scrapbooks she created from letters, photographs and news clippings though no manuscript was ever found.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>James G. Stahlman Historical Autograph Collection, Lynette Fromme, MSS0412</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text/>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCNAF" refid="n79115986">Manson, Charles, 1934-</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Postcard from Lynette Fromme to David Nicholas, April 25, 1975</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300026816">Postcards</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-04-13</earliestDate>
-                <latestDate>2015-04-13</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0412-C-Lynette_Fromme-Postcard-April_25_1975-01-AB.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Postcard from Lynette Fromme to David Nicholas]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
-
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 96123727">Fromme, Lynette Alice, 1948-</name>
+        <dates>
+          <earliestDate>1948-10-22</earliestDate>
+          <latestDate>present</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1975-04-25</earliestDate>
+        <latestDate>1975-04-25</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>As a protégé and longtime follower of Charles Manson, Lynette “Squeaky” Fromme acted as spokesman for the "family” carrying the message of Manson to the media. After Manson's arrest and 1971 conviction for the Tate/LaBianca murders, Fromme continued to represent Manson and deliver messages from him to his followers and keep his name alive in the press. She was trying to write a history of the Manson family using scrapbooks she created from letters, photographs and news clippings. No manuscript was ever found.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0412, James G. Stahlman Historical Autograph Collection, Lynette Fromme</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text/>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 79115986">Manson, Charles, 1934-</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Postcard from Lynette Fromme, April 25, 1975]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300026816">Postcards</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-13</earliestDate>
+        <latestDate>2015-04-13</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0412-C-Lynette_Fromme-Postcard-April_25_1975-01-AB.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Postcard from Lynette Fromme, April 25, 1975]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

@@ -1,0 +1,73 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Deane, Adams &amp; Deane Company</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1856</earliestDate>
+        <latestDate>1880</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>The Beaumont-Adams revolver is a muzzle-loading, double-action, percussion revolver created by the London firm of Deane, Adams and Deane from 1856 to 1880. Over 250,000 revolvers were produced, many being sold to firms in the United States. Both sides used them during the Civil War, particularly the Confederacy, which bought large numbers of them early in the conflict. Revolvers such as this one would have been available to Frank and Jesse James as they fought for the Confederacy in Missouri with Quantrill’s Raiders.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="other" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0413, James G. Stahlman Papers, Memorabilia</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>This Beaumont-Adams Revolver was created between 1856-1880</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85000791">Adams revolvers--Specimens</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Beaumont-Adams Revolver</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300037173">Revolvers (firearms)</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+        <role>Photographer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-17</earliestDate>
+        <latestDate>2015-04-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>20150417SG036.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbit University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Image of Beaumont-Adams Revolver]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

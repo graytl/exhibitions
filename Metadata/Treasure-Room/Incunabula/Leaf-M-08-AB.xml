@@ -1,0 +1,68 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 79041716">Catholic Church</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1290</earliestDate>
+        <latestDate>1300</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Compact one-volume Bibles were a thirteenth-century Parisian specialty, crafted to answer the needs of clerics, monks, and students. Paris was the place to study theology in the Middle Ages. This leaf is from a fine Paris Bible that was used by a succession of readers, some of whom added tiny, precisely written notes that have faded to pale tan but are still visible in the margins. This is a correction by a later owner, who supplied a line the original scribe carelessly skipped over.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0640, Sam Fleming Illuminated Medieval Manuscript and Early Printing Collection, Box 1, Folder 8</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Predates 1923 copyright act</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Manuscript Latin Bible, Leaf 08]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300055021">Incunabula</worktype>
+      <worktype vocab="AAT" refid="300264513">Bibles</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-05-11</earliestDate>
+        <latestDate>2015-05-11</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Leaf-M-08-AB.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Manuscript Latin Bible, Leaf MS M08]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

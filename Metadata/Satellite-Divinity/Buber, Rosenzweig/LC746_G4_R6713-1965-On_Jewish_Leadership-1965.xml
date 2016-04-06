@@ -1,0 +1,90 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 82144585">Rosenzweig, Franz, 1886-1929</name>
+        <role>Author</role>
+        <dates>
+          <earliestDate>1886</earliestDate>
+          <latestDate>1929</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 50033097">Glatzer, Nahum N. (Nahum Norbert), 1903-1990</name>
+        <role>Writer of introduction</role>
+        <role>Editor</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 88005916">Schocken Books</name>
+        <role>Publisher</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1955</earliestDate>
+        <latestDate>1955</latestDate>
+      </date>
+      <date type="publication">
+        <earliestDate>1965</earliestDate>
+        <latestDate>1965</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Franz Rosenzweig’s collection of essays, speeches, and letters convey his commitment to bringing Jews back to their roots through adult Jewish education. As director of the Frieies Juedisches Lehrhaus in Frankfurt am Main, he was able to experiment with his concept of a dialogical method of learning. The institute’s teachers were not rabbis, but rather assimilated Jews who wanted to discover their identity and their faith through a living encounter with other Jews.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Divinity Library</name>
+        <refid>Annex, LC746 .G4 R6713 1965</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>It is under fair use. Only the front cover is on display. Copyright held by Schocken Books (1965).</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85070387">Jews--Education</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>On Jewish Learning</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028051">Books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-04</earliestDate>
+        <latestDate>2015-03-04</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>LC746_G4_R6713-1965-On_Jewish_Leadership-1965.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of On Jewish Learning, Front Cover]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

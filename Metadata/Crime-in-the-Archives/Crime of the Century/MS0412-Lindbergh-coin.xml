@@ -1,93 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="no2010116500">Becker, Henry A.</name>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 50041945">Franklin Mint</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1964</earliestDate>
-                <latestDate>1968</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>In an era of supersonic jets and bullet trains, of flights to the moon and Googlemaps, Charles Lindbergh's legendary 33 hour and 30 minute solo flight across the Atlantic in the cramped cockpit of a one-engine plane continues to capture the imagination of the world. "Lucky Lindy's" stripped down design and courage made him an idol to the world.  Lindbergh gave the Spirit of St. Louis to the Smithsonian where it has been on display for over 80 years.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>James G. Stahlman Autograph Collection, Lindbergh, Charles</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>C. Franklin Mint Copyright Agent
-Delivery Agent, Inc. Department
-300 California Street, Third Floor
-San Francisco, CA 94104
-phone: (415) 696.5768
-fax: (415) 358.5661
-e-mail: copyright@deliveryagent.com
-Note: Sequential Brands Group purchased Franklin Mint.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCNAF" refid="n 79100565">Lindbergh, Charles A. (Charles Augustus), 1902-1974--Numismatics</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="n 85054729">Spirit of St. Louis (Airplane)</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 97007826">Air pilots--United States</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85136873">Transatlantic flights</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>The Charles Lindbergh Flight (26th Commemorative)</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300391160">Commemorative medals</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-17</earliestDate>
-                <latestDate>2015-03-17</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0412-Lindbergh-coin.jpg</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital reproduction of the Charles Lindbergh Flight (26th Commemorative)</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="no2010116500">Becker, Henry A.</name>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 50041945">Franklin Mint</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1964</earliestDate>
+        <latestDate>1968</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>In an era of supersonic jets and bullet trains, of flights to the moon and Google Maps, Charles Lindbergh's legendary 33 hour and 30 minute solo flight across the Atlantic in the cramped cockpit of a one-engine plane continues to capture the imagination of the world. "Lucky Lindy's" stripped-down aeronautic design and courage made him an idol to the world. Lindbergh gave the Spirit of St. Louis to the Smithsonian where it has been on display for over 80 years.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0412, James G. Stahlman Historical Autograph Collection, Lindbergh, Charles</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>C. Franklin Mint Copyright Agent, Delivery Agent, Inc. Department; 300 California Street, Third Floor; San Francisco, CA 94104; phone: (415) 696.5768; fax: (415) 358.5661; e-mail: copyright@deliveryagent.com; Note: Sequential Brands Group purchased Franklin Mint.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 79100565">Lindbergh, Charles A. (Charles Augustus), 1902-1974--Numismatics</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="n 85054729">Spirit of St. Louis (Airplane)</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 97007826">Air pilots--United States</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85136873">Transatlantic flights</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>The Charles Lindbergh Flight (26th Commemorative)</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300391160">Commemorative medals</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-17</earliestDate>
+        <latestDate>2015-03-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0412-Lindbergh-coin.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of The Charles Lindbergh Flight (26th Commemorative)]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

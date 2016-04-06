@@ -1,75 +1,72 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 81112558">Columbia Pictures Industries</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>1976</earliestDate>
-                <latestDate>1976</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Sir Anthony Hopkins was a relative unknown when he took on the role of Bruno Richard Hauptmann in Columbia Pictures' 1976 "The Lindbergh Kidnapping Case."  Hopkins won an Emmy for his performance. Sensational headlines and speculative journalism in William Randolph Hurst's newspapers made it difficult to find an unbiased jury.The Lindbergh kidnapping was the subject of a second film, 1998's "The Crime of the Century," a phrase reputedly coined by newspaper reporter Damon Runyon.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>James G. Stahlman Autograph Collection, Lindbergh, Charles folder</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>c. Columbia Pictures Industries; Not found in The Motion Picture and Television Photo Archive, Getty or Corbis ; 
-Please contact Sony Pictures Film Clip &amp; Still Licensing at FilmClips@spe.sony.com or call 310.244.7306 for recorded licensing instructions.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCNAF" refid="n 79100565">Lindbergh, Charles A. (Charles Augustus) 1902-1974</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>The Lindbergh Kidnapping Case</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-11</earliestDate>
-                <latestDate>2015-03-11</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0412-C-Lindbergh-Movie-1977.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital reproduction of the Lindbergh kidnapping case]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 81112558">Columbia Pictures Industries</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1976</earliestDate>
+        <latestDate>1976</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Sir Anthony Hopkins was a relative unknown when he took on the role of Bruno Richard Hauptmann in Columbia Pictures' 1976 The Lindbergh Kidnapping Case. Hopkins won an Emmy for his performance. The 1934 Lindbergh trial produced sensational headlines in William Randolph Hearst's newspapers, making it difficult to find an unbiased jury. The Lindbergh kidnapping was the subject of a second film, 1998's The Crime of the Century, a phrase reputedly coined by newspaper reporter Damon Runyon during the trial.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0412, James G. Stahlman Historical Autograph Collection, Lindbergh, Charles folder</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>c. Columbia Pictures Industries; Not found in The Motion Picture and Television Photo Archive, Getty or Corbis ; Please contact Sony Pictures Film Clip &amp; Still Licensing at FilmClips@spe.sony.com or call 310.244.7306 for recorded licensing instructions.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 79100565">Lindbergh, Charles A. (Charles Augustus) 1902-1974</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>The Lindbergh Kidnapping Case</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-11</earliestDate>
+        <latestDate>2015-03-11</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0412-C-Lindbergh-Movie-1977.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of the Lindbergh Kidnapping Case]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

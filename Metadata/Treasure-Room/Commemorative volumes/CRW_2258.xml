@@ -1,0 +1,82 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 80039712">United States. Continental Congress</name>
+        <role>Author</role>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 85028455">Bradford, William, 1719-1791</name>
+        <role>Printer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1774-09-05</earliestDate>
+        <latestDate>1774-10-26</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>The Journal of the Proceedings of the Congress of 1774 was the second millionth volume in the Vanderbilt Library and was donated by Irene and W. Ridley Wills II, VU `56 in 1992. This is the first issue of the first official journal of the Continental Congress which sat at Carpenter’s Hall in Philadelphia, Pennsylvania, from September 5 to October 26, 1774.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Sevier Collection, J10 .74 1774</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Congress Proceedings are a federal publication and are not under copyright.</text>
+      </rights>
+    </rightsSet>
+    <stateEditionSet>
+      <stateEdition>
+        <description>1st edition</description>
+      </stateEdition>
+    </stateEditionSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85140411">United States--Politics and government--To 1775</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Journal of the Proceedings of the Congress, Held at Philadelphia, September 5, 1774</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300027885">Legislative records</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2013-04-30</earliestDate>
+        <latestDate>2013-04-30</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>CRW_2258.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Journal of the Proceedings of the Congress, Held at Philadelphia, September 5, 1774, Title Page]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

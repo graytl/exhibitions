@@ -1,0 +1,79 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <dateSet>
+      <date>
+        <earliestDate>1902</earliestDate>
+        <latestDate>1902</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>This Easter card was sent to Enrico Caruso from Pepino in 1902. Unlike the American tradition of sending Christmas cards, the French holiday tradition is sending New Year’s cards. Easter cards are prevalent in this group as well, often with displays of floral arrangements. Surprisingly, holiday cards are in fact quite rare among the collection, with just 13 examples in total.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0647, Francis Robinson Collection of Music, Theatre and Dance, Postcard 0387</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Created in 1902.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh2003001452">Easter in art</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85147554">Women in art</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85110203">Rabbits--Pictorial works</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh2001001357">Wicker baskets--Pictorial works</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85040594">Easter eggs--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Bunny in Egg Basket]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300026819">Picture postcards</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-11</earliestDate>
+        <latestDate>2015-03-11</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>sc.mss.0647.p0387-A-vis.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Bunny in Egg Basket, View of Recto]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

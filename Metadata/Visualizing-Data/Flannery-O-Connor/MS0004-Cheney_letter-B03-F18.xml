@@ -1,0 +1,77 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 79119229 ">O'Connor, Flannery</name>
+        <role>Author</role>
+        <dates>
+          <earliestDate>1925-03-25</earliestDate>
+          <latestDate>1964-08-03</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1953-02-08</earliestDate>
+        <latestDate>1953-02-08</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Following Brainard Cheney’s review of Wise Blood, Cheney and O’Connor began a correspondence that was to last until her death in 1964. In their first letter, O’Connor indicates her respect for Cheney’s review, and introduces herself. She responds to several of the notes in his review, and paves the way for their burgeoning professional relationship. The collection of letters between O’Connor and Cheney are housed in Special Collections at the Vanderbilt University Library.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MS0004, Brainard and Frances Neel Cheney Papers, Box 14, Folder 12</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Emory contact has not responded. Consider copyrighted/fair use and transformative display</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 85142129">Cheney, Brainard, 1900-1990--Correspondence</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[First Letter from Flannery O’Connor to Brainard Cheney]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300026879">Letters (correspondence)</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-16</earliestDate>
+        <latestDate>2015-04-16</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0004-Cheney_letter-1953-B14-F12.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of First letter from Flannery O’Connor to Brainard Cheney]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

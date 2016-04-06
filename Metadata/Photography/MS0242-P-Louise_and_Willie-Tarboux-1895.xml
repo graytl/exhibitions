@@ -1,85 +1,78 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF">Ehrhard Brand and Comp. (firm)</name>
-                <dates>
-                    <earliestDate>1889</earliestDate>
-                    <latestDate>unknown</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1895</earliestDate>
-                <latestDate>1895</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Rev. John W. Tarboux worked in Brazil as a Methodist missionary and high school principal for 37 years.  His wife Susan was James Kirkland’s sister. Willie, aged one, wears polka dots.  His older sister wears a fancy bonnet. Juiz de Fora, a town in the Paraibuna Valley, 50 miles north of Rio in Minas Gerais, a state where mining companies expanded and the economy was booming.  Brand’s studio opened December 31, 1889. Many Brazilian studios were run by Americans or Europeans.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>Ms0242, box "PH Arch/Kirkland Family"</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Image made 1895.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="local">Tarboux, Louise--Portraits</term>
-            </subject>
-            <subject>
-                <term vocab="local">Tarboux, Willie--Portraits</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85101240">Portrait photography--Specimens</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Louise and Willie Tarboux]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300127115">Card photographs (photographs)</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-18</earliestDate>
-                <latestDate>2015-03-18</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0242-P-Louise_and_Willie_Tarboux-1895.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Louise and Willie Tarboux]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Ehrhard Brand and Company</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1895</earliestDate>
+        <latestDate>1895</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Reverend John W. Tarboux worked in Brazil as a Methodist missionary and high school principal for 37 years. His wife Susan was James Kirkland’s sister. Their son Willie, aged one, wears polka dots. His older sister wears a fancy bonnet. Juiz de Fora, a town in the Paraibuna Valley, 50 miles north of Rio in Minas Gerais, was a state where mining companies helped the economy expand. Brand’s studio opened December 31, 1889. Many Brazilian studios were run by Americans or Europeans.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0242, James Hampton Kirkland Papers, Box 38, Folder 11 "Kirkland and Henderson Relatives"</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Image made 1895.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="local">Tarboux, Louise--Portraits</term>
+      </subject>
+      <subject>
+        <term vocab="local">Tarboux, Willie--Portraits</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85101240">Portrait photography--Specimens</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Louise and Willie Tarboux]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300127115">Card photographs (photographs)</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-18</earliestDate>
+        <latestDate>2015-03-18</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0242-P-Louise_and_Willie_Tarboux-1895.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Louise and Willie Tarboux]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

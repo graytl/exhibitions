@@ -1,0 +1,67 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="local">T. Cooke &amp; Sons (Firm)</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1875</earliestDate>
+        <latestDate>1875</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>An altazimuth is a telescope designed to measure the altitude and azimuth of a star in order to fix its position in the night sky.  The instrument is designed to move vertically to measure altitude (height), and to move horizontally to measure the azimuth (degrees horizontally from North).  This was one of the instruments purchased for the first observatory on campus.  Built by T. Cooke &amp; Sons of York, England, the altazimuth instrument was designed to be portable and had its own carrying case.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="LCNAF" refid="nr 95028464">Arthur J. Dyer Observatory</name>
+        <refid>Item on loan from the Arthur J. Dyer Observatory</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Public domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>Altazimuth Telescope</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300150833">Telescopes</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-17</earliestDate>
+        <latestDate>2015-04-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>20150417SG066.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Altazimuth Telescope]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

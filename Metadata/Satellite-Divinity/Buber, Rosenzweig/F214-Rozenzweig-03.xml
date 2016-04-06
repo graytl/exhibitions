@@ -1,0 +1,62 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1915</earliestDate>
+        <latestDate>1915?</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Rosenzweig was raised in a secular Jewish home in Kassel, Germany. His renewed connection with Judaism as an adult led to a career in Jewish adult education that emphasized Jewish religious knowledge. In 1920, he was appointed director of the Freies Juedisches Lehrhaus in Frankfurt on the Main. Two years later he was diagnosed with amyotrophic lateral scherosis (ALS). He continued to be productive until his death in 1929.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+        <refid>Nahum N. Glatzer Collection, Box 6, Folder 37</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="undetermined">
+        <text>Photo is from a purchased collection. Not sure who owns the copyright</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[A Young Franz Rosenzweig, Seated in Suit]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-01</earliestDate>
+        <latestDate>2015-04-01</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>F214-Rozenzweig-03.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of A Young Franz Rosenzweig, Seated in Suit]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

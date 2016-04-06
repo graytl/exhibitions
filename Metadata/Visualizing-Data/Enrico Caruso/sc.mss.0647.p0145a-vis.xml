@@ -1,0 +1,83 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 98007291">Galante, Felipe, 1872-1953</name>
+        <role>Sender</role>
+        <dates>
+          <earliestDate>1872</earliestDate>
+          <latestDate>1953</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date>
+        <earliestDate>1903</earliestDate>
+        <latestDate>1903</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>This card was sent from Filippo Galante to Enrico Caruso in 1903. The miscellaneous category of cards, to which this card belongs, represent the oddities among the cards. They depict children playing with a tea set or the seedy side of "Le Notte."  Some of these cards might also be considered humorous, although the image alone is not sufficient for a modern observer to know. The miscellaneous category demonstrates the diversity of the cards collected and published.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0647, Francis Robinson Collection of Music, Theatre and Dance, Postcard 0145</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Created in 1903.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 50034771">Caruso, Enrico, 1873-1921--Correspondence</term>
+      </subject>
+      <subject>
+        <term vocab="LCNAF" refid="n 98007291">Galante, Felipe, 1872-1953--Correspondence</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 97000845">Roosters in art</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Chicken Chariot]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300026819">Picture postcards</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-11</earliestDate>
+        <latestDate>2015-03-11</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>sc.mss.0647.p0145a-vis.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Chicken Chariot, View of Recto]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

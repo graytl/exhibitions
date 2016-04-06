@@ -1,106 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Daily News (New York)</name>
-                <dates>
-                    <earliestDate>1919</earliestDate>
-                    <latestDate>present</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="personal" vocab="">Unknown</name>
-                <dates>
-                    <earliestDate>1902</earliestDate>
-                    <latestDate>1974</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1927-05-20</earliestDate>
-                <latestDate>1927-05-31</latestDate>
-            </date>
-            <date type="creation">
-                <earliestDate>1902</earliestDate>
-                <latestDate>1974</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>In 1919, French businessman Raymond Orteig established a $25000 prize to the first person to fly non-stop from New York to Paris. Eight years later, Charles Augustus Lindbergh collected the prize. Lindbergh's achievement was a boon to the fledgling aviation industry and while the Great Depression slowed some of that progress, Lindbergh's achievement set the stage for airplane production in World War II.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>James G. Stahlman Autograph Collection, Lindbergh, Charles folder</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>C. New York Daily News/Getty Images
-UNITED STATES - CIRCA MAY 1927: Pilot Charles Lindbergh poses alongside his famous plane 'The Spirit of St. Louis', circa May of 1927. (Photo by NY Daily News Archive via Getty Images)
-Credit: New York Daily News Archive / contributor
-Contact: http://www.gettyimages.com/contactus Getty Images, Chicago
-55 E Monroe Street
-17th fl, Suite 1700
-Chicago, IL 60603
-USA
-+1 312 344 4500
-Sales: +1 800 462 437</text>
-            </rights>
-            <rights type="public domain">
-                <text>autograph has no creative component that would be copyright-able</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCNAF" refid="n 79100565">Lindbergh, Charles A. (Charles Augustus), 1902-1974--Pictorial works</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="n 85054729">Spirit of St. Louis (Airplane)--Pictorial works</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Pilot Charles Lindbergh poses alongside his famous plane 'The Spirit of St. Louis']</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300134989">News photographs</worktype>
-            <worktype vocab="AAT" refid="300028705"> signatures (names)</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
-                <role/>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-11</earliestDate>
-                <latestDate>2015-03-11</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0412-C-Lindbergh-Spirit_Autograph.jpg</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital reproduction of Pilot Charles Lindbergh poses alongside his famous plane 'The Spirit of St. Louis']</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Daily News (New York)</name>
+        <dates>
+          <earliestDate>1919</earliestDate>
+          <latestDate>present</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="79100565">Lindbergh, Charles A. (Charles Augustus), 1902-1974.</name>
+        <dates>
+          <earliestDate>1902</earliestDate>
+          <latestDate>1974</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1927</earliestDate>
+        <latestDate>1927</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>In 1919, French businessman Raymond Orteig established a $25000 prize to the first person to fly non-stop from New York to Paris. Eight years later, Charles Augustus Lindbergh collected the prize. Lindbergh's achievement was a boon to the fledgling aviation industry and while the Great Depression slowed some of that progress, Lindbergh's achievement set the stage for airplane production in World War II.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0412, James G. Stahlman Historical Autograph Collection, Lindbergh, Charles folder</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>C. New York Daily News/Getty Images; UNITED STATES - CIRCA MAY 1927: Pilot Charles Lindbergh poses alongside his famous plane 'The Spirit of St. Louis', circa May of 1927. (Photo by NY Daily News Archive via Getty Images); Credit: New York Daily News Archive / contributor; Contact: http://www.gettyimages.com/contactus Getty Images, Chicago, 55 E Monroe Street, 17th fl, Suite 1700, Chicago, IL 60603, USA (+1 312 344 4500; Sales: +1 800 462 437).However, the autograph has no creative component that would be copyright-able</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 79100565">Lindbergh, Charles A. (Charles Augustus), 1902-1974--Portraits</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="n 85054729">Spirit of St. Louis (Airplane)--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Pilot Charles Lindbergh Poses alongside His Famous Plane 'The Spirit of St. Louis']</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300134989">News photographs</worktype>
+      <worktype vocab="AAT" refid="300028705">Signatures (names)</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <role/>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-11</earliestDate>
+        <latestDate>2015-03-11</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0412-C-Lindbergh-Spirit_Autograph.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="other">
+        <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Pilot Charles Lindbergh Poses alongside His Famous Plane 'The Spirit of St. Louis']</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

@@ -1,86 +1,83 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 85188904">Underwood &amp; Underwood</name>
-                <dates>
-                    <earliestDate>1882</earliestDate>
-                    <latestDate>1921</latestDate>
-                </dates>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 88283087">Ricalton, James</name>
-                <dates>
-                    <earliestDate>1844</earliestDate>
-                    <latestDate>1929</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1901</earliestDate>
-                <latestDate>1901</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Georgina Smith ran the London Mission’s girls’ boarding school inside the embassy quarter. Her success sheltering Chinese Christian refugees there earned her fame in the West. But other pundits, among them Mark Twain, loudly criticized the wholesale looting of Chinese art and treasure after the Rebellion, singling Smith out for organizing weekly auctions of looted Qing nobles’ property. Ricalton remembered the “greatest loot-marts in the city” on the “last two miles” of Ketteler Street.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0546, Photo box 1</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Created in 1900 after Boxer Rebellion.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85024100">China--History--Boxer Rebellion, 1899-1901--Pictorial works</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Miss Smith, London Mission School, Peking, China]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300127197">Stereographs</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-11</earliestDate>
-                <latestDate>2015-03-11</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0546-P-93-Miss_Smith-1901.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Miss Smith, London Mission School, Peking, China]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 85188904">Underwood &amp; Underwood</name>
+        <dates>
+          <earliestDate>1882</earliestDate>
+          <latestDate>1921</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 88283087">Ricalton, James</name>
+        <dates>
+          <earliestDate>1844</earliestDate>
+          <latestDate>1929</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1901</earliestDate>
+        <latestDate>1901</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Georgina Smith ran the London Mission’s girls’ boarding school inside the embassy quarter. Her success sheltering Chinese Christian refugees there earned her fame in the West. Mark Twain and other pundits loudly criticized the wholesale looting of Chinese art and treasure after the rebellion, singling Smith out for organizing weekly auctions of looted Qing nobles’ property. Ricalton remembered the “greatest loot-marts in the city” on the “last two miles” of Ketteler Street.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0546, Bets Ramsey Collection, Photo Box 1</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Created in 1900 after Boxer Rebellion.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85024100">China--History--Boxer Rebellion, 1899-1901--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Miss Smith, London Mission School, Peking, China]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300127197">Stereographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-11</earliestDate>
+        <latestDate>2015-03-11</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0546-P-93-Miss_Smith-1901.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Miss Smith, London Mission School, Peking, China]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

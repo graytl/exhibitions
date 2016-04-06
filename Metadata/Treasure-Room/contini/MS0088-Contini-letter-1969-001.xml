@@ -1,0 +1,75 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 79043902">Contini Bonacossi, Alessandro</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1969-10-09</earliestDate>
+        <latestDate>1969-10-09</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Count Contini-Bonacossi’s nephew and namesake – Alessandro Contini-Bonacossi – was an art historian employed by the Samuel H. Kress Foundation.  He assisted his uncle in assembling and organizing the massive photograph collection – over 50,000 images – that the count used as a visual reference source for his art collecting activities.  In this 1969 letter to Professor Hamilton Hazelhurst, he provides historical background on the collection and describes the work he did on it.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0088, Contini-Volterra Photographic Archive, Donor File</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="undetermined">
+        <text>Unknown. Contini-Bonacossi was Working at the Samuel H. Kress Foundation in 1969.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 80113052">Hazlehurst, F. Hamilton (Franklin Hamilton), 1925---Correspondence</term>
+      </subject>
+      <subject>
+        <term vocab="LCNAF" refid="n 79043902">Contini Bonacossi, Alessandro--Correspondence</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Letter to Mr. F. Hamilton Hazelhurst]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300026879">Letters (correspondence)</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-14</earliestDate>
+        <latestDate>2015-04-14</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0088-Contini-letter-1969-001.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Letter to Mr. F. Hamilton Hazelhurst]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

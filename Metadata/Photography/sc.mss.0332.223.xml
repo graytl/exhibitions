@@ -1,69 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <work>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1922</earliestDate>
-                <latestDate>1922</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>James H. Kirkland studied grammar and literature in Leipzig in the 1880s, part of a wave of Americans earning degrees abroad.  He believed that study of bigger philosophical questions was important, not merely for career advancement, but for personal enjoyment. While Kirkland lived before Movember, the moustache fundraiser for men’s cancer, he appears to have stayed fond of the moustaches popular among men in the 1880s. James Kirkland served as Vanderbilt's second Chancellor from 1893 until 1937.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0332, Number 223</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Image made in 1922.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCNAF" refid="no 99067671">Kirkland, James H. (James Hampton), 1859-1939--Portraits</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[James Kirkland]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300134769">Composite photographs</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-20</earliestDate>
-                <latestDate>2015-03-20</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>sc.mss.0332.223.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of James Kirkland]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1922</earliestDate>
+        <latestDate>1922</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>James H. Kirkland studied grammar and literature in Leipzig in the 1880s, part of a wave of Americans earning degrees abroad.  He believed that study of bigger philosophical questions was important, not merely for career advancement, but for personal enjoyment. While Kirkland lived before Movember, the moustache fundraiser for men’s cancer, he appears to have stayed fond of the moustaches popular among men in the 1880s. James Kirkland served as Vanderbilt's second Chancellor from 1893 until 1937.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0332, Edward East Barthell Collection, Number 223</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Image made in 1922.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="no 99067671">Kirkland, James H. (James Hampton), 1859-1939--Portraits</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[James Kirkland]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300134769">Composite photographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-20</earliestDate>
+        <latestDate>2015-03-20</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>sc.mss.0332.223.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of James Kirkland]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

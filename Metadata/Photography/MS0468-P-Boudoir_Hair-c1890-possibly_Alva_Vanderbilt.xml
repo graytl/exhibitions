@@ -1,65 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <work>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>unknown</earliestDate>
-                <latestDate>unknown</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Seen with her long hair down and wearing a loose wrapper, this woman, possibly Alva Vanderbilt, stares directly at the viewer/photographer.  Is this room a boudoir?  Her clothing and pose suggest that this is a private, relaxed moment, as does the paper print.  </description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MS0468</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Image made c 1890.</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Possibly Alva Vanderbilt]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300265164">Boudoir photographs</worktype>
-            <worktype vocab="AAT" refid="300127115">Card photographs (photographs)</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-18</earliestDate>
-                <latestDate>2015-03-18</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0468-P-Boudoir_Hair-c1890-possibly_Alva_Vanderbilt.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Alva Vanderbilt]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1890</earliestDate>
+        <latestDate>1890?</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Seen with her long hair down and wearing a loose wrapper, this woman, possibly Alva Vanderbilt, stares directly at the viewer/photographer. Is this room a boudoir? Her clothing and pose suggest that this is a private, relaxed moment, as does the paper print.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0468, Harold Stirling Vanderbilt Papers</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Image made c 1890.</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Boudoir Hair, Possibly Alva Vanderbilt]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300265164">Boudoir photographs</worktype>
+      <worktype vocab="AAT" refid="300127115">Card photographs (photographs)</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-18</earliestDate>
+        <latestDate>2015-03-18</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0468-P-Boudoir_Hair-c1890-possibly_Alva_Vanderbilt.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Boudoir Hair, Possibly Alva Vanderbilt]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

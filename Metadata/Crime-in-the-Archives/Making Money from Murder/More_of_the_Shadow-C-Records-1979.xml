@@ -1,78 +1,78 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="2003097848">Murray Hill Radio Theatre</name>
-                <dates>
-                    <earliestDate>c. 1970</earliestDate>
-                    <latestDate>c. 1980</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>1979</earliestDate>
-                <latestDate>1979</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>"Who knows what evil lurks in the hearts of men? The Shadow knows!” These words, spoken by Walter B. Gibson's fictional crime-fighting vigilante The Shadow are part of radio history. The Shadow debuted on the 1930 CBS radio show, Detective Story Hour, and quickly built a fan base, as The Shadow, alias Lamont Cranston, helped police fight crime with his psychic powers of invisibility. The show ran for 20 years and continues to be popular in re-broadcasts such as this, featuring Orson Wells.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local" refid="">Vanderbilt University. Special Collections</name>
-                <refid/>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="other">
-                <text>Company is defunct with no forwarding information. Using small amount of material for transformative use; no negative effect on market.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="85120779">Shadow (Fictitious character)</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>More of the Shadow Starring Orson Wells</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300265802">long-playing records</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="" refid="">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-30</earliestDate>
-                <latestDate>2015-03-30</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="other">
-                <refid/>
-                <name type="" vocab="" refid="">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>More_of_the_Shadow-C-Records-1979.jpg</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="no2003097848">Murray Hill Radio Theatre</name>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="local">Outlet Book Company, Inc.</name>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="no 96015813">Random House Audio Publishing</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1979</earliestDate>
+        <latestDate>1979</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>"Who knows what evil lurks in the hearts of men? The Shadow knows!” These words, spoken by Walter B. Gibson's fictional crime-fighting vigilante The Shadow are part of radio history. The Shadow radio program debuted on the 1930 CBS Detective Story Hour, and quickly built a fan base as The Shadow, alias Lamont Cranston, helped police fight crime with his psychic powers of invisibility. The show ran for 20 years and continues to be popular in re-broadcasts such as this, featuring Orson Wells.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Private Collection</name>
+        <refid>Item on loan from a private collection</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="undetermined">
+        <text>Company is defunct with no forwarding information. Using small amount of material for transformative use; no negative effect on market.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85120779">Shadow (Fictitious character)</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>More of the Shadow Starring Orson Wells</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300265802">Long-playing records</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-30</earliestDate>
+        <latestDate>2015-03-30</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>More_of_the_Shadow-C-Records-1979.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of More of the Shadow Starring Orson Wells]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

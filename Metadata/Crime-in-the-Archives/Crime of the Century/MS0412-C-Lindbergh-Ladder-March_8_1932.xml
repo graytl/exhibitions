@@ -1,73 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <work>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1932</earliestDate>
-                <latestDate>1932</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>The public was fascinated by how Charles and Anne Lindbergh's baby was kidnapped. Newspapers were full of details like this photograph of the home in Hopewell, New Jersey. The homemade ladder used to enter the baby's room proved critical in determining the guilt of Bruno Richard Hauptmann, a German-born carpenter, when the FBI called in a U.S. Department of Agriculture wood expert to compare the ladder to identical wood in Hauptmann's attic.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>James G. Stahlman Autograph Collection, Lindbergh, Charles folder</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="undetermined">
-                <text>no photographer or news service noted on object; similar photo found in ProQuest Historical Newspapers notes Acme Photo; not found in Corbis, which purchased Acme, nor LOC, which owns a number of items; Not found in NJ Lindbergh collection (http://www.nj.gov/state/archives/slcsp001.html), not in AP database--no copyright notice listed on object.  Contact CORBIS
-902 Broadway
-New York, NY 10010
-telephone (800) 260-0444
-web site: http://www.corbisimages.com</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCNAF" refid="n 84124732">Lindbergh, Charles A. (Charles August), 1859-1924</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>How Kidnappers (sic) Got Lindy Baby</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300134989">News photographs</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-11</earliestDate>
-                <latestDate>2015-03-11</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0412-C-Lindbergh-Ladder-March_8_1932.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital reproduction of how kidnappers (sic) got Lindy Baby]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1932</earliestDate>
+        <latestDate>1932</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>The public was fascinated by how Charles and Anne Lindbergh's baby was kidnapped. Newspapers were full of details like this photograph of the home in Hopewell, New Jersey. The homemade ladder used to enter the baby's room proved critical in determining the guilt of Bruno Richard Hauptmann, a German-born carpenter. The FBI called in a U.S. Department of Agriculture wood expert to compare the ladder to identical wood in Hauptmann's attic.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0412, James G. Stahlman Historical Autograph Collection, Lindbergh, Charles folder</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>no photographer or news service noted on object; similar photo found in ProQuest Historical Newspapers notes Acme Photo; not found in Corbis, which purchased Acme, nor LOC, which owns a number of items; Not found in NJ Lindbergh collection (http://www.nj.gov/state/archives/slcsp001.html), not in AP database--no copyright notice listed on object.  Contact CORBIS, 902 Broadway, New York, NY 10010; telephone (800) 260-0444; web site: http://www.corbisimages.com</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 84124732">Lindbergh, Charles A. (Charles August), 1859-1924</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>How Kidnapers (sic) Got Lindy Baby</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300134989">News photographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-11</earliestDate>
+        <latestDate>2015-03-11</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0412-C-Lindbergh-Ladder-March_8_1932.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="other">
+        <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of How Kidnapers (sic) Got Lindy Baby]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

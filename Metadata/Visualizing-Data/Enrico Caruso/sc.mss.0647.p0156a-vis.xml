@@ -1,0 +1,82 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="local">Giachetti, Ada</name>
+        <role>Sender</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date>
+        <earliestDate>1900</earliestDate>
+        <latestDate>1900</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>This landscape postcard was sent to Enrico Caruso by his common law wife, Ada Giachetti, in 1900. "Landscape and flower" postcards show rustic country sides, leafy orchards and bouquet after bouquet of flowers. These images tend to evoke the romance of nature and the beauty of an isolated spot. Typically, these cards were sent to Caruso by female friends. The "landscape and flower" postcards represent an interesting interaction between the rustic appeal of nature and the “new” technology of the postcard.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0647, Francis Robinson Collection of Music, Theatre and Dance, Postcard 0156</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Created in 1900.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 50034771">Caruso, Enrico, 1873-1921--Correspondence</term>
+      </subject>
+      <subject>
+        <term vocab="local">Giachetti, Ada--Correspondence</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85074423">Landscapes in art</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="h 85049347">Flowers in art</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Vent du Midi]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300026819">Picture postcards</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-11</earliestDate>
+        <latestDate>2015-03-11</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>sc.mss.0647.p0156a-vis.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Vent du Midi, View of Recto]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

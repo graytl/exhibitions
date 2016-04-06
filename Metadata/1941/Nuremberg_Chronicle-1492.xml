@@ -1,79 +1,114 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="ULAN" refid="500088925">Schedel, Hartmann, (German printer, 1440-1514) </name>
-                <dates>
-                    <earliestDate>1440</earliestDate>
-                    <latestDate>1514</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>1493-07-12</earliestDate>
-                <latestDate>1493-07-12</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>This folio depicts the universe as a Ptolemaic system informed by the medieval church. The Earth forms the center (with an inverted landscape), followed by spheres of water, air and fire, the 7 known planets, the firmament and its crystal ceiling and the prime moving force.  The ethereal world follows in a crescent containing God and the celestial beings. The geocentric view of the universe would be supplanted by Nicolas Copernicus, who proved the sun was the center of the universe in 1530.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="n81075875">Vanderbilt University. Library</name>
-                <refid>Sevier, Oversize, CE57 .S3 1493</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>published 1493</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="2009118158">Chronology, Historical--Early works to 1800</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Registrum Huius Operis Libri Cronicarum Cu[m] Figuris et Ymag[in]ibus Ab Inicio Mu[n]di</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300055021   	 ">incunabula </worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
-                <role></role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-30</earliestDate>
-                <latestDate>2015-03-30</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Nuremberg_Chronicle-1492.jpg</refid>
-                <name type="other" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>Registrum Huius Operis Libri Cronicarum Cu[m] Figuris et Ymag[in]ibus Ab Inicio Mu[n]di</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 50021976">Schedel, Hartmann, 1440-1514</name>
+        <dates>
+          <earliestDate>1440</earliestDate>
+          <latestDate>1514</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 79115028">Koberger, Anton, approximately 1440-1513</name>
+        <role>Printer</role>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 00077022">Schreyer, Sebald, 1446-1520</name>
+        <role>Publisher</role>
+      </agent>
+      <agent>
+        <name type="personal" vocab="local">Kammermeister, Sebastian</name>
+        <role>Publisher</role>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 83227359">Wolgemut, Michael, 1434-1519</name>
+        <role>Illustrator</role>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 83227360">Pleydenwurff, Wilhelm, -1494</name>
+        <role>Illustrator</role>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 79118011">Dürer, Albrecht, 1471-1528</name>
+        <role>Illustrator</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1493-07-12</earliestDate>
+        <latestDate>1493-07-12</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>This folio depicts the universe as a Ptolemaic system informed by the medieval church. The Earth forms the center (with an inverted landscape), followed by spheres of water, air and fire, the seven known planets, the firmament and its crystal ceiling and the prime moving force. The ethereal world follows in a crescent containing God and the celestial beings. The geocentric view of the universe would be supplanted by Nicolas Copernicus, who proved the sun was the center of the universe in 1530.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Sevier Oversize Collection, CE57 .S3 1493</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>published 1493</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="2009118158">History, Medieval--Chronology</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="2009118158">Chronology, Historical--Early works to 1800</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="2009118158">History, Medieval--Incunabula</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="2009118158">Chronology, Historical--Early works to 1800</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="2009118158">Chronology, Historical--Early works to 1800</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title pref="true">Registrum Huius Operis Libri Cronicarum Cu[m] Figuris et Ymag[in]ibus Ab Inicio Mu[n]di</title>
+      <title pref="false">Liber Chronicarum</title>
+      <title pref="false">Nuremberg Chronicle</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300055021">Incunabula</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-30</earliestDate>
+        <latestDate>2015-03-30</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Nuremberg_Chronicle-1492.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Registrum Huius Operis Libri Cronicarum Cu[m] Figuris et Ymag[in]ibus Ab Inicio Mu[n]di, Detail of Illustration "Desantificatione Septime Diei"]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

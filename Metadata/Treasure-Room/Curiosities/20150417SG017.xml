@@ -1,0 +1,68 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1895</earliestDate>
+        <latestDate>1912</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>This is a section of the deck of the U.S.S. Maine which was sunk in Havana Harbor, Cuba, on February 15, 1898, as a result of an explosion in the forward part of the ship. Speculation continues as to what really caused the Maine to explode that evening, whether it was a naval mine, a fire in the coal bunker or a deliberate attack by the Spanish. “Remember the Maine” was used as a rallying cry as the U.S. entered into what would become the Spanish-American War.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0412, James G. Stahlman Historical Autograph Collection</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>This artifact is a piece of wood that was part of a ship's structure over 100 years ago. It is not copyrightable and is in the public domain.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 99022534">Maine (Battleship No. 10)</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Piece of the Deck of the U.S.S. Maine]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300117130">Fragments</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="corporate">Vanderbilt University Creative Services</name>
+        <role>Photographer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-17</earliestDate>
+        <latestDate>2015-04-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>20150417SG017.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction ofPiece of the Deck of the U.S.S. Maine]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

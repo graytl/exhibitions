@@ -1,0 +1,62 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1989</earliestDate>
+        <latestDate>1989</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>The Judaica Collection achieved a new level of distinction in 1989 when the Raymond Zimmerman Family Foundation pledged $500,000 to honor the memory of Mary and Harry Zimmerman. A bookplate was created in expectation of a significant growth in holdings.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>RG530, Divinity Library Archives, Judaica Collection, Box 886, Folder 23</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright Vanderbilt University Special Collections</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Bookplate of Mary and Harry Zimmerman Judaica Collection]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028731">Bookplates</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-04</earliestDate>
+        <latestDate>2015-03-04</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Judaica-B886F23-Bookplates-09.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Bookplate of Mary and Harry Zimmerman Judaica Collection]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

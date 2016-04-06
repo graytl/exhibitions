@@ -1,78 +1,81 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 50041361">Buffon, Georges Louis Leclerc, comte de, 1707-1788</name>
-                <dates>
-                    <earliestDate>1707</earliestDate>
-                    <latestDate>1788</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="publication">
-                <earliestDate>1800</earliestDate>
-                <latestDate>1800</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Buffon's Histoire Naturelle was an undertaking on the scale of Diderot and D'Alembert's Encyclopedie.  In this “Table of the Order of Dogs, Buffon presents his definition of species (against that of Linnaeus!) as beings defined by time, environment, and interaction with people—instead of by God’s eternal plan. From the dogs at the center top of the chart, we move both forward in time and to more temperate climates where species of dog are perfected according to their relationship with mankind.</description>
-            </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>Science/570 B92h</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>pulbished before 1923</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-               <subject>
-                <term vocab="LCSH" refid="sh 85043011">Encyclopedias and dictionaries, French--Specimens</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Histoire Naturelle, Générale et Particulière</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300129439">encyclopedias</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-30</earliestDate>
-                <latestDate>2015-03-30</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid/>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>Histoire_Naturelle-1873.jpg</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 50041361">Buffon, Georges Louis Leclerc, comte de, 1707-1788</name>
+        <role>Author</role>
+        <dates>
+          <earliestDate>1707</earliestDate>
+          <latestDate>1788</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="no2006050921">Dufart, François, 1748-</name>
+        <role>Printer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1800</earliestDate>
+        <latestDate>1800</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Buffon's Histoire Naturelle was an undertaking on the scale of Diderot and D'Alembert's Encyclopedie. In this “Table of the Order of Dogs," Buffon presents his definition of species (against that of Linnaeus!) as beings defined by time, environment, and interaction with people—instead of by God’s eternal plan. From the dogs at the center top of the chart, we move both forward in time and to more temperate climates where species of dog are perfected according to their relationship with mankind.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Sarah Shannon Stevenson Science &amp; Engineering Library</name>
+        <refid>Science and Engineering Library, 570 B92h, Volume 23</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>published before 1923</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85090222">Natural history</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Histoire Naturelle: Générale et Particulière</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300129439">Encyclopedias</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-30</earliestDate>
+        <latestDate>2015-03-30</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Histoire_Naturelle-1873.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Histoire Naturelle: Générale et Particulière, "Table de l'Ordre des Chiens"]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

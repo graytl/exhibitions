@@ -1,0 +1,72 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 82144585">Rosenzweig, Franz, 1886-1929</name>
+        <role>Author</role>
+        <dates>
+          <earliestDate>1886</earliestDate>
+          <latestDate>1929</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1920</earliestDate>
+        <latestDate>1920?</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>The conceptual design for Franz Rosenzweig’s Der Stern der Erloesung (The Star of Redemption) is illustrated in Rosenzweig hand. The six-pointed Star Symbol clockwise from top: God - Revelation – Human Being – Redemption – Universe - Creation.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Nahum N. Glatzer Collection, Box 1, Folder 26</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>The creation date is 1920 - predates 1923 copyright law.</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Notes of Der Stern der Erlösung]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028569">Manuscripts (document genre)</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-01</earliestDate>
+        <latestDate>2015-04-01</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>F226-Rozenzweig-01.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Notes of Der Stern der Erlösung]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

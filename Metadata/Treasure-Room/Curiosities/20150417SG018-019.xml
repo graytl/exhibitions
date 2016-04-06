@@ -1,0 +1,102 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1814</earliestDate>
+        <latestDate>1830</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>This rare and historically important album contains objects, mostly locks of hair, belonging to members of the Bourbon royal family of France assembled during the era of the Restoration (1814-30). Snippets of hair, here treated almost as holy relics, were the most common objectified form of sentimental remembrance in nineteenth-century Europe. The objects were collected by Madame de Clérambault, lady-in-waiting to the Duchess of Berry, daughter-in-law of King Charles X (reigned 1824-30).</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Nettie Hale Rand Collection of Fine Bindings and Printing, DC36.8 .B7 S68</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>This books contains handwritten snippets and objects such as locks of hair. It predates copyright law.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="sh 85016118">Bourbon, House of</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh2008108421">Nobility--France--Biography</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Un Souvenir de la Famille Bourbon</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300250795">Relics</worktype>
+      <worktype vocab="AAT" refid="300027341">Scrapbooks</worktype>
+      <worktype vocab="AAT" refid="300011820">Human hair</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="corporate">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2011-06-16</earliestDate>
+        <latestDate>2011-06-16</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>20150417SG018.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Un Souvenir de la Famille Bourbon, View of Opened Book]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="corporate">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2011-06-16</earliestDate>
+        <latestDate>2011-06-16</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>20150417SG019.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Un Souvenir de la Famille Bourbon, View of Closed Book atop Slipcover]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

@@ -1,0 +1,77 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 80126274">Eastman Kodak Company</name>
+        <dates>
+          <earliestDate>1921</earliestDate>
+          <latestDate>1990</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1939-09-01</earliestDate>
+        <latestDate>1954</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>First introduced in 1900, the Kodak Brownie camera sold for only $1.00, and allowed users to make photographs easily and cheaply. Brownies were portable and recorded people as they were and as they wanted to be seen at the beach, at Coney Island, on a downtown streetcar or automobile. Kodak’s slogan was “You press the button, we do the rest.”</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Pamela J. Morgan Collection</name>
+        <refid>Item on loan from the collection of Pamela J. Morgan</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Lender granted copyright.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85017267">Brownie camera--Specimens</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Baby Brownie Camera]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300022638">35 mm camera</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+        <role>Photographer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-17</earliestDate>
+        <latestDate>2015-04-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>20150417SG028.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital image of Baby Brownie Camera]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

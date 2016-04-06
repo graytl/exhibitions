@@ -1,74 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <work>
-        <agentSet>
-            <agent>
-                <name></name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>unknown</earliestDate>
-                <latestDate>unknown</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>An avid sailor, Gertrude and a friend pose as sailors, possibly at a Vanderbilt party in Newport or Palm Beach.  After her marriage in 1933 to Harold S. Vanderbilt (“Mike” to friends and family), Gertie sailed as one of the few women allowed on board racing J-class yachts in the 1930s.  In 1937, the Vanderbilts sailed Rainbow, defended the America’s Cup for the second time, with Gertie aboard as timekeeper, observer, and afterguard and Mike as skipper.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0468</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Image made c 1930.  G.L.C. Vanderbilt died 1978, no children. part of Vanderbilt family photos in Harold S. Vanderbilt Collection. HSV d. 1960</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="" refid="">Vanderbilt, Gertrude Conaway--portraits</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Gertrude Conaway Vanderbilt with friend at a costume ball]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-18</earliestDate>
-                <latestDate>2015-03-18</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0468-P-Gertrude_Conaway_Vanderbilt-c1930.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Gertrude Conaway Vanderbilt with friend at a costume ball ]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1930</earliestDate>
+        <latestDate>1930?</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>An avid sailor, Gertrude and a friend pose in costume, possibly at a Vanderbilt party in Newport or Palm Beach. After her marriage in 1933 to Harold S. Vanderbilt (“Mike” to friends and family), Gertie sailed as one of the few women allowed on board racing J-class yachts in the 1930s. In 1937, the Vanderbilts sailed Rainbow, successfully defending the America’s Cup for the second time, with Gertie aboard as timekeeper, observer, and afterguard and Mike as skipper.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0468, Harold Stirling Vanderbilt Papers</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Image made c 1930.  G.L.C. Vanderbilt died 1978, no children. part of Vanderbilt family photos in Harold S. Vanderbilt Collection. HSV d. 1960</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="local">Vanderbilt, Gertrude Conaway--Portraits</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Gertrude Conaway Vanderbilt with Friend at a Costume Ball]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-18</earliestDate>
+        <latestDate>2015-03-18</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0468-P-Gertrude_Conaway_Vanderbilt-c1930.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Gertrude Conaway Vanderbilt with Friend at a Costume Ball]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

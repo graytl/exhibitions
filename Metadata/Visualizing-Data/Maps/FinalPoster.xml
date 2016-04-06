@@ -1,0 +1,80 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="local">Ore Menendez, Gabriela</name>
+        <role>Analyst</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-01</earliestDate>
+        <latestDate>2015-05-25</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>This is a GIS analysis of transit density from Nashville to settlements in the U.S., Indian and Spanish territories - based on Joseph Purcell's map of 1794. It was created as part of a dean's fellows project using historical maps from Special Collections.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Vanderbilt University Special Collections</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright Vanderbilt University Special Collections</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85034781">Cumberland River (Ky. and Tenn.)--Maps</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85125633">Southern States--Maps</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85104918">Population density--Tennessee--Maps</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Transit Density from Nashville to Settlements in the US, Indian and Spanish Territories: Based on Joseph Purcell, 1794</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028459">Digital maps</worktype>
+      <worktype vocab="AAT" refid="300164286">Land use maps</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-05-07</earliestDate>
+        <latestDate>2015-05-07</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>FinalPoster.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Transit Density from Nashville to Settlements in the US, Indian and Spanish Territories: Based on Joseph Purcell, 1794]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

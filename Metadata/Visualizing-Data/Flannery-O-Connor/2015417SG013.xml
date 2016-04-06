@@ -1,0 +1,62 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1950</earliestDate>
+        <latestDate>1970</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Flannery O’Connor wrote in her 1961 essay “The King of the Birds,” “In short, I am the only person on the place who is willing to underwrite, with something more than tolerance, the presence of peafowl. In return, I am blessed with their rapid multiplication.” Over the course of her life, O’Connor raised myriad peacocks. She is often depicted aside them, and the peacock feather has come to stand as a symbol of her literary works.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="other">
+        <name>Private Collection</name>
+        <refid>Item on loan from a private collection</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Peacock Feathers are an artifact with no markings or labels of ownership. It is believed to be in the public domain.</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Peacock Feathers from Flannery O’Connor’s Farm]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300400474">Feathers</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-17</earliestDate>
+        <latestDate>2015-04-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>2015417SG013.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Photograph of Peacock Feathers from Flannery O’Connor’s Farm]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

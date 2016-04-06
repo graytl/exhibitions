@@ -1,86 +1,75 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
- 
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="no2014136467">Jonas G. King</name>
-            </agent>
-            <agent>
-                <name type="personal" vocab="LCNAF">Julián F. Hillyer</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2010</earliestDate>
-                <latestDate>2010</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>The mosquito heart is a long muscular tube that is tethered to the dorsal cuticle (the mosquito’s back) and extends the length of the abdomen.  To obtain this fluorescence microphotograph, a mosquito was dissected, isolating the dorsal portion of the abdomen. Two fluorescent dyes were applied.  One binds muscle cells and stains them green.  The second binds DNA and stains cell nuclei blue.  The image is viewed top down, with the mosquito’s body lying horizontally with its head toward the right out of the frame.  The heart is the narrow tube with that extends horizontally across the entire photograph.  </description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="LCNAF" refid="no 95060149 ">Vanderbilt University Deprartment of Biology</name>
-                <refid>Hillyer image,  Department of Biological Sciences and Institute for Global Health</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Permission pending from Dr. Hillyer, Department of Biological Sciences.  Dr. Julian F. Hillyer
-Associate Professor, Vanderbilt University
-Department of Biological Sciences and Institute for Global Health
-VU Station B, 35-1634
-Nashville, TN 37235-1634
-email: julian.hillyer@vanderbilt.edu
-phone: 615-343-2065
-www.vanderbilt.edu/hillyerlab/
-https://medschool.mc.vanderbilt.edu/biosci/bio_fac.php?id3=16975</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85101386 ">Photomicrography</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Heart of the Mosquito Anopheles Gambiae ]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300127322">photomicrographs</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015</earliestDate>
-                <latestDate>2015</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid/>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Heart of the Mosquito Anopheles Gambiae]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="no2014136467">King, Jonas Glenn</name>
+      </agent>
+      <agent>
+        <name type="personal" vocab="local">Hillyer, Julián F.</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2010</earliestDate>
+        <latestDate>2010</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>The mosquito heart is a long muscular tube tethered to the dorsal cuticle (the mosquito’s back), extending the length of the abdomen.  To obtain this fluorescence microphotograph, a mosquito was dissected, isolating the dorsal portion of the abdomen. Two fluorescent dyes were applied.  One binds muscle cells and stains them green.  The second binds DNA and stains cell nuclei blue.  The image is viewed top down. The heart is the narrow tube that extends horizontally across the entire photograph.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="LCNAF" refid="no 95060149">Vanderbilt University. Department of Biology</name>
+        <refid>Department of Biological Sciences and Institute for Global Health, Hillyer image</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Permission pending from Dr. Hillyer, Department of Biological Sciences.  Dr. Julian F. Hillyer, Associate Professor, Vanderbilt University, Department of Biological Sciences and Institute for Global Health, VU Station B, 35-1634, Nashville, TN 37235-1634; email: julian.hillyer@vanderbilt.edu; phone: 615-343-2065; www.vanderbilt.edu/hillyerlab; https://medschool.mc.vanderbilt.edu/biosci/bio_fac.php?id3=16975</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85101386 ">Photomicrography</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Heart of the Mosquito Anopheles Gambiae]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300127322">Photomicrographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015</earliestDate>
+        <latestDate>2015</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Mosquito-Heart-Dept_of_Biological_Sciences.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="other">
+        <text>Copyright; licensed to Vanderbilt University courtesy of Dr. Jonas G. King and Professor Julián F. Hillyer, Department of Biological Sciences, Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Heart of the Mosquito Anopheles Gambiae]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

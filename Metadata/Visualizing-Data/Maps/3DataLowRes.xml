@@ -1,0 +1,81 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="local">Fox, Lindsey</name>
+        <role>Creator of model</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 79135453">Nashville and Davidson County (Tenn.)</name>
+        <role>Creator of data</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015</earliestDate>
+        <latestDate>2015</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>This map shows the Digital Elevation Model (DEM) derived from light detection and ranging (LIDAR) data used for the 3D print of the Cumberland river running through Nashville.  Data was provided by the Nashville Metro government.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>B761r no.808</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Vanderbilt University Special Collections</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85034781">Cumberland River (Ky. and Tenn.)--Pictorial works</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85114409">Rivers--Tennessee--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Map Output of Digital Elevation Model (DEM) Used for 3D Print of the Cumberland]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300263887">Models (representations)</worktype>
+      <worktype vocab="AAT" refid="300028459">Digital maps</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015</earliestDate>
+        <latestDate>2015</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>3DataLowRes.jpg</refid>
+        <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Map Output of Digital Elevation Model (DEM) Used for 3D Print of the Cumberland]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

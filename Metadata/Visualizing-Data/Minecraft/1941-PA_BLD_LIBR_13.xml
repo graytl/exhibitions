@@ -1,78 +1,75 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 81075875">Vanderbilt University. Library</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1941-02-14</earliestDate>
-                <latestDate>1941-02-14</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>This photograph shows the General Library Building under construction in February 1941.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0827, Folder 1</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>The photograph was taken in 1941, but there is no evidence it was ever published. Copyright expires in 2061.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH">Academic libraries--Tennessee--Nashville--Pictorial works</term>
-            </subject>
-            <subject>
-                <term vocab="LCNAF" refid="n 81075875">Vanderbilt University. Library--Pictorial works</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[General Library Building]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2003-12-17</earliestDate>
-                <latestDate>2003-12-17</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>1941-PA_BLD_LIBR_13.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of General Library Building]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 81075875">Vanderbilt University. Library</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1941-02-14</earliestDate>
+        <latestDate>1941-02-14</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>This photograph shows the General Library Building under construction in February 1941. Built to support graduate education at Vanderbilt, Scarritt College and Peabody College for Teachers, the structure was designed by architect Henry C. Hibbs (1882-1949)  in conjunction with Augustus Frederick Kulhlman, the first director of what would be called the Joint University Libraries. Today, it houses the Central (A&amp;S) Library, the Divinity Library, the W.T. Bandy Center for Modern French Studies and Vanderbilt Unviersity Special Collections.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+        <refid>Vanderbilt University Photographic Archives</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>The photograph was taken in 1941, but there is no evidence it was ever published. Copyright expires in 2061.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH">Academic libraries--Tennessee--Nashville--Pictorial works</term>
+      </subject>
+      <subject>
+        <term vocab="LCNAF" refid="n 81075875">Vanderbilt University. Library--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[General Library Building]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2003-12-17</earliestDate>
+        <latestDate>2003-12-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>1941-PA_BLD_LIBR_13.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of General Library Building]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

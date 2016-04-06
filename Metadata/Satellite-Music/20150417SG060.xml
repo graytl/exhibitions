@@ -1,0 +1,93 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 81003300">Carter Family (Musical group)</name>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 87824037">Rodgers, Jimmie, 1897-1933</name>
+        <dates>
+          <earliestDate>1897</earliestDate>
+          <latestDate>1933</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="no 97046467">Bear Family Records (Firm)</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>2011</earliestDate>
+        <latestDate>2011</latestDate>
+      </date>
+      <date type="creation">
+        <earliestDate>1927</earliestDate>
+        <latestDate>1928</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Box sets often cater to very specific audiences. This set features the Bristol Sessions of 1927-28, seminal recordings that played a key role in the marketing of country music.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
+        <refid>Music Library, CD MUS-15000</refid>
+      </location>
+      <location type="creation">
+        <name type="corporate" vocab="LCNAF" refid="no97046467">Bear Family Records (firm)</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Rights retained by Bear Family Records, Hambergen, Germany. The display of this physical object constitutes a fair use as detailed in the ACRL's Code of Best Practices in Fair Use for Academic and Research Libraries.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n81003300">Carter Family (Musical group)</term>
+      </subject>
+      <subject>
+        <term vocab="LCNAF" refid="n87824037">Rodgers, Jimmie, 1897-1933</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>The Bristol Sessions, 1927-1928: The Big Bang of Country Music</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid=" 300028673">Compact discs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+        <role>Photographer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-17</earliestDate>
+        <latestDate>2015-04-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>20150417SG060.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of The Bristol Sessions, 1927-1928: The Big Bang of Country Music, Box Set]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

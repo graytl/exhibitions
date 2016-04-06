@@ -1,0 +1,76 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 85142129">Cheney, Brainard, 1900-1990</name>
+        <dates>
+          <earliestDate>1900-06-03</earliestDate>
+          <latestDate>1990-01-15</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1953-22-03</earliestDate>
+        <latestDate>1953-22-03</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>This letter is in response to O’Connor’s introductory letter on February 8, 1953. Writing from his home in Smyrna, Tennessee, Cheney takes this opportunity to sympathize with O’Connor’s bad reviews; his own writing has received its share of negative reactions! Here, Cheney opens the door on another interesting facet of their relationship: Catholicism and conversion. Over the course of their correspondence, they will spend many letters discussing theology and their favorite theologians.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MS0004, Brainard Bartwell Cheney and Frances Neel Cheney Papers, Box 03, Folder 18</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 79119229">O'Connor, Flannery--Correspondence</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[First Letter from Brainard Cheney to Flannery O'Connor]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300026879">Letters (correspondence)</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-16</earliestDate>
+        <latestDate>2015-04-16</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0004-OConnor_letter-B03-F18.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="other">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of First Letter from Brainard Cheney to Flannery O'Connor]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

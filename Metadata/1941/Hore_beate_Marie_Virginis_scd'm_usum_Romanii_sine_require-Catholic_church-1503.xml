@@ -1,79 +1,77 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="ULAN" refid="500241849">Roman Catholic Church</name>
-                <dates>
-                    <earliestDate>unknown</earliestDate>
-                    <latestDate>unknown</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>c. 1503</earliestDate>
-                <latestDate>c.1503</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>This printed book of hours offered the owner not just a cycle of prayers but medical advice as well, including when to be bled.  Zodiacal Man’s midsection indicates which planets rule which parts of the body: Jupiter affects his liver, the moon his head, and so on.  The smaller figures at the corners are types of the four humors. Doctors as far back as Hippocrates knew that an imbalance of the body’s four fluids, known as humors, resulted in distortions of health and character. </description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="LCSH" refid="n81075875">Vanderbilt University. Library</name>
-                <refid>Nettie Hale Rand Collection of Fine Bindings and Printing Nettie/BX2080 .C37 1503</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>created in 1503</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="85106140">Prayers, Early Christian</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>"Zodiacal Man," Hore Beate Marie Virginis Scd'm Usum Romanii Sine Require</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid=" 300026457">book of hours</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
-                <role></role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-30</earliestDate>
-                <latestDate>2015-03-30</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Hore_beate_Marie_Virginis_scd'm_usum_Romanii_sine_require-Catholic_church-1503.jpg</refid>
-                <name type="other" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>Hore_beate_Marie_Virginis_scd'm_usum_Romanii_sine_require-Catholic_church-1503.jpg</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 79041716">Catholic Church</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1503</earliestDate>
+        <latestDate>1503?</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>This printed book of hours offered the owner not just a cycle of prayers but medical advice as well, including when to be bled. Zodiacal Man’s midsection indicates which planets rule which parts of the body: Jupiter affects his liver, the moon his head, and so on. The smaller figures at the corners are types of the four humors. Doctors as far back as Hippocrates knew that an imbalance of the body’s four fluids, known as humors, resulted in distortions of health and character.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Nettie Hale Rand Collection of Fine Bindings and Printing, BX2080 .C37 1503</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>created in 1503</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85021160">Catholic Church--Prayers and devotions</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh2009117404">Books of hours--Texts--Early works to 1800</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title pref="true">Hore Beate Marie Virginis Scd'm Usum Romanii Sine Require</title>
+      <title pref="false">Heures Gotic</title>
+      <title pref="false">Book of Hours</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300026457">Books of hours</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-30</earliestDate>
+        <latestDate>2015-03-30</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Hore_beate_Marie_Virginis_scd'm_usum_Romanii_sine_require-Catholic_church-1503.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Hore Beate Marie Virginis Scd'm Usum Romanii Sine Require, Illustration of "Zodiacal Man"</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

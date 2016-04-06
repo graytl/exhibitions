@@ -1,78 +1,70 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-   <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF">Unknown</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1917-08-01</earliestDate>
-                <latestDate>1917-08-01</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Over 2,500 Vanderbilt men served in World War I once the United States joined the fighting in April, 1917. The Vanderbilt Unit included 12 doctors, enlisted men and nurses. Most of its members served 150 miles from Paris at Nevers, in central France. Camp Hospital 28 had 450 patient beds and surgeries, laundries, labs and other buildings required to provide medical care.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
-                <refid>Vanderbilt History Files: Series 2, Folder 8, Image 5</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>photo taken August 1, 1917 during training at Fort McPherson, GA.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85082982">World War, 1914-1918--Pictorial works</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85062341">Hospitals--Medical staff--Pictorial works</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Vanderbilt Unit, World War I, August 1, 1917]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015</earliestDate>
-                <latestDate>2015</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Eskind_VUMC-WW1-Vanderbilt_Unit-1917.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital reproduction of Vanderbilt Unit, World War I, August 1, 1917]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1917-08-01</earliestDate>
+        <latestDate>1917-08-01</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Over 2,500 Vanderbilt men served in World War I once the United States joined the fighting in April 1917. The Vanderbilt Unit included 12 doctors, enlisted men and nurses from Tennessee. Most of its members served 150 miles from Paris at Nevers, in Central France. Camp Hospital 28 had 450 patient beds and surgeries, laundries, labs and other buildings required to provide medical care.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="LCNAF" refid="n 2006184215">Eskind Biomedical Library</name>
+        <refid>Vanderbilt History Files: Series 2, Folder 8, Image 5</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>photo taken August 1, 1917 during training at Fort McPherson, GA.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85082982">World War, 1914-1918--Pictorial works</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85062341">Hospitals--Medical staff--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Vanderbilt Unit, World War I, August 1, 1917]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015</earliestDate>
+        <latestDate>2015</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Eskind_VUMC-WW1-Vanderbilt_Unit-1917.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Vanderbilt Unit, World War I, August 1, 1917]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

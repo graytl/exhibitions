@@ -1,0 +1,78 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 79018119">Beatles</name>
+        <role>Performer</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 88612146">Capitol Records, Inc.</name>
+        <role>Publisher</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1967</earliestDate>
+        <latestDate>1967</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>The Beatles' Sgt. Pepper's Lonely Hearts Club Band serves as a fine example of the role that album cover art and supplemental materials served to aid in marketing the music. While the album cover itself is distinctive, Sgt. Pepper also included paper cut-outs for added value.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
+        <refid>Music Library, Vault, LP MUS-LP 3318</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Capitol Records or EMI, Contact SESAC, ASCAP or BMI</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 87003327">Rock music, 1961-1970--Specimens</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Sgt. Pepper's Lonely Hearts Club Band</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300265802">Long-playing records</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+        <role>Photographer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-17</earliestDate>
+        <latestDate>2015-04-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>20150417SG058.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Sgt. Pepper's Lonely Hearts Club Band, Album Cover]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

@@ -1,0 +1,98 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 50049890">Leopold, Nathan Freudenthal, 1904-1971</name>
+        <role>Author</role>
+        <dates>
+          <earliestDate>1904</earliestDate>
+          <latestDate>1971</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name vocab="LCNAF" refid="n 79071101">Gardner, Erle Stanley, 1889-1970</name>
+        <role>Writer of introduction</role>
+      </agent>
+      <agent>
+        <name vocab="local">Popular Library</name>
+        <role>Publisher</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1958</earliestDate>
+        <latestDate>1958</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Nathan Leopold (1904-1971) wrote Life Plus 99 Years while in prison awaiting a parole hearing.  He was released in 1958 after thirty-three years of incarceration.  Nathan Leopold and Richard Loeb’s (1905-1936) are best known for the heinous murder of fourteen year-old Bobby Franks on May 21, 1924 in Chicago, Illinois. Leopold’s autobiography details how the rehabilitation of inmates can be effective as seen in his own experience. Upon his release from the Statesville Penitentiary he moved to Puerto Rico, married and worked as an X-ray technician.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Sevier Collection, HV6248 .L43 L54 1958</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text/>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 50049890">Leopold, Nathan Freudenthal, 1904-1971</term>
+      </subject>
+      <subject>
+        <term vocab="LCNAF" refid="n 50048217">Loeb, Richard A., 1905-1936</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85137369">Trials (Murder)--Illinois--Chicago</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 89004680">Murderers--Illinois--Chicago--Biography</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85088613">Murder--Illinois--Chicago--Case studies</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Life Plus 99 Years</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300200529">Paperbacks</worktype>
+      <worktype vocab="AAT" refid="300028051">Books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-02</earliestDate>
+        <latestDate>2015-03-02</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>HV6248_L43_L54_1958-C-Life_Plus_99_Years.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Life Plus 99 Years, Front Cover]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

@@ -1,0 +1,72 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 50064915">Radio Shack</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1988</earliestDate>
+        <latestDate>1991</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Jack Hurst was the first full-time music writer for The Tennessean, the first Nashville contributing editor for Country Music Magazine and originated the country music beats at the Philadelphia Inquirer and the Chicago Tribune. In 1981, the Maryville, Tennessee, native was the first recipient of the Country Music Association media achievement award. Hurst used recorders such as this one to record the interviews he conducted with musicians, often referring to them later for exact quotes from the artists.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0360, Jack Hurst Collection, Memorabilia</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>the technology is probably copyrighted but not an image of the device, right?</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 88106788">Hurst, Jack</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Realistic CTR-72 Cassette Recorder]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300266302">Tape recorders</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-05-07</earliestDate>
+        <latestDate>2015-05-07</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Cassette-Eddie_Arnold-CRW-3072.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Image of Realistic CTR-72 Cassette Recorder]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

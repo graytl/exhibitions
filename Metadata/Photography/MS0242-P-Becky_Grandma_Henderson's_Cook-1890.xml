@@ -1,81 +1,75 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <work>
-        <agentSet>
-        <agent>
-            <name type="corporate" vocab="local">G.W. Weiser</name>
-            <dates>
-                <earliestDate>1896</earliestDate>
-                <latestDate>unknown</latestDate>
-            </dates>
-        </agent>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Weiser, G.W.</name>
+      </agent>
     </agentSet>
-            <dateSet>
-            <date type="creation">
-                <earliestDate>unknown</earliestDate>
-                <latestDate>unknown</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Weiser’s four studios across downtown Knoxville catered to the residents of a booming industrial and violent city in the early 1900s.  Railroad expansion after the Civil War connected Eastern Tennessee with the rest of the South, bringing Welsh, Swiss and other immigrants.  Becky’s large sleeves and the studio’s address on W. Clinch Street  date this photo to about 1896, when the William Henderson and his wife Harriet would have been busy with plans of the Tennessee Centennial Exposition.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MS0242 Box "PH Arch/Kirk;and &amp; Henderson Family"</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Image made c. 1890 by unknown photographer.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 87004821">Women cooks--Portraits</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh 85101240">Portrait photography--Specimens</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Becky, Grandma Henderson's Cook]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300127115">Card photographs (photographs)</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-18</earliestDate>
-                <latestDate>2015-03-18</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0242-P-Becky-Grandma_Henderson's_Cook-1890.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Becky, Grandma Henderson's Cook]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1896</earliestDate>
+        <latestDate>1896?</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Weiser’s four studios across downtown Knoxville catered to the residents of a booming industrial and violent city in the early 1900s. Railroad expansion after the Civil War connected eastern Tennessee with the rest of the South, bringing Welsh, Swiss and other immigrants. Becky’s large sleeves and the studio’s address on W. Clinch Street date this photograph to about 1896, when William Henderson and his wife Harriet would have been busy with plans for the Tennessee Centennial Exposition.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0242, James Hampton Kirkland Papers, Box "PH Arch/Kirk;and Henderson Family"</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Image made c. 1890 by unknown photographer.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 87004821">Women cooks--Portraits</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85101240">Portrait photography--Specimens</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Becky, Grandma Henderson's Cook for Many Years]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300127115">Card photographs (photographs)</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-18</earliestDate>
+        <latestDate>2015-03-18</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0242-P-Becky-Grandma_Henderson's_Cook-1890.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Becky, Grandma Henderson's Cook for Many Years]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

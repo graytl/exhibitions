@@ -1,0 +1,87 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 80034978">Egerton, John</name>
+        <role>Author</role>
+        <dates>
+          <earliestDate>1935-06-14</earliestDate>
+          <latestDate>2013-11-21</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 81005759">University Press of Kentucky</name>
+        <role>Publisher</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1983</earliestDate>
+        <latestDate>1983</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>John Egerton (1935-2013) was an author and journalist known for his insightful writings on the Civil Rights Movement and southern culture. Generations: An American Family, written after extensive interviews with members of the Ledford family of Kentucky, details the history of the family. This ambitious chronicle follows the family for over two centuries through stories  of their lives in Garrard and Harlan counties.  In 2003, Egerton updated the book for the 20th anniversary edition.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Southern Civilization Collection, CT274 .L43 E38 1983</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Book is under copyright, but have fair use argument - only using image of the front cover</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85140527">United States--Social life and customs</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85140511">United States--Social conditions</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85047032">Families--United States</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Generations: An American Family</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028051">Books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="corporate">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-05-07</earliestDate>
+        <latestDate>2015-05-07</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Generations-John_Egerton-1983.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Generations: An American Family, View of Front Cover]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

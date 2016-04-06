@@ -1,0 +1,73 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <dateSet>
+      <date>
+        <earliestDate>1905</earliestDate>
+        <latestDate>1905</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>The "women and fashion" section of the postcard collection speaks to images of women in popular culture. Women rode bicycles, played sports and lived actively, as other cards in this collection show. These idealized views of women sent to Caruso contrast with images of suffragettes also circulating widely.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0647, Francis Robinson Collection of Music, Theatre and Dance, Postcard 0396</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Created in 1905.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85147554">Women in art</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh2009120449">Clothing and dress--History--Pictorial works</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 98005144">Women's hats--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Woman in Yellow Bonnet]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300026819">Picture postcards</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-11</earliestDate>
+        <latestDate>2015-03-11</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>sc.mss.0647.p0396-A-vis.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Woman in Yellow Bonnet, View of Recto]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

@@ -1,80 +1,73 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local" refid="">Malcolm and Hayes (Firm)</name>
-                <dates>
-                    <earliestDate>unknown</earliestDate>
-                    <latestDate>unknown</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1927-06-17</earliestDate>
-                <latestDate>1927-06-17</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Charles Lindbergh's May 1927 solo flight from New York to Paris caught the world's attention and made him an instant celebrity. Conducted on the cusp of the Great Depression and the rise of underworld crime, the flight was a shining moment for a country that was quickly heading into darkness. When the pilot's baby was kidnapped in 1932, many Americans questioned how something so heinous could happy to their hero.  Surely, if it could happen to Lindy, it could also happen to them.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
-                <refid>James G. Stahlman Autograph Collection, Lindbergh, Charles</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <display/>
-            <rights type="publicDomain">
-                <text>c. Malcolm and Hayes, New York.
-Note that this company appears to be out of business, so considered orphaned--not found in CCC, LC, or Google.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="79100565">Lindbergh, Charles A. (Charles Augustus), 1902-1974</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Breakfast in Honor of Captain Charles A. Lindbergh on the Presentation of the Raymond Orteig $25000 Dollar Prize</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300027240">Programs (documents)</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-11</earliestDate>
-                <latestDate>2015-03-11</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0412-C-Lindbergh-Honor_program_cover-June_17_1927.jpg</refid>
-                <name type="corporate" vocab="local" refid="">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital reproduction of Breakfast in Honor of Captain Charles A. Lindbergh on the Presentation of the Raymond Orteig $25000 Dollar Prize</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Malcolm and Hayes (Firm)</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1927-06-17</earliestDate>
+        <latestDate>1927-06-17</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Charles Lindbergh's May 1927 solo flight from New York to Paris caught the world's attention and made him an instant celebrity. Conducted on the cusp of the Great Depression and the rise of underworld crime, the flight was a shining moment for a country that was quickly heading into darkness. When the pilot's baby was kidnapped in 1932, many Americans questioned how something so heinous could happy to their hero.  Surely, if it could happen to Lindy, it could also happen to them.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0412, James G. Stahlman Historical Autograph Collection, Lindbergh, Charles</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <display/>
+      <rights type="publicDomain">
+        <text>c. Malcolm and Hayes, New York. Note that this company appears to be out of business, so considered orphaned--not found in CCC, LC, or Google.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="79100565">Lindbergh, Charles A. (Charles Augustus), 1902-1974</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Breakfast in Honor of Captain Charles A. Lindbergh on the Presentation of the Raymond Orteig $25000 Prize</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300027240">Programs (documents)</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-11</earliestDate>
+        <latestDate>2015-03-11</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0412-C-Lindbergh-Honor_program_cover-June_17_1927.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Breakfast in Honor of Captain Charles A. Lindbergh on the Presentation of the Raymond Orteig $25000 Prize]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

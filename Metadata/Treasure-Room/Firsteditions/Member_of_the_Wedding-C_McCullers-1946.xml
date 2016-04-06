@@ -1,0 +1,92 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 79059038">McCullers, Carson, 1917-1967</name>
+        <role>Author</role>
+        <dates>
+          <earliestDate>1917</earliestDate>
+          <latestDate>1967</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 79073908">Houghton Mifflin Company</name>
+        <role>Publisher</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1946</earliestDate>
+        <latestDate>1946</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Carson McCullers (1917-1967) wrote eight books, The Member of the Wedding being among one of the most notable. Her writing is often described as Southern Gothic and is reflective of her southern roots. This story captures a young girl's feelings at her brother's wedding. It was turned into a play and had a successful Broadway run in 1950–51. This first-edition copy has McCuller's presentation inscription to Bob [Robert Linscott, editor at Houghton Mifflin] on the title page.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Southern Civilization Collection, PS3525 .A1772 M4 1946</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Book copyright 1946. Argument for fair use - only using an image of the dust jacket.</text>
+      </rights>
+    </rightsSet>
+    <stateEditionSet>
+      <stateEdition>
+        <description>1st edition</description>
+      </stateEdition>
+    </stateEditionSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85110249">Race relations--Southern States--Fiction</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85120667">Sex role in children--Fiction</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh2011002322">Tomboys--Fiction</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>The Member of the Wedding</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028051">Books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-05-07</earliestDate>
+        <latestDate>2015-05-07</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Member_of_the_Wedding-C_McCullers-1946.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of The Member of the Wedding, Dust Jacket]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

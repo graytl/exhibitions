@@ -1,0 +1,63 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1860</earliestDate>
+        <latestDate>1869?</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>A popular element often included in Torah decoration is the Torah breastplate, as pictured here. The Torah breastplate, or Torah shield, is an ornamentation hanging over the 'neck' of the atzei chaim (חיימ      עצ tree of life), the wooden staves of the Torah scroll. This traditional Torah breastplate features a luchos (לוחות tablet) flanked by lions, symbolizing the cherubim which guarded the Ark of God. This artistically crafted sterling silver Torah breastplate is sized 5"x 6 1/2".</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="other">
+        <name type="corporate" vocab="local">Congregation Micah (Brentwood, Tn.)</name>
+        <refid>Item on loan from Congregation Micah (Brentwood, Tn.)</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="other">
+        <text>This is a 3D artifact.</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Torah Breastplate from Demopolis, Alabama]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300257080">Judaica</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+        <role>Photographer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-17</earliestDate>
+        <latestDate>2015-04-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Torah_breastplate.JPG</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Torah Breastplate from Demopolis, Alabama]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

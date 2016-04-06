@@ -1,80 +1,75 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 88079917">Detroit Photographic Co.</name>
-            </agent>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 50027955">William Henry Jackson</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1903</earliestDate>
-                <latestDate>1903</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>The three day battle in 1863 produced the greatest bloodshed of the Civil War.  Monuments, tours, and photos were produced rapidly to commemorate the fallen. The memorial cemetery opened in 1864.  John Batchelder designed this 1892 monument and wrote Gettysburg: What to See and How to See It in 1873. In 1891, Pennsylvania railroad sold tourist packages in 1891 that included Gettysburg. In 1895, Gettysburg became a National Military Park with 600 acres and 320 monuments to Federal troops.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0827</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Image published in 1903.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="local">High-water mark of the Confederacy</term>
-            </subject>
-            <subject>
-                <term vocab="LCNAF" refid="n 82115629">Soldiers’ National Cemetery (Gettysburg, Pa.)--Pictorial works</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[High Water Mark at Gettysburg, PA]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300265036">Photochroms</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-11</earliestDate>
-                <latestDate>2015-03-11</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0827-P-Gettysburg-1903.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of High Water Mark at Gettysburg, PA]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 88079917">Detroit Photographic Co.</name>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 50027955">Jackson, William Henry, 1843-1942</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1903</earliestDate>
+        <latestDate>1903</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>The three-day battle in 1863 produced the greatest bloodshed of the Civil War. Monuments, tours, and photographs were produced rapidly to commemorate the fallen. The memorial cemetery opened in 1864. John Batchelder designed this 1892 monument and wrote Gettysburg: What to See and How to See It in 1873. In 1891, the Pennsylvania Railroad sold tourist packages that included Gettysburg. In 1895, the battlefield became a National Military Park with 600 acres and 320 monuments to Federal troops.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0827, Howard Gottlieb and William H. Jackson Collection</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Image published in 1903.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 82115629">Soldiers’ National Cemetery (Gettysburg, Pa.)--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[High Water Mark at Gettysburg, PA]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300265036">Photochroms</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-11</earliestDate>
+        <latestDate>2015-03-11</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0827-P-Gettysburg-1903.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of High Water Mark at Gettysburg, PA]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

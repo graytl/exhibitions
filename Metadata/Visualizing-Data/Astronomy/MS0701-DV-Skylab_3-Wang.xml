@@ -1,0 +1,78 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 79105937">George C. Marshall Space Flight Center</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1985</earliestDate>
+        <latestDate>1985</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Spacelab was a reusable science laboratory which flew on space shuttle missions between November 1983 and April 1998. Spacelab 3 launched aboard the Challenger on April 29, 1985, and included five specialists who spent a week conducting experiments in materials sciences, life sciences, fluid mechanics, atmospheric science, and astronomy. Pictured is the Drop Dynamics Module designed and developed by (left to right) Dr. Eugene Trinh and Dr. Taylor Wang.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0701, C. Rick Chappell Papers, Box 1, Folder 05</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="undetermined">
+        <text>Published by Marshall Space Flight Center and NASA circa 1985.  Photo credits and copyright statements are not listed on the original.  Promotional material for Spacelab 3.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="n 87926326">Spacelab Program</term>
+      </subject>
+      <subject>
+        <term vocab="LCNAF" refid="no2003042436">Trinh, Eugene H.--Portraits</term>
+      </subject>
+      <subject>
+        <term vocab="LCNAF" refid="n 90651487">Wang, Taylor G., 1940---Portraits</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Spacelab 3</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300248280">Brochures</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04</earliestDate>
+        <latestDate>2015-04</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0701-DV-Skylab_3-Wang.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Spacelab 3, Image of Dr. Eugene Trinh and Dr. Taylor Wang]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

@@ -1,0 +1,76 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 79055297">Kennedy, John F. (John Fitzgerald), 1917-1963</name>
+        <dates>
+          <earliestDate>1917-05-29</earliestDate>
+          <latestDate>1963-11-22</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1954</earliestDate>
+        <latestDate>1967</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>John Fitzgerald Kennedy (1917-1963) was a congressman from Massachusetts and the thirty-fifth President of the United States. He was assassinated during a November 22, 1963, visit to Dallas, Texas. The 1954 letter from then Senator Kennedy, the 1967 First Day Cover (FDC) and a piece of the catafalque from his coffin are grouped together as relics of Kennedy and his tragic death. A catafalque is the raised platform and fabric covering that is used to hold the coffin during a memorial service. The FDC has Cardinal Richard Cushing’s signature and some sand from President Kennedy’s grave.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0412, James G. Stahlman Historical Autograph Collection</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Letter and cloth are public domain. JFK Library also says first day cover is public domain.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 79055297">Kennedy, John F. (John Fitzgerald), 1917-1963</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Letter, First Day Cover and Piece of Catafalque]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028884">Memorabilia</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-17</earliestDate>
+        <latestDate>2015-03-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0412-SC-Kennedy_Relics-1954-1967.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Letter, First Day Cover and Piece of Catafalque]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

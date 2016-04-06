@@ -1,0 +1,98 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="no2003019616">Ronco Teleproducts</name>
+        <role>Publisher</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 81097261">CBS Records (Firm)</name>
+        <role/>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n92049888">Columbia Records, Inc.</name>
+        <role/>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1974</earliestDate>
+        <latestDate>1974</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Recording companies issued “special editions” or “collector’s editions,” often just in time for the holidays. This item features a 3-D pop-up manger scene inside the cover of a Christmas album.</description>
+      <description/>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
+        <refid>Music Library, LP MUS-LP 3675</refid>
+      </location>
+      <location type="creation">
+        <name type="corporate" vocab="LCNAF" refid="n 81097261">CBS Records (Firm)</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>P 12430 Ronco Records, c1974 by CBS Records (CBS Records, 51 W. 52 Street, New York, NY). The display of this physical object constitutes a fair use as detailed in the ACRL's Code of Best Practices in Fair Use for Academic and Research Libraries.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid=""/>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title pref="true">A Christmas Gift</title>
+      <title pref="false">Ronco Presents: A Christmas Gift</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300265802">Long-playing records</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+        <role>Photographer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-17</earliestDate>
+        <latestDate>2015-04-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>20150417SG042.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85020403">Carols, English</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85025312">Christmas music</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 87003311">Popular music--1971-1980</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Digital Reproduction of A Christmas Gift, View of Nativity Scene Pop-up]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

@@ -1,0 +1,85 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 50046692">Van Vliet, Claire</name>
+        <role>Artist</role>
+        <dates>
+          <earliestDate>1933</earliestDate>
+          <latestDate>present</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 81131670">Janus Press</name>
+        <role>Publisher</role>
+        <dates>
+          <earliestDate>1955</earliestDate>
+          <latestDate>present</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1973</earliestDate>
+        <latestDate>1973</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>The influence of place has played a large role in the work of artist Claire Van Vliet, who moved to rural Vermont in 1966 and founded Janus Press. Here, Van Vliet allows viewers to create their own “landscape” by combining unbound die–cut colored Navajo paper and acetate. Artists' books often push at the boundaries of what we call a book in their structure, materials and purpose. In Earth and Sky, Van Vliet asks viewers to rethink their definition of the form.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Sevier Collection, NK8553.5 .V35 A68 1973</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright maintained by Claire Van Vliet. Fair use argument for inclusion in exhibit - only using image of front cover.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85008302">Artists' books</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Sky and Earth: Variable Landscape</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300123016">Artists' books (books)</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-05-06</earliestDate>
+        <latestDate>2015-05-06</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Sky_and_Earth-Claire_Van_Vliet-1973.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Sky and Earth: Variable Landscape, Inside View of Portfolio with Contents Fanned Out]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

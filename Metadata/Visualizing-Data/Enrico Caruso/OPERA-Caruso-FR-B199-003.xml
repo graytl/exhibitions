@@ -1,0 +1,81 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 50034771">Caruso, Enrico, 1873-1921</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1951</earliestDate>
+        <latestDate>1951</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Caruso loved to draw for his own pleasure. His caricatures of friends and other singers were first published in 1906, though this later collection dates to 1951. He was said to “throw off [the sketches] as easily as his mellifluous notes.” He often drew during interviews, as his son recalled.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0647, Francis Robinson Collection of Music, Theatre and Dance, Box 199, Folder 03</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Created before the singer's death in 1921. Matching cover art found dated 1951.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 50034771">Caruso, Enrico, 1873-1921</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh2010102944">Musicians--Caricatures and cartoons</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85122826">Singers--Caricatures and cartoons</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85000744">Actors--Caricatures and cartoons</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Caricatures by Caruso</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028051">Books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-11</earliestDate>
+        <latestDate>2015-03-11</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>OPERA-Caruso-FR-B199-003.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Caricatures by Caruso, Front Cover]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

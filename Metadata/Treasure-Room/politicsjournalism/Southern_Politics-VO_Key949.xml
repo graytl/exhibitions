@@ -1,0 +1,81 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 50045817">Key, V. O. (Valdimer Orlando), 1908-1963</name>
+        <role>Author</role>
+        <dates>
+          <earliestDate>1908-03-13</earliestDate>
+          <latestDate>1963-10-04</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 50062227">Alfred A. Knopf, Inc.</name>
+        <role>Publisher</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1949</earliestDate>
+        <latestDate>1949</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Vladimir Orlando Key’s (1908-1963) Southern Politics in State and Nation is a microscopic examination, state by state, of southern politics using interviews and statistics. The book is considered one of the most influential books on the subject. Alexander Heard (1917-2009) was a research assistant to Key and it was Heard who conducted most of the interviews used in this epic work. Heard’s original typed transcripts are available for research in Special Collections.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Southern Civilization Collection, F215 .K45 1949</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Book copyright 1949, Alfred A. Knopf Publishers. Will only be using the cover</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85125657">Southern States--Politics and government--1865-1950</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Southern Politics in State and Nation</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028051">Books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-05-07</earliestDate>
+        <latestDate>2015-05-07</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Southern_Politics-VO_Key949.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Southern politics in State and Nation, View of Front Cover]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

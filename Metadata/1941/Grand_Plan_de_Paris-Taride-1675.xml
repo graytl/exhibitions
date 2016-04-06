@@ -1,78 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 92089022">Arnoullet, Balthazar, active 16th century</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1530</earliestDate>
-                <latestDate>1530</latestDate>
-            </date>
-            <date type="publication">
-                <earliestDate>1675</earliestDate>
-                <latestDate>1675</latestDate>
-            </date>
-            </dateSet>
-        <descriptionSet>
-        <description>This 1530 map of Paris depicts key edifices of the French capital and its distinctive topographic features. Printer and cartographer Albert Jouvin Rochefort (c. 1540- c. 1710) included the map in his nine-panel1672 district map of Paris. Rochefort''s map expands on Arnoullet's, particularly in the growing urban center of Paris, where speculators were hoping to build large hotels that the narrow streets of the old city could not accommodate.</description>
-         </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>Sevier Collection/G5834 .P3 1675 .J6</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>published 1675</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="2008116531">Paris (France)--Maps</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>Paris vers 1530</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300028233">Historical maps</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-04-01</earliestDate>
-                <latestDate>2015-04-01</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>Grand_Plan_de_Paris-Taride-1675.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>Grand_Plan_de_Paris-Taride-1675.jpg</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
-    </vra>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="local">Jouvin de Rochefort, Albert, fl. 1672</name>
+        <role>Author</role>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 89669245">Bonnardot, Alfred</name>
+        <role>Cartographer</role>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="no2004085843">Taride, A.</name>
+        <role>Printer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1530</earliestDate>
+        <latestDate>1530</latestDate>
+      </date>
+      <date type="publication">
+        <earliestDate>1675</earliestDate>
+        <latestDate>1675</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>This 1530 map of Paris depicts key edifices of the French capital and its distinctive topographic features. Printer and cartographer Albert Jouvin Rochefort (c. 1540- c. 1710) included the map in his nine-panel 1672 district map of Paris. Rochefort's map expands on Arnoullet's, particularly in the growing urban center of Paris, where speculators were hoping to build large hotels that the narrow streets of the old city could not accommodate.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Sevier Oversize Collection, G5834 .P3 1675 .J6</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>published 1675</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh2008116531">Paris (France)--Maps</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title pref="true">Paris vers 1675: Grand Plan de Paris et de Ses Environs</title>
+      <title pref="false">Grand Plan de Paris et de Ses Environs</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028233">Historical maps</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-01</earliestDate>
+        <latestDate>2015-04-01</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Grand_Plan_de_Paris-Taride-1675.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Paris vers 1675: Grand Plan de Paris et de Ses Environs]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

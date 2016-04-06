@@ -1,82 +1,79 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="personal" vocab="LCNAF" refid="n 94063816">Barnard, Edward Emerson, 1857-1923</name>
-                <dates>
-                    <earliestDate>1857-12-16</earliestDate>
-                    <latestDate>1923-02-06</latestDate>
-                </dates>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1918-06-08</earliestDate>
-                <latestDate>1918-06-08</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Barnard pioneered astrophotography as well as discovering 15 comets and the first non-Galilean moon of Jupiter. His astronomical photographs were published postyhumously as A Photographic Atlas of Selected Regions of the Milky Way (1927) completed by the director of Yerkes Observatory, and Mary R. Calvert, Barnard's niece, who worked as his assistant.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-                <refid>MSS Collection 0031, Box 43, Folder 002</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Emerson died in 1923.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCSH" refid="sh 85009000">Astronomical Photography</term>
-            </subject>
-            <subject>
-                <term vocab="LCSH" refid="sh2007002390">Total solar eclipses--Pictorial works</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Total Eclipse of the Sun, June 8, 1918]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300134977">Lantern slides</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-11</earliestDate>
-                <latestDate>2015-03-11</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0031-P-Barnard-Total_Eclipse-June_8_1918.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Total Eclipse of the Sun, June 8, 1918]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 94063816">Barnard, Edward Emerson, 1857-1923</name>
+        <dates>
+          <earliestDate>1857-12-16</earliestDate>
+          <latestDate>1923-02-06</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1918-06-08</earliestDate>
+        <latestDate>1918-06-08</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Barnard pioneered astrophotography as well as discovering 15 comets and the first non-Galilean moon of Jupiter. His astronomical photographs were published posthumously as A Photographic Atlas of Selected Regions of the Milky Way (1927) completed by the director of Yerkes Observatory and Mary R. Calvert, Barnard's niece, who worked as his assistant.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0031, Edward Emerson Barnard Papers, Box 43, Folder 02</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Emerson died in 1923.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85009000">Astronomical Photography</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh2007002390">Total solar eclipses--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Total Eclipse of the Sun, June 8, 1918]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300134977">Lantern slides</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-11</earliestDate>
+        <latestDate>2015-03-11</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0031-P-Barnard-Total_Eclipse-June_8_1918.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Total Eclipse of the Sun, June 8, 1918]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

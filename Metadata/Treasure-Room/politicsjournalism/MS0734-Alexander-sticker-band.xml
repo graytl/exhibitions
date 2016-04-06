@@ -1,0 +1,70 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1982</earliestDate>
+        <latestDate>1983</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Lamar Alexander( 1940- ) ran for governor of the state of Tennessee three times; in 1974 he lost to Ray Blanton, in 1978 he handily beat Jake Butcher, and in 1982 he defeated Randy Tyree by a wide margin.  By the time of his 1982 campaign, Alexander was a popular governor with a high approval rating who was bringing in industry to the state and improving the quality of life among the citizens.  The guitar shape of this sticker refers to Tennessee’s musical heritage and Alexander’s habit of playing the piano at political gatherings.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0734, Alexander Papers, Memorabilia</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="undetermined">
+        <text>maybe by the Alexander Committee but i doubt it</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85019201">Campaign paraphernalia--Specimens</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="n 81044263">Alexander, Lamar, 1940-</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>I’m in Alexander’s Band</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300207379">Stickers</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-05-06</earliestDate>
+        <latestDate>2015-05-06</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0734-Alexander-sticker-band.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Image of Sticker, "I’m in Alexander’s Band"]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

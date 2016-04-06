@@ -1,0 +1,68 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1930</earliestDate>
+        <latestDate>1939?</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>From 1930-1933 Buber was professor of religion at the University of Frankfurt before moving to Palestine to work as professor of social philosophy at Hebrew University from 1938-1951. Along with his philosophical works, like I and Thou (1937), Buber wrote extensively on various aspects of Judaism, including Hasidism and Zionism. He collaborated with Franz Rosenzweig on a Jewish translation of the Bible</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Nahum N. Glatzer Collection, Box 6, Folder 37</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="undetermined">
+        <text>Photo is from a purchased collection. Not sure who owns the copyright.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 79081898">Buber, Martin, 1878-1965</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Portrait of Martin Buber]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt Univeristy Special Collections</name>
+        <role/>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-01</earliestDate>
+        <latestDate>2015-04-01</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>F215-Rozenzweig-06.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt Univeristy Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Portrait of Martin Buber]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

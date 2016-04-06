@@ -1,0 +1,75 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 85071104">Perkin-Elmer Corporation. Optical Group</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1972-03-30</earliestDate>
+        <latestDate>1972-03-30</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Segmented mirrors, used in an array configuration, are used in large telescopes in place of a single curved mirror. The smaller sizes of these mirrors make them easier to transport, install and maintain than traditional single-mirror telescopes.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0732, Robert O'Dell Papers, Box 6</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="undetermined">
+        <text>Perkin-Elmer Corporation is currently in business, but has undergone restructuring since this report was written. They do mention the mirrors constructed for Hubble on their timeline for the 1970s: http://www.perkinelmer.com/corporate/company/our-history/.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 85085963">Mirrors--Design and construction</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85133444">Telescopes--Design and construction</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Briefing: Active Primary Mirror System for Spaceborne Telescope</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300027268">Administrative reports</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-29</earliestDate>
+        <latestDate>2015-04-29</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0732-Segmented_Active_Mirror.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Briefing: Active Primary Mirror System for Spaceborne Telescope, Close-up Image of Segmented Active Mirror]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

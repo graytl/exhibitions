@@ -1,75 +1,72 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
-    <!-- HAS BEEN EDITED -->
-    <work>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="LCNAF" refid="n 84095984">E.A. Seemann Verlag</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>1861</earliestDate>
-                <latestDate>unknown</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <description>Architectural portraits of medieval buildings often popularize restorations. When Victor Hugo made the Cathedral famous in his novel, Notre-Dame de Paris (1831), he described a building that had been badly damaged during the French Revolution.  It was restored in the mid-nineteenth-century by architects Eugène Emmanuel Viollet-le-Duc and Jean-Baptiste Lassus. The Gallery of Kings above the portals was battered by Revolutionaries but re-installed in pristine form during the restoration.</description>
-        </descriptionSet>
-        <locationSet>
-            <location type="repository">
-                <name type="corporate" vocab="local">Vanderbilt University Library Special Collections</name>
-                <refid>MSS Collection 0483, Photo Box 2?</refid>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="publicDomain">
-                <text>Lantern Slide Series dates unknown. Publisher Seemann in Leipzig from 1861 until Allied bombing in December 1943 destroyed the firm's archives. Donor C.W. Howe obtained his Ph.D. in 1905, and was on faculty at Vanderbilt from 1927-1947. Howe died in 1960. His donated photos and lantern slides of France are all undated. His published works date to 1950; no dates or other evidence about his European travels exists in finding aid.</text>
-            </rights>
-        </rightsSet>
-        <subjectSet>
-            <subject>
-                <term vocab="LCNAF" refid="n 79081635">Notre-Dame de Paris (Cathedral)--Pictorial works</term>
-            </subject>
-        </subjectSet>
-        <titleSet>
-            <title>[Notre Dame de Paris]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300134977">Lantern Slides</worktype>
-        </worktypeSet>
-    </work>
-    <image>
-        <agentSet>
-            <agent>
-                <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date type="creation">
-                <earliestDate>2015-03-11</earliestDate>
-                <latestDate>2015-03-11</latestDate>
-            </date>
-        </dateSet>
-        <locationSet>
-            <location type="repository">
-                <refid>MS0483-P-Paris-Notre_Dame.jpg</refid>
-                <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
-            </location>
-        </locationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <text>Copyright maintained by Vanderbilt University Special Collections</text>
-            </rights>
-        </rightsSet>
-        <titleSet>
-            <title>[Digital Reproduction of Notre Dame de Paris]</title>
-        </titleSet>
-        <worktypeSet>
-            <worktype vocab="AAT" refid="300215302">Digital images</worktype>
-        </worktypeSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 84095984">E.A. Seemann Verlag</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1861</earliestDate>
+        <latestDate>1861?</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Architectural portraits of medieval buildings often popularize restorations. When Victor Hugo made the cathedral famous in his novel, Notre-Dame de Paris (1831), he described a building that had been badly damaged during the French Revolution. It was restored in the mid-nineteenth-century by architects Eugène Emmanuel Viollet-le-Duc and Jean-Baptiste Lassus. The Gallery of Kings above the portals was battered by revolutionaries but re-installed in pristine form during the Restoration.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0483, Curtis Howe Walker Papers, Photo Box 2</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Lantern Slide Series dates unknown. Publisher Seemann in Leipzig from 1861 until Allied bombing in December 1943 destroyed the firm's archives. Donor C.W. Howe obtained his Ph.D. in 1905, and was on faculty at Vanderbilt from 1927-1947. Howe died in 1960. His donated photos and lantern slides of France are all undated. His published works date to 1950; no dates or other evidence about his European travels exists in finding aid.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 79081635">Notre-Dame de Paris (Cathedral)--Pictorial works</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Notre Dame de Paris]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300134977">Lantern slides</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-11</earliestDate>
+        <latestDate>2015-03-11</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0483-P-Paris-Notre_Dame.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Notre Dame de Paris]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
 </vra>

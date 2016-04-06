@@ -1,0 +1,116 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 50031907">Coltrane, John, 1926-1967</name>
+        <role>Performer</role>
+        <dates>
+          <earliestDate>1926</earliestDate>
+          <latestDate>1967</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 81058254">Morgan, Lee, 1938-1972</name>
+        <role>Performer</role>
+        <dates>
+          <earliestDate>1938</earliestDate>
+          <latestDate>1972</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n81058241">Fuller, Curtis, 1934-</name>
+        <role>Performer</role>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n82145589">Drew, Kenny</name>
+        <role>Performer</role>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n84148412">Chambers, Paul, 1935-1969</name>
+        <role>Performer</role>
+        <dates>
+          <earliestDate>1935</earliestDate>
+          <latestDate>1969</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n82077167">Jones, Philly Joe</name>
+        <role>Performer</role>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 95016751">Blue Note (Firm)</name>
+        <role>Publisher</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <display>Reissued in 1985, originally recorded September 15, 1957.</display>
+      <date type="publication">
+        <earliestDate>1985</earliestDate>
+        <latestDate>1985</latestDate>
+      </date>
+      <date type="creation">
+        <earliestDate>1957-09-15</earliestDate>
+        <latestDate>1957-09-15</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Album cover art played an important role in the marketing of sound recordings. The pensive image of John Coltrane from the cover of Blue Train is an iconic example of the lasting power of cover art, as this image continues to speak to current and future generations of jazz enthusiasts.”</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Anne Potter Wilson Music Library</name>
+        <refid>Music Library, CD MUS-5789</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>CDP-7 46095 2 Blue Note (Hollywood, CA) - p1985. The display of this physical object constitutes a fair use as detailed in the ACRL's Code of Best Practices in Fair Use for Academic and Research Libraries.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 90002680">Jazz--1951-1960</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Blue Train: John Coltrane</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300247936">Record covers</worktype>
+      <worktype vocab="AAT" refid="300028673">Compact discs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Creative Services</name>
+        <role>Photographer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-17</earliestDate>
+        <latestDate>2015-04-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>20150417SG047.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Blue Train: John Coltrane]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

@@ -1,0 +1,72 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="local" refid="n 78030892">Christie, Manson &amp; Woods International Inc.</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1931</earliestDate>
+        <latestDate>1931</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Before the age of internet auctions, art collectors relied on print catalogs from major auction houses to discover new works for their collections or galleries.  This Christie’s catalog from 1931 provides illustrations of works to be auctioned along with background information on the artist and the period in which the work was produced.  Such catalogs are essential reference sources for art historians who are tracing the historical ownership of a work of art.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0088, Contini-Volterra Photographic Archive, Box 321</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Christie's International, PLC</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh2003009288">Auction catalogs--Specimens</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Catalogue of an Important Group of Gothic Tapestries and Embroideries from a Famous Continental Source</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300026068">Auction catalogs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-07-01</earliestDate>
+        <latestDate>2015-07-01</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0088-Christies_Catalog-BOX-321.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; use considered fair according to the ARL Code of Best Practices in Fair Use</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Catalogue of an Important Group of Gothic Tapestries and Embroideries from a Famous Continental Source, View of Front Cover]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

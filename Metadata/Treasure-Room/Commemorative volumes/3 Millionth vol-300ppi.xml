@@ -1,0 +1,76 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 81042139">Brasseur de Bourbourg, abbé, 1814-1874</name>
+        <dates>
+          <earliestDate>1814</earliestDate>
+          <latestDate>1874</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1866</earliestDate>
+        <latestDate>1866</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>This rare volume on the ruins at Palenque, a seventh-century Maya city-state in Southern Mexico, serves as an important reference for Maya language, history and culture. Waldeck added a bit of poetic license to some illustrations, depicting Maya carvings and glyphs in a style akin to Greek antiquities, and even included a fanciful Maya hieroglyph of an elephant. This was a nod to his patrons, who believed Egyptians or Babylonians had built the grand Maya cities and that Old World animals once inhabited Mesoamerica. The book was donated by Betsy Wills VU `89 and W. Ridley Wills, III in 2004 as the library’s third millionth volume.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Sevier Collection, F1435.1 .P2 B8</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>Published in 1866</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh85082409">Mayas</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Monuments Anciens du Mexique: Palenqué et Autres Ruines de L'ancienne Civilisation du Mexique</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028051">Books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-17</earliestDate>
+        <latestDate>2015-03-17</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>3_Millionth_vol-300ppi.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Monuments Anciens du Mexique: Palenqué et Autres Ruines de L'ancienne Civilisation du Mexique, View of Front Cover Alongside Lithograph from the Book]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

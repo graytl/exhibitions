@@ -1,0 +1,86 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 86013661">Bowditch, Charles P. (Charles Pickering), 1842-1921</name>
+        <dates>
+          <earliestDate>1842</earliestDate>
+          <latestDate>1921</latestDate>
+        </dates>
+      </agent>
+      <agent>
+        <name type="corporate" vocab="LCNAF" refid="n 50059133">Cambridge University Press</name>
+        <role>Publisher</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="publication">
+        <earliestDate>1910</earliestDate>
+        <latestDate>1910</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>This book describes the astronomical, and hence, calendrical, understanding of the Maya.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Libraries</name>
+        <refid>Central Library, F1435 .B781</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>This book was published in 1910.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCSH" refid="sh 94000270">Maya calendar</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85082410">Mayas--Antiquities</term>
+      </subject>
+      <subject>
+        <term vocab="LCSH" refid="sh 85093236">Maya numeration</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>Numeration, Calendar Systems and Astronomical Knowledge of the Mayas</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300028051">Books</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-29</earliestDate>
+        <latestDate>2015-04-29</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="other">
+        <refid>DV-Astonomical_Knowledge_of_the_Mayas-Bowditch-1910.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Numeration, Calendar Systems and Astronomical Knowledge of the Mayas, Page ___]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

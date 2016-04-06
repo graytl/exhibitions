@@ -1,0 +1,73 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="local">Fabry, Walden S.</name>
+        <role>Photographer</role>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1970</earliestDate>
+        <latestDate>1979?</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Professor Lou H. Silberman taught at Vanderbilt for 28 years, from 1952 through 1980, and was named Hillel Professor of Jewish Literature in 1955. He was chair of the undergraduate department of religious studies from 1970 to 1976. Besides launching the graduate department of religion and the undergraduate department of religious studies, Silberman was dedicated to strengthening the Judaica Collection during his long tenure at Vanderbilt.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>Vault, Portrait Collection Hanging File</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Courtesy of Country Music Hall of Fame® and Museum</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 79148906">Silberman, Lou H.--Portraits</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Portrait of Lou H. Silberman]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="other">
+        <earliestDate>2015-03-04</earliestDate>
+        <latestDate>2015-03-04</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Lou_H_Silberman-pa.por.sill.001.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt Univeristy Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University courtesy of the Country Music Hall of Fame® and Museum</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Portrait of Lou H.Silberman]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

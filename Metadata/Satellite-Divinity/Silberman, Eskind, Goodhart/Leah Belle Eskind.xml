@@ -1,0 +1,67 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1950</earliestDate>
+        <latestDate>1959?</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>Leah Belle Levy Eskind devoted her life to Jewish organizations such as the Council of Jewish Women and the United Jewish Appeal. Her service to the Nashville community found an appropriate commemoration in the advancement of the Judaica Collection. Her husband, Mr. Manuel Eskind, established a book fund in her memory that provided an annual gift from 1963 to 1980</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="LCNAF" refid="n 86816063">Jewish Federation of Nashville and Middle Tennessee</name>
+        <refid>Item on loan from Annette Levy Ratkin Jewish Community Archives</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="undetermined">
+        <text>Image was shared by Lynn Fleischer, Annette Levy Ratkin Jewish Community Archives. Email contactl: archives@jewishnashville.org</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="local">Eskind, Leah Belle Levy--Portraits</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Leah Belle Levy Eskind]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-13</earliestDate>
+        <latestDate>2015-03-13</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Leah_Belle_Eskind.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Leah Belle Levy Eskind]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

@@ -1,0 +1,71 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!-- HAS BEEN EDITED -->
+  <work>
+    <agentSet>
+      <agent>
+        <name type="personal" vocab="LCNAF" refid="n 80161720">Mosquera, T. C. de (Tomás Cipriano), 1798-1878</name>
+        <dates>
+          <earliestDate>1798</earliestDate>
+          <latestDate>1878</latestDate>
+        </dates>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1863-10-07</earliestDate>
+        <latestDate>1863-10-07</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>In this arguably disingenuous letter addressed to the citizenry of Colombia, Tomás Cipriano de Mosquera (1798-1878) disclaims any interest in serving as president for an additional term, and praises the qualities of another prominent figure. Despite this, Mosquera is re-elected to the presidency of Colombia and served in that position for a total of four terms.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0838, Tomás Cipriano de Mosquera Papers, Box 1</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicDomain">
+        <text>it is old and out of copyright</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>Alis Colombianos Conciudadanos</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300027237">Proclamations</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-04-29</earliestDate>
+        <latestDate>2015-04-29</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0838-SC-Mosquera-Oct_7_1863-00.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Alis Colombianos Conciudadanos]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

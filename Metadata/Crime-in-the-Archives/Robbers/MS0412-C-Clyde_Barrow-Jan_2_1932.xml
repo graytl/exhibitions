@@ -1,0 +1,67 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1932-01-02</earliestDate>
+        <latestDate>1932-01-02</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>This photograph of Clyde Barrow (1909-1934) cannot be confirmed though the writing on the back reads “Jan. 2, 1932 too much work- next time I will youse a tractor- bonnie is laughing at me- the sherrif cant shoot a dam- Clyde.” Bonnie Parker (1910-1934) enjoyed photography and took a number of photographs of Clyde and the gang. Undeveloped film was found at their hideout in Joplin, Missouri, in 1933 and given to The Joplin Globe which published the images, thus securing their fame as notorious criminals. Long before their dramatic deaths on May 23, 1934, the adventures of Bonnie and Clyde were staples of newspapers and news reels.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0412, James G. Stahlman Historical Autograph Collection, Barrow, Clyde folder</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="undetermined">
+        <text>Can not determine if this really is Clyde or who to attribute the image to.</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="n 79065767">Barrow, Clyde, 1909-1934--Portraits</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[Clyde Barrow]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2015-03-03</earliestDate>
+        <latestDate>2015-03-03</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>MS0412-C-Clyde_Barrow-Jan_2_1932.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="publicdomain">
+        <text>Public Domain</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of Clyde Barrow]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>

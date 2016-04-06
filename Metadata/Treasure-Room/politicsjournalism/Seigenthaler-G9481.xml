@@ -1,0 +1,73 @@
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/HeardLibrary/exhibitions/master/Metadata/Templates/template.css"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra.xsd">
+  <!--HAS BEEN EDITED-->
+  <work>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>1970</earliestDate>
+        <latestDate>1979</latestDate>
+      </date>
+    </dateSet>
+    <descriptionSet>
+      <description>The Nashville Tennessean editor John Seigenthaler (1927-2014) and reporters Frank Sutherland (1945- ) and Wendell “Sonny” Rawls (1941- ) stand in the reporter’s bullpen of the newspaper. Journalism in the 20th century went through tremendous changes as the ability to report on events kept pace with advancing technologies. Radio, television, the internet and now twitter and Instagram have pushed the boundaries of traditional journalism to new levels. With evermore outlets for news, well-crafted and compelling stories are still the hallmark of the journalist.</description>
+    </descriptionSet>
+    <locationSet>
+      <location type="repository">
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+        <refid>MSS0588, James D. Squires Papers, Box 2</refid>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright</text>
+      </rights>
+    </rightsSet>
+    <subjectSet>
+      <subject>
+        <term vocab="LCNAF" refid="no 95036096">Seigenthaler, John, 1927-2014--Portraits</term>
+      </subject>
+      <subject>
+        <term vocab="LCNAF" refid="n 83177136">Sutherland, Frank--Portraits</term>
+      </subject>
+      <subject>
+        <term vocab="LCNAF" refid="n 79108274">Rawls, Wendell--Portraits</term>
+      </subject>
+    </subjectSet>
+    <titleSet>
+      <title>[The Nashville Tennessean Bullpen]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300128347">Black-and-white photographs</worktype>
+    </worktypeSet>
+  </work>
+  <image>
+    <agentSet>
+      <agent>
+        <name type="corporate" vocab="local">Vanderbilt University Special Collections</name>
+      </agent>
+    </agentSet>
+    <dateSet>
+      <date type="creation">
+        <earliestDate>2010-08-06</earliestDate>
+        <latestDate>2010-08-06</latestDate>
+      </date>
+    </dateSet>
+    <locationSet>
+      <location type="repository">
+        <refid>Seigenthaler-G9481.jpg</refid>
+        <name type="corporate" vocab="local">Vanderbilt University Photographic Archives</name>
+      </location>
+    </locationSet>
+    <rightsSet>
+      <rights type="copyrighted">
+        <text>Copyright; licensed to Vanderbilt University courtesy of The Tennessean</text>
+      </rights>
+    </rightsSet>
+    <titleSet>
+      <title>[Digital Reproduction of The Nashville Tennessean Bullpen]</title>
+    </titleSet>
+    <worktypeSet>
+      <worktype vocab="AAT" refid="300215302">Digital images</worktype>
+    </worktypeSet>
+  </image>
+</vra>
